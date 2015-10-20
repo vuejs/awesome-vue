@@ -39,7 +39,7 @@
 
 ### Community
 
-- [Twitter](twitter.com/vuejs)
+- [Twitter](https://twitter.com/vuejs)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
 
