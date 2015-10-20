@@ -89,7 +89,7 @@
 
 - #### Validation
 
-  - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon
+  - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>0.12</sup>
   - [Vue validator](https://github.com/xrado/vue-validator) by @xrado
 
 - #### UI Components
