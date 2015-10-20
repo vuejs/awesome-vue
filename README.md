@@ -10,6 +10,7 @@
 > A curated list of awesome things related to Vue.js
 
 - [Official Resources](#official-resources)
+- [External Resources](#external-resources)
 - [Community](#community)
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
@@ -21,6 +22,7 @@
   - [UI Components](#ui-components)
   - [i18n](#i18n)
   - [Examples](#examples)
+  - [Boilerplates](#boilerplates)
   - [Scaffolding](#scaffolding)
   - [Integrations](#integrations)
   - [General Plugins/Directives](#general-pluginsdirectives)
@@ -36,6 +38,10 @@
 - [API Reference](http://vuejs.org/api/)
 - [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
+
+### External Resources
+
+- [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 
 ### Community
 
@@ -89,7 +95,7 @@
 
 - #### Validation
 
-  - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon
+  - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>0.12</sup>
   - [Vue validator](https://github.com/xrado/vue-validator) by @xrado
 
 - #### UI Components
@@ -116,6 +122,10 @@
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
   - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
   - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
+  - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
+
+- #### Boilerplates
+  - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
 
 - #### Scaffolding
 
