@@ -54,8 +54,8 @@
 > Most of the following tutorials are for the 0.12 version. For now the best resource for 1.0 is the official guide. It would be **awesome*- if you write a new tutorial for 1.0!
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vuejs) on Laracasts <sup>0.12</sup>
-- [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) on Scotch.io <sup>0.12</sup> 
-- [Getting Started with Vue.js](http://www.sitepoint.com/getting-started-with-vue-js/) on Sitepoint <sup>0.12</sup> 
+- [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) on Scotch.io <sup>0.12</sup>
+- [Getting Started with Vue.js](http://www.sitepoint.com/getting-started-with-vue-js/) on Sitepoint <sup>0.12</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>0.12</sup>
 - [Vue.js video series in portuguese](http://forum.vuejs.org/topic/49/vue-js-video-series-in-portuguese) <sup>0.12</sup>
 - [A Quick Introduction to Vue.js](http://mattsparks.com/a-quick-introduction-to-vue-js/) by Matt Sparks <sup>0.12</sup>
@@ -83,7 +83,7 @@
   - [Vue route](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
 
 - #### Ajax/Data
-  
+
   - [vue-resource](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
   - [vue-async-data](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
 
@@ -109,18 +109,19 @@
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
-  - [vue-i18n](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the 
+  - [vue-i18n](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the
 
 - #### Examples
-  
+
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
   - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
   - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
 
 - #### Scaffolding
 
-  - [Vue generator](https://github.com/BirdEggegg/generator-vue), a simple yeoman generator for Vue by @BirdEggegg
+  - [Vue generator](https://github.com/BirdEggegg/generator-vue): a simple yeoman generator for Vue by @BirdEggegg
   - [VENM stack yeoman generator](https://github.com/jfelsinger/generator-venm) by @jfelsinger
+  - [Grail Yeoman Generator](https://github.com/mustardamus/generator-grail): a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
 
 - #### Integrations
 
@@ -166,7 +167,7 @@
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
 
 - #### Interactive Experiences
-  
+
   - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
   - [Omnisense Experience](http://omnisense.net) - *Awwwards & FWA SOTD, FWA Cutting Edge. Awwwards SOTM nominee.*
   - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
