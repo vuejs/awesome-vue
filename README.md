@@ -10,6 +10,7 @@
 > A curated list of awesome things related to Vue.js
 
 - [Official Resources](#official-resources)
+- [External Resources](#external-resources)
 - [Community](#community)
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
@@ -37,6 +38,10 @@
 - [API Reference](http://vuejs.org/api/)
 - [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
+
+### External Resources
+
+- [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 
 ### Community
 
