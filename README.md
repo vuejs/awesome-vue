@@ -1,4 +1,11 @@
-# Awesome Vue.js
+<p align="center">
+  <br>
+  <img width="400" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" alt="awesome">
+  <br>
+  <br>
+</p>
+
+## Awesome Vue.js
 
 > A curated list of awesome things related to Vue.js
 
