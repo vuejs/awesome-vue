@@ -21,6 +21,7 @@
   - [UI Components](#ui-components)
   - [i18n](#i18n)
   - [Examples](#examples)
+  - [Boilerplates](#boilerplates)
   - [Scaffolding](#scaffolding)
   - [Integrations](#integrations)
   - [General Plugins/Directives](#general-pluginsdirectives)
@@ -117,6 +118,9 @@
   - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
   - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
   - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
+
+- #### Boilerplates
+  - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
 
 - #### Scaffolding
 
