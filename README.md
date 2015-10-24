@@ -194,6 +194,7 @@
 
   - Alibaba
   - Baidu
+  - Sina Weibo
   - Ele.me
   - Optimizely
   - Expedia
