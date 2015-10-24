@@ -99,6 +99,7 @@
 
   - [vue-validator](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>0.12</sup>
   - [Vue validator](https://github.com/xrado/vue-validator) by @xrado
+  - [vue-form](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
 
 - #### UI Components
 
