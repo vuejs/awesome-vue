@@ -169,6 +169,7 @@
 
 - #### Apps/Websites
 
+  - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
