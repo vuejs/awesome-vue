@@ -59,7 +59,7 @@
 
 > Most of the following tutorials are for the 0.12 version. For now the best resource for 1.0 is the official guide. It would be **awesome*- if you write a new tutorial for 1.0!
 
-- [Vue.js screencasts](https://laracasts.com/series/learning-vuejs) on Laracasts <sup>0.12</sup>
+- [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts <sup>1.0, [0.12](https://laracasts.com/series/learning-vuejs)</sup>
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) on Scotch.io <sup>0.12</sup>
 - [Getting Started with Vue.js](http://www.sitepoint.com/getting-started-with-vue-js/) on Sitepoint <sup>0.12</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>0.12</sup>
