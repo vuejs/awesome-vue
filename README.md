@@ -115,6 +115,7 @@
   - [vue-datetime-picker](https://github.com/Haixing-Hu/vue-datetime-picker): A Vue.js component implementing the datetime picker control using the [Eonasdan's bootstrap datetime picker plugin](https://github.com/Eonasdan/bootstrap-datetimepicker). By @Haixing-Hu
   - [vue-country-select](https://github.com/Haixing-Hu/vue-country-select): A Vue.js component implementing the select control used to select countries. It depends on [vue-select](https://github.com/Haixing-Hu/vue-select) and [vue-i18n](https://github.com/Haixing-Hu/vue-i18n). By @Haixing-Hu
   - [Form generation from JSON Schema](https://github.com/dgerber/vue-select-js) by @dgerber
+  - [vue-panel](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
 
 - #### i18n
 
