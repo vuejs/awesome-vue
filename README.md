@@ -167,7 +167,7 @@
   - [Laravel Spark](https://github.com/laravel/spark)
   - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup>
   - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup>
-  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](http://npmcharts.com/)</sup>
+  - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup>
   - [Todolist](https://github.com/jiyinyiyong/todolist) by @jiyinyiyong
   - [Dashboard framework](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
 
