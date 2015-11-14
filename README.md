@@ -57,18 +57,23 @@
 
 ### Tutorials
 
-> Most of the following tutorials are for the 0.12 version. For now the best resource for 1.0 is the official guide. It would be **awesome*- if you write a new tutorial for 1.0!
+#### 1.0
 
-- [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts <sup>1.0, [0.12](https://laracasts.com/series/learning-vuejs)</sup>
+- [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts <sup>1.0</sup>
+- [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scoth.io <sup>1.0</sup>
+- [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
+
+#### 0.12 and earlier
+
+- [Vue.js screencasts](https://laracasts.com/series/learning-vuejs) on Laracasts <sup>0.12</sup>
 - [Build an App with Vue.js](https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs) on Scotch.io <sup>0.12</sup>
 - [Getting Started with Vue.js](http://www.sitepoint.com/getting-started-with-vue-js/) on Sitepoint <sup>0.12</sup>
-- [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>0.12</sup>
 - [Vue.js video series in portuguese](http://forum.vuejs.org/topic/49/vue-js-video-series-in-portuguese) <sup>0.12</sup>
 - [Vue.js video series in russian](http://ausite.ru/category/js/vue-js) on Ausite <sup>0.12</sup>
 - [A Quick Introduction to Vue.js](http://mattsparks.com/a-quick-introduction-to-vue-js/) by Matt Sparks <sup>0.12</sup>
 - [Getting Started with Vue.js + vue-router](https://www.youtube.com/watch?v=QN7l3ydXvx0) by Michael Calkins <sup>0.12</sup>
-- [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
+- [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 
 ### Tools
 
