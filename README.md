@@ -170,6 +170,7 @@
   - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup>
   - [Todolist](https://github.com/jiyinyiyong/todolist) by @jiyinyiyong
   - [Dashboard framework](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
+  - [a simple notepad](https://github.com/sapjax/fewords)
 
 - #### Apps/Websites
 
