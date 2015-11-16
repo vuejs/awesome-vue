@@ -176,6 +176,7 @@
   - [Todolist](https://github.com/jiyinyiyong/todolist) by @jiyinyiyong
   - [Dashboard framework](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
   - [a simple notepad](https://github.com/sapjax/fewords)
+  - [FilterBlend](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
 
 - #### Apps/Websites
 
