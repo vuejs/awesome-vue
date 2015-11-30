@@ -60,6 +60,7 @@
 #### 1.0
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts <sup>1.0</sup>
+- [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog <sup>1.0</sup>
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io <sup>1.0</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
 
