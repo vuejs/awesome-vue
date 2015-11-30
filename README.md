@@ -108,7 +108,7 @@
 
 - #### UI Components
 
-  - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>0.12</sup>
+  - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
   - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
   - [vue-mdl](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
   - [Vue Tag Editor Component](https://github.com/hnakamur/vue.tag-editor.js) by @hnakamur
