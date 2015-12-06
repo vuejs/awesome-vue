@@ -19,6 +19,7 @@
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
+  - [State Management](#state-management)
   - [Validation](#validation)
   - [UI Components](#ui-components)
   - [i18n](#i18n)
@@ -107,6 +108,12 @@
 
   - [vue-resource](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
   - [vue-async-data](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
+
+- #### State Management
+
+  - [vuex](https://github.com/vuejs/vuex) - Flux/Redux inspired application architecture for Vue.js.
+  - [revue](https://github.com/egoist/revue) - Redux binding for Vue by @egoist
+  - [vue-redux](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
 
 - #### Validation
 
