@@ -12,6 +12,7 @@
 - [Official Resources](#official-resources)
 - [External Resources](#external-resources)
 - [Community](#community)
+- [Podcasts](#podcasts)
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
@@ -48,6 +49,12 @@
 - [Twitter](https://twitter.com/vuejs)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
+
+### Podcasts
+
+- [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
+- [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
+- [Changelog #184 (11-27-2015)](https://changelog.com/184/)
 
 ### Official Examples
 
