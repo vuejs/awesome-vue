@@ -159,6 +159,7 @@
   - [VENM stack yeoman generator](https://github.com/jfelsinger/generator-venm) by @jfelsinger
   - [Grail Yeoman Generator](https://github.com/mustardamus/generator-grail): a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
   - [VuePack](https://github.com/egoist/vuepack): A modern starter for Vue and Webpack by @egoist
+  - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
 
 - #### Integrations
 
