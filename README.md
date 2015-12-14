@@ -194,6 +194,7 @@
   - [Dashboard framework](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
   - [a simple notepad](https://github.com/sapjax/fewords)
   - [FilterBlend](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
+  - [Koel](http://koel.phanan.net): Music streaming server
 
 - #### Apps/Websites
 
