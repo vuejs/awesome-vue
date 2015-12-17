@@ -104,6 +104,7 @@
   - [Vue page](https://github.com/AlexToudic/vue-page), a routing system based on pagejs by @AlexToudic
   - [Vue Lanes](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
   - [Vue route](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
+  - [voie](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router <sup>1.0</sup>
 
 - #### Ajax/Data
 
