@@ -182,6 +182,7 @@
   - [vue-format](https://github.com/Haixing-Hu/vue-format): A plugin providing a global filter and an instance method used to format messages with arguments.  By @Haixing-Hu
   application.  By @Haixing-Hu
   - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
+  - [vue-focus](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
 
 ### Projects Using Vue.js
 
