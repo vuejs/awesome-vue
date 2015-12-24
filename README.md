@@ -96,10 +96,11 @@
 
 ### Syntax Highlighting
 
-- [Vue Syntax Highlighting for Sublime Text](https://github.com/vuejs/vue-syntax-highlight)
-- [Vue Syntax Highlighting for Atom](https://atom.io/packages/language-vue-component) by @CYBAI
-- [Vue Syntax Highlighting for Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
-- [Vue Syntax Highlighting for Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
+- [Sublime Text](https://github.com/vuejs/vue-syntax-highlight)
+- [Atom](https://atom.io/packages/language-vue) by @hedefalk
+- [Atom (2)](https://atom.io/packages/language-vue-component) by @CYBAI
+- [Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
+- [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 
 ### Libraries & Plugins
 
