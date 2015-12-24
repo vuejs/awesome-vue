@@ -15,7 +15,8 @@
 - [Podcasts](#podcasts)
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
-- [Tools](#tools)
+- [Development Tools](#development-tools)
+- [Syntax Hihglighting](#syntax-highlighting)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -84,15 +85,20 @@
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
 
-### Tools
+### Development Tools
 
 - [vue-loader](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
   - [vue-loader-example](https://github.com/vuejs/vue-loader-example)
 - [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+
+### Syntax Highlighting
+
 - [Vue Syntax Highlighting for Sublime Text](https://github.com/vuejs/vue-syntax-highlight)
 - [Vue Syntax Highlighting for Atom](https://atom.io/packages/language-vue-component) by @CYBAI
+- [Vue Syntax Highlighting for Vim](https://github.com/posva/vim-vue) by @darthmall and @posva
+- [Vue Syntax Highlighting for Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 
 ### Libraries & Plugins
 
