@@ -177,6 +177,10 @@
   - [Vue for Meteor](https://github.com/zhouzhuojie/meteor-vue) by @zhouzhuojie
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
 
+- #### Platforms
+
+  - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
+
 - #### General Plugins/Directives
 
   - [vue-element](https://github.com/vuejs/vue-element): Register real custom elements with Vue.
