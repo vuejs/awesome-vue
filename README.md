@@ -88,6 +88,7 @@
 
 ### Development Tools
 
+- [vue-cli](https://github.com/vues/vue-cli): official CLI for scaffolding Vue.js projects.
 - [vue-loader](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
   - [vue-loader-example](https://github.com/vuejs/vue-loader-example)
 - [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
@@ -165,7 +166,8 @@
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
 
 - #### Scaffolding
-
+  
+  - [vue-cli](https://github.com/vues/vue-cli): official CLI for scaffolding Vue.js projects.
   - [Vue generator](https://github.com/BirdEggegg/generator-vue): a simple yeoman generator for Vue by @BirdEggegg
   - [VENM stack yeoman generator](https://github.com/jfelsinger/generator-venm) by @jfelsinger
   - [Grail Yeoman Generator](https://github.com/mustardamus/generator-grail): a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
