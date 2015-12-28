@@ -147,6 +147,7 @@
   - [Form generation from JSON Schema](https://github.com/dgerber/vue-formidable) by @dgerber
   - [vue-panel](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
   - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc 
+  - [vue-transition](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
 
 - #### i18n
 
