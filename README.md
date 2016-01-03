@@ -75,6 +75,7 @@
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io <sup>1.0</sup>
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
 - [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
+- [Vuex basics: Tutorial and explanation](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
 
 #### 0.12 and earlier
 
