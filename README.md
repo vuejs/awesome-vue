@@ -229,6 +229,7 @@
   - [Portfolio Site](http://corentinbac.com/) by Corentin Bac
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
   - [Grammarly](https://grammarly.com/) mistake-free writing service
+  - [划词翻译](https://github.com/lmk123/crx-selection-translate) 顾名思义的 Chrome 扩展
 
 - #### Interactive Experiences
 
