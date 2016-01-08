@@ -16,7 +16,7 @@
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
-- [Syntax Hihglighting](#syntax-highlighting)
+- [Syntax Highlighting](#syntax-highlighting)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
