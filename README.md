@@ -169,6 +169,7 @@
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
+  - [Boilerplate for Vue.js & Atom Electron ](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
 
 - #### Scaffolding
   
