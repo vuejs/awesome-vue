@@ -182,10 +182,10 @@
 
 - #### Integrations
 
-  - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
   - [Vue for Meteor](https://github.com/zhouzhuojie/meteor-vue) by @zhouzhuojie
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
+  - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
 
 - #### General Plugins/Directives
 
