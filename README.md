@@ -214,6 +214,7 @@
   - [a simple notepad](https://github.com/sapjax/fewords)
   - [FilterBlend](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
   - [Koel](http://koel.phanan.net): Music streaming server
+  - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
 
 - #### Apps/Websites
 
@@ -229,7 +230,6 @@
   - [Portfolio Site](http://corentinbac.com/) by Corentin Bac
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
   - [Grammarly](https://grammarly.com/) mistake-free writing service
-  - [划词翻译](https://github.com/lmk123/crx-selection-translate) 顾名思义的 Chrome 扩展
 
 - #### Interactive Experiences
 
