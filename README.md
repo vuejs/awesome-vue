@@ -204,6 +204,7 @@
   application.  By @Haixing-Hu
   - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
   - [vue-focus](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
+  - [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
 
 ### Projects Using Vue.js
 
