@@ -136,7 +136,7 @@
   - [vue-form](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
 
 - #### UI Components
-  
+
   - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
   - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
   - [vue-mdl](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
@@ -150,11 +150,12 @@
   - [vue-country-select](https://github.com/Haixing-Hu/vue-country-select): A Vue.js component implementing the select control used to select countries. It depends on [vue-select](https://github.com/Haixing-Hu/vue-select) and [vue-i18n](https://github.com/Haixing-Hu/vue-i18n). By @Haixing-Hu
   - [Form generation from JSON Schema](https://github.com/dgerber/vue-formidable) by @dgerber
   - [vue-panel](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
-  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc 
+  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
   - [vue-transition](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
   - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
   - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
   - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
+  - [Vue YouTube Embed](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
 
 - #### i18n
 
@@ -175,7 +176,7 @@
   - [Boilerplate for Vue.js & Atom Electron ](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
 
 - #### Scaffolding
-  
+
   - [vue-cli](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
   - [Vue generator](https://github.com/BirdEggegg/generator-vue): a simple yeoman generator for Vue by @BirdEggegg
   - [VENM stack yeoman generator](https://github.com/jfelsinger/generator-venm) by @jfelsinger
@@ -189,6 +190,7 @@
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
+  - [Vue Proerty Decorator](https://github.com/kaorun343/vue-property-decorator): Property Decorators fro Vue.js by @kaorun343
 
 - #### General Plugins/Directives
 
