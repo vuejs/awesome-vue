@@ -156,7 +156,7 @@
   - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
   - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
   - [Vue YouTube Embed](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
-
+  - [Vue datepicker](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
