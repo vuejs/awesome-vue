@@ -76,6 +76,7 @@
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit <sup>1.0</sup>
 - [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
 - [Vuex basics: Tutorial and explanation](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
+- [Vue.js 中文系列视频教程](https://laravist.com/series/vue-js-1-0-in-action-series) on Laravist <sup>1.0</sup>
 
 #### 0.12 and earlier
 
@@ -239,6 +240,7 @@
   - [Portfolio Site](http://corentinbac.com/) by Corentin Bac
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
   - [Grammarly](https://grammarly.com/) mistake-free writing service
+  - [Laravist](https://laravist.com/)
 
 - #### Interactive Experiences
 
