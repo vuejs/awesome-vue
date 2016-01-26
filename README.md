@@ -159,6 +159,8 @@
   - [Vue YouTube Embed](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
   - [Vue datepicker](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
+  - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
+
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
@@ -227,6 +229,7 @@
   - [Koel](http://koel.phanan.net): Music streaming server
   - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
+  - [RSS Reader](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
 
 - #### Apps/Websites
 
