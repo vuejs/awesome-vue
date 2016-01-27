@@ -98,6 +98,7 @@
 - [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+- [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
 
 ### Syntax Highlighting
 
