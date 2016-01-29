@@ -161,6 +161,7 @@
   - [Vue datepicker](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
+  - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
 
 - #### i18n
 
