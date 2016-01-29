@@ -161,6 +161,7 @@
   - [Vue datepicker](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
+  - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
 
 - #### i18n
 
