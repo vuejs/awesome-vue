@@ -249,7 +249,7 @@
   - [Compare Prices by Currys & PCWorld](https://play.google.com/store/apps/details?id=uk.co.dixons.compareprices&hl=en)
   - [Grammarly](https://grammarly.com/) mistake-free writing service
   - [Laravist](https://laravist.com/)
-  - [Atiiv](https://www.atiiv.com) An app aimed for personal trainers and their clients.
+  - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
 
 - #### Interactive Experiences
 
