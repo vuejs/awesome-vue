@@ -215,6 +215,7 @@
   - [vue-focus](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
   - [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
   - [vue-lazyload](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
+  - [v-touch](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
 
 ### Projects Using Vue.js
 
