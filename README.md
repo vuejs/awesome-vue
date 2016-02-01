@@ -202,7 +202,7 @@
 - #### General Plugins/Directives
 
   - [vue-element](https://github.com/vuejs/vue-element): Register real custom elements with Vue.
-  - [vue-touch](https://github.com/vuejs/vue-touch): Hammer.js wrapper directives for touch gestures. <sup>outdated</sup>
+  - [vue-touch](https://github.com/vuejs/vue-touch): Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
   - [Vue placeholder directives](https://github.com/lithiumjake/vue-placeholders) by @lithiumjake
   - [Vue in viewport detection directive](https://github.com/holic/vue-viewport) by @holic
   - [Vue once directive](https://github.com/kewah/vue-once) by @kewah
