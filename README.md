@@ -165,6 +165,7 @@
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
+  - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
 
 - #### i18n
 
