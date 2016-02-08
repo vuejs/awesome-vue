@@ -101,6 +101,7 @@
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
 - [vue-compiler](https://github.com/paulpflug/vue-compiler) A simple CLI wrapper around vueify
+- [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 
 ### Syntax Highlighting
 
