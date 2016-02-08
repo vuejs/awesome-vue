@@ -100,6 +100,7 @@
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
+- [vue-compiler](https://github.com/paulpflug/vue-compiler) A simple CLI wrapper around vueify
 
 ### Syntax Highlighting
 
@@ -165,6 +166,7 @@
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
+  - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
 
 - #### i18n
 
@@ -218,6 +220,7 @@
   - [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
   - [vue-lazyload](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
   - [v-touch](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
+  - [vue-mixins](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
 
 ### Projects Using Vue.js
 
