@@ -218,6 +218,7 @@
   - [vue-transfer-dom](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
   - [vue-lazyload](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
   - [v-touch](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
+  - [vue-mixins](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
 
 ### Projects Using Vue.js
 
