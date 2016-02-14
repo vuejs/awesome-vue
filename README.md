@@ -142,7 +142,7 @@
   - [vue-form](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
 
 - #### UI Components
-
+  - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue), Declarative Famous with Vue
   - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
   - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
   - [vue-mdl](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
