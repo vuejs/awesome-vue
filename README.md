@@ -170,6 +170,8 @@
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
   - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
   - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
+  - [vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
+  
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
