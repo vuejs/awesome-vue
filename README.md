@@ -171,6 +171,7 @@
   - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
   - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
+  - [vue-charts](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
   
 - #### i18n
 
