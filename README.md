@@ -78,6 +78,7 @@
 - [Vue.js 中文系列视频教程](https://laravist.com/series/vue-js-1-0-in-action-series) on Laravist
 - [Vue.js: The Basics](http://coligo.io/vuejs-the-basics/) on Coligo.io
 - [Practical Intro to Components in Vue.js](http://coligo.io/vuejs-components) on Coligo.io
+- [http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/](Develop a Reactive Invoice App using Vue.js) on craigmckenna.com
 
 #### 0.12 and earlier
 
