@@ -79,6 +79,7 @@
 - [Vue.js: The Basics](http://coligo.io/vuejs-the-basics/) on Coligo.io
 - [Practical Intro to Components in Vue.js](http://coligo.io/vuejs-components) on Coligo.io
 - [Develop a Reactive Invoice App using Vue.js](http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/) on craigmckenna.com
+- [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
 
 #### 0.12 and earlier
 
