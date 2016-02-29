@@ -80,7 +80,7 @@
 - [Practical Intro to Components in Vue.js](http://coligo.io/vuejs-components) on Coligo.io
 - [Develop a Reactive Invoice App using Vue.js](http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/) on craigmckenna.com
 - [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
-- [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by Vedovelli @vedovelli
+- [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
 
 #### 0.12 and earlier
 
@@ -93,7 +93,6 @@
 - [Getting Started with Vue.js + vue-router](https://www.youtube.com/watch?v=QN7l3ydXvx0) by Michael Calkins <sup>0.12</sup>
 - [Many JS Frameworks but Vue.js Is Different](http://taha-sh.com/blog/many-js-frameworks-but-vuejs-is-different) by Taha Shashtari <sup>0.12</sup>
 - [Getting Started with Vue.js - AngularJS perspective](http://fadeit.dk/blog/post/getting-started-with-vuejs-angularjs-perspective) by Dan Mindru <sup>0.11</sup>
-
 
 ### Development Tools
 
