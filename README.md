@@ -82,6 +82,7 @@
 - [Develop a Reactive Invoice App using Vue.js](http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/) on craigmckenna.com
 - [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
 - [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
+- [Creating a Markdown Editor with VueJs and GitHub's API](http://coligo.io/markdown-editor-vuejs/) on Coligo.io
 
 #### 0.12 and earlier
 
