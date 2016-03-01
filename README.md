@@ -108,6 +108,7 @@
 - [vue-compiler](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
+- [vue-cli](https://github.com/rodzzlessa24/vue-cli) - CLI tool for scaffolding new projects generating components, services, and mixins
 
 ### Syntax Highlighting
 
