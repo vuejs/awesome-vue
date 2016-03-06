@@ -303,6 +303,7 @@
   - UCWeb
   - Line
   - Nintendo
+  - Celtra
 
 ## License
 
