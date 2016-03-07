@@ -180,6 +180,7 @@
   - [vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
   - [vue-resize-handle](https://github.com/paulpflug/vue-resize-handle): Resize elements by dragging / uni and bidirectional
+  - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
 
 - #### i18n
 
