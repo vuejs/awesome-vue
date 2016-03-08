@@ -110,6 +110,7 @@
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
 - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
 - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
+- [brunch-vue](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
 
 ### Syntax Highlighting
 
@@ -211,6 +212,7 @@
   - [VueWebgulp](https://github.com/rodzzlessa24/vue-webgulp): A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
   - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
   - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
+  - [Brunch with Vue](https://github.com/nblackburn/brunch-with-vue) - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
 
 - #### Integrations
 
