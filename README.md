@@ -182,6 +182,7 @@
   - [vue-charts](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
   - [vue-resize-handle](https://github.com/paulpflug/vue-resize-handle): Resize elements by dragging / uni and bidirectional
   - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
+  - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
 
 - #### i18n
 
