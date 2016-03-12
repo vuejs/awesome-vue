@@ -265,6 +265,7 @@
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
   - [RSS Reader](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
   - [Gokotta](https://github.com/Zhangdroid/Gokotta): A simple music player built by electron and vue.
+  - [Coffeebreak](https://github.com/Kocisov/coffeebreak) Tool for live editing CSS components
 
 - #### Apps/Websites
 
