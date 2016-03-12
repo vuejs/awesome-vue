@@ -183,6 +183,7 @@
   - [vue-resize-handle](https://github.com/paulpflug/vue-resize-handle): Resize elements by dragging / uni and bidirectional
   - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
   - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
+  - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
 
 - #### i18n
 
