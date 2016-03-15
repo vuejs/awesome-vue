@@ -274,6 +274,7 @@
 
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
+  - [Sainsbury's Entertainment onboarding platform](https://register.sainsburysentertainment.co.uk/)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
   - [N1.ru](http://n1.ru)
@@ -315,6 +316,7 @@
   - Line
   - Nintendo
   - Celtra
+  - Sainsbury's
 
 ## License
 
