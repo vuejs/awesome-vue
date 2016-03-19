@@ -225,7 +225,7 @@
   - [ScalaJS bindings for Vue.js](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
-  - [Vue Proerty Decorator](https://github.com/kaorun343/vue-property-decorator): Property Decorators fro Vue.js by @kaorun343
+  - [Vue Proerty Decorator](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
 
 - #### General Plugins/Directives
 
@@ -250,6 +250,7 @@
   - [vue-round-filter](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
   - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
+  - [vue-deepstream](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
 
 ### Projects Using Vue.js
 
@@ -318,6 +319,7 @@
   - Nintendo
   - Celtra
   - Sainsbury's
+  - [AREX](arex.io)
 
 ## License
 
