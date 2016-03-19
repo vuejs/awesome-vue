@@ -144,6 +144,7 @@
   - [vuex](https://github.com/vuejs/vuex) - Flux/Redux inspired application architecture for Vue.js.
   - [revue](https://github.com/egoist/revue) - Redux binding for Vue by @egoist
   - [vue-redux](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
+  - [vue-freeze](https://github.com/BosNaufal/vue-freeze) - Simple state management and Immutability for Vue by [@BosNaufal](https://github.com/BosNaufal)
 
 - #### Validation
 
@@ -178,6 +179,7 @@
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
+  - [vue-loading-bar](https://github.com/BosNaufal/vue-loading-bar): Youtube Like Loading Bar Component for Vue.js by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
   - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
@@ -186,6 +188,7 @@
   - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
   - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
   - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
+  - [vue-autocomplete](https://github.com/BosNaufal/vue-autocomplete): Autocomplete Component for Vue.Js by [@BosNaufal](https://github.com/BosNaufal)
 
 - #### i18n
 
@@ -250,6 +253,8 @@
   - [vue-round-filter](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
   - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
+  - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input): Vue directive to make a calculator input behavior for Vue.Js by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-readable-number](https://github.com/BosNaufal/vue-readable-number): Vue Filter to make an integer become readable and vice versa for Vue by [@BosNaufal](https://github.com/BosNaufal)
 
 ### Projects Using Vue.js
 
