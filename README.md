@@ -17,6 +17,7 @@
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
 - [Syntax Highlighting](#syntax-highlighting)
+- [Snippets](#snippets)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -123,6 +124,10 @@
 - [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets](https://github.com/pandao/brackets-vue) by @pandao
 - [IntelliJ IDEA / WebStorm](https://github.com/henjue/vue-for-idea) by @henjue
+
+### Snippets
+
+- [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 
 ### Libraries & Plugins
 
