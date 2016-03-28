@@ -328,7 +328,7 @@
   - Nintendo
   - Celtra
   - Sainsbury's
-  - [AREX](arex.io)
+  - [AREX](https://arex.io/)
 
 ## License
 
