@@ -67,6 +67,9 @@
   - [CoffeeScript Version](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [Vue.js HackerNews Clone](https://github.com/vuejs/vue-hackernews)
 
+### Unofficial Examples
+- [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) - Mini Online Shop Built With Vue JS by [@BosNaufal](https://github.com/BosNaufal/)
+
 ### Tutorials
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vue-step-by-step) on Laracasts
