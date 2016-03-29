@@ -259,6 +259,7 @@
   - [vue-paginate](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
   - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
   - [vue-deepstream](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
+  - [vue-plain](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
 
 ### Projects Using Vue.js
 
