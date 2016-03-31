@@ -314,6 +314,7 @@
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
+  - [CheckIt](https://github.com/julesbou/checkit)
 
 - #### Interactive Experiences
 
