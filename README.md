@@ -151,6 +151,8 @@
   - [vuex](https://github.com/vuejs/vuex) - Flux/Redux inspired application architecture for Vue.js.
   - [revue](https://github.com/egoist/revue) - Redux binding for Vue by @egoist
   - [vue-redux](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
+  - [vue-freeze](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-simple-store](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
 
 - #### Validation
 
@@ -197,6 +199,9 @@
   - [vue-pagenav](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
   - [Vue-calendar](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by cucygh
   - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
+  - [vue-autocomplete](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-loading-bar](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
+
 
 - #### i18n
 
@@ -213,6 +218,7 @@
   - [Electron + Vue example](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie)](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
   - [Begin - Task Manager SPA written in Vue + Lumen](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
+  - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin ](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -263,6 +269,8 @@
   - [vue-super](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
   - [vue-deepstream](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
   - [vue-plain](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
+  - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
 
 ### Projects Using Vue.js
 
