@@ -281,7 +281,6 @@
 - #### Open Source
 
   - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup>
-  - [Laravel Spark](https://github.com/laravel/spark)
   - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup>
   - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup>
   - [npmcharts.com](http://npmcharts.com) <sup>[[Source]](https://github.com/cheapsteak/npmcharts.com)</sup>
