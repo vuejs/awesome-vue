@@ -276,6 +276,10 @@
   - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-animate](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
 
+- #### Talks
+
+  - [Vue unit tests](http://www.slideshare.net/coulix/vuejs-testing) by [coulix](https://github.com/coulix)
+
 ### Projects Using Vue.js
 
 - #### Open Source
