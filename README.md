@@ -276,6 +276,7 @@
   - [vue-calc-input](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-animate](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
+  - [vue-sortable](https://github.com/sagalbot/vue-sortable): A lightweight directive for reorderable drag-and-drop lists using [RubaXa/Sortable](https://github.com/RubaXa/Sortable). By [@sagalbot](https://github.com/sagalbot)
 
 - #### Talks
 
