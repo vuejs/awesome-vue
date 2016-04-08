@@ -137,7 +137,6 @@
 - #### Routing
 
   - [vue-router](https://github.com/vuejs/vue-router) - Official router for building SPAs. <sup>1.0 compatible</sup>
-  - [Vue view](https://github.com/molforp/vue-view), ui-router inspired routes (with states), based on pagejs by @molforp
   - [Vue page](https://github.com/AlexToudic/vue-page), a routing system based on pagejs by @AlexToudic
   - [Vue Lanes](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
   - [Vue route](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
