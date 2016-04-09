@@ -107,7 +107,7 @@
 - [vue-cli](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
 - [vue-loader](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
   - [vue-loader-example](https://github.com/vuejs/vue-loader-example)
-- [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
+- [vueify](https://github.com/vuejs/vueify) - Vue compcomponent transform for Browserify.
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
@@ -203,6 +203,7 @@
   - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
   - [vue-autocomplete](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-loading-bar](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-bootstrap-modal](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
 
 
 - #### i18n
@@ -276,6 +277,7 @@
   - [vue-move-dom](https://github.com/BosNaufal/vue-move-dom) Vue Directive to move the DOM without losing all the VM data, event, etc. by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-animate](https://github.com/haydenbbickerton/vue-animate): Use [Animate.css](https://github.com/daneden/animate.css "Animate.css") with Vue.js transitions. By [@haydenbbickerton](https://github.com/haydenbbickerton)
   - [vue-sortable](https://github.com/sagalbot/vue-sortable): A lightweight directive for reorderable drag-and-drop lists using [RubaXa/Sortable](https://github.com/RubaXa/Sortable). By [@sagalbot](https://github.com/sagalbot)
+  - [vue-loading](https://github.com/Coffcer/vue-loading): Vue directive, show loading block in any element. By [@coffcer](https://github.com/Coffcer)
 
 - #### Talks
 
