@@ -189,11 +189,9 @@
   - [vue-spinner](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
-  - [vue-clusterize](https://github.com/paulpflug/vue-clusterize): Invisible pagination / clusterize in vue
   - [Famous-Vue](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [vue-waterfall](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
-  - [vue-resize-handle](https://github.com/paulpflug/vue-resize-handle): Resize elements by dragging / uni and bidirectional
   - [vux](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
   - [vue-select](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
   - [Vue-slide](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
@@ -204,8 +202,9 @@
   - [vue-autocomplete](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-loading-bar](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-bootstrap-modal](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
-
-
+  - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated components (side-nav / modal / collapsible / clusterize / dropdown / resize-handle and other)
+  - [vue-materialize](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for some of [vue-comps](https://github.com/vue-comps)
+  
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
