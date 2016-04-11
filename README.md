@@ -127,6 +127,7 @@
 - [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets](https://github.com/pandao/brackets-vue) by @pandao
 - [IntelliJ IDEA / WebStorm](https://github.com/henjue/vue-for-idea) by @henjue
+- [Emacs](https://github.com/CodeFalling/vue-mode) by @CodeFalling
 
 ### Snippets
 
