@@ -117,6 +117,7 @@
 - [vue-go-cli](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
 - [brunch-vue](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
 - [vueify-extract-css](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
+- [eslint-plugin-vue](https://github.com/twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
 
 ### Syntax Highlighting
 
