@@ -94,6 +94,7 @@
 - [vueify](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
   - [vueify-example](https://github.com/vuejs/vueify-example)
 - [vue-devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+- [eslint-plugin-vue](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for script part of .vue files.
 
 ### Syntax Highlighting
 
