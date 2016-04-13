@@ -207,7 +207,7 @@
   - [vue-bootstrap-modal](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
   - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated components (side-nav / modal / collapsible / clusterize / dropdown / resize-handle and other)
   - [vue-materialize](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for some of [vue-comps](https://github.com/vue-comps)
-  
+  - [vue-waves](https://github.com/Teddy-Zhu/vue-waves):Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
@@ -361,3 +361,5 @@
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
