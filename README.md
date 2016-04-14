@@ -208,6 +208,7 @@
   - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated components (side-nav / modal / collapsible / clusterize / dropdown / resize-handle and other)
   - [vue-materialize](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for some of [vue-comps](https://github.com/vue-comps)
   - [vue-waves](https://github.com/Teddy-Zhu/vue-waves):Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
+  - [vue-table] (https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
 - #### i18n
 
   - [vue-i18n](https://github.com/kazupon/vue-i18n): Internationalization plugin.
