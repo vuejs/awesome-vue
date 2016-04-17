@@ -334,6 +334,7 @@
   - [CheckIt](https://github.com/julesbou/checkit)
   - [Reddit News](https://github.com/Mati365/reddit-news) A browser extension which show notifications and news from reddit
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
+  - [小桃酱](https://app.xiaotaojiang.com/)
 
 - #### Interactive Experiences
 
