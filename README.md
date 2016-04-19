@@ -306,6 +306,7 @@
   - [RSS Reader](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
   - [Gokotta](https://github.com/Zhangdroid/Gokotta): A simple music player built by electron and vue.
   - [Coffeebreak](https://github.com/Kocisov/coffeebreak) Tool for live editing CSS components
+  - [BaiduHui: Push Notification - 百度惠：实时推送优惠](https://chrome.google.com/webstore/detail/blcmlhpbpimcnifnkgkfjhhmoolbidik)<sup>[[Source]](https://github.com/DanielZhu/Magnet-baiduhui-chrome-extension)</sup> A Chrome Extension allows user use Baidu-Hui services and recieves the push notification about the latest discount infos.
 
 - #### Apps/Websites
 
