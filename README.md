@@ -18,6 +18,7 @@
 - [Development Tools](#development-tools)
 - [Syntax Highlighting](#syntax-highlighting)
 - [Snippets](#snippets)
+- [Autocomplete](#autocomplete)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -134,6 +135,10 @@
 ### Snippets
 
 - [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+
+### Autocomplete
+
+- [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 
 ### Libraries & Plugins
 
@@ -370,5 +375,3 @@
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
