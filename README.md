@@ -234,6 +234,7 @@
   - [Begin - Task Manager SPA written in Vue + Lumen ★10](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
   - [Vue Mini Shop ★10](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
   - [Vue SoundCloud ★12](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
+  - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
