@@ -108,9 +108,7 @@
 
 - [**vue-cli ★569**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
 - [**vue-loader ★453**](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
-  - [**vue-loader-example ★313**](https://github.com/vuejs/vue-loader-example)
 - [**vueify ★409**](https://github.com/vuejs/vueify) - Vue compcomponent transform for Browserify.
-  - [vueify-example ★84](https://github.com/vuejs/vueify-example)
 - [**vue-devtools ★589**](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
 - [grunt-vueify ★1](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
 - [vue-compiler ★2](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
