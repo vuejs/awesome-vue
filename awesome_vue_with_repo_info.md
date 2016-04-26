@@ -176,10 +176,12 @@
  </li>
  <li>
   <a href="https://github.com/vuejs/vue">
-   GitHub Repo
+   <strong>
+    GitHub Repo ★17,007
+   </strong>
   </a>
   <sup>
-   &#9733 16889, pushed 0 days ago
+   &#9733 17130, pushed 0 days ago
   </sup>
  </li>
  <li>
@@ -219,10 +221,13 @@
   </a>
  </li>
  <li>
-  <a href="https://github.com/simplesmiler/vue-requests">
-   vue-requests
+  <a href="https://github.com/vuejs/vue-requests">
+   vue-requests ★25
   </a>
   - Request a Vue.js module you wish existed or get ideas for modules
+  <sup>
+   &#9733 25, pushed 135 days ago
+  </sup>
  </li>
 </ul>
 <h3>
@@ -271,20 +276,22 @@
   <ul>
    <li>
     <a href="https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js">
-     CoffeeScript Version
+     CoffeeScript Version ★3
     </a>
     <sup>
-     &#9733 3, pushed 52 days ago
+     &#9733 3, pushed 56 days ago
     </sup>
    </li>
   </ul>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-hackernews">
-   Vue.js HackerNews Clone
+   <strong>
+    Vue.js HackerNews Clone ★908
+   </strong>
   </a>
   <sup>
-   &#9733 897, pushed 56 days ago
+   &#9733 917, pushed 60 days ago
   </sup>
  </li>
 </ul>
@@ -495,63 +502,51 @@
 <ul>
  <li>
   <a href="https://github.com/vuejs/vue-cli">
-   vue-cli
+   <strong>
+    vue-cli ★569
+   </strong>
   </a>
   : official CLI for scaffolding Vue.js projects.
   <sup>
-   &#9733 565, pushed 10 days ago
+   &#9733 581, pushed 1 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-loader">
-   vue-loader
+   <strong>
+    vue-loader ★453
+   </strong>
   </a>
   - Vue component loader for Webpack.
-  <ul>
-   <li>
-    <a href="https://github.com/vuejs/vue-loader-example">
-     vue-loader-example
-    </a>
-    <sup>
-     &#9733 312, pushed 48 days ago
-    </sup>
-   </li>
-  </ul>
   <sup>
-   &#9733 450, pushed 1 days ago
+   &#9733 456, pushed 5 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/vuejs/vueify">
-   vueify
+   <strong>
+    vueify ★409
+   </strong>
   </a>
   - Vue compcomponent transform for Browserify.
-  <ul>
-   <li>
-    <a href="https://github.com/vuejs/vueify-example">
-     vueify-example
-    </a>
-    <sup>
-     &#9733 83, pushed 83 days ago
-    </sup>
-   </li>
-  </ul>
   <sup>
-   &#9733 408, pushed 3 days ago
+   &#9733 409, pushed 7 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-devtools">
-   vue-devtools
+   <strong>
+    vue-devtools ★589
+   </strong>
   </a>
   - Chrome devtools extension for debugging Vue applications.
   <sup>
-   &#9733 583, pushed 10 days ago
+   &#9733 598, pushed 14 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/SkewedAspect/grunt-vueify">
-   grunt-vueify
+   grunt-vueify ★1
   </a>
   - Translate
   <code>
@@ -559,16 +554,16 @@
   </code>
   files to pure JavaScript, without using Browserify. (Useful for Electron apps)
   <sup>
-   &#9733 1, pushed 54 days ago
+   &#9733 1, pushed 57 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-compiler">
-   vue-compiler
+   vue-compiler ★2
   </a>
   - A simple CLI wrapper around vueify
   <sup>
-   &#9733 2, pushed 7 days ago
+   &#9733 2, pushed 11 days ago
   </sup>
  </li>
  <li>
@@ -583,7 +578,7 @@
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-dev-server">
-   vue-dev-server
+   vue-dev-server ★3
   </a>
   - A small webpack-based development server for building standalone
   <code>
@@ -591,43 +586,52 @@
   </code>
   components
   <sup>
-   &#9733 3, pushed 42 days ago
+   &#9733 3, pushed 46 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/rodzzlessa24/vue-go-cli">
-   vue-go-cli
+   vue-go-cli ★2
   </a>
   - a CLI tool for scaffolding new projects generating components, services, and mixins.
+  <sup>
+   &#9733 2, pushed 52 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/nblackburn/vue-brunch">
+   brunch-vue ★2
+  </a>
+  - Adds support to Brunch for pre-compiling single file Vue components.
   <sup>
    &#9733 2, pushed 48 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/nblackburn/vue-brunch">
-   brunch-vue
-  </a>
-  - Adds support to Brunch for pre-compiling single file Vue components.
-  <sup>
-   &#9733 2, pushed 44 days ago
-  </sup>
- </li>
- <li>
   <a href="https://github.com/rawcreative/vueify-extract-css">
-   vueify-extract-css
+   vueify-extract-css ★18
   </a>
   - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
   <sup>
-   &#9733 18, pushed 29 days ago
+   &#9733 18, pushed 33 days ago
   </sup>
  </li>
  <li>
-  <a href="https://github.com/twiknight/eslint-plugin-vue">
-   eslint-plugin-vue
+  <a href="https://github.com/Twiknight/eslint-plugin-vue">
+   eslint-plugin-vue ★21
   </a>
   - Eslint plugin for .vue files.
   <sup>
-   &#9733 20, pushed 21 days ago
+   &#9733 21, pushed 25 days ago
+  </sup>
+ </li>
+ <li>
+  <a href="https://github.com/egoist/vbuild">
+   vbuild ★59
+  </a>
+  - Preset build tool for Vue.js apps.
+  <sup>
+   &#9733 76, pushed 0 days ago
   </sup>
  </li>
 </ul>
@@ -637,8 +641,13 @@
 <ul>
  <li>
   <a href="https://github.com/vuejs/vue-syntax-highlight">
-   Sublime Text
+   <strong>
+    Sublime Text ★164
+   </strong>
   </a>
+  <sup>
+   &#9733 167, pushed 15 days ago
+  </sup>
  </li>
  <li>
   <a href="https://atom.io/packages/language-vue">
@@ -654,11 +663,11 @@
  </li>
  <li>
   <a href="https://github.com/posva/vim-vue">
-   Vim
+   Vim ★30
   </a>
   by @darthmall and @posva
   <sup>
-   &#9733 30, pushed 2 days ago
+   &#9733 31, pushed 6 days ago
   </sup>
  </li>
  <li>
@@ -669,29 +678,28 @@
  </li>
  <li>
   <a href="https://github.com/pandao/brackets-vue">
-   Brackets
+   Brackets ★6
   </a>
   by @pandao
   <sup>
-   &#9733 6, pushed 113 days ago
+   &#9733 7, pushed 117 days ago
   </sup>
  </li>
  <li>
   <a href="https://github.com/henjue/vue-for-idea">
-   IntelliJ IDEA / WebStorm
+   <strong>
+    IntelliJ IDEA / WebStorm ★135
+   </strong>
   </a>
   by @henjue
-  <sup>
-   &#9733 135, pushed 28 days ago
-  </sup>
  </li>
  <li>
   <a href="https://github.com/CodeFalling/vue-mode">
-   Emacs
+   Emacs ★2
   </a>
   by @CodeFalling
   <sup>
-   &#9733 2, pushed 10 days ago
+   &#9733 2, pushed 13 days ago
   </sup>
  </li>
 </ul>
@@ -734,7 +742,9 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-router">
-     vue-router
+     <strong>
+      vue-router ★1,076
+     </strong>
     </a>
     - Official router for building SPAs.
     <sup>
@@ -743,34 +753,36 @@
    </li>
    <li>
     <a href="https://github.com/AlexToudic/vue-page">
-     Vue page
+     Vue page ★15
     </a>
     , a routing system based on pagejs by @AlexToudic
     <sup>
-     &#9733 15, pushed 247 days ago
+     &#9733 15, pushed 251 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/bpierre/vue-lanes">
-     Vue Lanes
+     Vue Lanes ★19
     </a>
     , an event-based routing system for Vue by @bpierre
     <sup>
-     &#9733 19, pushed 756 days ago
+     &#9733 19, pushed 760 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/ayamflow/vue-route">
-     Vue route
+     Vue route ★70
     </a>
     , ng-view inspired routes for Vue by @ayamflow
     <sup>
-     &#9733 70, pushed 258 days ago
+     &#9733 70, pushed 262 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/inca/voie">
-     voie
+     <strong>
+      voie ★108
+     </strong>
     </a>
     — simple router / layout manager inspired by FSMs and ui-router by
     <a href="https://github.com/inca">
@@ -780,12 +792,12 @@
      1.0
     </sup>
     <sup>
-     &#9733 107, pushed 2 days ago
+     &#9733 111, pushed 3 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1070, pushed 1 days ago
+   &#9733 1091, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -795,7 +807,9 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-resource">
-     vue-resource
+     <strong>
+      vue-resource ★1,162
+     </strong>
     </a>
     - AJAX/Resource plugin maintained by the
     <a href="http://pagekit.com/">
@@ -808,31 +822,33 @@
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-async-data">
-     vue-async-data
+     <strong>
+      vue-async-data ★174
+     </strong>
     </a>
     - Async data loading plugin
     <sup>
      1.0 compatible
     </sup>
     <sup>
-     &#9733 174, pushed 2 days ago
+     &#9733 177, pushed 6 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/foxbenjaminfox/vue-async-computed">
-     vue-async-computed
+     vue-async-computed ★15
     </a>
     - Plugin to support computed properties that are calculated asynchronously. By
     <a href="https://github.com/foxbenjaminfox">
      @foxbenjaminfox
     </a>
     <sup>
-     &#9733 15, pushed 3 days ago
+     &#9733 16, pushed 7 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1143, pushed 34 days ago
+   &#9733 1180, pushed 38 days ago
   </sup>
  </li>
  <li>
@@ -842,52 +858,59 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vuex">
-     vuex
+     <strong>
+      vuex ★1,200
+     </strong>
     </a>
     - Flux/Redux inspired application architecture for Vue.js.
    </li>
    <li>
-    <a href="https://github.com/egoist/revue">
-     revue
+    <a href="https://github.com/revue/revue">
+     <strong>
+      revue ★159
+     </strong>
     </a>
     - Redux binding for Vue by @egoist
+    <sup>
+     &#9733 161, pushed 33 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/yang-wei/vue-redux">
-     vue-redux
+     vue-redux ★74
     </a>
     - Redux binding for Vue by @yang-wei
     <sup>
-     &#9733 74, pushed 75 days ago
+     &#9733 74, pushed 78 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-freeze">
-     vue-freeze
+     vue-freeze ★29
     </a>
     - Simple state management whitout bloating API and Concept for Vue by
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 29, pushed 21 days ago
+     &#9733 30, pushed 25 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-simple-store">
-     vue-simple-store
+     vue-simple-store ★25
     </a>
     - Store Organizer To Simplify Your Stores for Vue By
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 25, pushed 22 days ago
+     &#9733 27, pushed 26 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 1184, pushed 1 days ago
+   &#9733 1229, pushed 0 days ago
   </sup>
  </li>
  <li>
@@ -897,7 +920,9 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-validator">
-     vue-validator
+     <strong>
+      vue-validator ★538
+     </strong>
     </a>
     - Form validation plugin maintained by @kazupon
     <sup>
@@ -906,28 +931,30 @@
    </li>
    <li>
     <a href="https://github.com/xrado/vue-validator">
-     Vue validator
+     Vue validator ★34
     </a>
     by @xrado
     <sup>
-     &#9733 34, pushed 195 days ago
+     &#9733 34, pushed 199 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/fergaldoyle/vue-form">
-     vue-form
+     <strong>
+      vue-form ★105
+     </strong>
     </a>
     by @fergaldoyle
     <sup>
      1.0 compatible
     </sup>
     <sup>
-     &#9733 105, pushed 2 days ago
+     &#9733 106, pushed 6 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 533, pushed 0 days ago
+   &#9733 541, pushed 0 days ago
   </sup>
  </li>
  <li>
@@ -955,19 +982,21 @@
    </li>
    <li>
     <a href="https://github.com/posva/vue-mdl">
-     vue-mdl
+     <strong>
+      vue-mdl ★284
+     </strong>
     </a>
     : Reusable Vue.js components using Material Design Lite. By
     <a href="https://github.com/posva">
      @posva
     </a>
     <sup>
-     &#9733 282, pushed 4 days ago
+     &#9733 286, pushed 8 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/samcrosoft/vue-countup">
-     vue-countup
+     vue-countup ★8
     </a>
     : A Vue.js component for the very interesting
     <a href="https://inorganik.github.io/countUp.js/">
@@ -978,16 +1007,16 @@
      1.0 compatible
     </sup>
     <sup>
-     &#9733 8, pushed 78 days ago
+     &#9733 8, pushed 82 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/hnakamur/vue.tag-editor.js">
-     Vue Tag Editor Component
+     Vue Tag Editor Component ★19
     </a>
     by @hnakamur
     <sup>
-     &#9733 19, pushed 762 days ago
+     &#9733 19, pushed 765 days ago
     </sup>
    </li>
    <li>
@@ -1002,16 +1031,16 @@
    </li>
    <li>
     <a href="https://github.com/dgerber/vue-select-js">
-     Typed select component
+     Typed select component ★3
     </a>
     by @dgerber
     <sup>
-     &#9733 3, pushed 321 days ago
+     &#9733 3, pushed 325 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-select">
-     vue-select
+     vue-select ★45
     </a>
     : A Vue.js component implementing the select control with the
     <a href="https://github.com/select2/select2">
@@ -1019,12 +1048,12 @@
     </a>
     .  By @Haixing-Hu
     <sup>
-     &#9733 44, pushed 43 days ago
+     &#9733 46, pushed 47 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-html-editor">
-     vue-html-editor
+     vue-html-editor ★55
     </a>
     : A Vue.js component implementing the HTML editor with the
     <a href="https://github.com/summernote/summernote">
@@ -1032,12 +1061,12 @@
     </a>
     . By @Haixing-Hu
     <sup>
-     &#9733 54, pushed 79 days ago
+     &#9733 55, pushed 83 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-datetime-picker">
-     vue-datetime-picker
+     vue-datetime-picker ★54
     </a>
     : A Vue.js component implementing the datetime picker control using the
     <a href="https://github.com/Eonasdan/bootstrap-datetimepicker">
@@ -1045,12 +1074,12 @@
     </a>
     . By @Haixing-Hu
     <sup>
-     &#9733 54, pushed 17 days ago
+     &#9733 55, pushed 21 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-country-select">
-     vue-country-select
+     vue-country-select ★11
     </a>
     : A Vue.js component implementing the select control used to select countries. It depends on
     <a href="https://github.com/Haixing-Hu/vue-select">
@@ -1062,25 +1091,25 @@
     </a>
     . By @Haixing-Hu
     <sup>
-     &#9733 11, pushed 192 days ago
+     &#9733 11, pushed 196 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/dgerber/vue-formidable">
-     Form generation from JSON Schema
+     Form generation from JSON Schema ★19
     </a>
     by @dgerber
     <sup>
-     &#9733 19, pushed 320 days ago
+     &#9733 20, pushed 324 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/ericmcdaniel/vue-panel">
-     vue-panel
+     vue-panel ★36
     </a>
     : A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
     <sup>
-     &#9733 36, pushed 112 days ago
+     &#9733 36, pushed 116 days ago
     </sup>
    </li>
    <li>
@@ -1091,11 +1120,11 @@
    </li>
    <li>
     <a href="https://github.com/Twiknight/vue-transition">
-     vue-transition
+     vue-transition ★34
     </a>
     : A component to trigger a CSS transition at any time by @Twiknight
     <sup>
-     &#9733 34, pushed 49 days ago
+     &#9733 35, pushed 52 days ago
     </sup>
    </li>
    <li>
@@ -1131,121 +1160,129 @@
    </li>
    <li>
     <a href="https://github.com/kaorun343/vue-youtube-embed">
-     Vue YouTube Embed
+     Vue YouTube Embed ★16
     </a>
     : a directive for Vue.js and YouTube by @kaorun343
     <sup>
-     &#9733 16, pushed 29 days ago
+     &#9733 16, pushed 33 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/hilongjw/vue-datepicker">
-     Vue datepicker
+     Vue datepicker ★48
     </a>
     : calendar and datepicker component with material design for Vue.js  by @hilongjw
     <sup>
-     &#9733 48, pushed 1 days ago
+     &#9733 49, pushed 3 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Bubblings/vue-date-picker">
-     vue-date-picker
+     vue-date-picker ★16
     </a>
     : A simple datepicker component for Vue.js by @Bubblings
     <sup>
-     &#9733 15, pushed 8 days ago
+     &#9733 16, pushed 12 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/greyby/vue-spinner">
-     vue-spinner
+     <strong>
+      vue-spinner ★131
+     </strong>
     </a>
     : A collection of loading spinners with Vue.js.
     <sup>
-     &#9733 129, pushed 54 days ago
+     &#9733 138, pushed 57 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/eduardostuart/vue-image-loader">
-     vue-image-loader
+     vue-image-loader ★14
     </a>
     : Async image loader for Vue.js by @eduardostuart
     <sup>
-     &#9733 13, pushed 73 days ago
+     &#9733 14, pushed 77 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/hilongjw/vue-progressbar">
-     Vue-progressbar
+     Vue-progressbar ★36
     </a>
     : A lightweight progress bar for Vue.js  by @hilongjw
     <sup>
-     &#9733 35, pushed 73 days ago
+     &#9733 37, pushed 3 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/irwansyahwii/Famous-Vue">
-     Famous-Vue
+     Famous-Vue ★10
     </a>
     : Declarative Famous using Vue
     <sup>
-     &#9733 10, pushed 64 days ago
+     &#9733 10, pushed 68 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/MopTym/vue-waterfall">
-     vue-waterfall
+     <strong>
+      vue-waterfall ★206
+     </strong>
     </a>
     : A waterfall layout component for Vue.js by @MopTym
     <sup>
-     &#9733 204, pushed 54 days ago
+     &#9733 209, pushed 58 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/haydenbbickerton/vue-charts">
-     vue-charts
+     vue-charts ★17
     </a>
     : A Google Charts plugin for Vue.js by
     <a href="https://github.com/haydenbbickerton">
      @haydenbbickerton
     </a>
     <sup>
-     &#9733 17, pushed 15 days ago
+     &#9733 17, pushed 18 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/airyland/vux">
-     vux
+     <strong>
+      vux ★1,068
+     </strong>
     </a>
     : Mobile web UI Components based on Vue and WeUI
     <sup>
-     &#9733 1057, pushed 0 days ago
+     &#9733 1078, pushed 0 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/sagalbot/vue-select">
-     vue-select
+     <strong>
+      vue-select ★155
+     </strong>
     </a>
     : Simple component that implements Select2/Chosen style dropdowns with no dependencies
     <sup>
      1.0
     </sup>
     <sup>
-     &#9733 154, pushed 8 days ago
+     &#9733 158, pushed 12 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/hilongjw/vue-slide">
-     Vue-slide
+     Vue-slide ★29
     </a>
     : A lightweight slide component for Vue.js  by @hilongjw
     <sup>
-     &#9733 29, pushed 19 days ago
+     &#9733 29, pushed 23 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/CroudSupport/vue-quill">
-     Vue-quill
+     Vue-quill ★5
     </a>
     : A Vue component implementing the
     <a href="https://github.com/quilljs/quill.git">
@@ -1253,28 +1290,28 @@
     </a>
     text editor by @brockreece
     <sup>
-     &#9733 5, pushed 22 days ago
+     &#9733 5, pushed 26 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/zxdong262/vue-pagenav">
-     vue-pagenav
+     vue-pagenav ★6
     </a>
     : A vue pagenav plugin by
     <a href="https://github.com/zxdong262">
      @zxdong262
     </a>
     <sup>
-     &#9733 6, pushed 4 days ago
+     &#9733 6, pushed 1 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/cucygh/vue-calendar">
-     Vue-calendar
+     Vue-calendar ★1
     </a>
     : A vue calendar component with less code by cucygh
     <sup>
-     &#9733 1, pushed 23 days ago
+     &#9733 1, pushed 27 days ago
     </sup>
    </li>
    <li>
@@ -1289,38 +1326,38 @@
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-autocomplete">
-     vue-autocomplete
+     vue-autocomplete ★22
     </a>
     Autocomplete Component for Vue by
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 22, pushed 94 days ago
+     &#9733 22, pushed 98 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-loading-bar">
-     vue-loading-bar
+     vue-loading-bar ★26
     </a>
     Youtube Like Loading Bar Component for Vue by
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 26, pushed 10 days ago
+     &#9733 26, pushed 14 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Coffcer/vue-bootstrap-modal">
-     vue-bootstrap-modal
+     vue-bootstrap-modal ★5
     </a>
     Bootstrap style modal component for Vue by
     <a href="https://github.com/Coffcer">
      @Coffcer
     </a>
     <sup>
-     &#9733 5, pushed 3 days ago
+     &#9733 5, pushed 7 days ago
     </sup>
    </li>
    <li>
@@ -1331,23 +1368,23 @@
    </li>
    <li>
     <a href="https://github.com/paulpflug/vue-materialize">
-     vue-materialize
+     vue-materialize ★25
     </a>
     : materializeCss styles and animations for some of
     <a href="https://github.com/vue-comps">
      vue-comps
     </a>
     <sup>
-     &#9733 22, pushed 1 days ago
+     &#9733 26, pushed 0 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Teddy-Zhu/vue-waves">
-     vue-waves
+     vue-waves ★3
     </a>
     :Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
     <sup>
-     &#9733 3, pushed 8 days ago
+     &#9733 3, pushed 12 days ago
     </sup>
    </li>
    <li>
@@ -1356,7 +1393,16 @@
     </a>
     : component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
     <sup>
-     &#9733 26, pushed 0 days ago
+     &#9733 35, pushed 0 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/matfish2/vue-tables">
+     vue-tables
+    </a>
+    : This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
+    <sup>
+     &#9733 103, pushed 5 days ago
     </sup>
    </li>
    <li>
@@ -1365,7 +1411,7 @@
     </a>
     : Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
     <sup>
-     &#9733 26, pushed 1 days ago
+     &#9733 32, pushed 3 days ago
     </sup>
    </li>
   </ul>
@@ -1377,43 +1423,45 @@
   <ul>
    <li>
     <a href="https://github.com/kazupon/vue-i18n">
-     vue-i18n
+     <strong>
+      vue-i18n ★164
+     </strong>
     </a>
     : Internationalization plugin.
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-i18n">
-     vue-i18n
+     vue-i18n ★32
     </a>
     : A plugin providing a global interface used to localize internationalized messages used in the
     <sup>
-     &#9733 32, pushed 2 days ago
+     &#9733 32, pushed 6 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/sebastian-software/vue-locale">
-     vue-locale
+     vue-locale ★9
     </a>
     : Advanced localization support for VueJS
     <sup>
-     &#9733 9, pushed 34 days ago
+     &#9733 10, pushed 38 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/zxdong262/vue-jade-editor">
-     vue-jade-editor
+     vue-jade-editor ★0
     </a>
     : a online jade(pug) editor plugin by
     <a href="https://github.com/zxdong262">
      @zxdong262
     </a>
     <sup>
-     &#9733 0, pushed 8 days ago
+     &#9733 0, pushed 2 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 164, pushed 1 days ago
+   &#9733 167, pushed 5 days ago
   </sup>
  </li>
  <li>
@@ -1428,38 +1476,40 @@
    </li>
    <li>
     <a href="https://github.com/brandonjpierce/node-webkit-boilerplate">
-     Node Webkit + Vue example
+     Node Webkit + Vue example ★34
     </a>
     by @brandonjpierce
     <sup>
-     &#9733 34, pushed 287 days ago
+     &#9733 35, pushed 291 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/superlloyd/VueSamples">
-     Vue Samples
+     Vue Samples ★18
     </a>
     by @superlloyd
     <sup>
-     &#9733 18, pushed 175 days ago
+     &#9733 19, pushed 179 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/kazupon/vue-router-hackernews">
-     HackerNews clone with vue.js + vue-router
+     HackerNews clone with vue.js + vue-router ★2
     </a>
     by @kazupon
     <sup>
-     &#9733 2, pushed 240 days ago
+     &#9733 4, pushed 244 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/bradstewart/electron-boilerplate-vue">
-     Electron + Vue example
+     <strong>
+      Electron + Vue example ★145
+     </strong>
     </a>
     by @bradstewart
     <sup>
-     &#9733 144, pushed 1 days ago
+     &#9733 149, pushed 5 days ago
     </sup>
    </li>
    <li>
@@ -1471,43 +1521,55 @@
      Boris Okunskiy
     </a>
     <sup>
-     &#9733 30, pushed 108 days ago
+     &#9733 31, pushed 112 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rajabishek/begin">
-     Begin - Task Manager SPA written in Vue + Lumen
+     Begin - Task Manager SPA written in Vue + Lumen ★10
     </a>
     by
     <a href="https://github.com/rajabishek">
      Raj Abishek
     </a>
     <sup>
-     &#9733 10, pushed 25 days ago
+     &#9733 10, pushed 29 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-mini-shop">
-     Vue Mini Shop
+     Vue Mini Shop ★10
     </a>
     by
     <a href="https://github.com/BosNaufal">
      BosNaufal
     </a>
     <sup>
-     &#9733 10, pushed 22 days ago
+     &#9733 14, pushed 26 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/mul14/vue-soundcloud">
-     Vue SoundCloud
+     Vue SoundCloud ★12
     </a>
     by
     <a href="https://github.com/mul14">
      mul14
     </a>
     <sup>
-     &#9733 11, pushed 0 days ago
+     &#9733 12, pushed 4 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/haydenbbickerton/feature-requests-app">
+     Feature Requests (Laravel + Vue Combo)
+    </a>
+    by
+    <a href="https://github.com/haydenbbickerton">
+     haydenbbickerton
+    </a>
+    <sup>
+     &#9733 1, pushed 2 days ago
     </sup>
    </li>
   </ul>
@@ -1519,22 +1581,22 @@
   <ul>
    <li>
     <a href="https://github.com/kazupon/vue-plugin-boilerplate">
-     Boilerplate for Vue.js plugin
+     Boilerplate for Vue.js plugin  ★16
     </a>
     by @kazupon
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-electron">
-     Boilerplate for Vue.js & Atom Electron
+     Boilerplate for Vue.js & Atom Electron  ★33
     </a>
     by @rodzzlessa24
     <sup>
-     &#9733 33, pushed 14 days ago
+     &#9733 34, pushed 18 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 16, pushed 52 days ago
+   &#9733 16, pushed 56 days ago
   </sup>
  </li>
  <li>
@@ -1544,74 +1606,81 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-cli">
-     vue-cli
+     <strong>
+      vue-cli ★569
+     </strong>
     </a>
     : official CLI for scaffolding Vue.js projects.
    </li>
    <li>
-    <a href="https://github.com/BirdEggegg/generator-vue">
-     Vue generator
+    <a href="https://github.com/BirdEggegg/generator-vuejs">
+     Vue generator ★64
     </a>
     : a simple yeoman generator for Vue by @BirdEggegg
+    <sup>
+     &#9733 64, pushed 140 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/jfelsinger/generator-venm">
-     VENM stack yeoman generator
+     VENM stack yeoman generator ★35
     </a>
     by @jfelsinger
     <sup>
-     &#9733 35, pushed 121 days ago
+     &#9733 35, pushed 124 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/mustardamus/generator-grail">
-     Grail Yeoman Generator
+     Grail Yeoman Generator ★9
     </a>
     : a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
     <sup>
-     &#9733 9, pushed 167 days ago
+     &#9733 9, pushed 171 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/egoist/vuepack">
-     VuePack
+     <strong>
+      VuePack ★158
+     </strong>
     </a>
     : A modern starter for Vue and Webpack by @egoist
     <sup>
-     &#9733 157, pushed 6 days ago
+     &#9733 159, pushed 1 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-webgulp">
-     VueWebgulp
+     VueWebgulp ★32
     </a>
     : A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
     <sup>
-     &#9733 31, pushed 30 days ago
+     &#9733 32, pushed 34 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/scottbedard/oc-vuetober-theme">
-     Vuetober
+     Vuetober ★21
     </a>
     : SPA scaffolding for October CMS
     <sup>
-     &#9733 21, pushed 26 days ago
+     &#9733 21, pushed 30 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-go-cli">
-     vue-go-cli
+     vue-go-cli ★2
     </a>
     - a CLI tool for scaffolding new projects generating components, services, and mixins.
    </li>
    <li>
     <a href="https://github.com/nblackburn/brunch-with-vue">
-     Brunch with Vue
+     Brunch with Vue ★9
     </a>
     - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
     <sup>
-     &#9733 9, pushed 37 days ago
+     &#9733 9, pushed 41 days ago
     </sup>
    </li>
   </ul>
@@ -1623,52 +1692,52 @@
   <ul>
    <li>
     <a href="https://github.com/zhouzhuojie/meteor-vue">
-     Vue for Meteor
+     Vue for Meteor ★74
     </a>
     by @zhouzhuojie
    </li>
    <li>
     <a href="https://github.com/fancellu/scalajs-vue">
-     ScalaJS bindings for Vue.js
+     ScalaJS bindings for Vue.js ★22
     </a>
     by @fancellu
     <sup>
-     &#9733 22, pushed 177 days ago
+     &#9733 22, pushed 181 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Socketize/vue.js-plugin">
-     Socketize Backend
+     Socketize Backend ★6
     </a>
     : Sync your model data to Socketize backend automatically. By
     <a href="https://github.com/Socketize">
      @Socketize
     </a>
     <sup>
-     &#9733 6, pushed 118 days ago
+     &#9733 6, pushed 122 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Grottolabs/vue-meteor-data">
-     Vue-Meteor-Data
+     Vue-Meteor-Data ★12
     </a>
     Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
     <sup>
-     &#9733 12, pushed 3 days ago
+     &#9733 12, pushed 7 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/kaorun343/vue-property-decorator">
-     Vue Proerty Decorator
+     Vue Proerty Decorator ★7
     </a>
     : Property Decorators for Vue.js by @kaorun343
     <sup>
-     &#9733 7, pushed 87 days ago
+     &#9733 7, pushed 91 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 74, pushed 114 days ago
+   &#9733 74, pushed 118 days ago
   </sup>
  </li>
  <li>
@@ -1678,22 +1747,24 @@
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-element">
-     vue-element
+     vue-element ★73
     </a>
     : Register real custom elements with Vue.
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-touch">
-     vue-touch
+     <strong>
+      vue-touch ★220
+     </strong>
     </a>
     : Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
     <sup>
-     &#9733 217, pushed 15 days ago
+     &#9733 226, pushed 19 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-animated-list">
-     vue-animated-list
+     vue-animated-list ★88
     </a>
     : A Vue.js plugin for easily animating
     <code>
@@ -1701,112 +1772,112 @@
     </code>
     rendered lists.
     <sup>
-     &#9733 85, pushed 63 days ago
+     &#9733 89, pushed 67 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/lithiumjake/vue-placeholders">
-     Vue placeholder directives
+     Vue placeholder directives ★46
     </a>
     by @lithiumjake
     <sup>
-     &#9733 46, pushed 793 days ago
+     &#9733 46, pushed 797 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/holic/vue-viewport">
-     Vue in viewport detection directive
+     Vue in viewport detection directive ★27
     </a>
     by @holic
     <sup>
-     &#9733 27, pushed 666 days ago
+     &#9733 27, pushed 670 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/kewah/vue-once">
-     Vue once directive
+     Vue once directive ★10
     </a>
     by @kewah
     <sup>
-     &#9733 10, pushed 498 days ago
+     &#9733 10, pushed 502 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/KyleRoss/vue-modified">
-     Vue Modified Directive
+     Vue Modified Directive ★10
     </a>
     by @KyleRoss
     <sup>
-     &#9733 10, pushed 434 days ago
+     &#9733 10, pushed 438 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/mark-hahn/vue-keep-scroll">
-     Maintain scroll position on page changes
+     Maintain scroll position on page changes ★16
     </a>
     by @mark-hahn
     <sup>
-     &#9733 16, pushed 30 days ago
+     &#9733 16, pushed 34 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-titlecase">
-     vue-titlecase
+     vue-titlecase ★9
     </a>
     : A plugin providing a global filter and an instance method used to titlecase (different from capitalize) strings. By @Haixing-Hu
     <sup>
-     &#9733 9, pushed 164 days ago
+     &#9733 9, pushed 168 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-format">
-     vue-format
+     vue-format ★9
     </a>
     : A plugin providing a global filter and an instance method used to format messages with arguments.  By @Haixing-Hu
 application.  By @Haixing-Hu
     <sup>
-     &#9733 9, pushed 62 days ago
+     &#9733 9, pushed 66 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/simplesmiler/vue-clickaway">
-     vue-clickaway
+     vue-clickaway ★33
     </a>
     : Assign a method to be called whenever user clicks away from the element. By @simplesmiler
     <sup>
-     &#9733 33, pushed 118 days ago
+     &#9733 34, pushed 122 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/simplesmiler/vue-focus">
-     vue-focus
+     vue-focus ★31
     </a>
     : Manage input focus in the MVVM-friendly way. By @simplesmiler
     <sup>
-     &#9733 31, pushed 118 days ago
+     &#9733 32, pushed 122 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rhyzx/vue-transfer-dom">
-     vue-transfer-dom
+     vue-transfer-dom ★18
     </a>
     : Transfer DOM to another location. by @rhyzx
     <sup>
-     &#9733 17, pushed 31 days ago
+     &#9733 18, pushed 34 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/hilongjw/vue-lazyload">
-     vue-lazyload
+     vue-lazyload ★60
     </a>
     : lazyloading images. by @hilongjw
     <sup>
-     &#9733 59, pushed 5 days ago
+     &#9733 60, pushed 9 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/didierfranc/v-touch">
-     v-touch
+     v-touch ★5
     </a>
     : The easiest way to use Hammer.js with Vue.js and use touch gestures. by
     <a href="https://github.com/didierfranc">
@@ -1816,102 +1887,102 @@ application.  By @Haixing-Hu
      Vue.js 1.x
     </sup>
     <sup>
-     &#9733 5, pushed 74 days ago
+     &#9733 5, pushed 78 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/paulpflug/vue-mixins">
-     vue-mixins
+     vue-mixins ★9
     </a>
     A collection of mixins aimed to replace some jQuery functionality
     <sup>
-     &#9733 9, pushed 8 days ago
+     &#9733 9, pushed 12 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/paulpflug/vue-filters">
-     vue-filters
+     vue-filters ★2
     </a>
     A collection of filters
     <sup>
-     &#9733 2, pushed 47 days ago
+     &#9733 2, pushed 51 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rascada/vue-round-filter">
-     vue-round-filter
+     vue-round-filter ★0
     </a>
     filter for rounding with whichever decimal accuracy
     <sup>
-     &#9733 0, pushed 65 days ago
+     &#9733 0, pushed 69 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/TahaSh/vue-paginate">
-     vue-paginate
+     vue-paginate ★40
     </a>
     A simple plugin to use pagination in vue.js. by @TahaSh
     <sup>
-     &#9733 40, pushed 18 days ago
+     &#9733 40, pushed 22 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/rpkilby/vue-super">
-     vue-super
+     vue-super ★5
     </a>
     A simple plugin to call methods on parent components.
     <sup>
-     &#9733 5, pushed 50 days ago
+     &#9733 5, pushed 54 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/arexio/vue-deepstream">
-     vue-deepstream
+     vue-deepstream ★6
     </a>
     Plugin to simplify event subscription and event trigger when using
     <a href="https://deepstream.io/">
      deepstream.io
     </a>
     <sup>
-     &#9733 6, pushed 3 days ago
+     &#9733 6, pushed 7 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Coffcer/vue-plain">
-     vue-plain
+     vue-plain ★1
     </a>
     Plugin to get plain object from vue getter/setter object.
     <sup>
-     &#9733 1, pushed 16 days ago
+     &#9733 1, pushed 20 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-calc-input">
-     vue-calc-input
+     vue-calc-input ★1
     </a>
     Vue directive to make a calculator input behavior by
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 1, pushed 40 days ago
+     &#9733 1, pushed 43 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-move-dom">
-     vue-move-dom
+     vue-move-dom ★1
     </a>
     Vue Directive to move the DOM without losing all the VM data, event, etc. by
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
     <sup>
-     &#9733 1, pushed 40 days ago
+     &#9733 1, pushed 44 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/haydenbbickerton/vue-animate">
-     vue-animate
+     vue-animate ★10
     </a>
     : Use
     <a href="https://github.com/daneden/animate.css" title="Animate.css">
@@ -1922,12 +1993,12 @@ application.  By @Haixing-Hu
      @haydenbbickerton
     </a>
     <sup>
-     &#9733 10, pushed 12 days ago
+     &#9733 10, pushed 16 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/sagalbot/vue-sortable">
-     vue-sortable
+     vue-sortable ★19
     </a>
     : A lightweight directive for reorderable drag-and-drop lists using
     <a href="https://github.com/RubaXa/Sortable">
@@ -1938,45 +2009,45 @@ application.  By @Haixing-Hu
      @sagalbot
     </a>
     <sup>
-     &#9733 19, pushed 14 days ago
+     &#9733 22, pushed 18 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Coffcer/vue-loading">
-     vue-loading
+     vue-loading ★14
     </a>
     : Vue directive, show loading block in any element. By
     <a href="https://github.com/Coffcer">
      @coffcer
     </a>
     <sup>
-     &#9733 13, pushed 10 days ago
+     &#9733 15, pushed 0 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/mlyknown/vue-gesture">
-     vue-gesture
+     vue-gesture ★6
     </a>
     :touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
     <sup>
-     &#9733 6, pushed 15 days ago
+     &#9733 6, pushed 19 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/JALBAA/vue-lazyload-img">
-     vue-lazyload-img
+     vue-lazyload-img ★6
     </a>
     another image lazyload plugin for Vue, especially optimized for mobile browser. By
     <a href="https://github.com/JALBAA">
      @JALBAA
     </a>
     <sup>
-     &#9733 5, pushed 7 days ago
+     &#9733 6, pushed 11 days ago
     </sup>
    </li>
   </ul>
   <sup>
-   &#9733 72, pushed 326 days ago
+   &#9733 74, pushed 330 days ago
   </sup>
  </li>
  <li>
@@ -2046,35 +2117,40 @@ application.  By @Haixing-Hu
     </sup>
    </li>
    <li>
-    <a href="https://github.com/jiyinyiyong/todolist">
-     Todolist
+    <a href="https://github.com/Memkits/todolist">
+     Todolist ★11
     </a>
     by @jiyinyiyong
+    <sup>
+     &#9733 11, pushed 718 days ago
+    </sup>
    </li>
    <li>
     <a href="https://github.com/thelinuxlich/vue-dashing-js">
-     Dashboard framework
+     Dashboard framework ★40
     </a>
     by @thelinuxlich
     <sup>
-     &#9733 40, pushed 211 days ago
+     &#9733 40, pushed 215 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/sapjax/fewords">
-     a simple notepad
+     a simple notepad ★43
     </a>
     <sup>
-     &#9733 43, pushed 152 days ago
+     &#9733 43, pushed 155 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/ilyashubin/FilterBlend">
-     FilterBlend
+     <strong>
+      FilterBlend ★135
+     </strong>
     </a>
     : CSS blend modes and filters playground by @ilyashubin
     <sup>
-     &#9733 135, pushed 79 days ago
+     &#9733 135, pushed 83 days ago
     </sup>
    </li>
    <li>
@@ -2107,29 +2183,33 @@ application.  By @Haixing-Hu
    </li>
    <li>
     <a href="https://github.com/mrgodhani/rss-reader">
-     RSS Reader
+     <strong>
+      RSS Reader ★139
+     </strong>
     </a>
     Simple RSS Reader made using atom electron and vue.js.
     <sup>
-     &#9733 136, pushed 33 days ago
+     &#9733 139, pushed 37 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Zhangdroid/Gokotta">
-     Gokotta
+     <strong>
+      Gokotta ★124
+     </strong>
     </a>
     : A simple music player built by electron and vue.
     <sup>
-     &#9733 121, pushed 27 days ago
+     &#9733 126, pushed 31 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Kocisov/coffeebreak">
-     Coffeebreak
+     Coffeebreak ★38
     </a>
     Tool for live editing CSS components
     <sup>
-     &#9733 38, pushed 38 days ago
+     &#9733 38, pushed 42 days ago
     </sup>
    </li>
    <li>
@@ -2243,11 +2323,6 @@ application.  By @Haixing-Hu
     An app aimed for personal trainers and their clients.
    </li>
    <li>
-    <a href="http://v2.statamic.com">
-     Statamic
-    </a>
-   </li>
-   <li>
     <a href="http://embalses.azurewebsites.net/">
      Embalses!
     </a>
@@ -2273,19 +2348,19 @@ application.  By @Haixing-Hu
    </li>
    <li>
     <a href="https://github.com/julesbou/checkit">
-     CheckIt
+     CheckIt ★0
     </a>
     <sup>
-     &#9733 0, pushed 17 days ago
+     &#9733 0, pushed 21 days ago
     </sup>
    </li>
    <li>
     <a href="https://github.com/Mati365/reddit-news">
-     Reddit News
+     Reddit News ★27
     </a>
     A browser extension which show notifications and news from reddit
     <sup>
-     &#9733 27, pushed 14 days ago
+     &#9733 27, pushed 18 days ago
     </sup>
    </li>
    <li>
