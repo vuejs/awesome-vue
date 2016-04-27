@@ -19,6 +19,7 @@
 - [Syntax Highlighting](#syntax-highlighting)
 - [Snippets](#snippets)
 - [Autocomplete](#autocomplete)
+- [Component Collections](#component-collections)
 - [Libraries & Plugins](#libraries--plugins)
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
@@ -139,6 +140,22 @@
 
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 
+### Component Collections
+
+- [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
+- [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
+- [**vue-mdl ★284**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
+- [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
+- [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
+- [**vux ★1,068**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
+- [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
+- [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
+  - [vue-materialize ★25](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for `vue-comps`
+  - [vue-clusterize ★18](https://github.com/vue-comps/vue-clusterize): implementation of clusterize.js in vue, invisible pagination
+  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav): responsive, touch enabled side nav
+  - [vue-parallax](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
+  - [vue-zoombox](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
+
 ### Libraries & Plugins
 
 - #### Routing
@@ -171,9 +188,6 @@
 
 - #### UI Components
 
-  - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
-  - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
-  - [**vue-mdl ★284**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
   - [vue-countup ★8](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
   - [Vue Tag Editor Component ★19](https://github.com/hnakamur/vue.tag-editor.js) by @hnakamur
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
@@ -188,8 +202,6 @@
   - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
   - [vue-transition ★34](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
   - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
-  - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
-  - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
   - [Vue YouTube Embed ★16](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
   - [Vue datepicker ★48](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker ★16](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
@@ -199,18 +211,14 @@
   - [Famous-Vue ★10](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [**vue-waterfall ★206**](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts ★17](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
-  - [**vux ★1,068**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
   - [**vue-select ★155**](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
   - [Vue-slide ★29](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
   - [Vue-quill ★5](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
   - [vue-pagenav ★6](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
   - [Vue-calendar ★1](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by cucygh
-  - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
   - [vue-autocomplete ★22](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-loading-bar ★26](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-bootstrap-modal ★5](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
-  - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated components (side-nav / modal / collapsible / clusterize / dropdown / resize-handle and other)
-  - [vue-materialize ★25](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for some of [vue-comps](https://github.com/vue-comps)
   - [vue-waves ★3](https://github.com/Teddy-Zhu/vue-waves):Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
   - [vue-table] (https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
   - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
