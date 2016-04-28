@@ -155,6 +155,7 @@
   - [vue-side-nav](https://github.com/vue-comps/vue-side-nav): responsive, touch enabled side nav
   - [vue-parallax](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
   - [vue-zoombox](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
+- [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design 
 
 ### Libraries & Plugins
 
