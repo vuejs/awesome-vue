@@ -226,6 +226,7 @@
   - [vue-table] (https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
   - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
   - [fire-select] (https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
+  - [vue-color](https://github.com/xiaokaike/vue-color), Color picker
 
 - #### i18n
 
