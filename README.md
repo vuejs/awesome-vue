@@ -227,6 +227,7 @@
   - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
   - [fire-select] (https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
   - [vue-color](https://github.com/xiaokaike/vue-color), Color picker
+  - [vue-avatar](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
 
 - #### i18n
 
