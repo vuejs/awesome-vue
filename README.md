@@ -169,6 +169,7 @@
   - [Vue Lanes ★19](https://github.com/bpierre/vue-lanes), an event-based routing system for Vue by @bpierre
   - [Vue route ★70](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
   - [**voie ★108**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
+  - [vue-script2](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
 
 - #### Ajax/Data
 
