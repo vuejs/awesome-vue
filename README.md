@@ -231,6 +231,7 @@
   - [vue-color](https://github.com/xiaokaike/vue-color), Color picker
   - [vue-avatar](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
   - [vue-msui](https://github.com/yjj5855/vue-msui) by [@yjj5855](https://github.com/yjj5855) : A Vue modal
+  - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
 
 - #### i18n
 
