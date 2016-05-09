@@ -157,8 +157,8 @@
   - [vue-side-nav](https://github.com/vue-comps/vue-side-nav): responsive, touch enabled side nav
   - [vue-parallax](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
   - [vue-zoombox](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
-  - [vue-icons](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons 
-- [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design 
+  - [vue-icons](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
+- [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
 
 ### Libraries & Plugins
 
@@ -231,6 +231,10 @@
   - [vue-color](https://github.com/xiaokaike/vue-color), Color picker
   - [vue-avatar](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
   - [vue-msui](https://github.com/yjj5855/vue-msui) by [@yjj5855](https://github.com/yjj5855) : A Vue modal
+  - [vue-file-base64](https://github.com/BosNaufal/vue-file-base64) - Vue Component for Converting File to base64 by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-ripple](https://github.com/BosNaufal/vue-ripple) - Vue Component to Make Google Material Design Ripple Effect by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-scrollbar](https://github.com/BosNaufal/vue-scrollbar) - The Simplest Scroll Area Component with custom scrollbar for Vue by [@BosNaufal](https://github.com/BosNaufal)
+
 
 - #### i18n
 
