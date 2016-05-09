@@ -234,7 +234,7 @@
   - [vue-file-base64](https://github.com/BosNaufal/vue-file-base64) - Vue Component for Converting File to base64 by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-ripple](https://github.com/BosNaufal/vue-ripple) - Vue Component to Make Google Material Design Ripple Effect by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-scrollbar](https://github.com/BosNaufal/vue-scrollbar) - The Simplest Scroll Area Component with custom scrollbar for Vue by [@BosNaufal](https://github.com/BosNaufal)
-
+  - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
 
 - #### i18n
 
