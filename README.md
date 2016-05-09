@@ -235,6 +235,7 @@
   - [vue-ripple](https://github.com/BosNaufal/vue-ripple) - Vue Component to Make Google Material Design Ripple Effect by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-scrollbar](https://github.com/BosNaufal/vue-scrollbar) - The Simplest Scroll Area Component with custom scrollbar for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
+  - [vue-markdown](https://github.com/miaolz123/vue-markdown): A Powerful and Highspeed Markdown Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
 
 - #### i18n
 
