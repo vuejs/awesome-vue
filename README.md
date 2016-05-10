@@ -239,7 +239,7 @@
 
 - #### i18n
 
-  - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin.
+  - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-i18n ★32](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the
   - [vue-locale ★9](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS
   - [vue-jade-editor ★0](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
