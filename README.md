@@ -236,6 +236,7 @@
   - [vue-scrollbar](https://github.com/BosNaufal/vue-scrollbar) - The Simplest Scroll Area Component with custom scrollbar for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
   - [vue-markdown](https://github.com/miaolz123/vue-markdown): A Powerful and Highspeed Markdown Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
+  - [vue-awesome](https://github.com/Justineo/vue-awesome): Font Awesome component for Vue.js, using inline SVG. By [@Justineo](https://github.com/Justineo)
 
 - #### i18n
 
