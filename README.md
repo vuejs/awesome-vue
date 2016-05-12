@@ -190,6 +190,7 @@
   - [**vue-validator ★538**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>1.0 compatible</sup>
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
+  - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
 
 - #### UI Components
 
