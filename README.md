@@ -190,6 +190,7 @@
   - [**vue-validator ★538**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>1.0 compatible</sup>
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
+  - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
 
 - #### UI Components
 
@@ -242,7 +243,7 @@
 
   - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-i18n ★32](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the
-  - [vue-locale ★9](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS
+  - [vue-locale ★9](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS by @sebastiansoft
   - [vue-jade-editor ★0](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
 
 - #### Examples
@@ -262,6 +263,7 @@
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
+  - [Boilerplate for single page applications](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
 
 - #### Scaffolding
 
