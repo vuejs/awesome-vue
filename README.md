@@ -238,7 +238,7 @@
   - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput): A tags input component based on Vue.js
   - [vue-markdown](https://github.com/miaolz123/vue-markdown): A Powerful and Highspeed Markdown Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-awesome](https://github.com/Justineo/vue-awesome): Font Awesome component for Vue.js, using inline SVG. By [@Justineo](https://github.com/Justineo)
-
+  - [vue-smoothscroll](https://github.com/Teddy-Zhu/vue-smoothscroll):scroll website smoothly  , By [@Teddy-Zhu](https://github.com/Teddy-Zhu)
 - #### i18n
 
   - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -405,3 +405,5 @@
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
