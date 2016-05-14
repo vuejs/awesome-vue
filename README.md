@@ -239,7 +239,7 @@
   - [vue-markdown](https://github.com/miaolz123/vue-markdown): A Powerful and Highspeed Markdown Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-awesome](https://github.com/Justineo/vue-awesome): Font Awesome component for Vue.js, using inline SVG. By [@Justineo](https://github.com/Justineo)
   - [vue-smoothscroll](https://github.com/Teddy-Zhu/vue-smoothscroll):scroll website smoothly  , By [@Teddy-Zhu](https://github.com/Teddy-Zhu)
-  - [vue-breadcrumbs](https://github.com/samturrell/vue-breadcrumbs): Implements simple breadcrumb functionality with vue-router, By [@SamTurrell](https://github.com/samturrell)
+  - [vue-breadcrumbs](https://github.com/samturrell/vue-breadcrumbs): Implements simple breadcrumb functionality with vue-router. By [@SamTurrell](https://github.com/samturrell)
 
 - #### i18n
 
