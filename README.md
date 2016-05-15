@@ -208,7 +208,7 @@
   - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
   - [vue-transition ★34](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
   - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
-  - [Vue YouTube Embed ★16](https://github.com/kaorun343/vue-youtube-embed): a directive for Vue.js and YouTube by @kaorun343
+  - [Vue YouTube Embed ★16](https://github.com/kaorun343/vue-youtube-embed): a component for Vue.js and YouTube by @kaorun343
   - [Vue datepicker ★48](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker ★16](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
   - [**vue-spinner ★131**](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
