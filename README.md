@@ -159,6 +159,7 @@
   - [vue-zoombox](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
   - [vue-icons](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
 - [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
+- [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
 
 ### Libraries & Plugins
 
