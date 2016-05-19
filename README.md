@@ -378,6 +378,7 @@
   - [Reddit News ★27](https://github.com/Mati365/reddit-news) A browser extension which show notifications and news from reddit
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
   - [小桃酱](https://app.xiaotaojiang.com/)
+  - [金哲博客](http://jinzhe.net/)
 
 - #### Interactive Experiences
 
