@@ -243,6 +243,7 @@
   - [vue-breadcrumbs](https://github.com/samturrell/vue-breadcrumbs): Implements simple breadcrumb functionality with vue-router. By [@SamTurrell](https://github.com/samturrell)
   - [vue-datepicker](https://github.com/weifeiyue/vue-datepicker): datepicker component for Vue.js. By [@weifeiyue](https://github.com/weifeiyue)
   - [vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
+  - [vue-calendar](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
 
 - #### i18n
 
