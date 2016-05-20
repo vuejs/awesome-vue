@@ -151,6 +151,8 @@
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
 - [**vux ★1,068**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
 - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
+- [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/): Vue.js Multiple file upload component support ie9 [lianyue.org](http://www.lianyue.org) by LianYue
+
 - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
   - [vue-materialize ★25](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for `vue-comps`
   - [vue-clusterize ★18](https://github.com/vue-comps/vue-clusterize): implementation of clusterize.js in vue, invisible pagination
