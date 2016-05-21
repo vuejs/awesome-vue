@@ -359,6 +359,7 @@
   - [CoPilot](http://copilot.mistergf.io/) - An admin portal based on AdminLTE with vue.js integration. <sup>[[Source]](https://github.com/misterGF/CoPilot)</sup>
   - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> A simple tool for doing collaborative retrospectives in agile teams.
   - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> cms based on mongodb, nodejs, koa, vue and more.
+  - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> Organize Your GitHub Stars With Ease.
 
 - #### Apps/Websites
 
