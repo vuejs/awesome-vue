@@ -268,6 +268,7 @@
   - [Vue SoundCloud ★12](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
   - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
   - [Vue Cookbook (Vue1.0 + express) ★65](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
+  - [Vuejs Starter Kit] (https://github.com/MetinSeylan/VuejsStarterKit) modern starter kit by [MetinSeylan](https://github.com/MetinSeylan)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -328,7 +329,7 @@
   - [vue-gesture ★6](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
   - [vue-lazyload-img ★6](https://github.com/JALBAA/vue-lazyload-img) another image lazyload plugin for Vue, especially optimized for mobile browser. By [@JALBAA](https://github.com/JALBAA)
   - [vue-helmet](https://github.com/miaolz123/vue-helmet) : Like [react-helmet](https://github.com/nfl/react-helmet), a HTML head manager for Vue, edit the page title easily. By [@miaolz123](https://github.com/miaolz123)
-  - [vue-socket.io](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](https://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-socket.io ★20](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-clipboard](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
 
