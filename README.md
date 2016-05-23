@@ -250,6 +250,7 @@
 - #### i18n
 
   - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
+  - [vue-localize](https://github.com/Saymon-biz/vue-localize): Internationalization plugin for vue.js based applications
   - [vue-i18n ★32](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the
   - [vue-i18n ★5](https://github.com/jinzhe/vue-i18n): Internationalization plugin by @jinzhe<sup>1.x</sup>
   - [vue-locale ★9](https://github.com/sebastian-software/vue-locale): Advanced localization support for VueJS by @sebastiansoft
