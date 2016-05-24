@@ -362,6 +362,7 @@
   - [Retrospectify](http://pepf.nl/retrospective/)<sup>[[Source]](https://github.com/pepf/retrospectify)</sup> A simple tool for doing collaborative retrospectives in agile teams.
   - [jade-press](http://jade-press.org/)<sup>[[Source]](https://github.com/jade-press/jade-press)</sup> cms based on mongodb, nodejs, koa, vue and more.
   - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> Organize Your GitHub Stars With Ease.
+  - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> A New Tab Chrome Extension gives you a moment to read the good quotations with their recommanded tools which were excerpted from the interviews made by liqi.com, you can always find your favorites.
 
 - #### Apps/Websites
 
