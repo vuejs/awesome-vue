@@ -419,6 +419,7 @@
   - Celtra
   - Sainsbury's
   - [AREX](https://arex.io/)
+  - DJI
 
 ## License
 
