@@ -246,6 +246,7 @@
   - [vue-datepicker](https://github.com/weifeiyue/vue-datepicker): datepicker component for Vue.js. By [@weifeiyue](https://github.com/weifeiyue)
   - [vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
   - [vue-calendar](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
+  - [vue-multiselect](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
 
 - #### i18n
 
