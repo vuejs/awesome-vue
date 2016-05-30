@@ -249,6 +249,7 @@
   - [vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
   - [vue-calendar](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
   - [vue-multiselect](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
+  - [vue-infinite-loading ★7](https://github.com/PeachScript/vue-infinite-loading): An infinite loading/scroll plugin for Vue.js, support any scrollable element. By [@PeachScript](https://github.com/PeachScript)
   - [vue-swipe](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-loadmore](https://github.com/ElemeFE/vue-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
 
@@ -302,6 +303,7 @@
   - [Socketize Backend ★6](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data ★12](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
   - [Vue Proerty Decorator ★7](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
+  - [Vue-Typed](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
 
 - #### General Plugins/Directives
 
