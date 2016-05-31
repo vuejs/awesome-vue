@@ -397,6 +397,7 @@
   - [小桃酱](https://app.xiaotaojiang.com/)
   - [金哲博客](http://jinzhe.net/)
   - [cloudradioo](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
+  - [Zova](https://zova.com/)
 
 - #### Interactive Experiences
 
