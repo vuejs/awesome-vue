@@ -163,6 +163,7 @@
 - [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
 - [vue-spectre](vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by @vace <sup>1.0</sup>
+- [vue-desktop](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 
 ### Libraries & Plugins
 
@@ -249,6 +250,8 @@
   - [vue-calendar](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
   - [vue-multiselect](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
   - [vue-infinite-loading ★7](https://github.com/PeachScript/vue-infinite-loading): An infinite loading/scroll plugin for Vue.js, support any scrollable element. By [@PeachScript](https://github.com/PeachScript)
+  - [vue-swipe](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-loadmore](https://github.com/ElemeFE/vue-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
 
 - #### i18n
 
@@ -338,6 +341,10 @@
   - [vue-socket.io ★20](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-clipboard](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
+  - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-toast-mobile](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-indicator](https://github.com/ElemeFE/vue-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
 
 - #### Talks
 
