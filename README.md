@@ -278,6 +278,7 @@
   - [Vue Cookbook (Vue1.0 + express) ★65](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
   - [Vuejs Starter Kit] (https://github.com/MetinSeylan/VuejsStarterKit) modern starter kit by [MetinSeylan](https://github.com/MetinSeylan)
   - [Strong Together](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
+  - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -346,6 +347,7 @@
   - [vue-toast-mobile](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-indicator](https://github.com/ElemeFE/vue-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
 
 - #### Talks
 
@@ -406,6 +408,7 @@
   - [金哲博客](http://jinzhe.net/)
   - [cloudradioo](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
   - [Zova](https://zova.com/)
+  - [风投侠](https://vcshare.cn/)
 
 - #### Interactive Experiences
   
