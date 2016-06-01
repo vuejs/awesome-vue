@@ -163,7 +163,7 @@
 - [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
 - [vue-spectre](vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by @vace <sup>1.0</sup>
-- [vue-desktop](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
+- [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 
 ### Libraries & Plugins
 
