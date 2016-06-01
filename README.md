@@ -345,6 +345,7 @@
   - [vue-toast-mobile](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-indicator](https://github.com/ElemeFE/vue-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
 
 - #### Talks
 
