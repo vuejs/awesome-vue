@@ -2309,7 +2309,7 @@ application.  By @Haixing-Hu
     <a href="http://1700laposte.com/jean-pierre-morin/">
      Jean-Pierre Morin | 1700 LAPOSTE
     </a>
-    - by Ecorse & KFFEIN
+    - by Écorce & KFFEIN
    </li>
    <li>
     <a href="https://newsfeed.fb.com/">
