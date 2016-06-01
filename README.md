@@ -252,6 +252,7 @@
   - [vue-infinite-loading ★7](https://github.com/PeachScript/vue-infinite-loading): An infinite loading/scroll plugin for Vue.js, support any scrollable element. By [@PeachScript](https://github.com/PeachScript)
   - [vue-swipe](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-loadmore](https://github.com/ElemeFE/vue-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-tree-view](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
 
 - #### i18n
 
