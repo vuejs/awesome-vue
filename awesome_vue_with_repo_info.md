@@ -2305,6 +2305,12 @@ application.  By @Haixing-Hu
    Interactive Experiences
   </h4>
   <ul>
+    <li>
+    <a href="http://1700laposte.com/jean-pierre-morin/">
+     Jean-Pierre Morin | 1700 LAPOSTE
+    </a>
+    - by Ecorse & KFFEIN
+   </li>
    <li>
     <a href="https://newsfeed.fb.com/">
      Facebook NewsFeed
