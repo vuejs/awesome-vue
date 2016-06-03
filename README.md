@@ -307,6 +307,7 @@
   - [Vue-Meteor-Data ★12](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
   - [Vue Proerty Decorator ★7](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
   - [Vue-Typed](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
+  - [Vue as a Meteor UI layer](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
 
 - #### General Plugins/Directives
 
