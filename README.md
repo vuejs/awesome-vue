@@ -162,7 +162,12 @@
   - [vue-icons](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
 - [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
+<<<<<<< HEAD
 - [vue-spectre](https://vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by [@vace](https://github.com/vace) <sup>1.0</sup>
+=======
+- [vue-spectre](vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by @vace <sup>1.0</sup>
+- [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
+>>>>>>> master
 
 ### Libraries & Plugins
 
@@ -248,6 +253,11 @@
   - [vue-timeago](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
   - [vue-calendar](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
   - [vue-multiselect](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
+  - [vue-infinite-loading ★7](https://github.com/PeachScript/vue-infinite-loading): An infinite loading/scroll plugin for Vue.js, support any scrollable element. By [@PeachScript](https://github.com/PeachScript)
+  - [vue-swipe](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-loadmore](https://github.com/ElemeFE/vue-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-tree-view](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
+  - [vue-swiper](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
 
 - #### i18n
 
@@ -273,6 +283,7 @@
   - [Vue Cookbook (Vue1.0 + express) ★65](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
   - [Vuejs Starter Kit] (https://github.com/MetinSeylan/VuejsStarterKit) modern starter kit by [MetinSeylan](https://github.com/MetinSeylan)
   - [Strong Together](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
+  - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -299,6 +310,8 @@
   - [Socketize Backend ★6](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data ★12](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
   - [Vue Proerty Decorator ★7](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
+  - [Vue-Typed](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
+  - [Vue as a Meteor UI layer](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
 
 - #### General Plugins/Directives
 
@@ -336,6 +349,11 @@
   - [vue-socket.io ★20](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-clipboard](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
+  - [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-toast-mobile](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-indicator](https://github.com/ElemeFE/vue-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
 
 - #### Talks
 
@@ -395,9 +413,13 @@
   - [小桃酱](https://app.xiaotaojiang.com/)
   - [金哲博客](http://jinzhe.net/)
   - [cloudradioo](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
+  - [Zova](https://zova.com/)
+  - [风投侠](https://vcshare.cn/)
+  - [COPA 2016](http://www.ca2016.com/)
 
 - #### Interactive Experiences
-
+  
+  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
   - [Facebook NewsFeed](https://newsfeed.fb.com/)
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
   - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
