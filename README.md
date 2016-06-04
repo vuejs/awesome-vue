@@ -122,6 +122,7 @@
 - [vueify-extract-css ★18](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
 - [eslint-plugin-vue ★21](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
 - [vbuild ★59](https://github.com/egoist/vbuild) - Preset build tool for Vue.js apps.
+- [vue-markdown-loader](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
 
 ### Syntax Highlighting
 
