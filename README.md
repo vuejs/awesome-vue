@@ -134,6 +134,7 @@
 - [Brackets ★6](https://github.com/pandao/brackets-vue) by @pandao
 - [**IntelliJ IDEA / WebStorm ★135**](https://github.com/henjue/vue-for-idea) by @henjue
 - [Emacs ★2](https://github.com/CodeFalling/vue-mode) by @CodeFalling
+- [Visual Studio 2015](https://github.com/madskristensen/VuePack) by @madskristensen
 
 ### Snippets
 
