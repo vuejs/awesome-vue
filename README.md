@@ -413,6 +413,7 @@
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
+  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles 
 
 - #### Interactive Experiences
   
