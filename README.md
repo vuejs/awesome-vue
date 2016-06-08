@@ -32,6 +32,7 @@
   - [Scaffolding](#scaffolding)
   - [Integrations](#integrations)
   - [General Plugins/Directives](#general-pluginsdirectives)
+  - [SEO](#seo)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -353,6 +354,10 @@
   - [vue-indicator](https://github.com/ElemeFE/vue-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
+
+- #### SEO
+
+  - [vue-head](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way 
 
 - #### Talks
 
