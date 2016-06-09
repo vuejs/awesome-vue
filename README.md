@@ -168,6 +168,7 @@
 - [vue-spectre](vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by @vace <sup>1.0</sup>
 - [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 - [smart](https://github.com/shenlq/smart): Reusable mobile components based on Vue, by [@shenlq](https://github.com/shenlq)
+- [vue-admin](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
 
 ### Libraries & Plugins
 
@@ -260,6 +261,7 @@
   - [vue-loadmore](https://github.com/ElemeFE/vue-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-tree-view](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
   - [vue-swiper](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
+  - [vue-peity](https://github.com/fundon/vue-peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
 
 - #### i18n
 
