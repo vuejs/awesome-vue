@@ -185,6 +185,7 @@
   - [**vue-resource ★1,162**](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
   - [**vue-async-data ★174**](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
   - [vue-async-computed ★15](https://github.com/foxbenjaminfox/vue-async-computed) - Plugin to support computed properties that are calculated asynchronously. By [@foxbenjaminfox](https://github.com/foxbenjaminfox)
+  - [vue-model](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
 
 - #### State Management
 
