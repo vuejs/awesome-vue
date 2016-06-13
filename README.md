@@ -169,6 +169,7 @@
 - [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 - [smart](https://github.com/shenlq/smart): Reusable mobile components based on Vue, by [@shenlq](https://github.com/shenlq)
 - [vue-admin](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
+- [vue-material-design](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 
 ### Libraries & Plugins
 
