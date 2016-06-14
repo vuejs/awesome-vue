@@ -427,7 +427,7 @@
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
   - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles 
-  - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
+  - [SPA Blog](http://ktquez.surge.sh/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
 
 - #### Interactive Experiences
   
