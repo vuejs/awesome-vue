@@ -296,6 +296,7 @@
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
   - [Boilerplate for single page applications](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
   - [Boilerplate for SPAs use vuex & vue-router ★6](https://github.com/crossjs/plato) by @crossjs
+  - [electron-vue](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG
 
 - #### Scaffolding
 
