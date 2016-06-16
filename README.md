@@ -95,6 +95,7 @@
 - [Building a Bookmarking App with Electron, VueJs, and Firebase](http://coligo.io/bookmarking-app-electron-vuejs-firebase/) on Coligo.io
 - [Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/) on Coligo.io
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
+- [讲解Vue.js 官网 中文-含代码、百度云、youtube] (https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 
 #### 0.12 and earlier
 
