@@ -292,6 +292,8 @@
   - [Strong Together](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
   - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
   - [vue-shopping ★105](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
+  - [Vue-cnodejs ★962](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
+  
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
