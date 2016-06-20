@@ -43,7 +43,7 @@
 
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
-- [**GitHub Repo ★20,319**](https://github.com/vuejs/vue)
+- [**GitHub Repo ★20,957**](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 
 ### External Resources
