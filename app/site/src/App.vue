@@ -15,7 +15,7 @@
               v-model="q"
               id="seachField"
               autofocus="autofocus">
-            <a :href="`#${q}`"
+            <a :href="'#' + q"
               v-show="q.trim()"
               title="Link to this search"
               class="link">

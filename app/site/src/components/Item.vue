@@ -12,7 +12,7 @@
     <footer class="thin" v-if="item.tags">
       <ul>
         <li v-for="tag in item.tags">
-          <a :href="`#${tag}`" @click="filterByTag(tag)">{{ tag }}</a>
+          <a :href="'#' + tag" @click="filterByTag(tag)">{{ tag }}</a>
         </li>
       </ul>
     </footer>
