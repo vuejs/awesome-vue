@@ -160,6 +160,7 @@
 - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
   - [vue-materialize ★25](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for `vue-comps`
   - [vue-clusterize ★18](https://github.com/vue-comps/vue-clusterize): implementation of clusterize.js in vue, invisible pagination
+  - [vue-data-table](https://github.com/vue-comps/vue-data-table): A high-customizable data-table based on vue-clusterize
   - [vue-side-nav](https://github.com/vue-comps/vue-side-nav): responsive, touch enabled side nav
   - [vue-parallax](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
   - [vue-zoombox](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
