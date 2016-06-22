@@ -1,6 +1,6 @@
 ---
-name: SPA Blog](http://ktquez.surge.sh/) Personal blog and portfolio site [see repository
-url: https://github.com/ktquez/ktquez.com
-author: 
-description: 
+name: SPA Blog
+url: http://ktquez.surge.sh/
+author:
+description: Personal blog and portfolio site [[Source]](https://github.com/ktquez/ktquez.com)
 tags:
