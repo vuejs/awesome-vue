@@ -2,5 +2,5 @@
 name: Form generation from JSON Schema
 url: https://github.com/dgerber/vue-formidable
 author: "@dgerber"
-description: "ue component to build forms from JSON Schemas"
+description: "Vue component to build forms from JSON Schemas"
 tags:
