@@ -1,6 +1,7 @@
 ---
 name: "vueify"
 url: https://github.com/vuejs/vueify
-author: 
+author:
 description: "Vue component transform for Browserify."
 tags:
+  - official
