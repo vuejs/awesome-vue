@@ -29,14 +29,16 @@ export default {
   props: ['item'],
   mixins: [filterByTag],
   computed: {
+    /**
+     * Get a shields.io badge URL for a GitHub repository.
+     * @return {String|null}
+     */
     githubBadgeUrl() {
       const re = /https?:\/\/github\.com\/([A-Za-z0-9-_]*)\/([A-Za-z0-9-_]*)\/?$/i
       const matches = re.exec(this.item.url)
-      if (!matches) {
-        return null
-      }
-
-      return `https://img.shields.io/github/stars/${matches[1]}/${matches[2]}.svg?style=social&label=★`
+      return matches
+        ? `https://img.shields.io/github/stars/${matches[1]}/${matches[2]}.svg?style=social&label=★`
+        : null
     }
   }
 }
