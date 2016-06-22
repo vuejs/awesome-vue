@@ -7,6 +7,9 @@
         <a v-if="item.author.url" :href="item.author.url">{{ item.author.name }}</a>
         <template v-else>{{ item.author.name }}</template>
       </span>
+      <a v-if="githubBadgeUrl" :href="item.url" class="github-badge">
+        <img :src="githubBadgeUrl">
+      </a>
     </h1>
     <div class="thin" v-if="item.description" v-html="item.description"></div>
     <footer class="thin" v-if="item.tags">
@@ -24,7 +27,18 @@ import { filterByTag } from '../mixins'
 
 export default {
   props: ['item'],
-  mixins: [filterByTag]
+  mixins: [filterByTag],
+  computed: {
+    githubBadgeUrl() {
+      const re = /https?:\/\/github\.com\/([A-Za-z0-9-_]*)\/([A-Za-z0-9-_]*)\/?$/i
+      const matches = re.exec(this.item.url)
+      if (!matches) {
+        return null
+      }
+
+      return `https://img.shields.io/github/stars/${matches[1]}/${matches[2]}.svg?style=social&label=★`
+    }
+  }
 }
 </script>
 
@@ -44,6 +58,13 @@ article {
 
     &:only-child {
       margin-bottom: 0;
+    }
+
+    .github-badge {
+      padding-top: .3rem;
+      display: inline-block;
+      vertical-align: middle;
+      margin-left: 6px;
     }
   }
 
