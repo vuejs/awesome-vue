@@ -1,3 +1,8 @@
 .DS_Store
 node_modules/
 npm-debug.log
+migrate
+
+# Ignore all non-md files under awesomeness/
+awesomeness/*.*
+!awesomeness/*.md
