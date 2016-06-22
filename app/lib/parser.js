@@ -36,6 +36,9 @@ function parseDir(filename) {
       return parseDir(`${filename}/${child}`)
     })
 
+    // An ugly hardcode here to make sure forward slashes are treated properly
+    info.name = info.name.replace(/:/g, '/')
+
     return info
   }
 
