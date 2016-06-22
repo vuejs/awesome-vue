@@ -40,6 +40,7 @@ article {
   h1 {
     font-size: 1.2rem;
     margin-bottom: .5rem;
+    line-height: 1.9rem;
 
     &:only-child {
       margin-bottom: 0;
