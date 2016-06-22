@@ -8,7 +8,7 @@
         <template v-else>{{ item.author.name }}</template>
       </span>
     </h1>
-    <p class="thin" v-if="item.description">{{ item.description }}</p>
+    <div class="thin" v-if="item.description" v-html="item.description"></div>
     <footer class="thin" v-if="item.tags">
       <ul>
         <li v-for="tag in item.tags">

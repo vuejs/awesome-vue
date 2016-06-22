@@ -22,6 +22,7 @@
     "file-loader": "^0.8.4",
     "js-yaml": "^3.6.1",
     "lodash": "^4.13.1",
+    "marked": "^0.3.5",
     "node-sass": "^3.8.0",
     "sass-loader": "^3.2.1",
     "somebody": "^2.0.0",
