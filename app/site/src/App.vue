@@ -15,7 +15,7 @@
               v-model="q"
               id="seachField"
               autofocus="autofocus">
-            <a :href="`#${q}`"
+            <a :href="'#' + q"
               v-show="q.trim()"
               title="Link to this search"
               class="link">
@@ -183,6 +183,18 @@ a {
 
 .thin {
   font-weight: 300;
+}
+
+code {
+  color: #e96900;
+  padding: 3px 5px;
+  margin: 0 2px;
+  border-radius: 2px;
+  white-space: nowrap;
+  font-family: 'Roboto Mono', Monaco, courier, monospace;
+  font-size: 0.8rem;
+  background-color: #f8f8f8;
+  -webkit-font-smoothing: initial;
 }
 
 #app {

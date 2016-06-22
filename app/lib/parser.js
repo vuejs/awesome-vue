@@ -3,6 +3,7 @@ import path from 'path'
 import yaml from 'js-yaml'
 import somebody from 'somebody'
 import chalk from 'chalk'
+import marked from 'marked'
 
 const opts = {
   root: `${process.cwd()}/awesomeness`,
@@ -35,6 +36,9 @@ function parseDir(filename) {
       return parseDir(`${filename}/${child}`)
     })
 
+    // An ugly hardcode here to make sure forward slashes are treated properly
+    info.name = info.name.replace(/:/g, '/')
+
     return info
   }
 
@@ -43,6 +47,10 @@ function parseDir(filename) {
     info.content = yaml.safeLoad(fs.readFileSync(filename, 'utf8'))
     if (info.content.author) {
       info.content.author = somebody.parse(info.content.author)
+    }
+
+    if (info.content.description) {
+      info.content.description = marked(info.content.description)
     }
   }
 

@@ -31,9 +31,11 @@ section {
     margin: 1.5rem 0 1.7rem;
   }
 
-  > section h1 {
-    font-size: 1.6rem;
-    margin: 1.2rem 0;
+  > section {
+    h1 {
+      font-size: 1.6rem;
+      margin: 1.2rem 0;
+    }
   }
 }
 </style>
