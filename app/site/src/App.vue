@@ -5,7 +5,8 @@
         <hgroup>
           <h1><span class="thin">Awesome</span> Vue.js</h1>
           <h2 class="tagline thin">A curated list of awesome things related to
-            <a href="https://vuejs.org/">Vue.js</a></h2>
+            <a href="https://vuejs.org/">Vue.js</a>
+          </h2>
         </hgroup>
         <form>
           <label>
@@ -13,6 +14,7 @@
               type="search"
               placeholder="type to filter"
               v-model="q"
+              @input="debounceFilter()"
               id="seachField"
               autofocus="autofocus">
             <a :href="'#' + q"
@@ -59,8 +61,35 @@ export default {
     }
   },
 
-  watch: {
-    q() {
+  created() {
+    // Listen to the 'tag-selected' event to trigger the filtering process.
+    event.on('tag-selected', tag => {
+      this.q = tag[0]
+
+      // Set the focus into the search field. Some little UX doesn't kill.
+      this.$nextTick(() => {
+        document.getElementById('seachField').focus()
+      })
+
+      this.debounceFilter()
+    })
+
+    // Also, upon page load, tf there's a hash, we filter the awesome list
+    // right away.
+    if (window.location.hash) {
+      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
+      this.debounceFilter()
+    }
+  },
+
+  methods: {
+    /**
+     * Limit filtering using lodash's debounce.
+     * @param  {Event}
+     * @param  {VueComponent}
+     * @return {Function}
+     */
+    debounceFilter: _.debounce(function () {
       let q = this.q.trim()
 
       if (q === 'everything') {
@@ -73,25 +102,8 @@ export default {
       }
 
       this.groups = this.filter(_.cloneDeep(window.data), q)
-    }
-  },
+    }, 100),
 
-  created() {
-    event.on('tag-selected', tag => {
-      this.q = tag[0]
-
-      // Set the focus into the search field. Some little UX doesn't kill.
-      this.$nextTick(() => {
-        document.getElementById('seachField').focus()
-      })
-    })
-
-    if (window.location.hash) {
-      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
-    }
-  },
-
-  methods: {
     /**
      * Filter our awesome data.
      * @param  {Array.<Object>} groups The groups to apply filtering on
