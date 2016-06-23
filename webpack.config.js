@@ -1,5 +1,6 @@
 var path = require('path')
 var webpack = require('webpack')
+var cp = require('copy-webpack-plugin')
 
 module.exports = {
   entry: './app/site/src/main.js',
@@ -35,7 +36,16 @@ module.exports = {
     historyApiFallback: true,
     noInfo: true
   },
-  devtool: '#eval-source-map'
+  devtool: '#eval-source-map',
+  plugins: [
+    new cp([
+      {
+        context: path.join(__dirname, 'app/site/src/assets'),
+        from: 'logo.png',
+        to:  path.join(__dirname, 'app/site/dist'),
+      }
+    ])
+  ]
 }
 
 if (process.env.NODE_ENV === 'production') {
