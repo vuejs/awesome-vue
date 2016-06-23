@@ -2,12 +2,7 @@
   <div id="app">
     <section class="left">
       <div class="wrap">
-        <hgroup>
-          <h1><span class="thin">Awesome</span> Vue.js</h1>
-          <h2 class="tagline thin">A curated list of awesome things related to
-            <a href="https://vuejs.org/">Vue.js</a>
-          </h2>
-        </hgroup>
+        <main-header></main-header>
         <form>
           <label>
             <input
@@ -26,15 +21,7 @@
           </label>
         </form>
         <explore></explore>
-
-        <footer>
-          <a href="https://github.com/vuejs/awesome-vue"
-            title="Contribute on GitHub"
-            class="github">
-            <i class="fa fa-github"></i>
-            <span class="sm">Contribute on GitHub</span>
-          </a>
-        </footer>
+        <main-footer></main-footer>
       </div>
     </section>
 
@@ -51,9 +38,11 @@ import _ from 'lodash'
 import { event } from './utils'
 import group from './components/Group.vue'
 import explore from './components/Explore.vue'
+import mainHeader from './components/Header.vue'
+import mainFooter from './components/Footer.vue'
 
 export default {
-  components: { group, explore },
+  components: { group, explore, mainHeader, mainFooter },
 
   data () {
     return {
@@ -229,19 +218,6 @@ code {
     justify-content: flex-end;
     background: #fcfcfc;
 
-    hgroup {
-      margin-bottom: 2.4rem;
-
-      h1 {
-        font-size: 2.7rem;
-        margin-bottom: 1.6rem;
-      }
-
-      h2 {
-        font-size: 1.3rem;
-      }
-    }
-
     form {
       margin-bottom: 1.2rem;
 
@@ -301,39 +277,6 @@ code {
         }
       }
     }
-
-    footer {
-      margin-top: 4rem;
-
-      .github {
-        color: #34495e;
-        font-size: 2rem;
-        width: 149px;
-        display: inline-block;
-        position: relative;
-
-        .sm {
-          display: none;
-        }
-
-        &::after {
-          content: "";
-          display: block;
-          width: 100%;
-          height: 27px;
-          background: url(./assets/look-here.png) no-repeat;
-          background-size: 149px;
-          position: absolute;
-          right: -5px;
-          transform: rotate(-4deg);
-          transform-origin: 100% 0;
-        }
-
-        &:hover::after {
-          animation: soho 1s ease-in-out infinite;
-        }
-      }
-    }
   }
 
   .right {
@@ -385,13 +328,6 @@ code {
       border-right: 0;
       border-bottom: 1px solid #ebebeb;
 
-      hgroup {
-        margin-bottom: 1.8rem;
-        .tagline {
-          display: none;
-        }
-      }
-
       form {
         label {
           display: block;
@@ -399,23 +335,6 @@ code {
 
         input[type="search"] {
           width: 100%;
-        }
-      }
-
-      footer {
-        margin-top: 2rem;
-
-        .github {
-          font-size: 1rem;
-          width: 100%;
-
-          .sm {
-            display: inline;
-          }
-
-          &::after {
-            display: none;
-          }
         }
       }
     }
