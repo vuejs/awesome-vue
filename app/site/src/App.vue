@@ -32,6 +32,7 @@
             title="Contribute on GitHub"
             class="github">
             <i class="fa fa-github"></i>
+            <span class="sm">Contribute on GitHub</span>
           </a>
         </footer>
       </div>
@@ -229,6 +230,8 @@ code {
     background: #fcfcfc;
 
     hgroup {
+      margin-bottom: 2.4rem;
+
       h1 {
         font-size: 2.7rem;
         margin-bottom: 1.6rem;
@@ -236,7 +239,6 @@ code {
 
       h2 {
         font-size: 1.3rem;
-        margin-bottom: 2.4rem;
       }
     }
 
@@ -299,6 +301,39 @@ code {
         }
       }
     }
+
+    footer {
+      margin-top: 4rem;
+
+      .github {
+        color: #34495e;
+        font-size: 2rem;
+        width: 149px;
+        display: inline-block;
+        position: relative;
+
+        .sm {
+          display: none;
+        }
+
+        &::after {
+          content: "";
+          display: block;
+          width: 100%;
+          height: 27px;
+          background: url(./assets/look-here.png) no-repeat;
+          background-size: 149px;
+          position: absolute;
+          right: -5px;
+          transform: rotate(-4deg);
+          transform-origin: 100% 0;
+        }
+
+        &:hover::after {
+          animation: soho 1s ease-in-out infinite;
+        }
+      }
+    }
   }
 
   .right {
@@ -322,31 +357,73 @@ code {
   }
 }
 
-footer {
-  margin-top: 4rem;
-
-  .github {
-    color: #34495e;
-    font-size: 2rem;
-    width: 149px;
-    display: inline-block;
-    position: relative;
-
-    &::after {
-      content: "";
-      display: block;
-      width: 100%;
-      height: 27px;
-      background: url(./assets/look-here.png) no-repeat;
-      background-size: 149px;
-      position: absolute;
-      right: -5px;
-      transform: rotate(-4deg);
-      transform-origin: 100% 0;
+@media only screen and (max-width: 1023px) {
+  #app {
+    .left, .right {
+      padding: 24px 16px;
     }
 
-    &:hover::after {
-      animation: soho 1s ease-in-out infinite;
+    .right {
+      overflow-y: scroll;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  #app {
+    display: block;
+    overflow: auto;
+
+    .left, .right {
+      width: 100%;
+      display: block;
+    }
+
+    .left {
+      text-align: left;
+      border-right: 0;
+      border-bottom: 1px solid #ebebeb;
+
+      hgroup {
+        margin-bottom: 1.8rem;
+        .tagline {
+          display: none;
+        }
+      }
+
+      form {
+        label {
+          display: block;
+        }
+
+        input[type="search"] {
+          width: 100%;
+        }
+      }
+
+      footer {
+        margin-top: 2rem;
+
+        .github {
+          font-size: 1rem;
+          width: 100%;
+
+          .sm {
+            display: inline;
+          }
+
+          &::after {
+            display: none;
+          }
+        }
+      }
+    }
+
+    .right {
+      .wrap {
+        max-width: 100%;
+      }
     }
   }
 }

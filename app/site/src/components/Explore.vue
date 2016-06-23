@@ -58,5 +58,20 @@ export default {
       display: none;
     }
   }
+
+  @media only screen and (max-width: 1023px) {
+    h1 {
+      display: inline;
+      font-size: 1rem;
+
+      &::after {
+        content: ":";
+      }
+    }
+
+    ul {
+      display: inline;
+    }
+  }
 }
 </style>
