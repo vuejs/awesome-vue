@@ -34,7 +34,7 @@ export default {
      * @return {String|null}
      */
     githubBadgeUrl() {
-      const re = /https?:\/\/github\.com\/([A-Za-z0-9-_]*)\/([A-Za-z0-9-_]*)\/?$/i
+      const re = /https?:\/\/github\.com\/([A-Za-z0-9-_\.]*)\/([A-Za-z0-9-_\.]*)\/?$/i
       const matches = re.exec(this.item.url)
       return matches
         ? `https://img.shields.io/github/stars/${matches[1]}/${matches[2]}.svg?style=social&label=★`

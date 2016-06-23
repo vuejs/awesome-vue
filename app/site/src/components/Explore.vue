@@ -3,8 +3,7 @@
       <h1 class="thin">Explore</h1>
       <ul>
         <li v-for="tag in coolStuff">
-          <a :href="'#' + tag"
-            @click="filterByTag(tag)">{{ tag }}</a>
+          <a :href="'#' + tag" @click="filterByTag(tag)">{{ tag }}</a>
         </li>
       </ul>
     </section>
