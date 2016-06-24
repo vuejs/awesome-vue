@@ -35,11 +35,14 @@
 
 <script>
 import _ from 'lodash'
+import Blazy from 'blazy'
 import { event } from './utils'
 import group from './components/Group.vue'
 import explore from './components/Explore.vue'
 import mainHeader from './components/Header.vue'
 import mainFooter from './components/Footer.vue'
+
+let blazy = null
 
 export default {
   components: { group, explore, mainHeader, mainFooter },
@@ -63,8 +66,15 @@ export default {
 
       this.debounceFilter()
     })
+  },
 
-    // Also, upon page load, tf there's a hash, we filter the awesome list
+  mounted() {
+    // Register lazyloading for the GitHub badges
+    blazy = new Blazy({
+      container: '.right'
+    })
+
+    // Also, upon page load, if there's a hash, we filter the awesome list
     // right away.
     if (window.location.hash) {
       this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
@@ -92,6 +102,11 @@ export default {
       }
 
       this.groups = this.filter(_.cloneDeep(window.data), q)
+
+      // Force Blazy to revalidate the images for lazy loading
+      this.$nextTick(() => {
+        blazy.revalidate()
+      })
     }, 100),
 
     /**

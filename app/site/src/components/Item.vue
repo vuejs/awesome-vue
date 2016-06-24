@@ -8,7 +8,9 @@
         <template v-else>{{ item.author.name }}</template>
       </span>
       <a v-if="githubBadgeUrl" :href="item.url" class="github-badge">
-        <img :src="githubBadgeUrl">
+        <img class="b-lazy"
+          src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+          :data-src="githubBadgeUrl">
       </a>
     </h1>
     <div class="thin" v-if="item.description" v-html="item.description"></div>
