@@ -64,13 +64,6 @@ export default {
 
       this.debounceFilter()
     })
-
-    // Also, upon page load, tf there's a hash, we filter the awesome list
-    // right away.
-    if (window.location.hash) {
-      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
-      this.debounceFilter()
-    }
   },
 
   mounted() {
@@ -78,6 +71,13 @@ export default {
     const blazy = new Blazy({
       container: '.right'
     })
+
+    // Also, upon page load, tf there's a hash, we filter the awesome list
+    // right away.
+    if (window.location.hash) {
+      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
+      this.debounceFilter()
+    }
   },
 
   methods: {
