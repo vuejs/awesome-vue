@@ -35,6 +35,7 @@
 
 <script>
 import _ from 'lodash'
+import Blazy from 'blazy'
 import { event } from './utils'
 import group from './components/Group.vue'
 import explore from './components/Explore.vue'
@@ -70,6 +71,13 @@ export default {
       this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
       this.debounceFilter()
     }
+  },
+
+  mounted() {
+    // Register lazyloading for the GitHub badges
+    const blazy = new Blazy({
+      container: '.right'
+    })
   },
 
   methods: {

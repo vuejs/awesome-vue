@@ -16,6 +16,7 @@
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-preset-es2015": "^6.0.0",
+    "blazy": "^1.6.2",
     "chalk": "^1.1.3",
     "copy-webpack-plugin": "^3.0.1",
     "cross-env": "^1.0.6",
