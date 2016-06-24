@@ -42,6 +42,8 @@ import explore from './components/Explore.vue'
 import mainHeader from './components/Header.vue'
 import mainFooter from './components/Footer.vue'
 
+let blazy = null
+
 export default {
   components: { group, explore, mainHeader, mainFooter },
 
@@ -68,7 +70,7 @@ export default {
 
   mounted() {
     // Register lazyloading for the GitHub badges
-    const blazy = new Blazy({
+    blazy = new Blazy({
       container: '.right'
     })
 
@@ -100,6 +102,11 @@ export default {
       }
 
       this.groups = this.filter(_.cloneDeep(window.data), q)
+
+      // Force Blazy to revalidate the images for lazy loading
+      this.$nextTick(() => {
+        blazy.revalidate()
+      })
     }, 100),
 
     /**
