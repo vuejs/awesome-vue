@@ -72,7 +72,7 @@ export default {
       container: '.right'
     })
 
-    // Also, upon page load, tf there's a hash, we filter the awesome list
+    // Also, upon page load, if there's a hash, we filter the awesome list
     // right away.
     if (window.location.hash) {
       this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
