@@ -3,8 +3,7 @@
       <h1 class="thin">Explore</h1>
       <ul>
         <li v-for="tag in coolStuff">
-          <a :href="'#' + tag"
-            @click="filterByTag(tag)">{{ tag }}</a>
+          <a :href="'#' + tag" @click="filterByTag(tag)">{{ tag }}</a>
         </li>
       </ul>
     </section>
@@ -56,6 +55,21 @@ export default {
 
     &:first-child::before {
       display: none;
+    }
+  }
+
+  @media only screen and (max-width: 1023px) {
+    h1 {
+      display: inline;
+      font-size: 1rem;
+
+      &::after {
+        content: ":";
+      }
+    }
+
+    ul {
+      display: inline;
     }
   }
 }

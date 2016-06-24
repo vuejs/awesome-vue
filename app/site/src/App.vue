@@ -2,17 +2,14 @@
   <div id="app">
     <section class="left">
       <div class="wrap">
-        <hgroup>
-          <h1><span class="thin">Awesome</span> Vue.js</h1>
-          <h2 class="tagline thin">A curated list of awesome things related to
-            <a href="https://vuejs.org/">Vue.js</a></h2>
-        </hgroup>
+        <main-header></main-header>
         <form>
           <label>
             <input
               type="search"
               placeholder="type to filter"
               v-model="q"
+              @input="debounceFilter()"
               id="seachField"
               autofocus="autofocus">
             <a :href="'#' + q"
@@ -24,14 +21,7 @@
           </label>
         </form>
         <explore></explore>
-
-        <footer>
-          <a href="https://github.com/vuejs/awesome-vue"
-            title="Contribute on GitHub"
-            class="github">
-            <i class="fa fa-github"></i>
-          </a>
-        </footer>
+        <main-footer></main-footer>
       </div>
     </section>
 
@@ -48,9 +38,11 @@ import _ from 'lodash'
 import { event } from './utils'
 import group from './components/Group.vue'
 import explore from './components/Explore.vue'
+import mainHeader from './components/Header.vue'
+import mainFooter from './components/Footer.vue'
 
 export default {
-  components: { group, explore },
+  components: { group, explore, mainHeader, mainFooter },
 
   data () {
     return {
@@ -59,8 +51,35 @@ export default {
     }
   },
 
-  watch: {
-    q() {
+  created() {
+    // Listen to the 'tag-selected' event to trigger the filtering process.
+    event.on('tag-selected', tag => {
+      this.q = tag[0]
+
+      // Set the focus into the search field. Some little UX doesn't kill.
+      this.$nextTick(() => {
+        document.getElementById('seachField').focus()
+      })
+
+      this.debounceFilter()
+    })
+
+    // Also, upon page load, tf there's a hash, we filter the awesome list
+    // right away.
+    if (window.location.hash) {
+      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
+      this.debounceFilter()
+    }
+  },
+
+  methods: {
+    /**
+     * Limit filtering using lodash's debounce.
+     * @param  {Event}
+     * @param  {VueComponent}
+     * @return {Function}
+     */
+    debounceFilter: _.debounce(function () {
       let q = this.q.trim()
 
       if (q === 'everything') {
@@ -73,25 +92,8 @@ export default {
       }
 
       this.groups = this.filter(_.cloneDeep(window.data), q)
-    }
-  },
+    }, 100),
 
-  created() {
-    event.on('tag-selected', tag => {
-      this.q = tag[0]
-
-      // Set the focus into the search field. Some little UX doesn't kill.
-      this.$nextTick(() => {
-        document.getElementById('seachField').focus()
-      })
-    })
-
-    if (window.location.hash) {
-      this.q = /^#(.*)/.exec(window.location.hash)[1].toLowerCase()
-    }
-  },
-
-  methods: {
     /**
      * Filter our awesome data.
      * @param  {Array.<Object>} groups The groups to apply filtering on
@@ -216,18 +218,6 @@ code {
     justify-content: flex-end;
     background: #fcfcfc;
 
-    hgroup {
-      h1 {
-        font-size: 2.7rem;
-        margin-bottom: 1.6rem;
-      }
-
-      h2 {
-        font-size: 1.3rem;
-        margin-bottom: 2.4rem;
-      }
-    }
-
     form {
       margin-bottom: 1.2rem;
 
@@ -310,31 +300,49 @@ code {
   }
 }
 
-footer {
-  margin-top: 4rem;
-
-  .github {
-    color: #34495e;
-    font-size: 2rem;
-    width: 149px;
-    display: inline-block;
-    position: relative;
-
-    &::after {
-      content: "";
-      display: block;
-      width: 100%;
-      height: 27px;
-      background: url(./assets/look-here.png) no-repeat;
-      background-size: 149px;
-      position: absolute;
-      right: -5px;
-      transform: rotate(-4deg);
-      transform-origin: 100% 0;
+@media only screen and (max-width: 1023px) {
+  #app {
+    .left, .right {
+      padding: 24px 16px;
     }
 
-    &:hover::after {
-      animation: soho 1s ease-in-out infinite;
+    .right {
+      overflow-y: scroll;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+}
+
+@media only screen and (max-width: 735px) {
+  #app {
+    display: block;
+    overflow: auto;
+
+    .left, .right {
+      width: 100%;
+      display: block;
+    }
+
+    .left {
+      text-align: left;
+      border-right: 0;
+      border-bottom: 1px solid #ebebeb;
+
+      form {
+        label {
+          display: block;
+        }
+
+        input[type="search"] {
+          width: 100%;
+        }
+      }
+    }
+
+    .right {
+      .wrap {
+        max-width: 100%;
+      }
     }
   }
 }
