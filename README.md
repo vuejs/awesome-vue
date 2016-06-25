@@ -295,6 +295,7 @@
   - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
   - [vue-shopping ★105](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [Vue-cnodejs ★962](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
+  - [vue-zhihu-daily ★357](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
