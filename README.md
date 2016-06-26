@@ -368,6 +368,7 @@
   - [vue-msgbox](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
   - [vue-click-outside](https://github.com/fundon/vue-click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
+  - [vue-medium.js](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
 
 - #### SEO
 
