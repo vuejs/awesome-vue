@@ -167,7 +167,7 @@
   - [vue-icons](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
 - [keen-ui](https://github.com/JosephusPaye/keen-ui): A collection of essential UI components inspired by Material Design
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
-- [vue-spectre](vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by @vace <sup>1.0</sup>
+- [vue-spectre](https://vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by [@vace](http://github.com/vace) <sup>1.0</sup>
 - [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 - [smart](https://github.com/shenlq/smart): Reusable mobile components based on Vue, by [@shenlq](https://github.com/shenlq)
 - [vue-admin](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
