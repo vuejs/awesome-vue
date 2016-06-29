@@ -268,6 +268,7 @@
   - [vue-tree-view](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
   - [vue-swiper](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
   - [vue-peity](https://github.com/fundon/vue-peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
+  - [vue-area](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
 
 - #### i18n
 
