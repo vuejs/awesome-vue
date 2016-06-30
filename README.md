@@ -270,6 +270,7 @@
   - [vue-swiper](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
   - [vue-peity](https://github.com/fundon/vue-peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
   - [vue-area](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
+  - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
 
 - #### i18n
 
