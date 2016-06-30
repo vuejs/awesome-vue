@@ -271,7 +271,7 @@
   - [vue-peity](https://github.com/fundon/vue-peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
   - [vue-area](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
   - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
-  - [Vuikit](https://vuikit.github.io/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
+  - [Vuikit](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
 
 - #### i18n
 
