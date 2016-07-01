@@ -209,7 +209,7 @@
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
   - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
-  - [JS Validator](https://gist.github.com/gocanto/a36a9926cace18a268ed9a94ea42cabc) - The simplest form validator class by @gocanto
+  - [JS Validator](https://github.com/gocanto/js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
 
 - #### UI Components
 
