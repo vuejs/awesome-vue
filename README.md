@@ -209,6 +209,7 @@
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
   - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
+  - [JS Validator](https://github.com/gocanto/js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
 
 - #### UI Components
 
@@ -302,7 +303,7 @@
   - [vue-shopping ★105](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [Vue-cnodejs ★962](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [vue-zhihu-daily ★357](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
-  
+
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
@@ -377,7 +378,7 @@
 
 - #### SEO
 
-  - [vue-head](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way 
+  - [vue-head](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
 
 - #### Talks
 
@@ -442,11 +443,11 @@
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
-  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles 
+  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles
   - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
 - #### Interactive Experiences
-  
+
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
   - [Facebook NewsFeed](https://newsfeed.fb.com/)
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
