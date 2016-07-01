@@ -147,6 +147,7 @@
 ### Autocomplete
 
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [google-autocomplete](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 
 ### Component Collections
 
@@ -209,7 +210,7 @@
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
   - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
-  - [JS Validator](https://github.com/gocanto/js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
+  - [JS Validator](https://github.com/gocanto/js-validator) - The easiest way to validate your forms without 3rd party packages by by [@gocanto](https://github.com/gocanto)
 
 - #### UI Components
 
