@@ -147,6 +147,7 @@
 ### Autocomplete
 
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [google-autocomplete](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 
 ### Component Collections
 
