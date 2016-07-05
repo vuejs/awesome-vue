@@ -315,8 +315,6 @@
   - [electron-vue](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG
   - [browserify-complete](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
 
-
-
 - #### Scaffolding
 
   - [**vue-cli ★569**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
