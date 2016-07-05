@@ -313,6 +313,7 @@
   - [Boilerplate for single page applications](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
   - [Boilerplate for SPAs use vuex & vue-router ★6](https://github.com/crossjs/plato) by @crossjs
   - [electron-vue](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG
+  - [browserify-complete](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
 
 - #### Scaffolding
 
