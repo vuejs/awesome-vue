@@ -203,6 +203,7 @@
   - [vue-redux ★74](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
   - [vue-freeze ★29](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★25](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-stash ★1](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
 
 - #### Validation
 
