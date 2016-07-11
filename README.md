@@ -147,6 +147,7 @@
 ### Autocomplete
 
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [google-autocomplete](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 
 ### Component Collections
 
@@ -155,7 +156,7 @@
 - [**vue-mdl ★284**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
-- [**vux ★1,068**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI
+- [**Vux ★2,351**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI. By [@airyland](https://github.com/airyland)
 - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/): Vue.js Multiple file upload component support ie9 [lianyue.org](http://www.lianyue.org) by LianYue
 
@@ -202,6 +203,7 @@
   - [vue-redux ★74](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
   - [vue-freeze ★29](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★25](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-stash ★1](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
 
 - #### Validation
 
@@ -209,6 +211,7 @@
   - [Vue validator ★34](https://github.com/xrado/vue-validator) by @xrado
   - [**vue-form ★105**](https://github.com/fergaldoyle/vue-form) by @fergaldoyle <sup>1.0 compatible</sup>
   - [Vuex Validator](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
+  - [JS Validator](https://github.com/gocanto/js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
 
 - #### UI Components
 
@@ -273,6 +276,9 @@
   - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
   - [Vuikit](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
   - [Vue.Dragable.For](https://github.com/David-Desmaisons/Vue.Dragable.For): Vue directive for lists allowing drag-and-drop sorting of elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
+  - [vue-chart](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
+  - [vue-m-carousel](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
+
 - #### i18n
 
   - [**vue-i18n ★164**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -302,13 +308,14 @@
   - [vue-shopping ★105](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [Vue-cnodejs ★962](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [vue-zhihu-daily ★357](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
-  
+
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
   - [Boilerplate for single page applications](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
   - [Boilerplate for SPAs use vuex & vue-router ★6](https://github.com/crossjs/plato) by @crossjs
   - [electron-vue](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG
+  - [browserify-complete](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
 
 - #### Scaffolding
 
@@ -331,6 +338,7 @@
   - [Vue Proerty Decorator ★7](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
   - [Vue-Typed](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
   - [Vue as a Meteor UI layer](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
+  - [Vue-Typescript ★47](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
 
 - #### General Plugins/Directives
 
@@ -377,7 +385,7 @@
 
 - #### SEO
 
-  - [vue-head](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way 
+  - [vue-head](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
 
 - #### Talks
 
@@ -442,11 +450,11 @@
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
-  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles 
+  - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles
   - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
 - #### Interactive Experiences
-  
+
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
   - [Facebook NewsFeed](https://newsfeed.fb.com/)
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
