@@ -278,6 +278,7 @@
   - [Vue.Dragable.For](https://github.com/David-Desmaisons/Vue.Dragable.For): Vue directive for lists allowing drag-and-drop sorting of elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
   - [vue-chart](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-m-carousel](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
+  - [Vue.Isotope](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
 
 - #### i18n
 
