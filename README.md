@@ -383,6 +383,7 @@
   - [vue-scroll](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
   - [vue-click-outside](https://github.com/fundon/vue-click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
   - [vue-medium.js](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
+  - [vue-electron](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
 
 - #### SEO
 
