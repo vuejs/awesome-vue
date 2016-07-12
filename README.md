@@ -315,7 +315,7 @@
   - [Boilerplate for Vue.js & Atom Electron  ★33](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
   - [Boilerplate for single page applications](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
   - [Boilerplate for SPAs use vuex & vue-router ★6](https://github.com/crossjs/plato) by @crossjs
-  - [electron-vue](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG
+  - [electron-vue ★55](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - Configurable boilerplate with ESLint, vue-electron, resource, router, and vuex <sup>vue-cli compatible, gitbook</sup>
   - [browserify-complete](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
 
 - #### Scaffolding
