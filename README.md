@@ -174,6 +174,7 @@
 - [vue-desktop ★100](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
 - [smart](https://github.com/shenlq/smart): Reusable mobile components based on Vue, by [@shenlq](https://github.com/shenlq)
 - [vue-admin](https://github.com/fundon/vue-admin): Vue Admin Panel Framework, by [@fundon](https://github.com/fundon)
+- [vue-kit](https://github.com/gismall/vue-kit): Vue Website Framework, by [@gismall](https://github.com/gismall),[demo:http://vue-kit.gismall.com](http://vue-kit.gismall.com)
 - [vue-material-design](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 - [mint-ui ★767](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
 - [searchable-select-dropdown](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
