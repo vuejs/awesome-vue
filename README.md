@@ -330,6 +330,7 @@
   - [Vuetober ★21](https://github.com/scottbedard/oc-vuetober-theme): SPA scaffolding for October CMS
   - [vue-go-cli ★2](https://github.com/rodzzlessa24/vue-go-cli) - a CLI tool for scaffolding new projects generating components, services, and mixins.
   - [Brunch with Vue ★9](https://github.com/nblackburn/brunch-with-vue) - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
+  - [vuex-horizon-scaffold ★2](https://github.com/kylestlb/vuex-horizon-scaffold) - A scaffold with vuex and horizon.io, hooked up to the vue-cli webpack build.
 
 - #### Integrations
 
