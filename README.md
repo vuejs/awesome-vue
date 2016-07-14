@@ -318,6 +318,7 @@
   - [Boilerplate for SPAs use vuex & vue-router ★6](https://github.com/crossjs/plato) by @crossjs
   - [electron-vue ★55](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - Configurable boilerplate with ESLint, vue-electron, resource, router, and vuex <sup>vue-cli compatible, gitbook</sup>
   - [browserify-complete](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
+  - [Modern Vue.js starter boilerplate - Vue Router, Vue Resource, ES6, Babel, Webpack (with BrowserSync), ESLint & SASS](https://github.com/villeristi/vue.js-starter-template) by [villeristi](https://github.com/villeristi)
 
 - #### Scaffolding
 
