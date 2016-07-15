@@ -458,6 +458,7 @@
   - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles
   - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
+  - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
