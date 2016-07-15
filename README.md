@@ -313,12 +313,14 @@
   - [**vue-zhihu-daily ★407**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
 
 - #### Boilerplates
+
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
   - [Boilerplate for Vue.js & Atom Electron  ★69](https://github.com/rodzzlessa24/vue-electron) by @rodzzlessa24
   - [Boilerplate for single page applications ★16](https://github.com/sebastian-software/modern-spa-boilerplate) by @sebastiansoft
   - [Boilerplate for SPAs use vuex & vue-router ★72](https://github.com/crossjs/plato) by @crossjs
   - [electron-vue ★78](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - Configurable boilerplate with ESLint, vue-electron, resource, router, and vuex <sup>vue-cli compatible, gitbook</sup>
   - [browserify-complete ★5](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
+  - [Modern Vue.js starter boilerplate - Vue Router, Vue Resource, ES6, Babel, Webpack (with BrowserSync), ESLint & SASS](https://github.com/villeristi/vue.js-starter-template) by [villeristi](https://github.com/villeristi)
 
 - #### Scaffolding
 
@@ -343,7 +345,7 @@
   - [Vue-Typed ★7](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
   - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
   - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
-  - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123) 
+  - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
 
 - #### General Plugins/Directives
 
