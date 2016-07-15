@@ -181,6 +181,19 @@
 - [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
 - [Vuikit ★100](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
 
+- [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components by @fundon
+  - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
+  - [vue-bulma-chartjs](https://github.com/vue-bulma/chartjs): Chartjs component is based on chart.js for Vue Bulma
+  - [vue-bulma-chartist](https://github.com/vue-bulma/chartist): Chartist component is based on Chartist for Vue Bulma
+  - [vue-bulma-message](https://github.com/vue-bulma/message): Message component for Vue Bulma
+  - [vue-bulma-modal](https://github.com/vue-bulma/modal): Modal component for Vue Bulma
+  - [vue-bulma-notification](https://github.com/vue-bulma/notification): Notification component for Vue Bulma
+  - [vue-bulma-progress-bar](https://github.com/vue-bulma/progress-bar): ProgressBar component for Vue Bulma
+  - [vue-bulma-slider](https://github.com/vue-bulma/slider): Slider component for Vue Bulma
+  - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
+  - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
+  - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
+
 ### Libraries & Plugins
 
 - #### Routing
