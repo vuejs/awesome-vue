@@ -191,6 +191,7 @@
   - [vue-bulma-modal](https://github.com/vue-bulma/modal): Modal component for Vue Bulma
   - [vue-bulma-notification](https://github.com/vue-bulma/notification): Notification component for Vue Bulma
   - [vue-bulma-progress-bar](https://github.com/vue-bulma/progress-bar): ProgressBar component for Vue Bulma
+  - [vue-bulma-progress-tracker](https://github.com/vue-bulma/progress-tracker): ProgressTracker component is based on progress-tracker for Vue Bulma
   - [vue-bulma-rating](https://github.com/vue-bulma/rating): Rating component is based on starability.css for Vue Bulma
   - [vue-bulma-slider](https://github.com/vue-bulma/slider): Slider component for Vue Bulma
   - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
