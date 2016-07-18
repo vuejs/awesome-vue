@@ -160,7 +160,6 @@
 - [**Vux ★2,570**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI. By [@airyland](https://github.com/airyland)
 - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/): Vue.js Multiple file upload component support ie9 [lianyue.org](http://www.lianyue.org) by LianYue
-
 - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
   - [vue-materialize ★66](https://github.com/paulpflug/vue-materialize): materializeCss styles and animations for `vue-comps`
   - [vue-clusterize ★28](https://github.com/vue-comps/vue-clusterize): implementation of clusterize.js in vue, invisible pagination
@@ -180,7 +179,6 @@
 - [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
 - [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
 - [Vuikit ★100](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
-
 - [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components, by [@fundon](https://github.com/fundon)
   - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb): Breadcrumb component for Vue Bulma
   - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
