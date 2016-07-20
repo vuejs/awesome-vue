@@ -196,6 +196,7 @@
   - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
   - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
   - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
+- [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 
 ### Libraries & Plugins
 
