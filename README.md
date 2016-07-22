@@ -298,6 +298,7 @@
   - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
   - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
+  - [vue-cleave](https://github.com/vue-bulma/cleave) Cleave component is based on [cleave.js](https://github.com/nosir/cleave.js) for Vue. By @fundon
 
 - #### i18n
 
