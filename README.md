@@ -298,7 +298,8 @@
   - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
   - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
-  - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China. 
+  - [vue-cleave](https://github.com/vue-bulma/cleave) Cleave component is based on [cleave.js](https://github.com/nosir/cleave.js) for Vue. By @fundon
+  - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China.
 
 - #### i18n
 
@@ -444,7 +445,7 @@
   - [astralapp](http://astralapp.com/)<sup>[[source]](https://github.com/astralapp/astral)</sup> Organize Your GitHub Stars With Ease.
   - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> A New Tab Chrome Extension gives you a moment to read the good quotations with their recommanded tools which were excerpted from the interviews made by liqi.com, you can always find your favorites.
   - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
-  - [**Vue + LeanCloud 单页博客 ★11**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
+  - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
 
 - #### Apps/Websites
 
