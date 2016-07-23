@@ -300,6 +300,8 @@
   - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
   - [vue-cleave](https://github.com/vue-bulma/cleave) Cleave component is based on [cleave.js](https://github.com/nosir/cleave.js) for Vue. By @fundon
   - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China.
+  - [vue-form](https://github.com/10quality/vue-form): Form handler component (async/ajax) for Vuejs. Facilitates requests, responses and results handling. [@10quality](https://github.com/10quality)
+  - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
 
 - #### i18n
 
