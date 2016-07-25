@@ -482,6 +482,7 @@
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
+  - [vNotes](https://halfeld.github.io/v-notes/#!/) Simple and beautiful notepad to Markdown with Vue.js and Local Storage API - [repository](https://github.com/Halfeld/v-notes)
   - [Subordination](http://subordination.cu.cc/) A desktop app for translating and editing subtitles
   - [SPA Blog](http://ktquez.com/) Personal blog and portfolio site [see repository](https://github.com/ktquez/ktquez.com)
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
