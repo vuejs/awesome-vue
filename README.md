@@ -302,6 +302,7 @@
   - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China.
   - [vue-form](https://github.com/10quality/vue-form): Form handler component (async/ajax) for Vuejs. Facilitates requests, responses and results handling. [@10quality](https://github.com/10quality)
   - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
+  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
 
 - #### i18n
 
