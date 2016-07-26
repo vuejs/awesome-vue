@@ -489,6 +489,9 @@
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) A webmail client written in Vue.js for [Dermail, a mail systemn written in node.js](https://zllovesuki.git.sx/essays/2016/02/dermail/)
+  - [Draxed](https://www.draxed.com/?utm_source=github&utm_medium=web&utm_campaign=awesome-vue) A web based MySQL and PostgreSQL data browser and dashboard manager
+   
+  
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
