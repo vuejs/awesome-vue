@@ -302,6 +302,7 @@
   - [vue-region-picker ★23](https://github.com/QingWei-Li/vue-region-picker) A Vue.js Component for picking provinces, cities and districts of China.
   - [vue-form](https://github.com/10quality/vue-form): Form handler component (async/ajax) for Vuejs. Facilitates requests, responses and results handling. [@10quality](https://github.com/10quality)
   - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
+  - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) [![GitHub stars](https://img.shields.io/github/stars/Wanderxx/vue-fullcalendar.svg?style=social&label=Star&maxAge=2592000)]() : A Pure Vue Schedule Full Calendar, events, schedule. [@Wanderxx](https://github.com/Wanderxx)
   - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
 
 - #### i18n
@@ -489,9 +490,10 @@
   - [WP ERP](https://wordpress.org/plugins/erp/) An Open Source HR, CRM & Accounting Solution for WordPress powered by Vue.js
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) A webmail client written in Vue.js for [Dermail, a mail systemn written in node.js](https://zllovesuki.git.sx/essays/2016/02/dermail/)
+  - [octimine](https://app.octimine.com/) A patent search engine
   - [Draxed](https://www.draxed.com/?utm_source=github&utm_medium=web&utm_campaign=awesome-vue) A web based MySQL and PostgreSQL data browser and dashboard manager
-   
-  
+
+
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
@@ -504,6 +506,7 @@
   - [Louis Ansa Website (portfolio)](http://louisansa.com) - *Awwwards SOTD, FWA nominee.*
   - [Djeco.com](http://www.djeco.com/en)
   - [Tolks.io](https://tolks.io) - a new way to put stories online.
+  - [Meet Graham](http://www.meetgraham.com.au) - by Clemenger BBDO - [Credits](http://www.campaignbrief.com/2016/07/clemenger-bbdo-melbourne-launc-4.html)
 
 - #### Enterprise Usage
 
@@ -521,6 +524,7 @@
   - Sainsbury's
   - [AREX](https://arex.io/)
   - DJI
+  - octimine GmbH
 
 ## License
 
