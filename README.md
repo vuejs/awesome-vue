@@ -303,6 +303,7 @@
   - [vue-form](https://github.com/10quality/vue-form): Form handler component (async/ajax) for Vuejs. Facilitates requests, responses and results handling. [@10quality](https://github.com/10quality)
   - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
   - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) [![GitHub stars](https://img.shields.io/github/stars/Wanderxx/vue-fullcalendar.svg?style=social&label=Star&maxAge=2592000)]() : A Pure Vue Schedule Full Calendar, events, schedule. [@Wanderxx](https://github.com/Wanderxx)
+  - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
 
 - #### i18n
 
@@ -490,6 +491,9 @@
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) A webmail client written in Vue.js for [Dermail, a mail systemn written in node.js](https://zllovesuki.git.sx/essays/2016/02/dermail/)
   - [octimine](https://app.octimine.com/) A patent search engine
+  - [Draxed](https://www.draxed.com/?utm_source=github&utm_medium=web&utm_campaign=awesome-vue) A web based MySQL and PostgreSQL data browser and dashboard manager
+
+
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
