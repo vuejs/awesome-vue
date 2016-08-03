@@ -155,7 +155,6 @@
 
 - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
 - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
-- [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
@@ -198,6 +197,7 @@
   - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
   - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
+- [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 
 ### Libraries & Plugins
 
