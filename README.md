@@ -304,6 +304,7 @@
   - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
   - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) [![GitHub stars](https://img.shields.io/github/stars/Wanderxx/vue-fullcalendar.svg?style=social&label=Star&maxAge=2592000)]() : A Pure Vue Schedule Full Calendar, events, schedule. [@Wanderxx](https://github.com/Wanderxx)
   - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
+  - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker): A dropdown time picker for Vue.js. By @phoenixwong
 
 - #### i18n
 
