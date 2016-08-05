@@ -425,6 +425,7 @@
   - [vue-electron ★7](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
   - [vue-router-transition ★0](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
   - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize): A simple Vue.js directive to autosize text input fields.
+  - [vue-sticky-scroll](https://github.com/heatherbooker/vue-sticky-scroll): keep an element always scrolled to the bottom.
 
 - #### SEO
 
