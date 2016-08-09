@@ -309,6 +309,7 @@
   - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker): A dropdown time picker for Vue.js. By @phoenixwong
   - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) A fullcalendar.js wrapper for Vue.js @brockreece
   - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker): A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. By [@charliekassel](https://github.com/charliekassel)
+  - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table): A sortable and searchable table, as a Vue component, using bootstrap styling.
   - [vue-image-clip](https://github.com/legeneek/vue-image-clip): A component for cliping image. By [@legeneek](https://github.com/legeneek)
 
 - #### i18n
