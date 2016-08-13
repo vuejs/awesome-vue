@@ -199,6 +199,7 @@
   - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
+- [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
 
 ### Libraries & Plugins
 
@@ -312,7 +313,7 @@
   - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker): A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. By [@charliekassel](https://github.com/charliekassel)
   - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table): A sortable and searchable table, as a Vue component, using bootstrap styling.
   - [vue-image-clip](https://github.com/legeneek/vue-image-clip): A component for cliping image. By [@legeneek](https://github.com/legeneek)
-  - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue 
+  - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue
 
 - #### i18n
 
