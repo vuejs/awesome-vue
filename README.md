@@ -314,6 +314,7 @@
   - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table): A sortable and searchable table, as a Vue component, using bootstrap styling.
   - [vue-image-clip](https://github.com/legeneek/vue-image-clip): A component for cliping image. By [@legeneek](https://github.com/legeneek)
   - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue
+  - [vue-chartjs ★7](https://github.com/apertureless/vue-chartjs) - A simple wrapper for ChartJs in Vue [@apertureless](https://github.com/apertureless)
 
 - #### i18n
 
