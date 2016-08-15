@@ -315,6 +315,7 @@
   - [vue-image-clip](https://github.com/legeneek/vue-image-clip): A component for cliping image. By [@legeneek](https://github.com/legeneek)
   - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue
   - [vue-chartjs ★7](https://github.com/apertureless/vue-chartjs) - A simple wrapper for ChartJs in Vue [@apertureless](https://github.com/apertureless)
+  - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js. [@dalphyx](https://github.com/dalphyx)
 
 - #### i18n
 
