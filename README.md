@@ -470,6 +470,7 @@
   - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> A New Tab Chrome Extension gives you a moment to read the good quotations with their recommanded tools which were excerpted from the interviews made by liqi.com, you can always find your favorites.
   - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
+  - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> An Elegant Markdown Editor.
 
 - #### Apps/Websites
 
