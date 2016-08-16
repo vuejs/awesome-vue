@@ -218,6 +218,7 @@
   - [**vue-async-data ★240**](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
   - [vue-async-computed ★23](https://github.com/foxbenjaminfox/vue-async-computed) - Plugin to support computed properties that are calculated asynchronously. By [@foxbenjaminfox](https://github.com/foxbenjaminfox)
   - [vue-model ★63](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
+  - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) - Form helpers for your Laravel backed Vue.js projects.
 
 - #### State Management
 
