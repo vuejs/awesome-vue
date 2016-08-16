@@ -227,7 +227,7 @@
   - [vue-redux ★82](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
   - [vue-freeze ★50](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★39](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
-  - [vue-stash ★7](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
+  - [vue-stash ★50](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
 
 - #### Validation
 
@@ -362,7 +362,7 @@
   - [**Boilerplate for Vue.js & LeanCloud  ★5**](https://github.com/jiangjiu/vue-leancloud-boilerplate) by [@jiangjiu](https://github.com/jiangjiu)
   - [vue-typescript-template](https://github.com/danielschmitz/vue-typescript-template) by @danielschmitz - A Vue.js + Typescript project template setup for quick prototyping, inspired by [vue-typescript-seed](https://github.com/itsFrank/vue-typescript-seed)  <sup>vue-cli compatible</sup>
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
-  - [vue-stack-2.0 ★36](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
+  - [vue-stack-2.0 ★73](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
   - [vuejs-firebase] Vue.js / Firebase boilerplate with authentication. https://github.com/zerostatic/vuejs-firebase
 
 - #### Scaffolding
