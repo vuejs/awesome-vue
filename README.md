@@ -511,7 +511,7 @@
   - [Draxed](https://www.draxed.com/?utm_source=github&utm_medium=web&utm_campaign=awesome-vue) A web based MySQL and PostgreSQL data browser and dashboard manager
   - [蜜蜂聚财](http://www.beejc.com/webapp/) A P2P web app for car loans, by [@pciapcib](https://github.com/pciapcib)
   - [Leapspotleap](http://www.leapspotleap.com) A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
-  - [Bayo](http://v2.bayo.vn) Simple and powerful website for Vietnamese traveler. Our goal is a phatform that helps user to find, plan and book for their journey. 
+  - [Bayo](http://v2.bayo.vn) A simple and powerful website for Vietnamese traveler. Our goal is a phatform that helps user to find, plan and book for their journey. 
 
 
 - #### Interactive Experiences
