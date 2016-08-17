@@ -527,6 +527,7 @@
 
 - #### Interactive Experiences
 
+  - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
   - [Facebook NewsFeed](https://newsfeed.fb.com/)
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
