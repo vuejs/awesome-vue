@@ -197,6 +197,7 @@
   - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
   - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
   - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
+  - [vue-bulma-expanding](https://github.com/vue-bulma/expanding): The Expanding Transition Component for Vue 2.0
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
