@@ -2305,12 +2305,6 @@ application.  By @Haixing-Hu
    Interactive Experiences
   </h4>
   <ul>
-   <li>
-    <a href="http://noizeoriginal.com/">
-     NOIZE original
-    </a>
-    - by KFFEIN
-   </li>
     <li>
     <a href="http://1700laposte.com/jean-pierre-morin/">
      Jean-Pierre Morin | 1700 LAPOSTE
@@ -2378,6 +2372,12 @@ application.  By @Haixing-Hu
     <a href="http://www.djeco.com/en">
      Djeco.com
     </a>
+   </li>
+   <li>
+    <a href="http://noizeoriginal.com/">
+     NOIZE original
+    </a>
+    - by KFFEIN
    </li>
   </ul>
  </li>
