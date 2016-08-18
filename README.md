@@ -527,7 +527,6 @@
 
 - #### Interactive Experiences
 
-  - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
   - [Facebook NewsFeed](https://newsfeed.fb.com/)
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
@@ -539,6 +538,7 @@
   - [Djeco.com](http://www.djeco.com/en)
   - [Tolks.io](https://tolks.io) - a new way to put stories online.
   - [Meet Graham](http://www.meetgraham.com.au) - by Clemenger BBDO - [Credits](http://www.campaignbrief.com/2016/07/clemenger-bbdo-melbourne-launc-4.html)
+  - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
 
 - #### Enterprise Usage
 
