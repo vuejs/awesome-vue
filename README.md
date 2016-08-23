@@ -146,6 +146,9 @@
 ### Snippets
 
 - [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [Vue.js Brazil Code Snippets](https://github.com/vuejs-br/snippets)
+ - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
+ - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
 
 ### Autocomplete
 
