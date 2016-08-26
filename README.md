@@ -333,6 +333,7 @@
   - [vue-jade-editor ★1](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
   - [vue-video ★40](https://github.com/hilongjw/vue-video): A HTML5 video player component for Vue.js  by @hilongjw
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
+  - [vue-translate](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>2.0.x</sup> by @javisperez
 
 - #### Examples
 
