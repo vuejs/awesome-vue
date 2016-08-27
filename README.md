@@ -491,6 +491,7 @@
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
+  - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
   - [Sainsbury's Entertainment onboarding platform](https://register.sainsburysentertainment.co.uk/)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
