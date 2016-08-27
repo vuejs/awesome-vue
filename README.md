@@ -233,6 +233,7 @@
   - [vue-freeze ★50](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★39](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
   - [vue-stash ★50](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
+  - [vuex-actions ★2](https://github.com/weinot/vuex-actions) - Action utilities for vuex, supports promise-based async actions.
 
 - #### Validation
 
@@ -440,7 +441,7 @@
   - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
   - [vue-medium.js ★1](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
   - [vue-electron ★7](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
-  - [vue-router-transition ★0](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
+  - [vue-router-transition ★16](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
   - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize): A simple Vue.js directive to autosize text input fields.
   - [vue-sticky-scroll](https://github.com/heatherbooker/vue-sticky-scroll): keep an element always scrolled to the bottom.
   - [vue-events](https://github.com/cklmercer/vue-events) by @cklmercer - A Vue plugin that simplifies event handling.
