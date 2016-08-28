@@ -534,6 +534,7 @@
   - [Cinemateka](http://cinema.seance.ru) Film & events schedule SPA made with Vue & Laravel 5. Russian. <sup>[[Source]](https://github.com/Piterden/cinemateka)</sup>
   - [Jobinja](https://jobinja.ir) A Job Board and career platform operating in Iran.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
+  - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
 
 - #### Interactive Experiences
 
