@@ -358,7 +358,6 @@
   - [jwt-example ★10](https://github.com/PetervMeijgaard/jwt-example) by [petervmeijgaard](https://github.com/petervmeijgaard)
   - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)  
->>>>>>> vuejs/master
 
 - #### Boilerplates
 
