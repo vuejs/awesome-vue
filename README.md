@@ -146,6 +146,9 @@
 ### Snippets
 
 - [vue-snippets](https://atom.io/packages/vue-snippets) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
+- [Vue.js Brazil Code Snippets](https://github.com/vuejs-br/snippets)
+ - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
+ - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
 
 ### Autocomplete
 
@@ -180,7 +183,7 @@
 - [vue-material-design ★11](https://github.com/loujiayu/vue-material-design): A set of material components by [@loujiayu](https://github.com/loujiayu)
 - [**mint-ui ★1,533**](https://github.com/ElemeFE/mint-ui): Mobile UI elements for Vue.js, by [@ElemeFE](https://github.com/ElemeFE)
 - [searchable-select-dropdown ★3](https://github.com/rahulgaba16/searchable-select-dropdown): A Vue Component to convert the native html select-dropdown to searchable dropdown by [@rahulgaba16](https://github.com/rahulgaba16)
-- [Vuikit ★130](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
+- [**Vuikit ★200**](https://github.com/vuikit/vuikit): A collection of Vue components built on top of the awesome [UIkit](http://getuikit.com) framework
 - [vue-bulma](https://github.com/vue-bulma): Vue Bulma UI Components, by [@fundon](https://github.com/fundon)
   - [vue-bulma-breadcrumb](https://github.com/vue-bulma/breadcrumb): Breadcrumb component for Vue Bulma
   - [vue-bulma-collapse](https://github.com/vue-bulma/collapse): Collapse component for Vue Bulma
@@ -197,6 +200,7 @@
   - [vue-bulma-switch](https://github.com/vue-bulma/switch): Switch component for Vue Bulma
   - [vue-bulma-tabs](https://github.com/vue-bulma/tabs): Tabs component for Vue Bulma
   - [vue-bulma-tooltip](https://github.com/vue-bulma/tooltip): Tooltip component is based on hint.css for Vue Bulma
+  - [vue-bulma-expanding](https://github.com/vue-bulma/expanding): The Expanding Transition Component for Vue 2.0
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
@@ -229,6 +233,7 @@
   - [vue-freeze ★50](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★39](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
   - [vue-stash ★50](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
+  - [vuex-actions ★2](https://github.com/weinot/vuex-actions) - Action utilities for vuex, supports promise-based async actions.
 
 - #### Validation
 
@@ -329,6 +334,7 @@
   - [vue-jade-editor ★1](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
   - [vue-video ★40](https://github.com/hilongjw/vue-video): A HTML5 video player component for Vue.js  by @hilongjw
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
+  - [vue-translate](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>2.0.x</sup> by @javisperez
 
 - #### Examples
 
@@ -424,7 +430,7 @@
   - [vue-loading ★35](https://github.com/Coffcer/vue-loading): Vue directive, show loading block in any element. By [@coffcer](https://github.com/Coffcer)
   - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
   - [vue-lazyload-img ★49](https://github.com/JALBAA/vue-lazyload-img) another image lazyload plugin for Vue, especially optimized for mobile browser. By [@JALBAA](https://github.com/JALBAA)
-  - [vue-socket.io ★61](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-socket.io ★74](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-clipboard ★24](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
   - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
@@ -435,11 +441,12 @@
   - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
   - [vue-medium.js ★1](https://github.com/FranzSkuffka/vue-medium.js): Medium.js directive for Vue.  [@franzskuffka](https://github.com/franzskuffka)
   - [vue-electron ★7](https://github.com/SimulatedGREG/vue-electron): The vue plugin that attaches electron APIs to the Vue object, making them accessable to all components.
-  - [vue-router-transition ★0](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
+  - [vue-router-transition ★16](https://github.com/weinot/vue-router-transition): A page transition plugin for vue-router.
   - [vue-input-autosize ★1](https://github.com/syropian/vue-input-autosize): A simple Vue.js directive to autosize text input fields.
   - [vue-sticky-scroll](https://github.com/heatherbooker/vue-sticky-scroll): keep an element always scrolled to the bottom.
   - [vue-events](https://github.com/cklmercer/vue-events) by @cklmercer - A Vue plugin that simplifies event handling.
-  - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by @imcvampire - A Vue filter that simplifies how to truncate string.
+  - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to truncate string.
+  - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to print a list of tag from array.
 
 - #### SEO
 
@@ -477,6 +484,7 @@
   - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
   - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> An Elegant Markdown Editor.
+  - [Github-exploer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
 
 - #### Apps/Websites
 
@@ -525,6 +533,8 @@
   - [X-SONGTAO★11](http://xiangsongtao.com) A Personal blog. FE and CMS are in same vue SPA.
   - [Cinemateka](http://cinema.seance.ru) Film & events schedule SPA made with Vue & Laravel 5. Russian. <sup>[[Source]](https://github.com/Piterden/cinemateka)</sup>
   - [Jobinja](https://jobinja.ir) A Job Board and career platform operating in Iran.
+  - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
+  - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
 
 - #### Interactive Experiences
 
@@ -539,6 +549,7 @@
   - [Djeco.com](http://www.djeco.com/en)
   - [Tolks.io](https://tolks.io) - a new way to put stories online.
   - [Meet Graham](http://www.meetgraham.com.au) - by Clemenger BBDO - [Credits](http://www.campaignbrief.com/2016/07/clemenger-bbdo-melbourne-launc-4.html)
+  - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
 
 - #### Enterprise Usage
 
