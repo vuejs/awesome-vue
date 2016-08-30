@@ -356,6 +356,9 @@
   - [**Vue-cnodejs ★1,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [**vue-zhihu-daily ★407**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   - [jwt-example ★10](https://github.com/PetervMeijgaard/jwt-example) by [petervmeijgaard](https://github.com/petervmeijgaard)
+  - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
+  - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)  
+>>>>>>> vuejs/master
 
 - #### Boilerplates
 
@@ -365,7 +368,7 @@
   - [Boilerplate for SPAs use vuex & vue-router ★72](https://github.com/crossjs/plato) by @crossjs
   - [electron-vue ★78](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - Configurable boilerplate with ESLint, vue-electron, resource, router, and vuex <sup>vue-cli compatible, gitbook</sup>
   - [browserify-complete ★5](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
-  - [**Modern Vue.js starter boilerplate ★2**](https://github.com/villeristi/vue.js-starter-template) - Vue Router, Vue Resource, ES6, Babel, Webpack (with BrowserSync), ESLint & SASS (with autoprefixer) by [villeristi](https://github.com/villeristi)
+  - [**Modern Vue.js starter boilerplate ★12**](https://github.com/villeristi/vue.js-starter-template) - Vue Router, Vue Resource, ES6, Babel, Webpack (with BrowserSync), ESLint & SASS (with autoprefixer) by [villeristi](https://github.com/villeristi)
   - [**Boilerplate for Vue.js & LeanCloud  ★5**](https://github.com/jiangjiu/vue-leancloud-boilerplate) by [@jiangjiu](https://github.com/jiangjiu)
   - [vue-typescript-template](https://github.com/danielschmitz/vue-typescript-template) by @danielschmitz - A Vue.js + Typescript project template setup for quick prototyping, inspired by [vue-typescript-seed](https://github.com/itsFrank/vue-typescript-seed)  <sup>vue-cli compatible</sup>
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
