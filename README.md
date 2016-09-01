@@ -268,6 +268,7 @@
   - [**vue-spinner ★240**](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
   - [vue-image-loader ★23](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar ★73](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
+  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor): An interceptor for vue-resource that adds automated progressbar (that is up one line) to all http requests
   - [Famous-Vue ★13](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [**vue-waterfall ★296**](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts ★35](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
