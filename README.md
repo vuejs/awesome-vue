@@ -101,6 +101,8 @@
 - [**讲解Vue.js 官网 中文-含代码、百度云、youtube ★277**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
+- [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
+
 
 #### 0.12 and earlier
 
