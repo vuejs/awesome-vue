@@ -510,7 +510,9 @@
   - [Laravist](https://laravist.com/)
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](https://statamic.com)
-  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
+  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey
+  - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
+  database.
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
