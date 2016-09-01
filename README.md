@@ -511,7 +511,6 @@
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](https://statamic.com)
   - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey
-  - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
   database.
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
@@ -541,6 +540,7 @@
   - [Jobinja](https://jobinja.ir) A Job Board and career platform operating in Iran.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
+  - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
 
 - #### Interactive Experiences
 
