@@ -401,7 +401,7 @@
   - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
   - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
   - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
-  - [Vue-Deepstream-Connector ★0](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
+  - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
 
 - #### General Plugins/Directives
 
