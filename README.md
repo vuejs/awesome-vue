@@ -401,7 +401,7 @@
   - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
   - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
   - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
-  - [Vue-Deepstream-Connector ★0](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
+  - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
 
 - #### General Plugins/Directives
 
@@ -510,7 +510,8 @@
   - [Laravist](https://laravist.com/)
   - [Atiiv](https://atiiv.com) An app aimed for personal trainers and their clients.
   - [Statamic](https://statamic.com)
-  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey database.
+  - [Embalses!](http://embalses.azurewebsites.net/) A tool to report water dam level using the U.S. Geological Survey
+  database.
   - [TravelMap](http://clem.travelmap.fr) A simple way for travellers to create a blog based on a Map
   - [movienote.org](http://movienote.org) A app which help users maintaining a list about what movie they have watched.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) Custom shirt builder
@@ -539,6 +540,7 @@
   - [Jobinja](https://jobinja.ir) A Job Board and career platform operating in Iran.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
+  - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
 
 - #### Interactive Experiences
 
