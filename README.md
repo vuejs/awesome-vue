@@ -326,7 +326,8 @@
   - [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) - A html5 wysiwyg editor for vue
   - [vue-chartjs ★7](https://github.com/apertureless/vue-chartjs) - A simple wrapper for ChartJs in Vue [@apertureless](https://github.com/apertureless)
   - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js. [@dalphyx](https://github.com/dalphyx)
-  - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](Handsontable) for Vue, by [@fundon](https://github.com/fundon)
+  - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](https://github.com/handsontable/handsontable) for Vue, by [@fundon](https://github.com/fundon)
+  - [vue-nprogress](https://github.com/vue-bulma/nprogress) - NProgress component is based on [nprogress](https://github.com/rstacruz/nprogress) for Vue, by [@fundon](https://github.com/fundon)
 
 - #### i18n
 
