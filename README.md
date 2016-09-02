@@ -245,6 +245,7 @@
   - [Vuex Validator ★2](https://github.com/sebastian-software/vuex-validator) - Validator library for simple and complex state validation by @sebastiansoft <sup>1.0 compatible</sup>
   - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
   - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
+  - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
 
 - #### UI Components
 
