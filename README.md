@@ -455,6 +455,7 @@
   - [vue-events](https://github.com/cklmercer/vue-events) by @cklmercer - A Vue plugin that simplifies event handling.
   - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to truncate string.
   - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to print a list of tag from array.
+  - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
 
 - #### SEO
 
