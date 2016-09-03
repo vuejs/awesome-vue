@@ -207,6 +207,7 @@
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
+- [vue-carbon ★2](https://github.com/aa953788477/vue-carbon) Material Design Mobile UI Components
 
 ### Libraries & Plugins
 
