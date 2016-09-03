@@ -380,6 +380,8 @@
   - [vue-stack-2.0 ★73](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
   - [vuejs-firebase] Vue.js / Firebase boilerplate with authentication. https://github.com/zerostatic/vuejs-firebase
   - [vue-2.0-boilerplate ★38](https://github.com/petervmeijgaard/vue-2.0-boilerplate) by @petervmeijgaard - Vue 2.0 boilerplate for developing medium to large single page applications.
+  - [vuets/webpack2-simple-vue1](https://github.com/vuets/webpack2-simple-vue1) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 1.0.
+  - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
 
 - #### Scaffolding
 
