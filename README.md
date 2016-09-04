@@ -208,6 +208,8 @@
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
 - [vue-carbon ★2](https://github.com/aa953788477/vue-carbon) Material Design Mobile UI Components
+- [quasar-framework ★167](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids, with VueJS.
+Websites & native mobile Apps. Full Stack Toolkit.
 
 ### Libraries & Plugins
 
