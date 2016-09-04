@@ -207,7 +207,7 @@
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
-- [vue-carbon ★2](https://github.com/aa953788477/vue-carbon) Material Design Mobile UI Components
+- [vue-carbon](https://github.com/aa953788477/vue-carbon) Material Design Mobile UI Components
 
 ### Libraries & Plugins
 
@@ -461,6 +461,7 @@
   - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to truncate string.
   - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to print a list of tag from array.
   - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
+  - [vue-popup-mixin](https://github.com/aa953788477/vue-popup-mixin) a vue mixin for easy create popup vue components
 
 - #### SEO
 
