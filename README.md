@@ -102,6 +102,7 @@
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
+- [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
 
 
 #### 0.12 and earlier
@@ -206,7 +207,10 @@
 - [vue-disqus](https://github.com/ktquez/vue-disqus): Vue component to integrate Disqus comments in your application, with support for SPA
 - [BootInput](https://github.com/neposoft/bootinput-vuejs), Bootstrap input components for vuejs with validation, and form-group cascade. By [@neposoft](https://github.com/neposoft)
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
+- [vue-carbon](https://github.com/myronliu347/vue-carbon) Material Design Mobile UI Components
+- [quasar-framework ★167](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids, with VueJS.
 - [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking)
+Websites & native mobile Apps. Full Stack Toolkit.
 
 ### Libraries & Plugins
 
@@ -381,6 +385,8 @@
   - [vue-stack-2.0 ★73](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
   - [vuejs-firebase] Vue.js / Firebase boilerplate with authentication. https://github.com/zerostatic/vuejs-firebase
   - [vue-2.0-boilerplate ★38](https://github.com/petervmeijgaard/vue-2.0-boilerplate) by @petervmeijgaard - Vue 2.0 boilerplate for developing medium to large single page applications.
+  - [vuets/webpack2-simple-vue1](https://github.com/vuets/webpack2-simple-vue1) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 1.0.
+  - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
 
 - #### Scaffolding
 
@@ -458,10 +464,12 @@
   - [vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to truncate string.
   - [vur-tag-list](https://github.com/imcvampire/vue-tag-list) by [@imcvampire](https://github.com/imcvampire) - A Vue filter that simplifies how to print a list of tag from array.
   - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
-
+  - [vue-drag-and-drop-list](https://github.com/Alex-fun/vue-drag-and-drop-list): Vue directives for modifying lists with the HTML5 drag & drop API.
+  - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
+  
 - #### SEO
 
-  - [vue-head ★35](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
+  - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
   - [vue-helmet ★17](https://github.com/miaolz123/vue-helmet) : Like [react-helmet](https://github.com/nfl/react-helmet), a HTML head manager for Vue, edit the page title easily. By [@miaolz123](https://github.com/miaolz123)
 
 - #### Talks
@@ -496,6 +504,7 @@
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
   - [EME - Elegant Markdown Editor](https://eme.moe/)<sup>[[Source]](https://github.com/egoist/eme)</sup> An Elegant Markdown Editor.
   - [Github-exploer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
+  - [**Hotel ★4106**](https://github.com/typicode/hotel) start your dev servers from your browser and get local domains in seconds!
 
 - #### Apps/Websites
 
