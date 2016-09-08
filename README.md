@@ -309,6 +309,7 @@
   - [Vue Proerty Decorator ★7](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
   - [Vue-Typed](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
   - [Vue as a Meteor UI layer](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
+  - [Vue-Feathers](https://github.com/sunabozu/vue-feathers) A seamless integration with Feathers  by @sunabozu
 
 - #### General Plugins/Directives
 
