@@ -416,6 +416,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
   - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
   - [vuets](https://github.com/vuets/vuets): Vue components using typescript 2.0 with compatibility layer between version 1 and 2 of vue and vue-router. By [@dyu](https://github.com/dyu)
+  - [Vue-Feathers](https://github.com/sunabozu/vue-feathers) A seamless integration with Feathers for Vue 1.x and 2.x by @sunabozu
 
 - #### General Plugins/Directives
 
