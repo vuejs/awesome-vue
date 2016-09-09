@@ -509,6 +509,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [Github-explorer](https://github.com/SidKwok/github-explorer) by [@SidKwok](https://github.com/SidKwok) A spa which can help you check your github in a better way.
   - [**Hotel ★4106**](https://github.com/typicode/hotel) start your dev servers from your browser and get local domains in seconds!
   - [Surfbird ★32](https://github.com/surfbirdapp/surfbird) A Twitter client written with modern web technologies
+  - [Approach0](https://github.com/approach0/search-engine) A math-aware search engine
 
 - #### Apps/Websites
 
@@ -561,6 +562,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) Show all Putian hostiptal information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
   - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
+  - [Approach0](http://approach0.xyz) A math-aware search engine for math.stackexchange.com
 
 - #### Interactive Experiences
 
