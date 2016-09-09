@@ -253,6 +253,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
   - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
   - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
+  - [Vue-Laravel-Validator ★1](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
 
 - #### UI Components
 
