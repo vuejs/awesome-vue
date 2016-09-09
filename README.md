@@ -153,6 +153,7 @@
 - [Vue.js Brazil Code Snippets](https://github.com/vuejs-br/snippets)
  - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
  - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
+ - [Bootstrap status label (v-label)](https://github.com/vuejs-br/snippets/blob/master/directives/v-label.md)
 
 ### Autocomplete
 
