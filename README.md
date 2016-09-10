@@ -471,6 +471,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-cordova ★3](https://github.com/kartsims/vue-cordova): Vue plugin to bind Cordova events and access Cordova plugins' data
   - [vue-drag-and-drop-list](https://github.com/Alex-fun/vue-drag-and-drop-list): Vue directives for modifying lists with the HTML5 drag & drop API.
   - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
+  - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
 
 - #### SEO
 
