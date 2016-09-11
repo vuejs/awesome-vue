@@ -1959,7 +1959,7 @@ application.  By @Haixing-Hu
     </a>
     :touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
     <sup>
-     &#9733 6, pushed 15 days ago
+     &#9733 27, pushed 15 days ago
     </sup>
    </li>
    <li>
