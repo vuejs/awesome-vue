@@ -338,6 +338,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-handsontable](https://github.com/vue-bulma/handsontable) - Handsontable component is based on [Handsontable](https://github.com/handsontable/handsontable) for Vue, by [@fundon](https://github.com/fundon)
   - [vue-nprogress](https://github.com/vue-bulma/nprogress) - NProgress component is based on [nprogress](https://github.com/rstacruz/nprogress) for Vue, by [@fundon](https://github.com/fundon)
   - [vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vue.js. [@dalphyx](https://github.com/dalphyx)
+  - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) - A progressbar interceptors for vue-resource using `NProgress` by [@imcvampire](https://github.com/imcvampire)
 
 - #### i18n
 
