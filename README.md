@@ -373,7 +373,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [**vue-shopping ★142**](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [**Vue-cnodejs ★1,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [**vue-zhihu-daily ★407**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
-  - [jwt-example ★10](https://github.com/PetervMeijgaard/jwt-example) by [petervmeijgaard](https://github.com/petervmeijgaard)
+  - [jwt-example ★11](https://github.com/PetervMeijgaard/jwt-example) by [@petervmeijgaard](https://github.com/petervmeijgaard)
   - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
 
@@ -391,7 +391,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
   - [vue-stack-2.0 ★73](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
   - [vuejs-firebase] Vue.js / Firebase boilerplate with authentication. https://github.com/zerostatic/vuejs-firebase
-  - [vue-2.0-boilerplate ★38](https://github.com/petervmeijgaard/vue-2.0-boilerplate) by @petervmeijgaard - Vue 2.0 boilerplate for developing medium to large single page applications.
+  - [vue-2.0-boilerplate ★52](https://github.com/petervmeijgaard/vue-2.0-boilerplate) by [@petervmeijgaard](https://github.com/petervmeijgaard) - Vue 2.0 boilerplate for developing medium to large single page applications.
   - [vuets/webpack2-simple-vue1](https://github.com/vuets/webpack2-simple-vue1) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 1.0.
   - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
 
