@@ -395,6 +395,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-2.0-boilerplate ★52](https://github.com/petervmeijgaard/vue-2.0-boilerplate) by [@petervmeijgaard](https://github.com/petervmeijgaard) - Vue 2.0 boilerplate for developing medium to large single page applications.
   - [vuets/webpack2-simple-vue1](https://github.com/vuets/webpack2-simple-vue1) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 1.0.
   - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
+  - [vue-rollup-boilerplate](https://github.com/dangvanthanh/vue-rollup-boilerplate) by [@dangvanthanh](https://github.com/dangvanthanh) - A simple rollup + vue-loader setup for quick prototyping
 
 - #### Scaffolding
 
