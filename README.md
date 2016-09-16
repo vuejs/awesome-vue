@@ -478,6 +478,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
   - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) a localStorage plugin with types support
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
+  - [v-media-query](https://github.com/AStaroverov/v-media-query): Plugin adds methods for work with media query
 
 - #### SEO
 
