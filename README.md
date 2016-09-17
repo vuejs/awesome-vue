@@ -445,7 +445,8 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-filters ★3](https://github.com/paulpflug/vue-filters) A collection of filters
   - [vue-round-filter ★0](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate ★65](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
-  - [vue-super ★7](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
+  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap. 
+ - [vue-super ★7](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
   - [vue-deepstream ★9](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
   - [vue-plain ★1](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
   - [vue-calc-input ★3](https://github.com/BosNaufal/vue-calc-input) Vue directive to make a calculator input behavior by [@BosNaufal](https://github.com/BosNaufal)
