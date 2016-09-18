@@ -289,7 +289,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [Vue-slide ★60](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
   - [Vue-quill ★10](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
   - [vue-pagenav ★12](https://github.com/zxdong262/vue-pagenav): A vue pagenav plugin by [@zxdong262](https://github.com/zxdong262)
-  - [Vue-calendar ★2](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by cucygh
+  - [Vue-calendar ★7](https://github.com/cucygh/vue-calendar): A vue calendar component with less code by [@cucygh](http://github.com/cucygh)
   - [vue-autocomplete ★35](https://github.com/BosNaufal/vue-autocomplete) Autocomplete Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-loading-bar ★50](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-bootstrap-modal ★20](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
