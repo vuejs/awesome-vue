@@ -482,6 +482,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
   - [v-media-query](https://github.com/AStaroverov/v-media-query): Plugin adds methods for work with media query
   - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue): Vue Directive for masking input of phones, email, etc
+  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap. 
 
 - #### SEO
 
