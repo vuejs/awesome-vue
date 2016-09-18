@@ -344,6 +344,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-headroom](https://github.com/dalphyx/vue-headroom) - Headroom for Vue.js. [@dalphyx](https://github.com/dalphyx)
   - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) - A progressbar interceptors for vue-resource using `NProgress` by [@imcvampire](https://github.com/imcvampire)
   - [vue-datatable](https://github.com/galenyuan/vue-datatable) - A Datatable component for Vuejs, has all feature of jQuery Datatables by [@galenyuan](https://github.com/galenyuan)
+  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
 
 - #### i18n
 
@@ -482,6 +483,7 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
   - [v-media-query](https://github.com/AStaroverov/v-media-query): Plugin adds methods for work with media query
   - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue): Vue Directive for masking input of phones, email, etc
+  - [vue-pagination-2][https://github.com/matfish2/vue-pagination-2] Vue 2.0 version of the `v-pagination` plugin
 
 - #### SEO
 
