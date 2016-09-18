@@ -445,7 +445,6 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-filters ★3](https://github.com/paulpflug/vue-filters) A collection of filters
   - [vue-round-filter ★0](https://github.com/rascada/vue-round-filter) filter for rounding with whichever decimal accuracy
   - [vue-paginate ★65](https://github.com/TahaSh/vue-paginate) A simple plugin to use pagination in vue.js. by @TahaSh
-  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap. 
  - [vue-super ★7](https://github.com/rpkilby/vue-super) A simple plugin to call methods on parent components.
   - [vue-deepstream ★9](https://github.com/arexio/vue-deepstream) Plugin to simplify event subscription and event trigger when using [deepstream.io](https://deepstream.io/)
   - [vue-plain ★1](https://github.com/Coffcer/vue-plain) Plugin to get plain object from vue getter/setter object.
@@ -478,7 +477,8 @@ Websites & native mobile Apps. Full Stack Toolkit.
   - [vue-popup-mixin](https://github.com/myronliu347/vue-popup-mixin) a vue mixin for easy create popup vue components
   - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) a localStorage plugin with types support
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
-
+  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap. 
+    
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
