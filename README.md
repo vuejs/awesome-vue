@@ -258,6 +258,7 @@
   - [Vue SoundCloud ★12](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
   - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
   - [Vue Cookbook (Vue1.0 + express) ★65](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
+  - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
 
 - #### Boilerplates
   - [Boilerplate for Vue.js plugin  ★16](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon
@@ -399,6 +400,7 @@
   - Celtra
   - Sainsbury's
   - [AREX](https://arex.io/)
+  - Hunliji
 
 ## License
 
