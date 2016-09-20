@@ -315,7 +315,7 @@
   - [vue-timeago ★59](https://github.com/egoist/vue-timeago): A timeago component for Vue by [@EGOIST](https://github.com/egoist)
   - [vue-calendar ★26](https://github.com/ihanyang/vue-calendar): Vue Material date picker for Vue by [@ihanyang](https://github.com/ihanyang)
   - [**vue-multiselect ★371**](https://github.com/monterail/vue-multiselect): Configurable dropdown/select component similar to Select2/Chosen, with NO dependecies by [@shentao](https://github.com/shentao)
-  - [vue-infinite-loading ★20](https://github.com/PeachScript/vue-infinite-loading): An infinite loading/scroll plugin for Vue.js, support any scrollable element. By [@PeachScript](https://github.com/PeachScript)
+  - [vue-infinite-loading ★72](https://github.com/PeachScript/vue-infinite-loading): An infinite scroll plugin for Vue.js 1.0 & Vue.js 2.0. By [@PeachScript](https://github.com/PeachScript)
   - [vue-swipe ★100](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-loadmore ★63](https://github.com/mint-ui/mint-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-tree-view ★7](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
