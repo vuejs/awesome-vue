@@ -212,8 +212,10 @@
 - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider): Slider component for Vue.js with control button. By [@Suhaha](https://github.com/shhdgit)
 - [vue-carbon](https://github.com/myronliu347/vue-carbon) Material Design Mobile UI Components
 - [quasar-framework ★167](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids, with VueJS.
-- [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking)
-Websites & native mobile Apps. Full Stack Toolkit.
+- [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking) Websites & native mobile Apps. Full Stack Toolkit.
+- [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload): A vue plugin for image to crop and upload  [@Vanthink-UED](https://github.com/Vanthink-UED)
+
+
 
 ### Libraries & Plugins
 
