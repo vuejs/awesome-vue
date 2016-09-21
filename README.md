@@ -383,6 +383,7 @@
   - [VueChess ★1](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client ★1](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
   - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
+  - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
 
 - #### Boilerplates
 
@@ -402,6 +403,7 @@
   - [vuets/webpack2-simple-vue1](https://github.com/vuets/webpack2-simple-vue1) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 1.0.
   - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
   - [vue-rollup-boilerplate](https://github.com/dangvanthanh/vue-rollup-boilerplate) by [@dangvanthanh](https://github.com/dangvanthanh) - A simple rollup + vue-loader setup for quick prototyping
+  - [Vue Starter](https://github.com/BosNaufal/vue-starter) - https://github.com/BosNaufal/vue-starter by [BosNaufal](https://github.com/BosNaufal)
 
 - #### Scaffolding
 
