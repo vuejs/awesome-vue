@@ -247,6 +247,7 @@
   - [vue-simple-store ★39](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
   - [vue-stash ★50](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
   - [vuex-actions ★2](https://github.com/weinot/vuex-actions) - Action utilities for vuex, supports promise-based async actions.
+  - [vuex-persistedstate ★2](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist and rehydrate Vuex state with localStorage support by @robinvdvleuten
 
 - #### Validation
 
