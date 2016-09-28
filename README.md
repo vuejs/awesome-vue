@@ -261,7 +261,7 @@
   - [Vue-Laravel-Validator ★8](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
   - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
-  - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.  
+  - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
 
 - #### UI Components
 
@@ -436,6 +436,7 @@
   - [vuets](https://github.com/vuets/vuets): Vue components using typescript 2.0 with compatibility layer between version 1 and 2 of vue and vue-router. By [@dyu](https://github.com/dyu)
   - [Vue-Feathers](https://github.com/sunabozu/vue-feathers) A seamless integration with Feathers for Vue 1.x and 2.x by @sunabozu
   - [vue-apollo](https://github.com/Akryum/vue-apollo) Use Apollo and GraphQL in your Vue (1.x and 2.x) components by @Akryum
+  - [av-ts](https://github.com/HerringtonDarkholme/av-ts) ![av-ts](https://img.shields.io/github/stars/HerringtonDarkholme/av-ts.svg?style=social&label=Star&maxAge=2592000) Awesome Vue for TypeScript. A type-safe and concise Vue binding for TypeScript. Having used a lot of techniques, tricks and hacks to achieve idiomatic API.
 
 - #### General Plugins/Directives
 
