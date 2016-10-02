@@ -216,6 +216,10 @@
 - [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking) Websites & native mobile Apps. Full Stack Toolkit.
 - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload): A vue plugin for image to crop and upload  [@Vanthink-UED](https://github.com/Vanthink-UED)
 - [ElementUI](https://github.com/ElemeFE/element): Desktop UI elements for Vue.js 2.0  [@ElemeFE](https://github.com/ElemeFE)
+- [vue-beauty](https://github.com/FE-Driver/vue-beauty): Beautiful UI components build with vue and ant design
+- [Radon UI](https://github.com/luojilab/radon-ui): A elegant, simple, and efficient UI framework
+- [vue-antd](https://github.com/okoala/vue-antd): Vue UI Component & Ant.Design
+- [iView](https://github.com/iview/iview): A high quality UI Components Library with Vue.js
 
 
 
