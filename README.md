@@ -137,6 +137,7 @@
 - [eslint-plugin-vue ★29](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
 - [**vbuild ★119**](https://github.com/egoist/vbuild) - Preset build tool for Vue.js apps.
 - [vue-markdown-loader ★2](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
+- [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
 
 ### Syntax Highlighting
 
@@ -418,6 +419,7 @@
   - [vuets/webpack2-simple-vue2](https://github.com/vuets/webpack2-simple-vue2) by [@dyu](https://github.com/dyu) - typescript 2.0 template using vuets + vue/vue-router 2.0.
   - [vue-rollup-boilerplate](https://github.com/dangvanthanh/vue-rollup-boilerplate) by [@dangvanthanh](https://github.com/dangvanthanh) - A simple rollup + vue-loader setup for quick prototyping
   - [Vue Starter](https://github.com/BosNaufal/vue-starter) - https://github.com/BosNaufal/vue-starter by [BosNaufal](https://github.com/BosNaufal)
+  - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
 
 - #### Scaffolding
 
@@ -507,6 +509,7 @@
   - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue): Vue Directive for masking input of phones, email, etc
   - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap.
   - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) Vue 2.0 version of the `v-pagination` plugin
+  - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) Integration from socketcluster to vue.
 
 - #### SEO
 
