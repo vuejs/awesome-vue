@@ -221,8 +221,10 @@
 - [Radon UI](https://github.com/luojilab/radon-ui): A elegant, simple, and efficient UI framework
 - [vue-antd](https://github.com/okoala/vue-antd): Vue UI Component & Ant.Design
 - [iView](https://github.com/iview/iview): A high quality UI Components Library with Vue.js
-
-
+- [wovue](https://github.com/wovue): A collection of Vue components, a11y friendly, by [@wochap](https://github.com/wochap/).
+  - [vue-off-canvas](https://github.com/wovue/off-canvas) - A dialog component for Vue.js. <sup>1.x compatible</sup>
+  - [vue-dialog](https://github.com/wovue/dialog) - A off-canvas component for Vue.js. <sup>1.x compatible</sup>
+  - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
 
 ### Libraries & Plugins
 
