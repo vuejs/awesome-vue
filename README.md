@@ -561,7 +561,7 @@
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
-  - [Sainsbury's Entertainment onboarding platform](https://register.sainsburysentertainment.co.uk/)
+  - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
   - [N1.ru](http://n1.ru)
@@ -636,7 +636,7 @@
   - Line
   - Nintendo
   - Celtra
-  - Sainsbury's
+  - [Sainsbury's](https://sainsburys.jobs/)
   - [AREX](https://arex.io/)
   - DJI
   - octimine GmbH
