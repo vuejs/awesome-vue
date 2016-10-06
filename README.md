@@ -364,6 +364,7 @@
   - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
   - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
+  - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination
 
 - #### i18n
 
