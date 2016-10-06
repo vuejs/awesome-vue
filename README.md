@@ -607,6 +607,7 @@
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
   - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
   - [Approach0](http://approach0.xyz) A math-aware search engine for math.stackexchange.com
+  - [The Spice House](https://www.thespicehouse.com) Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
 
 - #### Interactive Experiences
 
