@@ -473,6 +473,8 @@
   - [vue-focus ★37](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
   - [vue-transfer-dom ★30](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
   - [**vue-lazyload ★132**](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
+  - [vue-lazyloadimg ★2](https://github.com/yodfz/vue-lazyloadImg): lazyloading images. by @yodfz
+  - [vue-dropload ★5](https://github.com/yodfz/m-dropload): touch drop load data. by @yodfz
   - [v-touch ★5](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
   - [vue-mixins ★16](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
   - [vue-filters ★3](https://github.com/paulpflug/vue-filters) A collection of filters
