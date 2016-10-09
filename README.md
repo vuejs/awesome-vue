@@ -43,7 +43,7 @@
 
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
-- [**GitHub Repo ★22,484**](https://github.com/vuejs/vue)
+- [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 
 ### External Resources
@@ -139,6 +139,7 @@
 - [vue-markdown-loader ★2](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
 - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ![vue-ts-loader](https://img.shields.io/github/stars/HerringtonDarkholme/vue-ts-loader.svg?style=social&label=Star&maxAge=2592000) A webpack loader for loading TypeScript in `.vue`'s single file component
+- [express-vue](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
 
 ### Syntax Highlighting
 
@@ -229,6 +230,8 @@
   - [vue-dialog](https://github.com/wovue/dialog) - A off-canvas component for Vue.js. <sup>1.x compatible</sup>
   - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
 - [Bootstrap-Vue](https://github.com/pi0/bootstrap-vue) Complete **Bootstrap 4** Components For Vue.js 2. <sup>2.x compatible</sup>
+- [vue-codemirror ★35](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
+- [vue-video-player ★25](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
 
 ### Libraries & Plugins
 
@@ -276,6 +279,7 @@
   - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
   - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
+  - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
 
 - #### UI Components
 
@@ -316,7 +320,7 @@
   - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
   - [vue-smart-table ★50] (https://github.com/gurghet/vue-smart-table): A simple grid component for building rich reactive tables
   - [fire-select] (https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
-  - [vue-color ★74](https://github.com/xiaokaike/vue-color), Color picker
+  - [vue-color ★125](https://github.com/xiaokaike/vue-color), Color picker
   - [vue-avatar ★27](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
   - [vue-msui ★17](https://github.com/yjj5855/vue-msui) by [@yjj5855](https://github.com/yjj5855) : A Vue modal
   - [vue-file-base64 ★5](https://github.com/BosNaufal/vue-file-base64) - Vue Component for Converting File to base64 by [@BosNaufal](https://github.com/BosNaufal)
@@ -365,6 +369,8 @@
   - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
   - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
+  - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
+  - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
  
 
 - #### i18n
@@ -426,6 +432,7 @@
   - [vue-rollup-boilerplate](https://github.com/dangvanthanh/vue-rollup-boilerplate) by [@dangvanthanh](https://github.com/dangvanthanh) - A simple rollup + vue-loader setup for quick prototyping
   - [Vue Starter](https://github.com/BosNaufal/vue-starter) - https://github.com/BosNaufal/vue-starter by [BosNaufal](https://github.com/BosNaufal)
   - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
+  - [vue-boilerplate](https://github.com/MillerRen/vue-boilerplate) Vue 2.0 boilerplate，based on webpack and es6，includes vuex，vue-router，vue-resource, vue-auth
 
 - #### Scaffolding
 
@@ -490,7 +497,7 @@
   - [vue-gesture ★19](https://github.com/mlyknown/vue-gesture):touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
   - [vue-lazyload-img ★49](https://github.com/JALBAA/vue-lazyload-img) another image lazyload plugin for Vue, especially optimized for mobile browser. By [@JALBAA](https://github.com/JALBAA)
   - [vue-socket.io ★91](https://github.com/MetinSeylan/Vue-Socket.io) : [socket.io-client](http://socket.io) plugin for Vuejs, manage socket.io event in Vue vm. By [@MetinSeylan](https://github.com/MetinSeylan)
-  - [vue-clipboard ★24](https://github.com/xiaokaike/vue-clipboard)
+  - [vue-clipboard ★32](https://github.com/xiaokaike/vue-clipboard)
   - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
   - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-toast-mobile ★28](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
