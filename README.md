@@ -430,6 +430,7 @@
   - [vue-rollup-boilerplate](https://github.com/dangvanthanh/vue-rollup-boilerplate) by [@dangvanthanh](https://github.com/dangvanthanh) - A simple rollup + vue-loader setup for quick prototyping
   - [Vue Starter](https://github.com/BosNaufal/vue-starter) - https://github.com/BosNaufal/vue-starter by [BosNaufal](https://github.com/BosNaufal)
   - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
+  - [vue-boilerplate](https://github.com/MillerRen/vue-boilerplate) Vue 2.0 boilerplate，based on webpack and es6，includes vuex，vue-router，vue-resource, vue-auth
 
 - #### Scaffolding
 
