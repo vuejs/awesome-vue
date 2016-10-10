@@ -567,6 +567,7 @@
   - [Surfbird ★32](https://github.com/surfbirdapp/surfbird) A Twitter client written with modern web technologies
   - [Approach0](https://github.com/approach0/search-engine) A math-aware search engine
   - [**kov-blog**](https://github.com/Ma63d/kov-blog) A blog and its managemant platform, based on vue, koa, mongoose and more.
+  - [Flox](https://github.com/devfake/flox) Self Hosted Movies Watch List
 
 - #### Apps/Websites
 
