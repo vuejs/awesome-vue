@@ -630,8 +630,8 @@
   - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
   - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
   - [Omnisense Experience](http://omnisense.net) - *Awwwards & FWA SOTD, FWA Cutting Edge. Awwwards SOTM nominee.*
-  - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
-  - [Heineken Star Experience](http://www.starexperience.fr/) - *FWA SOTD.*
+  - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - by Anonymous *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
+  - [Heineken Star Experience](http://www.starexperience.fr/) - by Anonymous *FWA SOTD.*
   - [Louis Ansa Website (portfolio)](http://louisansa.com) - *Awwwards SOTD, FWA nominee.*
   - [Djeco.com](http://www.djeco.com/en)
   - [Tolks.io](https://tolks.io) - a new way to put stories online.
