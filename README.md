@@ -281,7 +281,7 @@
   - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
   - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
-
+  - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
 - #### UI Components
 
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
