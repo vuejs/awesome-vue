@@ -140,6 +140,7 @@
 - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ![vue-ts-loader](https://img.shields.io/github/stars/HerringtonDarkholme/vue-ts-loader.svg?style=social&label=Star&maxAge=2592000) A webpack loader for loading TypeScript in `.vue`'s single file component
 - [express-vue](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
+- [vue-play ★53](https://github.com/egoist/vue-play) - UI Component Dev Environment for Vue inspired by [react-storybook](https://github.com/kadirahq/react-storybook).
 
 ### Syntax Highlighting
 
@@ -371,7 +372,7 @@
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
   - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
   - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
- 
+
 
 - #### i18n
 
@@ -525,7 +526,7 @@
   - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) Vue 2.0 version of the `v-pagination` plugin
   - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) Integration from socketcluster to vue.
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
-  - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas. 
+  - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
 
 - #### SEO
 
