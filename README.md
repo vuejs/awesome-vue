@@ -627,7 +627,8 @@
   - [Citymoods](http://citymoods.cc) Track the pusle of your city. See the moods of its tweets
   - [Approach0](http://approach0.xyz) A math-aware search engine for math.stackexchange.com
   - [The Spice House](https://www.thespicehouse.com) Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
-
+  - [豆瓣 ★198](https://github.com/jiakeqi/douban)
+  
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
