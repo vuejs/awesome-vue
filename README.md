@@ -282,6 +282,8 @@
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
   - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
   - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
+   - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
+   
 - #### UI Components
 
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
