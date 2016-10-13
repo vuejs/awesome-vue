@@ -439,6 +439,7 @@
   - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
   - [vue-boilerplate](https://github.com/MillerRen/vue-boilerplate) Vue 2.0 boilerplate，based on webpack and es6，includes vuex，vue-router，vue-resource, vue-auth
   - [bourgeon ★9](https://github.com/rayfranco/bourgeon) Vue 2.0 template for vue-cli based on webpack including stylus (jeet, rupture, typus), vuex, I18n, routing and SVG sprites.
+  - [vue-ssr-hmr-template ★42](https://github.com/hilongjw/vue-ssr-hmr-template) Vue2 + Webpack2 + HMR + Server Side Render + Express template by [@Awe](https://github.com/hilongjw)
 
 - #### Scaffolding
 
