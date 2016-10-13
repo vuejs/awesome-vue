@@ -487,7 +487,7 @@
   - [vue-clickaway ★51](https://github.com/simplesmiler/vue-clickaway): Assign a method to be called whenever user clicks away from the element. By @simplesmiler
   - [vue-focus ★37](https://github.com/simplesmiler/vue-focus): Manage input focus in the MVVM-friendly way. By @simplesmiler
   - [vue-transfer-dom ★30](https://github.com/rhyzx/vue-transfer-dom): Transfer DOM to another location. by @rhyzx
-  - [**vue-lazyload ★132**](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw
+  - [**vue-lazyload ★355**](https://github.com/hilongjw/vue-lazyload): lazyloading images. by @hilongjw <sup>Vue.js 1.x & 2.0 </sup>
   - [v-touch ★5](https://github.com/didierfranc/v-touch): The easiest way to use Hammer.js with Vue.js and use touch gestures. by [@didierfranc](https://github.com/didierfranc) <sup>Vue.js 1.x</sup>
   - [vue-mixins ★16](https://github.com/paulpflug/vue-mixins) A collection of mixins aimed to replace some jQuery functionality
   - [vue-filters ★3](https://github.com/paulpflug/vue-filters) A collection of filters
