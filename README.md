@@ -283,7 +283,7 @@
   - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
   - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
    - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
-   
+
 - #### UI Components
 
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
@@ -388,7 +388,7 @@
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
-  
+
 - #### Examples
 
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -414,7 +414,7 @@
   - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
   - [Tour of Heroes (Vue 2.0) ★1](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
   - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
-  - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay) 
+  - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
 
 - #### Boilerplates
 
@@ -532,6 +532,7 @@
   - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) Integration from socketcluster to vue.
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
   - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
+  - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
 
 - #### SEO
 
@@ -630,7 +631,7 @@
   - [Approach0](http://approach0.xyz) A math-aware search engine for math.stackexchange.com
   - [The Spice House](https://www.thespicehouse.com) Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
   - [豆瓣 ★198](https://github.com/jiakeqi/douban)
-  
+
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
