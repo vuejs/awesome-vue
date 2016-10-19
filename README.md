@@ -101,7 +101,6 @@
 - [Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/) on Coligo.io
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 - [** 讲解Vue.js 官网 中文-含代码、百度云、youtube ★656 **](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
-- [** 讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
@@ -109,6 +108,7 @@
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
+- [** 讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 
 #### 0.12 and earlier
 
