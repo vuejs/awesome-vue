@@ -110,6 +110,8 @@
 - [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource](https://github.com/jayway/vue-js-workshop)
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 - [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
+
 #### 0.12 and earlier
 
 - [Vue.js screencasts](https://laracasts.com/series/learning-vuejs) on Laracasts <sup>0.12</sup>
@@ -141,6 +143,10 @@
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ![vue-ts-loader](https://img.shields.io/github/stars/HerringtonDarkholme/vue-ts-loader.svg?style=social&label=Star&maxAge=2592000) A webpack loader for loading TypeScript in `.vue`'s single file component
 - [express-vue](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
 - [vue-play ★53](https://github.com/egoist/vue-play) - UI Component Dev Environment for Vue inspired by [react-storybook](https://github.com/kadirahq/react-storybook).
+- [vue-webpack](https://github.com/xpepermint/vue-webpack) - Webpack configuration object generator for Vue.js.
+- [vue-builder](https://github.com/xpepermint/vue-builder) - Server-side and client-side rendering for Vue.js.
+- [express-vue-dev](https://github.com/xpepermint/express-vue-dev) - Vue.js development server middleware for Express.js.
+- [express-vue-builder](https://github.com/xpepermint/express-vue-builder) - Vue.js server-side rendering middleware for Express.js.
 
 ### Syntax Highlighting
 
@@ -443,6 +449,7 @@
   - [bourgeon ★9](https://github.com/rayfranco/bourgeon) Vue 2.0 template for vue-cli based on webpack including stylus (jeet, rupture, typus), vuex, I18n, routing and SVG sprites.
   - [vue-ssr-hmr-template ★42](https://github.com/hilongjw/vue-ssr-hmr-template) Vue2 + Webpack2 + HMR + Server Side Render + Express template by [@Awe](https://github.com/hilongjw)
   - [Vuejs Starter Kit 2 ★12] (https://github.com/MetinSeylan/VuejsStarterKit) Vue 2.0 modern application structure [MetinSeylan](https://github.com/MetinSeylan)
+  - [vue-cli-template](https://github.com/xpepermint/vue-cli-template) - A simple server-side rendering CLI template for Vue.js. by [@xpepermint](https://twitter.com/kristijansedlak)
 
 - #### Scaffolding
 
