@@ -377,6 +377,7 @@
   - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
   - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
   - [vue.draggable ★48](https://github.com/David-Desmaisons/Vue.Draggable) draggable component for vue.js 2.0, allowing reordering of elements using drag-and-drop and synchronization between DOM and view model array. Based on [Sortable.js](https://github.com/RubaXa/Sortable) 
+  - [vue-tree ★1](https://github.com/weibangtuo/vue-tree): Vue Tree View Component [@weibangtuo](https://github.com/weibangtuo)
 
 - #### i18n
 
