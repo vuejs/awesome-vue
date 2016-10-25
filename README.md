@@ -50,7 +50,12 @@
 
 - [Vue.js資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
-- [Vue.js Jobs](http://govuejs.com/) - A platform to find/post your Vue.js jobs
+
+### Job Portal
+
+- [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
+
+
 
 ### Community
 
