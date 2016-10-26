@@ -394,7 +394,8 @@
   - [vue-img-loader](https://github.com/JackGit/vue-img-loader) - An image loader UI component for Vue.js 2.0, which supports preview, blur preview and other customize way while loading the image. [@jackgit](https://github.com/JackGit)
   - [vue-typewriter](https://github.com/eduardostuart/vue-typewriter): Vue component that types by @eduardostuart
   - [vue-charts ★10](https://github.com/hchstera/vue-charts): Google Chart.js plugin for Vue 2
-  
+  - [vue-lory](https://github.com/vue-bulma/lory) ☀ Touch enabled minimalistic slider for Vue, based on [lory](https://github.com/meandmax/lory). By [@fundon](https://github.com/fundon)
+
 - #### i18n
 
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
