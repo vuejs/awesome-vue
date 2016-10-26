@@ -325,6 +325,7 @@
   - [Famous-Vue ★13](https://github.com/irwansyahwii/Famous-Vue): Declarative Famous using Vue
   - [**vue-waterfall ★296**](https://github.com/MopTym/vue-waterfall): A waterfall layout component for Vue.js by @MopTym
   - [vue-charts ★35](https://github.com/haydenbbickerton/vue-charts): A Google Charts plugin for Vue.js by [@haydenbbickerton](https://github.com/haydenbbickerton)
+  - [vue-charts ★9](https://github.com/hchstera/vue-charts): Google Chart.js plugin for Vue 2
   - [**vue-select ★305**](https://github.com/sagalbot/vue-select): Simple component that implements Select2/Chosen style dropdowns with no dependencies<sup>1.0</sup>
   - [Vue-slide ★60](https://github.com/hilongjw/vue-slide): A lightweight slide component for Vue.js  by @hilongjw
   - [Vue-quill ★10](https://github.com/CroudSupport/vue-quill): A Vue component implementing the [Quill](https://github.com/quilljs/quill.git) text editor by @brockreece
