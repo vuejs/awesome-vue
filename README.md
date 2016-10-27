@@ -146,7 +146,7 @@
 - [vue-markdown-loader ★2](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
 - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
 - [vue-ts-loader](https://github.com/HerringtonDarkholme/vue-ts-loader) ![vue-ts-loader](https://img.shields.io/github/stars/HerringtonDarkholme/vue-ts-loader.svg?style=social&label=Star&maxAge=2592000) A webpack loader for loading TypeScript in `.vue`'s single file component
-- [express-vue](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
+- [express-vue](https://github.com/danmademe/express-vue)[![Express Vue Stars](https://img.shields.io/github/stars/danmademe/express-vue.svg?style=social&label=Star&maxAge=2592000)](https://github.com/danmademe/express-vue) Vue rendering engine for Express.js load .vue files directly using app.render()
 - [vue-play ★53](https://github.com/egoist/vue-play) - UI Component Dev Environment for Vue inspired by [react-storybook](https://github.com/kadirahq/react-storybook).
 - [vue-webpack](https://github.com/xpepermint/vue-webpack) - Webpack configuration object generator for Vue.js.
 - [vue-builder](https://github.com/xpepermint/vue-builder) - Server-side and client-side rendering for Vue.js.
