@@ -372,7 +372,9 @@
   - [vue-social-shares](https://github.com/10quality/vue-social-shares): Social network sharing component for Vuejs. [@10quality](https://github.com/10quality)
   - [vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar) [![GitHub stars](https://img.shields.io/github/stars/Wanderxx/vue-fullcalendar.svg?style=social&label=Star&maxAge=2592000)]() : A Pure Vue Schedule Full Calendar, events, schedule. [@Wanderxx](https://github.com/Wanderxx)
   - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout): A draggable and resizable grid layout, like Gridster, for Vue.js
-  - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker): A dropdown time picker for Vue.js. By @phoenixwong
+  - **vue-timepicker**: A dropdown time picker *(hour|minute|second)* for VueJs, with flexible time format support
+    - [vue-timepicker](https://github.com/phoenixwong/vue-timepicker): The Vue 1.x version By @phoenixwong
+    - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker): The Vue 2.x version By @phoenixwong
   - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) A fullcalendar.js wrapper for Vue.js @brockreece
   - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker): A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations. By [@charliekassel](https://github.com/charliekassel)
   - [vue-bootstrap-table](https://github.com/jbaysolutions/vue-bootstrap-table): A sortable and searchable table, as a Vue component, using bootstrap styling.
