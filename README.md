@@ -602,6 +602,7 @@
   - [Approach0](https://github.com/approach0/search-engine) A math-aware search engine
   - [**kov-blog**](https://github.com/Ma63d/kov-blog) A blog and its managemant platform, based on vue, koa, mongoose and more.
   - [Flox](https://github.com/devfake/flox) Self Hosted Movies Watch List
+  - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup>
 
 - #### Commercial Products
 
