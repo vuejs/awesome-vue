@@ -564,6 +564,7 @@
   - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
   - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
   - [vue-froala ★1](https://github.com/whitef0x0/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
+  - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
 
 - #### SEO
 
