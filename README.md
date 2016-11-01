@@ -568,6 +568,7 @@
   - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
   - [vue-froala ★1](https://github.com/whitef0x0/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
   - [vue-echo](https://github.com/happyDemon/vue-echo): Vue integration for the Laravel Echo library.
+  - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
 
 - #### SEO
 
