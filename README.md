@@ -116,6 +116,7 @@
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
 - [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
+- [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 
 #### 0.12 and earlier
 
@@ -291,7 +292,7 @@
   - [JS Validator ★4](https://github.com/gocanto/easiest-js-validator) - The easiest way to validate your forms without 3rd party packages by @gocanto
   - [vue-verify](https://github.com/PeakTai/vue-verify) - A simple verification plugin for VueJS
   - [vee-validate](https://github.com/logaretm/vee-validate) - Simple VueJS input validation plugin by @logaretm
-  - [Vue-Laravel-Validator ★8](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
+  - [Vue-Laravel-Validator ★17](https://github.com/MetinSeylan/Vue-Laravel-Validator) - Laravel validation response handle for vue forms. by [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-formly](https://github.com/matt-sanders/vue-formly) - Simple and extendable JS based forms. Heavily inspired by Angular Formly.
   - [vue-formly-bootstrap](https://github.com/matt-sanders/vue-formly-bootstrap) - A Bootstrap plugin for Vue Formly.
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
@@ -299,6 +300,8 @@
   - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
    - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
    - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
+  - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
+   
    
 - #### UI Components
 
@@ -564,6 +567,7 @@
   - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
   - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
   - [vue-froala ★1](https://github.com/whitef0x0/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
+  - [vue-echo](https://github.com/happyDemon/vue-echo): Vue integration for the Laravel Echo library.
   - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
 
 - #### SEO
