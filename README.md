@@ -404,6 +404,7 @@
   - [vue-slick](https://github.com/staskjs/vue-slick) Vue 2.0 component for [this Slick-carousel](http://kenwheeler.github.io/slick) By [@staskjs](https://github.com/staskjs)
   - [vue-mugen-scroll ★90](https://github.com/egoist/vue-mugen-scroll) Infinite scroll component for Vue.js 2.0
   - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) Virtual keyboard component for Vue.js. Designed to Raspberry Pi Touch Display
+  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) [![GitHub stars](https://img.shields.io/github/stars/nicolasbeauvais/vue-social-sharing.svg?style=social&label=Star&maxAge=2592000)]() : A Vue.js component for sharing links to social networks. [@nicolasbeauvais](https://github.com/nicolasbeauvais)
 
 - #### i18n
 
