@@ -584,6 +584,11 @@
 - #### TypeScript
 
   - [vue-property-decorator ★11](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
+  - [vue-typescript-component ![vue-typescript-component](https://img.shields.io/github/stars/locoslab/vue-typescript-component.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-component): TypeScript classes as Vue.js 2 components
+  - [vue-typescript-import-dts ![vue-typescript-import-dts](https://img.shields.io/github/stars/locoslab/vue-typescript-import-dts.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-import-dts): Support `import` of `*.vue` files in TypeScript sources
+  - [vue-typescript-jest ![vue-typescript-jest](https://img.shields.io/github/stars/locoslab/vue-typescript-jest.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-jest): Test Vue.js components and TypeScript sources using Jest
+  - [vue-jest-utils ![vue-jest-utils](https://img.shields.io/github/stars/locoslab/vue-jest-utils.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-jest-utils): Simple snapshot testing of Vue.js components (JavaScript and TypeScript) using Jest and html2jade
+  - [vue-typescript-component-example ![vue-typescript-component-example](https://img.shields.io/github/stars/locoslab/vue-typescript-component-example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-component-example): Example TypeScript/Tsify/Vue.js/Vueify/Pug setup supporting Hot Module Replacement and unit/snapshot testing with Jest
 
 - #### Talks
 
