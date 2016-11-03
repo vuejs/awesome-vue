@@ -575,6 +575,7 @@
   - [vue-echo](https://github.com/happyDemon/vue-echo): Vue integration for the Laravel Echo library.
   - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
+  - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
 
 - #### SEO
 
