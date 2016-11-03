@@ -33,6 +33,7 @@
   - [Integrations](#integrations)
   - [General Plugins/Directives](#general-pluginsdirectives)
   - [SEO](#seo)
+  - [TypeScript](#typescript)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -242,7 +243,7 @@
   - [vue-off-canvas](https://github.com/wovue/off-canvas) - A dialog component for Vue.js. <sup>1.x compatible</sup>
   - [vue-dialog](https://github.com/wovue/dialog) - A off-canvas component for Vue.js. <sup>1.x compatible</sup>
   - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
-- [Bootstrap-Vue ★46](https://github.com/bootstrap-vue/bootstrap-vue) Complete **Bootstrap 4** Components For Vue.js 2. <sup>2.x compatible</sup> 
+- [Bootstrap-Vue ★46](https://github.com/bootstrap-vue/bootstrap-vue) Complete **Bootstrap 4** Components For Vue.js 2. <sup>2.x compatible</sup>
 - [vue-codemirror ★35](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
 - [vue-video-player ★25](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/
 - [**vue-material ★152**](https://marcosmoura.github.io/vue-material) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup>  [@marcosmoura](https://github.com/marcosmoura)
@@ -301,8 +302,8 @@
    - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
    - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
   - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
-   
-   
+
+
 - #### UI Components
 
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
@@ -495,7 +496,6 @@
   - [ScalaJS bindings for Vue.js ★24](https://github.com/fancellu/scalajs-vue) by @fancellu
   - [Socketize Backend ★6](https://github.com/Socketize/vue.js-plugin): Sync your model data to Socketize backend automatically. By [@Socketize](https://github.com/Socketize)
   - [Vue-Meteor-Data ★17](https://github.com/Grottolabs/vue-meteor-data) Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
-  - [Vue Proerty Decorator ★9](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
   - [Vue-Typed ★7](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
   - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
   - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
@@ -580,6 +580,10 @@
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
   - [vue-helmet ★17](https://github.com/miaolz123/vue-helmet) : Like [react-helmet](https://github.com/nfl/react-helmet), a HTML head manager for Vue, edit the page title easily. By [@miaolz123](https://github.com/miaolz123)
+
+- #### TypeScript
+
+  - [vue-property-decorator ★11](https://github.com/kaorun343/vue-property-decorator): Property Decorators for Vue.js by @kaorun343
 
 - #### Talks
 
