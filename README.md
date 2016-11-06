@@ -696,6 +696,7 @@
   - [The Spice House](https://www.thespicehouse.com) Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
   - [豆瓣 ★198](https://github.com/jiakeqi/douban)
   - [Livestorm](http://livestorm.co) Webinar / Live events app
+  - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
 
 - #### Interactive Experiences
 
