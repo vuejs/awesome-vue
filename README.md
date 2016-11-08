@@ -478,6 +478,7 @@
   - [Vuejs Starter Kit 2 ★12] (https://github.com/MetinSeylan/VuejsStarterKit) Vue 2.0 modern application structure [MetinSeylan](https://github.com/MetinSeylan)
   - [vue-cli-template](https://github.com/xpepermint/vue-cli-template) - A simple server-side rendering CLI template for Vue.js. by [@xpepermint](https://twitter.com/kristijansedlak)
   - [vue-adonis](https://github.com/Atinux/vue-adonis) - AdonisJS + Vue.js with server-side rendering by [@Atinux](https://github.com/Atinux)
+  - [A simple template for Vue.js plugin](https://github.com/znck/vue-plugin-simple) [![★11](https://img.shields.io/github/stars/znck/vue-plugin-simple.svg?style=social&label=Star&maxAge=2592000)](https://github.com/znck/vue-plugin-simple) by [@znck](https://github.com/znck) - Uses rollup to pack.
 
 - #### Scaffolding
 
