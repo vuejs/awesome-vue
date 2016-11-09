@@ -290,7 +290,8 @@
   - [vue-formular](https://github.com/matfish2/vue-formular) - A comperhensive solution for HTML form management, including presentation, validation and (optional) AJAX submission. Presentation is based on Bootstrap's form component.
   - [Vuerify](https://github.com/QingWei-Li/vuerify) - Validation plugin for Vue.js
   - [vue-data-validator](https://github.com/phphe/vue-data-validator) - For Vue.js 2
-   - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
+  - [vue-form-2](https://github.com/matfish2/vue-form-2) Vue 2.0 version of [vue-formular](https://github.com/matfish2/vue-formular)
+  - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
 
 - #### UI Components
 
