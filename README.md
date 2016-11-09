@@ -583,6 +583,7 @@
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
   - [vue-helmet ★17](https://github.com/miaolz123/vue-helmet) : Like [react-helmet](https://github.com/nfl/react-helmet), a HTML head manager for Vue, edit the page title easily. By [@miaolz123](https://github.com/miaolz123)
+  - [vue-meta ![vue-meta](https://img.shields.io/github/stars/declandewet/vue-meta.svg?style=social&label=Star&maxAge=2592000)](https://github.com/declandewet/vue-meta): Manage page meta info in components. SSR supported. <sup>2.x</sup>
 
 - #### TypeScript
 
