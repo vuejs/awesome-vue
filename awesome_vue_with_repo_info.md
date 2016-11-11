@@ -1276,9 +1276,9 @@
      Vue-calendar
     </a>
     : A vue calendar component with less code by cucygh
-    <sup>
-     &#9733 1, pushed 23 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/cucygh/vue-calendar.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-calendar.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-calendar.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://appcomponents.org/material-components/">
@@ -1289,6 +1289,9 @@
      materializecss.com
     </a>
     by mjanys
+    <sub><sub><img src="https://img.shields.io/github/stars/appcomponents/material-components.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/material-components.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/material-components.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-autocomplete">
@@ -1298,9 +1301,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sup>
-     &#9733 22, pushed 94 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-autocomplete.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-autocomplete.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-autocomplete.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-loading-bar">
@@ -1310,9 +1313,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sup>
-     &#9733 26, pushed 10 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-loading-bar.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-loading-bar.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-loading-bar.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Coffcer/vue-bootstrap-modal">
@@ -1322,9 +1325,9 @@
     <a href="https://github.com/Coffcer">
      @Coffcer
     </a>
-    <sup>
-     &#9733 5, pushed 3 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Coffcer/vue-bootstrap-modal.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-bootstrap-modal.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-bootstrap-modal.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/vue-comps">
@@ -1340,36 +1343,36 @@
     <a href="https://github.com/vue-comps">
      vue-comps
     </a>
-    <sup>
-     &#9733 22, pushed 1 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-materialize.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-materialize.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-materialize.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Teddy-Zhu/vue-waves">
      vue-waves
     </a>
     :Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
-    <sup>
-     &#9733 3, pushed 8 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Teddy-Zhu/vue-waves.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-waves.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-waves.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/ratiw/vue-table">
      vue-table
     </a>
     : component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
-    <sup>
-     &#9733 26, pushed 0 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/ratiw/vue-table.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-table.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-table.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/firework/fire-select">
      fire-select
     </a>
     : Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
-    <sup>
-     &#9733 26, pushed 1 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/firework/fire-select.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/fire-select.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/fire-select.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -1383,24 +1386,27 @@
      vue-i18n
     </a>
     : Internationalization plugin.
+    <sub><sub><img src="https://img.shields.io/github/stars/kazupon/vue-i18n.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-i18n.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-i18n.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Haixing-Hu/vue-i18n">
      vue-i18n
     </a>
     : A plugin providing a global interface used to localize internationalized messages used in the
-    <sup>
-     &#9733 32, pushed 2 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Haixing-Hu/vue-i18n.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-i18n-plugin.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-i18n-plugin.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/sebastian-software/vue-locale">
      vue-locale
     </a>
     : Advanced localization support for VueJS
-    <sup>
-     &#9733 9, pushed 34 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/sebastian-software/vue-locale.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-locale.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-locale.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/zxdong262/vue-jade-editor">
@@ -1410,14 +1416,11 @@
     <a href="https://github.com/zxdong262">
      @zxdong262
     </a>
-    <sup>
-     &#9733 0, pushed 8 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/zxdong262/vue-jade-editor.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-jade-editor.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-jade-editor.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
-  <sup>
-   &#9733 164, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -1428,42 +1431,35 @@
     <a href="http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api">
      Starter Application with JWT Auth + sample backend API in Laravel
     </a>
+    <sub><sub><img src="https://img.shields.io/github/stars/layer7be/vue-starter-laravel-api.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/brandonjpierce/node-webkit-boilerplate">
      Node Webkit + Vue example
     </a>
     by @brandonjpierce
-    <sup>
-     &#9733 34, pushed 287 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/brandonjpierce/node-webkit-boilerplate.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/superlloyd/VueSamples">
      Vue Samples
     </a>
     by @superlloyd
-    <sup>
-     &#9733 18, pushed 175 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/superlloyd/VueSamples.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/kazupon/vue-router-hackernews">
      HackerNews clone with vue.js + vue-router
     </a>
     by @kazupon
-    <sup>
-     &#9733 2, pushed 240 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/kazupon/vue-router-hackernews.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/bradstewart/electron-boilerplate-vue">
      Electron + Vue example
     </a>
     by @bradstewart
-    <sup>
-     &#9733 144, pushed 1 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/bradstewart/electron-boilerplate-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/inca/voie-example">
@@ -1473,9 +1469,7 @@
     <a href="https://github.com/inca">
      Boris Okunskiy
     </a>
-    <sup>
-     &#9733 30, pushed 108 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/inca/voie-example.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/rajabishek/begin">
@@ -1485,9 +1479,7 @@
     <a href="https://github.com/rajabishek">
      Raj Abishek
     </a>
-    <sup>
-     &#9733 10, pushed 25 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/rajabishek/begin.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-mini-shop">
@@ -1497,9 +1489,7 @@
     <a href="https://github.com/BosNaufal">
      BosNaufal
     </a>
-    <sup>
-     &#9733 10, pushed 22 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-mini-shop.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/mul14/vue-soundcloud">
@@ -1509,9 +1499,7 @@
     <a href="https://github.com/mul14">
      mul14
     </a>
-    <sup>
-     &#9733 11, pushed 0 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/mul14/vue-soundcloud.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -1525,20 +1513,16 @@
      Boilerplate for Vue.js plugin
     </a>
     by @kazupon
+    <sub><sub><img src="https://img.shields.io/github/stars/kazupon/vue-plugin-boilerplate.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-electron">
      Boilerplate for Vue.js & Atom Electron
     </a>
     by @rodzzlessa24
-    <sup>
-     &#9733 33, pushed 14 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-electron.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
-  <sup>
-   &#9733 16, pushed 52 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -1550,72 +1534,77 @@
      vue-cli
     </a>
     : official CLI for scaffolding Vue.js projects.
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-cli.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BirdEggegg/generator-vue">
      Vue generator
     </a>
     : a simple yeoman generator for Vue by @BirdEggegg
+    <sub><sub><img src="https://img.shields.io/github/stars/BirdEggegg/generator-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/generator-vue.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/generator-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/jfelsinger/generator-venm">
      VENM stack yeoman generator
     </a>
     by @jfelsinger
-    <sup>
-     &#9733 35, pushed 121 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/jfelsinger/generator-venm.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/generator-venm.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/generator-venm.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/mustardamus/generator-grail">
      Grail Yeoman Generator
     </a>
     : a advanced yeoman generator for a modern modular one page web app, extendable with Vue.js alongside other nice tools
-    <sup>
-     &#9733 9, pushed 167 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/mustardamus/generator-grail.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/generator-grail.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/generator-grail.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/egoist/vuepack">
      VuePack
     </a>
     : A modern starter for Vue and Webpack by @egoist
-    <sup>
-     &#9733 157, pushed 6 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/egoist/vuepack.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vuepack.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vuepack.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-webgulp">
      VueWebgulp
     </a>
     : A skeleton app using Vuejs, Gulp, and Webpack by @rodzzlessa24
-    <sup>
-     &#9733 31, pushed 30 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-webgulp.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-webgulp.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-webgulp.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/scottbedard/oc-vuetober-theme">
      Vuetober
     </a>
     : SPA scaffolding for October CMS
-    <sup>
-     &#9733 21, pushed 26 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/scottbedard/oc-vuetober-theme.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/oc-vuetober-theme.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/rodzzlessa24/vue-go-cli">
      vue-go-cli
     </a>
     - a CLI tool for scaffolding new projects generating components, services, and mixins.
+    <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/nblackburn/brunch-with-vue">
      Brunch with Vue
     </a>
     - A skeleton application utilizing vue, vuex, vue-resource and vue-router.
-    <sup>
-     &#9733 9, pushed 37 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/nblackburn/brunch-with-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/brunch-with-vue.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -1629,15 +1618,16 @@
      Vue for Meteor
     </a>
     by @zhouzhuojie
+    <sub><sub><img src="https://img.shields.io/github/stars/zhouzhuojie/meteor-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/meteor-vue.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/fancellu/scalajs-vue">
      ScalaJS bindings for Vue.js
     </a>
     by @fancellu
-    <sup>
-     &#9733 22, pushed 177 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/fancellu/scalajs-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/scalajs-vue.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Socketize/vue.js-plugin">
@@ -1647,32 +1637,28 @@
     <a href="https://github.com/Socketize">
      @Socketize
     </a>
-    <sup>
-     &#9733 6, pushed 118 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Socketize/vue.js-plugin.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue.js-plugin.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Grottolabs/vue-meteor-data">
      Vue-Meteor-Data
     </a>
     Two-way-reactivity mixin for Vue and Meteor by @JakobRosenberg
-    <sup>
-     &#9733 12, pushed 3 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Grottolabs/vue-meteor-data.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-meteor-data.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-meteor-data.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/kaorun343/vue-property-decorator">
      Vue Proerty Decorator
     </a>
     : Property Decorators for Vue.js by @kaorun343
-    <sup>
-     &#9733 7, pushed 87 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/kaorun343/vue-property-decorator.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-property-decorator.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-property-decorator.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
-  <sup>
-   &#9733 74, pushed 114 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -1684,6 +1670,9 @@
      vue-element
     </a>
     : Register real custom elements with Vue.
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-element.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-element.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-element.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-touch">
