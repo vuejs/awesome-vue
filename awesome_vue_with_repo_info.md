@@ -1062,33 +1062,35 @@
      Form generation from JSON Schema
     </a>
     by @dgerber
-    <sup>
-     &#9733 19, pushed 320 days ago
-    </sup>
-   </li>
+    <sub><sub><img src="https://img.shields.io/github/stars/dgerber/vue-formidable.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-formidable.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-formidable.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>   </li>
    <li>
     <a href="https://github.com/ericmcdaniel/vue-panel">
      vue-panel
     </a>
     : A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
-    <sup>
-     &#9733 36, pushed 112 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/ericmcdaniel/vue-panel.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-panel.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-panel.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>   
    </li>
    <li>
     <a href="https://github.com/GuillaumeLeclerc/vue-google-maps/">
      vue-google-maps
     </a>
     : A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
+    <sub><sub><img src="https://img.shields.io/github/stars/GuillaumeLeclerc/vue-google-maps.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-google-maps.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-google-maps.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/Twiknight/vue-transition">
      vue-transition
     </a>
     : A component to trigger a CSS transition at any time by @Twiknight
-    <sup>
-     &#9733 34, pushed 49 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/Twiknight/vue-transition.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-transition.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-transition.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://kzima.github.io/vuestrap-icons/#/icons">
@@ -1102,6 +1104,9 @@
     <sup>
      1.0
     </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/kzima/vuestrap-icons.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vuestrap-icons.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vuestrap-icons.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://gritcode.github.io/gritcode-components/#/toast">
@@ -1111,6 +1116,9 @@
     <sup>
      1.0
     </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/gritcode/gritcode-components.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/gritcode-components.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/gritcode-components.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://kzima.github.io/vuestrap-base-components/#/accordion">
