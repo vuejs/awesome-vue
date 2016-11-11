@@ -584,9 +584,9 @@
    vue
   </code>
   components
-  <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/v/vue-dev-server.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-dev-server.svg"/></sub></sub>
+  <br><img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg"/>
+  <img src="https://img.shields.io/npm/v/vue-dev-server.svg"/>
+  <img src="https://img.shields.io/npm/dt/vue-dev-server.svg"/>
  </li>
  <li>
   <a href="https://github.com/rodzzlessa24/vue-go-cli">
@@ -762,9 +762,9 @@
     <sup>
      1.0
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/inca/voie.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/voie.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/voie.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/inca/voie.svg"/>
+    <img src="https://img.shields.io/npm/v/voie.svg"/>
+    <img src="https://img.shields.io/npm/dt/voie.svg"/>
    </li>
   </ul>
  </li>
@@ -785,9 +785,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-resource.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-resource.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg"/>
+    <img src="https://img.shields.io/npm/v/vue-resource.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-resource.svg"/>
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-async-data">
@@ -852,9 +852,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-freeze.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-freeze.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg"/>
+    <img src="https://img.shields.io/npm/v/vue-freeze.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-freeze.svg"/>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-simple-store">
@@ -864,9 +864,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-simple-store.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-simple-store.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg"/>
+    <img src="https://img.shields.io/npm/v/vue-simple-store.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-simple-store.svg"/>
    </li>
   </ul>
  </li>
@@ -883,9 +883,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-validator.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-validator.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg"/>
+    <img src="https://img.shields.io/npm/v/vue-validator.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-validator.svg"/>
    </li>
    <li>
     <a href="https://github.com/xrado/vue-validator">
@@ -945,9 +945,9 @@
     <a href="https://github.com/posva">
      @posva
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/posva/vue-mdl.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-mdl.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-mdl.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/posva/vue-mdl.svg"/>
+    <img src="https://img.shields.io/npm/v/vue-mdl.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-mdl.svg"/>
    </li>
    <li>
     <a href="https://github.com/samcrosoft/vue-countup">
