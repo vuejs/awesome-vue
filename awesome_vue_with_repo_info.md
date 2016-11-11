@@ -178,7 +178,7 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=★"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=⭐️"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
  </li>
