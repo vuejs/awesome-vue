@@ -178,9 +178,9 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-  <sup>
-   &#9733 16889, pushed 0 days ago
-  </sup>
+   ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg)
+   ![npm](https://img.shields.io/npm/v/vue.svg)
+   ![npm](https://img.shields.io/npm/dt/vue.svg)
  </li>
  <li>
   <a href="https://github.com/vuejs/vue/releases">
@@ -273,9 +273,7 @@
     <a href="https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js">
      CoffeeScript Version
     </a>
-    <sup>
-     &#9733 3, pushed 52 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/anfelor/TodoMVC-CoffeeScript-and-Vue.js.svg)
    </li>
   </ul>
  </li>
@@ -283,9 +281,7 @@
   <a href="https://github.com/vuejs/vue-hackernews">
    Vue.js HackerNews Clone
   </a>
-  <sup>
-   &#9733 897, pushed 56 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-hackernews.svg)
  </li>
 </ul>
 <h3>
@@ -498,9 +494,9 @@
    vue-cli
   </a>
   : official CLI for scaffolding Vue.js projects.
-  <sup>
-   &#9733 565, pushed 10 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-cli.svg)
+  ![npm](https://img.shields.io/npm/v/vue-cli.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-cli.svg)
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-loader">
@@ -512,14 +508,12 @@
     <a href="https://github.com/vuejs/vue-loader-example">
      vue-loader-example
     </a>
-    <sup>
-     &#9733 312, pushed 48 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-loader-example.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 450, pushed 1 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-loader.svg)
+  ![npm](https://img.shields.io/npm/v/vue-loader.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-loader.svg)
  </li>
  <li>
   <a href="https://github.com/vuejs/vueify">
@@ -531,23 +525,21 @@
     <a href="https://github.com/vuejs/vueify-example">
      vueify-example
     </a>
-    <sup>
-     &#9733 83, pushed 83 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/vuejs/vueify-example.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 408, pushed 3 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/vuejs/vueify.svg)
+  ![npm](https://img.shields.io/npm/v/vueify.svg)
+  ![npm](https://img.shields.io/npm/dt/vueify.svg)
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-devtools">
    vue-devtools
   </a>
   - Chrome devtools extension for debugging Vue applications.
-  <sup>
-   &#9733 583, pushed 10 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-devtools.svg)
+  ![npm](https://img.shields.io/npm/v/vue-devtools.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-devtools.svg)
  </li>
  <li>
   <a href="https://github.com/SkewedAspect/grunt-vueify">
@@ -558,18 +550,18 @@
    .vue
   </code>
   files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-  <sup>
-   &#9733 1, pushed 54 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg)
+  ![npm](https://img.shields.io/npm/v/grunt-vueify.svg)
+  ![npm](https://img.shields.io/npm/dt/grunt-vueify.svg)
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-compiler">
    vue-compiler
   </a>
   - A simple CLI wrapper around vueify
-  <sup>
-   &#9733 2, pushed 7 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/paulpflug/vue-compiler.svg)
+  ![npm](https://img.shields.io/npm/v/vue-compiler.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-compiler.svg)
  </li>
  <li>
   <a href="https://atom.io/packages/vue-autocompile">
@@ -580,6 +572,7 @@
    .vue
   </code>
   files on save.
+  ![npm](https://img.shields.io/apm/dm/vue-autocompile.svg)
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-dev-server">
@@ -590,45 +583,42 @@
    vue
   </code>
   components
-  <sup>
-   &#9733 3, pushed 42 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg)
+  ![npm](https://img.shields.io/npm/v/vue-dev-server.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-dev-server.svg)
  </li>
  <li>
   <a href="https://github.com/rodzzlessa24/vue-go-cli">
    vue-go-cli
   </a>
   - a CLI tool for scaffolding new projects generating components, services, and mixins.
-  <sup>
-   &#9733 2, pushed 48 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg)
  </li>
  <li>
   <a href="https://github.com/nblackburn/vue-brunch">
    brunch-vue
   </a>
   - Adds support to Brunch for pre-compiling single file Vue components.
-  <sup>
-   &#9733 2, pushed 44 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/nblackburn/vue-brunch.svg)
+  ![npm](https://img.shields.io/npm/v/vue-brunch.svg)
+  ![npm](https://img.shields.io/npm/dt/vue-brunch.svg)
  </li>
  <li>
   <a href="https://github.com/rawcreative/vueify-extract-css">
    vueify-extract-css
   </a>
   - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
-  <sup>
-   &#9733 18, pushed 29 days ago
-  </sup>
- </li>
+  ![GitHub stars](https://img.shields.io/github/stars/rawcreative/vueify-extract-css.svg)
+  ![npm](https://img.shields.io/npm/v/vueify-extract-css.svg)
+  ![npm](https://img.shields.io/npm/dt/vueify-extract-css.svg) </li>
  <li>
   <a href="https://github.com/twiknight/eslint-plugin-vue">
    eslint-plugin-vue
   </a>
   - Eslint plugin for .vue files.
-  <sup>
-   &#9733 20, pushed 21 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/twiknight/eslint-plugin-vue.svg)
+  ![npm](https://img.shields.io/npm/v/eslint-plugin-vue.svg)
+  ![npm](https://img.shields.io/npm/dt/eslint-plugin-vue.svg)
  </li>
 </ul>
 <h3>
@@ -657,9 +647,7 @@
    Vim
   </a>
   by @darthmall and @posva
-  <sup>
-   &#9733 30, pushed 2 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/posva/vim-vue.svg)
  </li>
  <li>
   <a href="https://marketplace.visualstudio.com/items/liuji-jim.vue">
@@ -672,27 +660,21 @@
    Brackets
   </a>
   by @pandao
-  <sup>
-   &#9733 6, pushed 113 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/pandao/brackets-vue.svg)
  </li>
  <li>
   <a href="https://github.com/henjue/vue-for-idea">
    IntelliJ IDEA / WebStorm
   </a>
   by @henjue
-  <sup>
-   &#9733 135, pushed 28 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/henjue/vue-for-idea.svg)
  </li>
  <li>
   <a href="https://github.com/CodeFalling/vue-mode">
    Emacs
   </a>
   by @CodeFalling
-  <sup>
-   &#9733 2, pushed 10 days ago
-  </sup>
+  ![GitHub stars](https://img.shields.io/github/stars/CodeFalling/vue-mode.svg)
  </li>
 </ul>
 <h3>
@@ -746,27 +728,27 @@
      Vue page
     </a>
     , a routing system based on pagejs by @AlexToudic
-    <sup>
-     &#9733 15, pushed 247 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/AlexToudic/vue-page.svg)
+    ![npm](https://img.shields.io/npm/v/vue-page.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-page.svg)
    </li>
    <li>
     <a href="https://github.com/bpierre/vue-lanes">
      Vue Lanes
     </a>
     , an event-based routing system for Vue by @bpierre
-    <sup>
-     &#9733 19, pushed 756 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/bpierre/vue-lanes.svg)
+    ![npm](https://img.shields.io/npm/v/vue-lanes.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-lanes.svg)
    </li>
    <li>
     <a href="https://github.com/ayamflow/vue-route">
      Vue route
     </a>
     , ng-view inspired routes for Vue by @ayamflow
-    <sup>
-     &#9733 70, pushed 258 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/ayamflow/vue-route.svg)
+    ![npm](https://img.shields.io/npm/v/vue-route.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-route.svg)
    </li>
    <li>
     <a href="https://github.com/inca/voie">
@@ -779,14 +761,11 @@
     <sup>
      1.0
     </sup>
-    <sup>
-     &#9733 107, pushed 2 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/inca/voie.svg)
+    ![npm](https://img.shields.io/npm/v/voie.svg)
+    ![npm](https://img.shields.io/npm/dt/voie.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 1070, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -794,7 +773,7 @@
   </h4>
   <ul>
    <li>
-    <a href="https://github.com/vuejs/vue-resource">
+    <a href="https://github.com/pagekit/vue-resource">
      vue-resource
     </a>
     - AJAX/Resource plugin maintained by the
@@ -805,6 +784,9 @@
     <sup>
      1.0 compatible
     </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/pagekit/vue-resource.svg)
+    ![npm](https://img.shields.io/npm/v/vue-resource.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-resource.svg)
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-async-data">
@@ -814,9 +796,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sup>
-     &#9733 174, pushed 2 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-async-data.svg)
+    ![npm](https://img.shields.io/npm/v/vue-async-data.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-async-data.svg)
    </li>
    <li>
     <a href="https://github.com/foxbenjaminfox/vue-async-computed">
@@ -826,14 +808,11 @@
     <a href="https://github.com/foxbenjaminfox">
      @foxbenjaminfox
     </a>
-    <sup>
-     &#9733 15, pushed 3 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed.svg)
+    ![npm](https://img.shields.io/npm/v/vue-async-computed.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-async-computed.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 1143, pushed 34 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -851,15 +830,18 @@
      revue
     </a>
     - Redux binding for Vue by @egoist
+    ![GitHub stars](https://img.shields.io/github/stars/egoist/revue.svg)
+    ![npm](https://img.shields.io/npm/v/revue.svg)
+    ![npm](https://img.shields.io/npm/dt/revue.svg)
    </li>
    <li>
     <a href="https://github.com/yang-wei/vue-redux">
      vue-redux
     </a>
     - Redux binding for Vue by @yang-wei
-    <sup>
-     &#9733 74, pushed 75 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/yang-wei/vue-redux.svg)
+    ![npm](https://img.shields.io/npm/v/vue-redux.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-redux.svg)
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-freeze">
@@ -869,9 +851,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sup>
-     &#9733 29, pushed 21 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg)
+    ![npm](https://img.shields.io/npm/v/vue-freeze.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-freeze.svg)
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-simple-store">
@@ -881,14 +863,11 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <sup>
-     &#9733 25, pushed 22 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg)
+    ![npm](https://img.shields.io/npm/v/vue-simple-store.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-simple-store.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 1184, pushed 1 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -903,15 +882,16 @@
     <sup>
      1.0 compatible
     </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/vuejs/vue-validator.svg)
+    ![npm](https://img.shields.io/npm/v/vue-validator.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-validator.svg)
    </li>
    <li>
     <a href="https://github.com/xrado/vue-validator">
      Vue validator
     </a>
     by @xrado
-    <sup>
-     &#9733 34, pushed 195 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/xrado/vue-validator.svg)
    </li>
    <li>
     <a href="https://github.com/fergaldoyle/vue-form">
@@ -921,14 +901,11 @@
     <sup>
      1.0 compatible
     </sup>
-    <sup>
-     &#9733 105, pushed 2 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/fergaldoyle/vue-form.svg)
+    ![npm](https://img.shields.io/npm/v/vue-form.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-form.svg)
    </li>
   </ul>
-  <sup>
-   &#9733 533, pushed 0 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -943,6 +920,9 @@
     <sup>
      1.0
     </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/yuche/vue-strap.svg)
+    ![npm](https://img.shields.io/npm/v/vue-strap.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-strap.svg)
    </li>
    <li>
     <a href="http://morgul.github.io/vueboot/">
@@ -952,6 +932,9 @@
     <sup>
      1.0
     </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/Morgul/vueboot.svg)
+    ![npm](https://img.shields.io/npm/v/vueboot.svg)
+    ![npm](https://img.shields.io/npm/dt/vueboot.svg)
    </li>
    <li>
     <a href="https://github.com/posva/vue-mdl">
@@ -961,9 +944,9 @@
     <a href="https://github.com/posva">
      @posva
     </a>
-    <sup>
-     &#9733 282, pushed 4 days ago
-    </sup>
+    ![GitHub stars](https://img.shields.io/github/stars/posva/vue-mdl.svg)
+    ![npm](https://img.shields.io/npm/v/vue-mdl.svg)
+    ![npm](https://img.shields.io/npm/dt/vue-mdl.svg)
    </li>
    <li>
     <a href="https://github.com/samcrosoft/vue-countup">
