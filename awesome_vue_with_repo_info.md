@@ -573,6 +573,7 @@
    .vue
   </code>
   files on save.
+  <sub><sub><img src="https://img.shields.io/apm/v/vue-autocompile.svg"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocompile.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
@@ -630,19 +631,22 @@
   <a href="https://github.com/vuejs/vue-syntax-highlight">
    Sublime Text
   </a>
- </li>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-syntax-highlight.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub> </li>
  <li>
   <a href="https://atom.io/packages/language-vue">
    Atom
   </a>
   by @hedefalk
+  <sub><sub><img src="https://img.shields.io/apm/v/language-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/apm/dm/language-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://atom.io/packages/language-vue-component">
    Atom (2)
   </a>
   by @CYBAI
- </li>
+  <sub><sub><img src="https://img.shields.io/apm/v/language-vue-component.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/apm/dm/language-vue-component.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>  </li>
  <li>
   <a href="https://github.com/posva/vim-vue">
    Vim
@@ -654,7 +658,7 @@
   <a href="https://marketplace.visualstudio.com/items/liuji-jim.vue">
    Visual Studio Code
   </a>
-  by Jim Liu
+  by Jim Liu <sup>15k installs 11/2016</sup>
  </li>
  <li>
   <a href="https://github.com/pandao/brackets-vue">
@@ -690,7 +694,9 @@
   <a href="https://github.com/ealves-pt">
    @ealves-pt
   </a>
-  <sub><sub><img src="https://img.shields.io/apm/dm/vue-snippets.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub> </li>
+  <sub><sub><img src="https://img.shields.io/apm/v/vue-snippets.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/apm/dm/vue-snippets.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
+</li>
 </ul>
 <h3>
  Autocomplete
@@ -704,6 +710,7 @@
   <a href="https://github.com/ealves-pt">
    @ealves-pt
   </a>
+  <sub><sub><img src="https://img.shields.io/apm/v/vue-autocomplete.svg"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocomplete.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub> </li>
 </ul>
 <h3>
