@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css">
 <p align="center">
  <br>
   <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" width="400">
@@ -10,7 +9,7 @@
  </br>
 </p>
 <h2>
- Awesome Vue.js <i class="fa fa-coffee"></i>
+ Awesome Vue.js
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></sub></sub>
  </a>
@@ -179,9 +178,9 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=:"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
-   <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue/releases">
@@ -274,7 +273,7 @@
     <a href="https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js">
      CoffeeScript Version
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/anfelor/TodoMVC-CoffeeScript-and-Vue.js.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/anfelor/TodoMVC-CoffeeScript-and-Vue.js.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -282,7 +281,7 @@
   <a href="https://github.com/vuejs/vue-hackernews">
    Vue.js HackerNews Clone
   </a>
-  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-hackernews.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-hackernews.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -495,24 +494,24 @@
    vue-cli
   </a>
   : official CLI for scaffolding Vue.js projects.
-  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-cli.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vue-cli.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-cli.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-loader">
    vue-loader
   </a>
   - Vue component loader for Webpack.
-  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vue-loader.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-loader.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-loader.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-loader-example">
      vue-loader-example
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader-example.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader-example.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -521,15 +520,15 @@
    vueify
   </a>
   - Vue compcomponent transform for Browserify.
-  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vueify.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vueify.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vueify-example">
      vueify-example
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify-example.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify-example.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -538,9 +537,9 @@
    vue-devtools
   </a>
   - Chrome devtools extension for debugging Vue applications.
-  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-devtools.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-devtools.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vue-devtools.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-devtools.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-devtools.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/SkewedAspect/grunt-vueify">
@@ -552,18 +551,18 @@
   </code>
   files to pure JavaScript, without using Browserify. (Useful for Electron apps)
   <br>
-  <img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg"/>
+  <img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
   <img src="https://img.shields.io/npm/v/grunt-vueify.svg"/>
-  <img src="https://img.shields.io/npm/dt/grunt-vueify.svg"/>
+  <img src="https://img.shields.io/npm/dt/grunt-vueify.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-compiler">
    vue-compiler
   </a>
   - A simple CLI wrapper around vueify
-  <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-compiler.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-compiler.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vue-compiler.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-compiler.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-compiler.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://atom.io/packages/vue-autocompile">
@@ -574,7 +573,7 @@
    .vue
   </code>
   files on save.
-  <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocompile.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocompile.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-dev-server">
@@ -585,42 +584,42 @@
    vue
   </code>
   components
-  <br><img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg"/>
+  <br><img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
   <img src="https://img.shields.io/npm/v/vue-dev-server.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-dev-server.svg"/>
+  <img src="https://img.shields.io/npm/dt/vue-dev-server.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
  </li>
  <li>
   <a href="https://github.com/rodzzlessa24/vue-go-cli">
    vue-go-cli
   </a>
   - a CLI tool for scaffolding new projects generating components, services, and mixins.
-  <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/nblackburn/vue-brunch">
    brunch-vue
   </a>
   - Adds support to Brunch for pre-compiling single file Vue components.
-  <sub><sub><img src="https://img.shields.io/github/stars/nblackburn/vue-brunch.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/nblackburn/vue-brunch.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vue-brunch.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vue-brunch.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-brunch.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/rawcreative/vueify-extract-css">
    vueify-extract-css
   </a>
   - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
-  <sub><sub><img src="https://img.shields.io/github/stars/rawcreative/vueify-extract-css.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/rawcreative/vueify-extract-css.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/vueify-extract-css.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/vueify-extract-css.svg"/></sub></sub> </li>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vueify-extract-css.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub> </li>
  <li>
   <a href="https://github.com/twiknight/eslint-plugin-vue">
    eslint-plugin-vue
   </a>
   - Eslint plugin for .vue files.
-  <sub><sub><img src="https://img.shields.io/github/stars/twiknight/eslint-plugin-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/twiknight/eslint-plugin-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
   <sub><sub><img src="https://img.shields.io/npm/v/eslint-plugin-vue.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/eslint-plugin-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/eslint-plugin-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -649,7 +648,7 @@
    Vim
   </a>
   by @darthmall and @posva
-  <sub><sub><img src="https://img.shields.io/github/stars/posva/vim-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/posva/vim-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://marketplace.visualstudio.com/items/liuji-jim.vue">
@@ -662,21 +661,21 @@
    Brackets
   </a>
   by @pandao
-  <sub><sub><img src="https://img.shields.io/github/stars/pandao/brackets-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/pandao/brackets-vue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/henjue/vue-for-idea">
    IntelliJ IDEA / WebStorm
   </a>
   by @henjue
-  <sub><sub><img src="https://img.shields.io/github/stars/henjue/vue-for-idea.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/henjue/vue-for-idea.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/CodeFalling/vue-mode">
    Emacs
   </a>
   by @CodeFalling
-  <sub><sub><img src="https://img.shields.io/github/stars/CodeFalling/vue-mode.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/github/stars/CodeFalling/vue-mode.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -691,7 +690,7 @@
   <a href="https://github.com/ealves-pt">
    @ealves-pt
   </a>
- </li>
+  <sub><sub><img src="https://img.shields.io/apm/dm/vue-snippets.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub> </li>
 </ul>
 <h3>
  Autocomplete
@@ -705,7 +704,7 @@
   <a href="https://github.com/ealves-pt">
    @ealves-pt
   </a>
- </li>
+  <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocomplete.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub> </li>
 </ul>
 <h3>
  Libraries & Plugins
@@ -730,27 +729,27 @@
      Vue page
     </a>
     , a routing system based on pagejs by @AlexToudic
-    <sub><sub><img src="https://img.shields.io/github/stars/AlexToudic/vue-page.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/AlexToudic/vue-page.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-page.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-page.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-page.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/bpierre/vue-lanes">
      Vue Lanes
     </a>
     , an event-based routing system for Vue by @bpierre
-    <sub><sub><img src="https://img.shields.io/github/stars/bpierre/vue-lanes.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/bpierre/vue-lanes.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-lanes.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-lanes.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-lanes.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/ayamflow/vue-route">
      Vue route
     </a>
     , ng-view inspired routes for Vue by @ayamflow
-    <sub><sub><img src="https://img.shields.io/github/stars/ayamflow/vue-route.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/ayamflow/vue-route.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-route.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-route.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-route.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/inca/voie">
@@ -763,9 +762,9 @@
     <sup>
      1.0
     </sup>
-    <br><img src="https://img.shields.io/github/stars/inca/voie.svg"/>
+    <br><img src="https://img.shields.io/github/stars/inca/voie.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/voie.svg"/>
-    <img src="https://img.shields.io/npm/dt/voie.svg"/>
+    <img src="https://img.shields.io/npm/dt/voie.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
   </ul>
  </li>
@@ -786,9 +785,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <br><img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg"/>
+    <br><img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/vue-resource.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-resource.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-resource.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-async-data">
@@ -798,9 +797,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-async-data.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-async-data.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-async-data.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-data.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-data.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/foxbenjaminfox/vue-async-computed">
@@ -810,9 +809,9 @@
     <a href="https://github.com/foxbenjaminfox">
      @foxbenjaminfox
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-async-computed.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-computed.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-computed.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -832,18 +831,18 @@
      revue
     </a>
     - Redux binding for Vue by @egoist
-    <sub><sub><img src="https://img.shields.io/github/stars/egoist/revue.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/egoist/revue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/revue.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/revue.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/revue.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/yang-wei/vue-redux">
      vue-redux
     </a>
     - Redux binding for Vue by @yang-wei
-    <sub><sub><img src="https://img.shields.io/github/stars/yang-wei/vue-redux.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/yang-wei/vue-redux.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-redux.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-redux.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-redux.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-freeze">
@@ -853,9 +852,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg"/>
+    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/vue-freeze.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-freeze.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-freeze.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-simple-store">
@@ -865,9 +864,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg"/>
+    <br><img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/vue-simple-store.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-simple-store.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-simple-store.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
   </ul>
  </li>
@@ -884,16 +883,16 @@
     <sup>
      1.0 compatible
     </sup>
-    <br><img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg"/>
+    <br><img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/vue-validator.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-validator.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-validator.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
    <li>
     <a href="https://github.com/xrado/vue-validator">
      Vue validator
     </a>
     by @xrado
-    <sub><sub><img src="https://img.shields.io/github/stars/xrado/vue-validator.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/xrado/vue-validator.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/fergaldoyle/vue-form">
@@ -903,9 +902,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/fergaldoyle/vue-form.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/fergaldoyle/vue-form.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-form.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-form.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-form.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -922,9 +921,9 @@
     <sup>
      1.0
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/yuche/vue-strap.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/yuche/vue-strap.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-strap.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-strap.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-strap.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://morgul.github.io/vueboot/">
@@ -934,9 +933,9 @@
     <sup>
      1.0
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/Morgul/vueboot.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/Morgul/vueboot.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vueboot.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vueboot.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vueboot.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/posva/vue-mdl">
@@ -946,9 +945,9 @@
     <a href="https://github.com/posva">
      @posva
     </a>
-    <br><img src="https://img.shields.io/github/stars/posva/vue-mdl.svg"/>
+    <br><img src="https://img.shields.io/github/stars/posva/vue-mdl.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/vue-mdl.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-mdl.svg"/>
+    <img src="https://img.shields.io/npm/dt/vue-mdl.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
    <li>
     <a href="https://github.com/samcrosoft/vue-countup">
@@ -962,24 +961,24 @@
     <sup>
      1.0 compatible
     </sup>
-    <br><img src="https://img.shields.io/github/stars/inorganik/countUp.js.svg"/>
+    <br><img src="https://img.shields.io/github/stars/inorganik/countUp.js.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/>
     <img src="https://img.shields.io/npm/v/countup.js.svg"/>
-    <img src="https://img.shields.io/npm/dt/countup.js.svg"/>
+    <img src="https://img.shields.io/npm/dt/countup.js.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/>
    </li>
    <li>
     <a href="https://github.com/hnakamur/vue.tag-editor.js">
      Vue Tag Editor Component
     </a>
     by @hnakamur
-    <sub><sub><img src="https://img.shields.io/github/stars/hnakamur/vue.tag-editor.js.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/hnakamur/vue.tag-editor.js.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
    </li>
    <li>
     <a href="http://pespantelis.github.io/vue-crop/">
      Vue Crop
     </a>
-    <sub><sub><img src="https://img.shields.io/github/stars/pespantelis/vue-crop.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/github/stars/pespantelis/vue-crop.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
     <sub><sub><img src="https://img.shields.io/npm/v/vue-crop.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/vue-crop.svg"/></sub></sub>   
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-crop.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAANhJREFUeNqkkj0KwkAQhTcSooW4hYU3UPAIgqSwEjyErUjAy2gZe%2B%2BSC3iJQFJELFzfhBcckk2hPvjY2dl5%2B2%2Bcc8ZDAl4k8dWExq8pCFTc0cD8KG2UFSzjoco3sVW7MHrfEcjAE1Tuo4q5jDV1ffvQO1C4rgqOmT6jsAG5MuXMmbYxBBNgieRiUJKYuWZcakN5jjPYg4c6%2FAGsGS9BqS5rBFIxzkFEGqXgwvjICR374ln0fQCZ5KT6VzBWYzMx3sGKW3WeSWS1LduA73oL6hv68%2Bd8pbcAAwAbMfkvybwy3QAAAABJRU5ErkJggg%3D%3D%0D%0A"/></sub></sub>   
     <li>
     <a href="http://pespantelis.github.io/vue-typeahead/">
      Vue Typeahead
