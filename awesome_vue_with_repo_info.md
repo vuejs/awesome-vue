@@ -520,7 +520,7 @@
    vueify
   </a>
   - Vue compcomponent transform for Browserify.
-  <sub><img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/></sub>
+  <br/><br/><img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
   <img src="https://img.shields.io/npm/v/vueify.svg"/>
   <img src="https://img.shields.io/npm/dt/vueify.svg"/>
   <ul>
