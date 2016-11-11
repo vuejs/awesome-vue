@@ -11,7 +11,7 @@
 <h2>
  Awesome Vue.js
  <a href="https://github.com/sindresorhus/awesome">
-  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+  <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></sub></sub>
  </a>
 </h2>
 <blockquote>
@@ -179,8 +179,8 @@
    GitHub Repo
   </a>
    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/></sub></sub>
-   <img src="https://img.shields.io/npm/v/vue.svg"/>
-   <img src="https://img.shields.io/npm/dt/vue.svg"/>
+   <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue/releases">
@@ -273,7 +273,7 @@
     <a href="https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js">
      CoffeeScript Version
     </a>
-    <img src="https://img.shields.io/github/stars/anfelor/TodoMVC-CoffeeScript-and-Vue.js.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/anfelor/TodoMVC-CoffeeScript-and-Vue.js.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -281,7 +281,7 @@
   <a href="https://github.com/vuejs/vue-hackernews">
    Vue.js HackerNews Clone
   </a>
-  <img src="https://img.shields.io/github/stars/vuejs/vue-hackernews.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-hackernews.svg"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -494,24 +494,24 @@
    vue-cli
   </a>
   : official CLI for scaffolding Vue.js projects.
-  <img src="https://img.shields.io/github/stars/vuejs/vue-cli.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-cli.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-cli.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-cli.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-cli.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-cli.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-loader">
    vue-loader
   </a>
   - Vue component loader for Webpack.
-  <img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-loader.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-loader.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-loader.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-loader.svg"/></sub></sub>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-loader-example">
      vue-loader-example
     </a>
-    <img src="https://img.shields.io/github/stars/vuejs/vue-loader-example.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-loader-example.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -520,15 +520,15 @@
    vueify
   </a>
   - Vue compcomponent transform for Browserify.
-  <img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
-  <img src="https://img.shields.io/npm/v/vueify.svg"/>
-  <img src="https://img.shields.io/npm/dt/vueify.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vueify.svg"/></sub></sub>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vueify-example">
      vueify-example
     </a>
-    <img src="https://img.shields.io/github/stars/vuejs/vueify-example.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vueify-example.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -537,9 +537,9 @@
    vue-devtools
   </a>
   - Chrome devtools extension for debugging Vue applications.
-  <img src="https://img.shields.io/github/stars/vuejs/vue-devtools.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-devtools.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-devtools.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-devtools.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-devtools.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-devtools.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/SkewedAspect/grunt-vueify">
@@ -550,18 +550,18 @@
    .vue
   </code>
   files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-  <img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg"/>
-  <img src="https://img.shields.io/npm/v/grunt-vueify.svg"/>
-  <img src="https://img.shields.io/npm/dt/grunt-vueify.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/grunt-vueify.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/grunt-vueify.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-compiler">
    vue-compiler
   </a>
   - A simple CLI wrapper around vueify
-  <img src="https://img.shields.io/github/stars/paulpflug/vue-compiler.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-compiler.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-compiler.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-compiler.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-compiler.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-compiler.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://atom.io/packages/vue-autocompile">
@@ -572,7 +572,7 @@
    .vue
   </code>
   files on save.
-  <img src="https://img.shields.io/apm/dm/vue-autocompile.svg"/>
+  <sub><sub><img src="https://img.shields.io/apm/dm/vue-autocompile.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-dev-server">
@@ -583,42 +583,42 @@
    vue
   </code>
   components
-  <img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-dev-server.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-dev-server.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/paulpflug/vue-dev-server.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-dev-server.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-dev-server.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/rodzzlessa24/vue-go-cli">
    vue-go-cli
   </a>
   - a CLI tool for scaffolding new projects generating components, services, and mixins.
-  <img src="https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/rodzzlessa24/vue-go-cli.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/nblackburn/vue-brunch">
    brunch-vue
   </a>
   - Adds support to Brunch for pre-compiling single file Vue components.
-  <img src="https://img.shields.io/github/stars/nblackburn/vue-brunch.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-brunch.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-brunch.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/nblackburn/vue-brunch.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vue-brunch.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vue-brunch.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/rawcreative/vueify-extract-css">
    vueify-extract-css
   </a>
   - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
-  <img src="https://img.shields.io/github/stars/rawcreative/vueify-extract-css.svg"/>
-  <img src="https://img.shields.io/npm/v/vueify-extract-css.svg"/>
-  <img src="https://img.shields.io/npm/dt/vueify-extract-css.svg"/> </li>
+  <sub><sub><img src="https://img.shields.io/github/stars/rawcreative/vueify-extract-css.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/vueify-extract-css.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/vueify-extract-css.svg"/></sub></sub> </li>
  <li>
   <a href="https://github.com/twiknight/eslint-plugin-vue">
    eslint-plugin-vue
   </a>
   - Eslint plugin for .vue files.
-  <img src="https://img.shields.io/github/stars/twiknight/eslint-plugin-vue.svg"/>
-  <img src="https://img.shields.io/npm/v/eslint-plugin-vue.svg"/>
-  <img src="https://img.shields.io/npm/dt/eslint-plugin-vue.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/twiknight/eslint-plugin-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/v/eslint-plugin-vue.svg"/></sub></sub>
+  <sub><sub><img src="https://img.shields.io/npm/dt/eslint-plugin-vue.svg"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -647,7 +647,7 @@
    Vim
   </a>
   by @darthmall and @posva
-  <img src="https://img.shields.io/github/stars/posva/vim-vue.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/posva/vim-vue.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://marketplace.visualstudio.com/items/liuji-jim.vue">
@@ -660,21 +660,21 @@
    Brackets
   </a>
   by @pandao
-  <img src="https://img.shields.io/github/stars/pandao/brackets-vue.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/pandao/brackets-vue.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/henjue/vue-for-idea">
    IntelliJ IDEA / WebStorm
   </a>
   by @henjue
-  <img src="https://img.shields.io/github/stars/henjue/vue-for-idea.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/henjue/vue-for-idea.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/CodeFalling/vue-mode">
    Emacs
   </a>
   by @CodeFalling
-  <img src="https://img.shields.io/github/stars/CodeFalling/vue-mode.svg"/>
+  <sub><sub><img src="https://img.shields.io/github/stars/CodeFalling/vue-mode.svg"/></sub></sub>
  </li>
 </ul>
 <h3>
@@ -728,27 +728,27 @@
      Vue page
     </a>
     , a routing system based on pagejs by @AlexToudic
-    <img src="https://img.shields.io/github/stars/AlexToudic/vue-page.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-page.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-page.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/AlexToudic/vue-page.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-page.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-page.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/bpierre/vue-lanes">
      Vue Lanes
     </a>
     , an event-based routing system for Vue by @bpierre
-    <img src="https://img.shields.io/github/stars/bpierre/vue-lanes.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-lanes.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-lanes.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/bpierre/vue-lanes.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-lanes.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-lanes.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/ayamflow/vue-route">
      Vue route
     </a>
     , ng-view inspired routes for Vue by @ayamflow
-    <img src="https://img.shields.io/github/stars/ayamflow/vue-route.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-route.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-route.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/ayamflow/vue-route.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-route.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-route.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/inca/voie">
@@ -761,9 +761,9 @@
     <sup>
      1.0
     </sup>
-    <img src="https://img.shields.io/github/stars/inca/voie.svg"/>
-    <img src="https://img.shields.io/npm/v/voie.svg"/>
-    <img src="https://img.shields.io/npm/dt/voie.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/inca/voie.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/voie.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/voie.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -784,9 +784,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-resource.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-resource.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/pagekit/vue-resource.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-resource.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-resource.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/vuejs/vue-async-data">
@@ -796,9 +796,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <img src="https://img.shields.io/github/stars/vuejs/vue-async-data.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-async-data.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-async-data.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-async-data.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-async-data.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-data.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/foxbenjaminfox/vue-async-computed">
@@ -808,9 +808,9 @@
     <a href="https://github.com/foxbenjaminfox">
      @foxbenjaminfox
     </a>
-    <img src="https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-async-computed.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-async-computed.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/foxbenjaminfox/vue-async-computed.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-async-computed.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-async-computed.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -830,18 +830,18 @@
      revue
     </a>
     - Redux binding for Vue by @egoist
-    <img src="https://img.shields.io/github/stars/egoist/revue.svg"/>
-    <img src="https://img.shields.io/npm/v/revue.svg"/>
-    <img src="https://img.shields.io/npm/dt/revue.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/egoist/revue.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/revue.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/revue.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/yang-wei/vue-redux">
      vue-redux
     </a>
     - Redux binding for Vue by @yang-wei
-    <img src="https://img.shields.io/github/stars/yang-wei/vue-redux.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-redux.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-redux.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/yang-wei/vue-redux.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-redux.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-redux.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-freeze">
@@ -851,9 +851,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-freeze.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-freeze.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-freeze.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-freeze.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-freeze.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/BosNaufal/vue-simple-store">
@@ -863,9 +863,9 @@
     <a href="https://github.com/BosNaufal">
      @BosNaufal
     </a>
-    <img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-simple-store.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-simple-store.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-simple-store.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-simple-store.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-simple-store.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -882,16 +882,16 @@
     <sup>
      1.0 compatible
     </sup>
-    <img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-validator.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-validator.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue-validator.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-validator.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-validator.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/xrado/vue-validator">
      Vue validator
     </a>
     by @xrado
-    <img src="https://img.shields.io/github/stars/xrado/vue-validator.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/xrado/vue-validator.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/fergaldoyle/vue-form">
@@ -901,9 +901,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <img src="https://img.shields.io/github/stars/fergaldoyle/vue-form.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-form.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-form.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/fergaldoyle/vue-form.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-form.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-form.svg"/></sub></sub>
    </li>
   </ul>
  </li>
@@ -920,9 +920,9 @@
     <sup>
      1.0
     </sup>
-    <img src="https://img.shields.io/github/stars/yuche/vue-strap.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-strap.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-strap.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/yuche/vue-strap.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-strap.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-strap.svg"/></sub></sub>
    </li>
    <li>
     <a href="http://morgul.github.io/vueboot/">
@@ -932,9 +932,9 @@
     <sup>
      1.0
     </sup>
-    <img src="https://img.shields.io/github/stars/Morgul/vueboot.svg"/>
-    <img src="https://img.shields.io/npm/v/vueboot.svg"/>
-    <img src="https://img.shields.io/npm/dt/vueboot.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/Morgul/vueboot.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vueboot.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vueboot.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/posva/vue-mdl">
@@ -944,9 +944,9 @@
     <a href="https://github.com/posva">
      @posva
     </a>
-    <img src="https://img.shields.io/github/stars/posva/vue-mdl.svg"/>
-    <img src="https://img.shields.io/npm/v/vue-mdl.svg"/>
-    <img src="https://img.shields.io/npm/dt/vue-mdl.svg"/>
+    <sub><sub><img src="https://img.shields.io/github/stars/posva/vue-mdl.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-mdl.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-mdl.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/samcrosoft/vue-countup">
