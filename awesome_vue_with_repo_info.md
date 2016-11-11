@@ -961,25 +961,25 @@
     <sup>
      1.0 compatible
     </sup>
-    <sup>
-     &#9733 8, pushed 78 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/inorganik/countUp.js.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/countup.js.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/countup.js.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/hnakamur/vue.tag-editor.js">
      Vue Tag Editor Component
     </a>
     by @hnakamur
-    <sup>
-     &#9733 19, pushed 762 days ago
-    </sup>
+    <sub><sub><img src="https://img.shields.io/github/stars/hnakamur/vue.tag-editor.js.svg"/></sub></sub>
    </li>
    <li>
     <a href="http://pespantelis.github.io/vue-crop/">
      Vue Crop
     </a>
-   </li>
-   <li>
+    <sub><sub><img src="https://img.shields.io/github/stars/pespantelis/vue-crop.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/v/vue-crop.svg"/></sub></sub>
+    <sub><sub><img src="https://img.shields.io/npm/dt/vue-crop.svg"/></sub></sub>   
+    <li>
     <a href="http://pespantelis.github.io/vue-typeahead/">
      Vue Typeahead
     </a>
