@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="//cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css">
 <p align="center">
  <br>
   <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" width="400">
@@ -9,7 +10,7 @@
  </br>
 </p>
 <h2>
- Awesome Vue.js
+ Awesome Vue.js <i class="fa fa-coffee"></i>
  <a href="https://github.com/sindresorhus/awesome">
   <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></sub></sub>
  </a>
@@ -178,7 +179,7 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=:"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
  </li>
