@@ -178,7 +178,7 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <img src="https://img.shields.io/github/stars/vuejs/vue.svg"/>
+   <img style="position:relative;top:5px" src="https://img.shields.io/github/stars/vuejs/vue.svg"/>
    <img src="https://img.shields.io/npm/v/vue.svg"/>
    <img src="https://img.shields.io/npm/dt/vue.svg"/>
  </li>
@@ -520,7 +520,7 @@
    vueify
   </a>
   - Vue compcomponent transform for Browserify.
-  <br/><br/><img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
+  <img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
   <img src="https://img.shields.io/npm/v/vueify.svg"/>
   <img src="https://img.shields.io/npm/dt/vueify.svg"/>
   <ul>
