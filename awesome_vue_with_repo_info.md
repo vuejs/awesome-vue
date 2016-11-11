@@ -1893,7 +1893,6 @@ application.  By @Haixing-Hu
      @BosNaufal
     </a>
     <sub><sub><img src="https://img.shields.io/github/stars/BosNaufal/vue-move-dom.svg?label=:&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAMpJREFUeNpi%2FP%2F%2FPwMOEAyl12KTZMShkQWIz0HZRkD8B0MFSCMWHPEfASKwqcGmiQOITyBpPAEVQ1EHcqo90GI9IJYEYgUgVgdiQ5A3YI4C4gtAfBOIHwDxcyC%2BCNJdCsTf%2FhMPvoL0wKz2BOL3RGh6B8Qe6H50AuJXeDS9hqrBGjhdeDR2I6tlQosdWQbcQAaZg6yRDYi1kPj3oRgGtKBqMBKANDR0QYFUD8SCUFwPFfsGVYPhRzmoIgUsiUIeKieLnAAYyAEAAQYA%2BIOZydiO83IAAAAASUVORK5CYII%3D%0D%0A"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/vue-move-dom.svg"/></sub></sub>
    </li>
    <li>
     <a href="https://github.com/haydenbbickerton/vue-animate">
