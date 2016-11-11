@@ -503,6 +503,9 @@
    vue-loader
   </a>
   - Vue component loader for Webpack.
+  <img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg"/>
+  <img src="https://img.shields.io/npm/v/vue-loader.svg"/>
+  <img src="https://img.shields.io/npm/dt/vue-loader.svg"/>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vue-loader-example">
@@ -511,15 +514,15 @@
     <img src="https://img.shields.io/github/stars/vuejs/vue-loader-example.svg"/>
    </li>
   </ul>
-  <img src="https://img.shields.io/github/stars/vuejs/vue-loader.svg"/>
-  <img src="https://img.shields.io/npm/v/vue-loader.svg"/>
-  <img src="https://img.shields.io/npm/dt/vue-loader.svg"/>
  </li>
  <li>
   <a href="https://github.com/vuejs/vueify">
    vueify
   </a>
   - Vue compcomponent transform for Browserify.
+  <img style="position:relative;top:3px" src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
+  <img src="https://img.shields.io/npm/v/vueify.svg"/>
+  <img src="https://img.shields.io/npm/dt/vueify.svg"/>
   <ul>
    <li>
     <a href="https://github.com/vuejs/vueify-example">
@@ -528,9 +531,6 @@
     <img src="https://img.shields.io/github/stars/vuejs/vueify-example.svg"/>
    </li>
   </ul>
-  <img src="https://img.shields.io/github/stars/vuejs/vueify.svg"/>
-  <img src="https://img.shields.io/npm/v/vueify.svg"/>
-  <img src="https://img.shields.io/npm/dt/vueify.svg"/>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue-devtools">
