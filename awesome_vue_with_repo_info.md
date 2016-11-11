@@ -178,9 +178,9 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <br><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/>
-   <img src="https://img.shields.io/npm/v/vue.svg"/>
-   <img src="https://img.shields.io/npm/dt/vue.svg"/>
+   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue/releases">
@@ -550,9 +550,10 @@
    .vue
   </code>
   files to pure JavaScript, without using Browserify. (Useful for Electron apps)
-  <sub><sub><img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/v/grunt-vueify.svg"/></sub></sub>
-  <sub><sub><img src="https://img.shields.io/npm/dt/grunt-vueify.svg"/></sub></sub>
+  <br>
+  <img src="https://img.shields.io/github/stars/SkewedAspect/grunt-vueify.svg"/>
+  <img src="https://img.shields.io/npm/v/grunt-vueify.svg"/>
+  <img src="https://img.shields.io/npm/dt/grunt-vueify.svg"/>
  </li>
  <li>
   <a href="https://github.com/paulpflug/vue-compiler">
