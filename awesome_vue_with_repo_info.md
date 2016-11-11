@@ -178,9 +178,9 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <br><sup><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/></sup>
-   <sup><img src="https://img.shields.io/npm/v/vue.svg"/></sup>
-   <sup><img src="https://img.shields.io/npm/dt/vue.svg"/></sup>
+   <br><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/>
+   <img src="https://img.shields.io/npm/v/vue.svg"/>
+   <img src="https://img.shields.io/npm/dt/vue.svg"/>
  </li>
  <li>
   <a href="https://github.com/vuejs/vue/releases">
