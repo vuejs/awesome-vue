@@ -178,7 +178,7 @@
   <a href="https://github.com/vuejs/vue">
    GitHub Repo
   </a>
-   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg"/></sub></sub>
+   <sub><sub><img src="https://img.shields.io/github/stars/vuejs/vue.svg?label=★"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/v/vue.svg"/></sub></sub>
    <sub><sub><img src="https://img.shields.io/npm/dt/vue.svg"/></sub></sub>
  </li>
@@ -961,9 +961,9 @@
     <sup>
      1.0 compatible
     </sup>
-    <sub><sub><img src="https://img.shields.io/github/stars/inorganik/countUp.js.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/v/countup.js.svg"/></sub></sub>
-    <sub><sub><img src="https://img.shields.io/npm/dt/countup.js.svg"/></sub></sub>
+    <br><img src="https://img.shields.io/github/stars/inorganik/countUp.js.svg"/>
+    <img src="https://img.shields.io/npm/v/countup.js.svg"/>
+    <img src="https://img.shields.io/npm/dt/countup.js.svg"/>
    </li>
    <li>
     <a href="https://github.com/hnakamur/vue.tag-editor.js">
