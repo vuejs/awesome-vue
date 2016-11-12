@@ -582,6 +582,7 @@
   - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
   - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
+  - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
 
 - #### SEO
 
