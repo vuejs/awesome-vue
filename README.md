@@ -213,6 +213,8 @@
 - [vue-carbon](https://github.com/myronliu347/vue-carbon) Material Design Mobile UI Components
 - [quasar-framework ★167](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids, with VueJS.
 - [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking)
+- [vonic ★17](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
+- [vue-scroller ★15](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
 Websites & native mobile Apps. Full Stack Toolkit.
 
 ### Libraries & Plugins
