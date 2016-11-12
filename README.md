@@ -251,6 +251,8 @@
 - [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
 - [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) [![vue-highcharts](https://img.shields.io/github/stars/weizhenye/vue-highcharts.svg?label=%E2%98%85)](https://github.com/weizhenye/vue-highcharts) Highcharts component for Vue. 📊
+- [vonic ★17](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
+- [vue-scroller ★15](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
 
 ### Libraries & Plugins
 
