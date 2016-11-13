@@ -251,6 +251,7 @@
 - [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
 - [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) [![vue-highcharts](https://img.shields.io/github/stars/weizhenye/vue-highcharts.svg?label=%E2%98%85)](https://github.com/weizhenye/vue-highcharts) Highcharts component for Vue. 📊
+- [muse-ui](https://github.com/museui/muse-ui) [![muse-ui](https://img.shields.io/github/stars/museui/muse-ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/museui/muse-ui) Material Desgin UI library for Vuejs 2.0
 - [vonic ★17](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-scroller ★15](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
 
@@ -411,6 +412,7 @@
   - [vue-mugen-scroll ★90](https://github.com/egoist/vue-mugen-scroll) Infinite scroll component for Vue.js 2.0
   - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) Virtual keyboard component for Vue.js. Designed to Raspberry Pi Touch Display
   - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) [![GitHub stars](https://img.shields.io/github/stars/nicolasbeauvais/vue-social-sharing.svg?style=social&label=Star&maxAge=2592000)]() : A Vue.js component for sharing links to social networks. [@nicolasbeauvais](https://github.com/nicolasbeauvais)
+  - [vue-shortkey](https://github.com/iFgR/vue-shortkey) Apply shortcuts to your elements in a simple way.
 
 - #### i18n
 
@@ -582,6 +584,7 @@
   - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
   - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
+  - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
 
 - #### SEO
 
