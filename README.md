@@ -457,6 +457,7 @@
   - [vue-demo-sale-platform](https://github.com/fishenal/Vuejs-SalePlatform) a simply vue2.0 demo built with Vue 2.0, vue-router, vue-cli, include mockdata server, some common components. by [fishenal](https://github.com/fishenal)
   - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
+  - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
 
 
 - #### Boilerplates
