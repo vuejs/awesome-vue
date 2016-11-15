@@ -34,6 +34,7 @@
   - [General Plugins/Directives](#general-pluginsdirectives)
   - [SEO](#seo)
   - [TypeScript](#typescript)
+  - [Analytics](#analytics)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -429,7 +430,7 @@
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
   
 - #### Analytics
-- [**vue-ua ★2**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
+  - [**vue-ua ★2**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
 
 - #### Examples
 
