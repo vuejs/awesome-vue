@@ -465,6 +465,7 @@
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
   - [ngexplorer-quasar ★1](https://github.com/gustaYo/vue-chess) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
+  - [zhihu-daily-vue ★6](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
 
 - #### Boilerplates
 
