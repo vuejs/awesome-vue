@@ -119,6 +119,8 @@
 - [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
+- [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on Metric Loop
+- [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on Metric Loop
 
 #### 0.12 and earlier
 
@@ -594,6 +596,7 @@
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
   - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
   - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
+  - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging): A sortable list directive with Vue.js by [@hilongjw](https://github.com/hilongjw) <sup>1.x & 2.x </sup>
   - [vue-finger](https://github.com/shhdgit/vue-finger): AlloyFinger wrapper for Vue2. [@shhdgit](https://github.com/shhdgit)
 
 - #### SEO
@@ -717,6 +720,7 @@
   - [豆瓣 ★198](https://github.com/jiakeqi/douban)
   - [Livestorm](http://livestorm.co) Webinar / Live events app
   - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
+   - [Metric Loop](https://metricloop.com) A technology services and solutions website
 
 - #### Interactive Experiences
 
