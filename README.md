@@ -594,7 +594,8 @@
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
   - [lazy-vue](https://github.com/gocanto/lazy-vue) A small lazy image loader for Vue. [@gocanto](https://github.com/gocanto)
   - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
-
+  - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging): A sortable list directive with Vue.js by [@hilongjw](https://github.com/hilongjw) <sup>1.x & 2.x </sup>
+  
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
