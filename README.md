@@ -119,6 +119,8 @@
 - [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
+- [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on Metric Loop
+- [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on Metric Loop
 
 #### 0.12 and earlier
 
@@ -717,6 +719,7 @@
   - [豆瓣 ★198](https://github.com/jiakeqi/douban)
   - [Livestorm](http://livestorm.co) Webinar / Live events app
   - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
+   - [Metric Loop](https://metricloop.com) A technology services and solutions website
 
 - #### Interactive Experiences
 
