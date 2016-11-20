@@ -170,6 +170,7 @@
 - [**IntelliJ IDEA / WebStorm ★199**](https://github.com/henjue/vue-for-idea) by @henjue
 - [Emacs ★10](https://github.com/CodeFalling/vue-mode) by @CodeFalling
 - [Visual Studio 2015 ★7](https://github.com/madskristensen/VuePack) by @madskristensen
+- [KDE/Katepart (Kate, KWrite, KDevelop)](https://github.com/mtorromeo/kate-syntax-files/blob/master/vue.xml) by @mtorromeo
 
 ### Snippets
 
