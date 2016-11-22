@@ -258,7 +258,6 @@
 - [muse-ui](https://github.com/museui/muse-ui) [![muse-ui](https://img.shields.io/github/stars/museui/muse-ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/museui/muse-ui) Material Desgin UI library for Vuejs 2.0
 - [vonic ★17](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-scroller ★15](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
-- [vue-button](https://github.com/steven5538/vue-button) - Button component for Vue.js v2.0.1+. by [@steven5538](https://github.com/steven5538)
 
 ### Libraries & Plugins
 
@@ -420,7 +419,7 @@
   - [vue-shortkey](https://github.com/iFgR/vue-shortkey) Apply shortcuts to your elements in a simple way.
   - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) a scroll component with function of pull up refresh and pull down load more for Vue. By <a href="https://github.com/uniquezhuo">uniquezhuo</a>.
   - [side-effect](https://github.com/egoist/side-effect): Create Vue components with global side effects
-
+  - [vue-button](https://github.com/steven5538/vue-button): Button component for Vue.js v2.0.1+. by [@steven5538](https://github.com/steven5538)
 - #### i18n
 
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
