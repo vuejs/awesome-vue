@@ -1959,7 +1959,7 @@ application.  By @Haixing-Hu
     </a>
     :touch events plugin for Vue.js.You can v-gesture directive,and directive auguments can use a tap, swipe, etc.
     <sup>
-     &#9733 6, pushed 15 days ago
+     &#9733 27, pushed 15 days ago
     </sup>
    </li>
    <li>
@@ -2373,6 +2373,12 @@ application.  By @Haixing-Hu
      Djeco.com
     </a>
    </li>
+   <li>
+    <a href="http://noizeoriginal.com/">
+     NOIZE original
+    </a>
+    - by KFFEIN
+   </li>
   </ul>
  </li>
  <li>
@@ -2419,6 +2425,11 @@ application.  By @Haixing-Hu
    <li>
     <a href="https://arex.io/">
      AREX
+    </a>
+   </li>
+   <li>
+    <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">
+     gitlab
     </a>
    </li>
   </ul>
