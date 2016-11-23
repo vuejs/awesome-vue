@@ -674,6 +674,7 @@
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
+  - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
   - [Sainsbury's Entertainment onboarding platform (closed)](https://sainsburys.jobs/)
   - [CUUSOO](https://cuusoo.com)
   - [esa.io](https://esa.io/)
