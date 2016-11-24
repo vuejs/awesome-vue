@@ -726,6 +726,7 @@
   - [Framework7-VueJS ★25](https://github.com/tyllo/Framework7-VueJS) Personal account for customers VSCT [SPA](http://tyllo.github.io/Framework7-VueJS) and [app](https://play.google.com/store/apps/details?id=ru.xdraw.vsct&hl=ru) on Framework7 and Vue.js<sup>1.x</sup> (*Use for auth: demo/demo*) by [@tyllo](https://github.com/tyllo)
    - [Metric Loop](https://metricloop.com) A technology services and solutions website
    - [Holden](https://www.holden.com.au)
+   - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
 
 - #### Interactive Experiences
 
