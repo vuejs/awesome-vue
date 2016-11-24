@@ -633,6 +633,7 @@
   - [Todolist ★16](https://github.com/Memkits/todolist) by @jiyinyiyong
   - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
   - [a simple notepad ★47](https://github.com/sapjax/fewords)
+  - [vue-music163](https://github.com/pluto1114/vue-music163.git)
   - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
   - [Koel](http://koel.phanan.net): Music streaming server
   - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
