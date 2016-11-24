@@ -420,8 +420,10 @@
   - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) a scroll component with function of pull up refresh and pull down load more for Vue. By <a href="https://github.com/uniquezhuo">uniquezhuo</a>.
   - [side-effect](https://github.com/egoist/side-effect): Create Vue components with global side effects
   - [vue-button](https://github.com/steven5538/vue-button): Button component for Vue.js v2.0.1+. by [@steven5538](https://github.com/steven5538)
+  - [vue-viewports](https://github.com/scaccogatto/vue-viewports): define your custom viewports and use them in your components
+  - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event): throttle events based on requestAnimationFrame
+  
 - #### i18n
-
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
   - [vue-i18n ★36](https://github.com/Haixing-Hu/vue-i18n): A plugin providing a global interface used to localize internationalized messages used in the application.  By @Haixing-Hu
@@ -432,8 +434,6 @@
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
-  - [vue-viewports](https://github.com/scaccogatto/vue-viewports): define your custom viewports and use them in your components
-  - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event): throttle events based on requestAnimationFrame
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
