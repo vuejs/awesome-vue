@@ -659,6 +659,7 @@
   - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) A game for identifying JavaScript tools and libraries.
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ✏️ A blog based on GitHub pages by Vue.js 2 + Webpack 2.
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo): Vuedo is a blog platform, built with Laravel and Vue.js. **Website using Vuedo in production : https://vuejsfeed.com/**
+  - [vue-music163](https://github.com/pluto1114/vue-music163.git) A Vue.js project for music
 
 - #### Commercial Products
 
