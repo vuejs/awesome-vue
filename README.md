@@ -167,7 +167,7 @@
 - [Vim ★48](https://github.com/posva/vim-vue) by @darthmall and @posva
 - [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets ★11](https://github.com/pandao/brackets-vue) by @pandao
-- [**IntelliJ IDEA / WebStorm ★199**](https://github.com/henjue/vue-for-idea) by @henjue
+- [**IntelliJ IDEA / WebStorm ★66**](https://github.com/postalservice14/vuejs-plugin) by @postalservice14
 - [Emacs ★10](https://github.com/CodeFalling/vue-mode) by @CodeFalling
 - [Visual Studio 2015 ★7](https://github.com/madskristensen/VuePack) by @madskristensen
 - [KDE/Katepart (Kate, KWrite, KDevelop)](https://github.com/mtorromeo/kate-syntax-files/blob/master/vue.xml) by @mtorromeo
