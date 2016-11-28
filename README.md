@@ -600,7 +600,7 @@
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
   - [vue-dropload](https://github.com/yodfz/m-dropload) drop down,refresh page data,and scroll to bottom load next datas.
   - [vue-reactivestorage ★15](https://github.com/ropbla9/vue-reactivestorage) Reactive layer for interacting with localStorage from Vue. Plugin for Vue 2.
-  - [vue-froala ★1](https://github.com/whitef0x0/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
+  - [vue-froala ★1](https://github.com/helpbase/vue-froala): Vuejs bindings/wrapper directive for Froala WYSIWYG Text Editor.
   - [vue-echo](https://github.com/happyDemon/vue-echo): Vue integration for the Laravel Echo library.
   - [vue-types ★2](https://github.com/dwightjack/vue-types): Prop type definitions for Vue.js. by [@dwightjack](https://github.com/dwightjack/) <sup>1.x & 2.x </sup>
   - [vue-ios-alertview](https://github.com/Treri/vue-ios-alertview) iOS7+ UIAlertView style alertview service for Vue. [@Treri](https://github.com/Treri)
