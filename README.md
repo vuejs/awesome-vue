@@ -660,7 +660,7 @@
   - [Surfbird ★32](https://github.com/surfbirdapp/surfbird) A Twitter client written with modern web technologies
   - [Approach0](https://github.com/approach0/search-engine) A math-aware search engine
   - [**kov-blog**](https://github.com/Ma63d/kov-blog) A blog and its managemant platform, based on vue, koa, mongoose and more.
-  - [Flox](https://github.com/devfake/flox) Self Hosted Movies Watch List
+  - [Flox ★100+](https://github.com/devfake/flox) Self Hosted Movie, Series and Anime Watch List
   - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup>
   - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) A game for identifying JavaScript tools and libraries.
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ✏️ A blog based on GitHub pages by Vue.js 2 + Webpack 2.
@@ -705,7 +705,7 @@
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
   - [小桃酱](https://app.xiaotaojiang.com/)
   - [金哲博客](http://jinzhe.net/)
-  - [cloudradioo ★24](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
+  - [cloudradioo ★45+](https://github.com/devfake/cloudradioo) Web app that plays randomly all top 50 songs from the soundcloud charts
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
