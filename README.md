@@ -316,7 +316,7 @@
   - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
   - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
-  - [**vuelidate 43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
+  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
 
 - #### UI Components
 
