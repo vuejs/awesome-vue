@@ -316,6 +316,7 @@
   - [laravel-like-vue-validator](https://github.com/dargue3/laravel-like-vue-validator) - Declare reactive input error checking with the same syntax as with Laravel.
   - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 [@MetinSeylan](https://github.com/MetinSeylan)
   - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
+  - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
 
 - #### UI Components
 
@@ -426,7 +427,7 @@
   - [vue-viewports](https://github.com/scaccogatto/vue-viewports): define your custom viewports and use them in your components
   - [vue-throttle-event](https://github.com/scaccogatto/vue-throttle-event): throttle events based on requestAnimationFrame
   - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
-  
+
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -477,7 +478,7 @@
   - [zhihu-daily-vue ★6](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
   - [loopback-vue ★32](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
   - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) ![shield](https://img.shields.io/github/stars/kfei/vue-s3-dropzone.svg?style=social&label=Star&maxAge=2592000) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
-  
+
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
