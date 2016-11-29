@@ -35,6 +35,7 @@
   - [SEO](#seo)
   - [TypeScript](#typescript)
   - [Analytics](#analytics)
+  - [Advertising](#advertising)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
