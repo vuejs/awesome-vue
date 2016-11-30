@@ -617,6 +617,7 @@
   - [vue-websocket](https://github.com/icebob/vue-websocket) Websocket (socket.io) plugin for Vue.js by [@icebob](https://github.com/icebob)
   - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging): A sortable list directive with Vue.js by [@hilongjw](https://github.com/hilongjw) <sup>1.x & 2.x </sup>
   - [vue-finger](https://github.com/shhdgit/vue-finger): AlloyFinger wrapper for Vue2. [@shhdgit](https://github.com/shhdgit)
+  - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) Jalaali Moment.js filters for your Vue.js project. [@saman](https://github.com/saman)
 
 - #### SEO
 
@@ -672,7 +673,7 @@
   - [Flox ★100+](https://github.com/devfake/flox) Self Hosted Movie, Series and Anime Watch List
   - [ابیات ناب پارسی](http://naaab.ir) <sup>[[Source]](https://github.com/mahmoudmy/naaab)</sup>
   - [JavaScript Guessing Game](https://javascript-game.firebaseapp.com/) A game for identifying JavaScript tools and libraries.
-  - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ✏️ A blog based on GitHub pages by Vue.js 2 + Webpack 2.
+  - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ✏️ A blog based on GitHub pages by Vue.js 2 + Webpack 2.
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo): Vuedo is a blog platform, built with Laravel and Vue.js. **Website using Vuedo in production : https://vuejsfeed.com/**
   - [vue-music163](https://github.com/pluto1114/vue-music163.git) A Vue.js project for music
 
