@@ -35,6 +35,7 @@
   - [SEO](#seo)
   - [TypeScript](#typescript)
   - [Analytics](#analytics)
+  - [Advertising](#advertising)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -442,6 +443,9 @@
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
+
+- #### Advertising
+  - [**vue-adsense [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-adsense.svg?style=social&label=Star)](https://github.com/darrynten/vue-adsense)**](https://github.com/darrynten/vue-adsense): Google Adsense implementation for Vue.JS 2+
 
 - #### Examples
 
