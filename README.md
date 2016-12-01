@@ -124,6 +124,7 @@
 - [How To Set Up Modules in Vuex](https://metricloop.com/blog/how-to-set-up-modules-in-vuex) on Metric Loop
 - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [Vue.js 中文教程](http://javascript.ctolib.com/docs/read/vue-js-c-index.html)
+- [Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
 
 #### 0.12 and earlier
 
