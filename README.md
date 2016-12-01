@@ -515,6 +515,7 @@
   - [vuejs-2.0-boilerplate](https://github.com/the6thm0nth/vuejs-2.0-boilerplate) by [@the6thm0nth](https://github.com/the6thm0nth) - A Vue.js 2.0 Boilerplate with vue-router, vue-resource, vuex
   - [yeoman for Vue.js and loopback.js  ★32](https://github.com/qxl1231/generator-loopbackvue) by @qxl1231 <sup>yeoman generator of loopback+vue</sup>
   - [Single Page Application Starter Kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated Single Page Application starter kit built on top of Vue.js and Laravel. Includes: Laravel 5.3, Authentication with JWT, Vue.js 2, Vuex, Vue-router, Bootstrap SASS, Sweetalert.
+  - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
 
 - #### Scaffolding
 
