@@ -623,6 +623,7 @@
   - [vue-dragging ★8](https://github.com/hilongjw/vue-dragging): A sortable list directive with Vue.js by [@hilongjw](https://github.com/hilongjw) <sup>1.x & 2.x </sup>
   - [vue-finger](https://github.com/shhdgit/vue-finger): AlloyFinger wrapper for Vue2. [@shhdgit](https://github.com/shhdgit)
   - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) Jalaali Moment.js filters for your Vue.js project. [@saman](https://github.com/saman)
+  - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) A collection of standard filters Vue 1.* adapted for use in Vue 2.*
 
 - #### SEO
 
