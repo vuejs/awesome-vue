@@ -627,6 +627,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-finger](https://github.com/shhdgit/vue-finger): AlloyFinger wrapper for Vue2. [@shhdgit](https://github.com/shhdgit)
   - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) Jalaali Moment.js filters for your Vue.js project. [@saman](https://github.com/saman)
   - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) A collection of standard filters Vue 1.* adapted for use in Vue 2.*
+  - [vue-collision](https://github.com/scaccogatto/vue-collision): fires a @collided[-groupName] event on collision with viewport or any other bounding box, WayPoints-like
 
 - #### SEO
 
