@@ -517,7 +517,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [A simple template for Vue.js plugin](https://github.com/znck/vue-plugin-simple) [![★11](https://img.shields.io/github/stars/znck/vue-plugin-simple.svg?style=social&label=Star&maxAge=2592000)](https://github.com/znck/vue-plugin-simple) by [@znck](https://github.com/znck) - Uses rollup to pack.
   - [vuejs-2.0-boilerplate](https://github.com/the6thm0nth/vuejs-2.0-boilerplate) by [@the6thm0nth](https://github.com/the6thm0nth) - A Vue.js 2.0 Boilerplate with vue-router, vue-resource, vuex
   - [yeoman for Vue.js and loopback.js  ★32](https://github.com/qxl1231/generator-loopbackvue) by @qxl1231 <sup>yeoman generator of loopback+vue</sup>
-  - [Single Page Application Starter Kit](https://github.com/codecasts/spa-starter-kit) - A highly opinionated Single Page Application starter kit built on top of Vue.js and Laravel. Includes: Laravel 5.3, Authentication with JWT, Vue.js 2, Vuex, Vue-router, Bootstrap SASS, Sweetalert.
+  - [Single Page Application Starter Kit ★158](https://github.com/codecasts/spa-starter-kit) - A highly opinionated Single Page Application starter kit built on top of Vue.js and Laravel. Includes: Laravel 5.3, Authentication with JWT, Vue.js 2, Vuex, Vue-router, Bootstrap SASS, Sweetalert. by [@codecasts](https://github.com/codecasts)
+
   - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
 
 - #### Scaffolding
