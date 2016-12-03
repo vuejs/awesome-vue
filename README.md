@@ -127,6 +127,7 @@
 - [Up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
 - [How to make API Calls with Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex) on [Metric Loop](https://metricloop.com/blog)
 - [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature) on [Metric Loop](https://metricloop.com/blog)
+- [Vue.js 2.0 Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) on YouTube by DevMarketer
 
 #### 0.12 and earlier
 
