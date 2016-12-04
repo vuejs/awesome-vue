@@ -436,6 +436,10 @@
   - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
   - [vue-cmap](https://github.com/doodlewind/vue-cmap) China map visualizing component for Vue.js 2.0
   - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) A simple virtual keyboard component for Vue.js 2.0.
+<<<<<<< 24e6fc0b13606562a400b11b432db431a85f3e29
+=======
+  - [vue-dnd2](https://github.com/iFgR/dnd2) Drag and drop elements sharing information between them. VueJS 2
+>>>>>>> Add vue-dnd2
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -491,7 +495,11 @@
   - [loopback-vue ★32](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
   - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) ![shield](https://img.shields.io/github/stars/kfei/vue-s3-dropzone.svg?style=social&label=Star&maxAge=2592000) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
   - [**easy-vue**](https://github.com/TIGERB/easy-vue) ![shield](https://img.shields.io/github/stars/tigerb/easy-vue.svg?style=social&label=Star&maxAge=2592000) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
-vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb) 
+<<<<<<< 24e6fc0b13606562a400b11b432db431a85f3e29
+vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
+=======
+vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
+>>>>>>> Add vue-dnd2
 - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
 
 - #### Boilerplates
@@ -527,7 +535,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
 
   - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
-  
+
+  - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
+
 - #### Scaffolding
 
   - [**vue-cli ★1,115**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
