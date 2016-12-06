@@ -266,6 +266,7 @@
 - [muse-ui](https://github.com/museui/muse-ui) [![muse-ui](https://img.shields.io/github/stars/museui/muse-ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/museui/muse-ui) Material Desgin UI library for Vuejs 2.0
 - [**vonic ★275**](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
+- [vue-waypoint](https://github.com/scaccogatto/vue-waypoint): component for Vue, this is the easiest way to trigger a function when you scroll [Waypoints](http://imakewebthings.com/waypoints/)-like
 
 ### Libraries & Plugins
 
