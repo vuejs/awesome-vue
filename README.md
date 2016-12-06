@@ -387,7 +387,7 @@
   - [vue-peity ★12](https://github.com/vue-bulma/peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
   - [vue-area ★5](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
   - [vue-stroll ★8](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
-  - [Vue.Dragable.For ★16](https://github.com/David-Desmaisons/Vue.Dragable.For): Vue directive for lists allowing drag-and-drop sorting of elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
+  - [Vue.Draggable ★114](https://github.com/David-Desmaisons/Vue.Dragable.For): Vue directive for lists allowing drag-and-drop sorting of elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
   - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
   - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
   - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
@@ -417,7 +417,6 @@
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
   - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
   - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-  - [vue.draggable ★48](https://github.com/David-Desmaisons/Vue.Draggable) draggable component for vue.js 2.0, allowing reordering of elements using drag-and-drop and synchronization between DOM and view model array. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
   - [vue-tree ★1](https://github.com/weibangtuo/vue-tree): Vue Tree View Component [@weibangtuo](https://github.com/weibangtuo)
   - [vue-img-loader](https://github.com/JackGit/vue-img-loader) - An image loader UI component for Vue.js 2.0, which supports preview, blur preview and other customize way while loading the image. [@jackgit](https://github.com/JackGit)
   - [vue-typewriter](https://github.com/eduardostuart/vue-typewriter): Vue component that types by @eduardostuart
@@ -436,8 +435,9 @@
   - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
   - [vue-cmap](https://github.com/doodlewind/vue-cmap) China map visualizing component for Vue.js 2.0
   - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) A simple virtual keyboard component for Vue.js 2.0.
-  - [vue-dnd2](https://github.com/iFgR/dnd2) Drag and drop elements sharing information between them. VueJS 2
-
+  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) A Vue 2.0 component for [Flickity](https://github.com/metafizzy/flickity) By [@metafizzy](https://github.com/metafizzy)
+ - [vue-dnd2](https://github.com/iFgR/vue-dnd2) Drag and drop elements sharing information between them. VueJS 2
+ 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -492,7 +492,6 @@
   - [loopback-vue ★32](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
   - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) ![shield](https://img.shields.io/github/stars/kfei/vue-s3-dropzone.svg?style=social&label=Star&maxAge=2592000) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
   - [**easy-vue**](https://github.com/TIGERB/easy-vue) ![shield](https://img.shields.io/github/stars/tigerb/easy-vue.svg?style=social&label=Star&maxAge=2592000) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
-
 vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
 
@@ -527,8 +526,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Single Page Application Starter Kit ★158](https://github.com/codecasts/spa-starter-kit) - A highly opinionated Single Page Application starter kit built on top of Vue.js and Laravel. Includes: Laravel 5.3, Authentication with JWT, Vue.js 2, Vuex, Vue-router, Bootstrap SASS, Sweetalert. by [@codecasts](https://github.com/codecasts)
 
   - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
-
-  - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
 
   - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
 
@@ -639,6 +636,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-momment-jalaali](https://github.com/saman/vue-moment-jalaali) Jalaali Moment.js filters for your Vue.js project. [@saman](https://github.com/saman)
   - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) A collection of standard filters Vue 1.* adapted for use in Vue 2.*
   - [vue-collision](https://github.com/scaccogatto/vue-collision): fires a @collided[-groupName] event on collision with viewport or any other bounding box, WayPoints-like
+  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) Fire an event on a specific scroll position
 
 - #### SEO
 
@@ -765,6 +763,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [Metric Loop](https://metricloop.com) A technology services and solutions website
    - [Holden](https://www.holden.com.au)
    - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
+   - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC). [Short Introduction](https://slugsurvival.com/explain/gif)
 
 - #### Interactive Experiences
 
