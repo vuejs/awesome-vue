@@ -763,6 +763,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [Metric Loop](https://metricloop.com) A technology services and solutions website
    - [Holden](https://www.holden.com.au)
    - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
+   - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC). [Short Introduction](https://slugsurvival.com/explain/gif)
 
 - #### Interactive Experiences
 
