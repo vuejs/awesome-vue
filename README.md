@@ -436,6 +436,7 @@
   - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) :bookmark:: Vue.js 2.0 Input Tag Component
   - [vue-cmap](https://github.com/doodlewind/vue-cmap) China map visualizing component for Vue.js 2.0
   - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) A simple virtual keyboard component for Vue.js 2.0.
+  - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) A Vue 2.0 component for [Flickity](https://github.com/metafizzy/flickity) By [@metafizzy](https://github.com/metafizzy)
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
