@@ -770,7 +770,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [Holden](https://www.holden.com.au)
    - [Global-Exam](https://global-exam.com) Online Training for Language Proficiency Tests
    - [SlugSurvival](https://github.com/zllovesuki/slugsurvival) A webapp that helps student better plan their courses (hobby project, not in affiliation with UCSC). [Short Introduction](https://slugsurvival.com/explain/gif)
-   - [LIHKG討論區](https://lihk-forum.firebaseapp.com) Unofficial Web client for LIHKG forum
+   - [LIHKG討論區](https://lihk-forum.firebaseapp.com) Unofficial Web client for LIHKG forum
 
 - #### Interactive Experiences
 
