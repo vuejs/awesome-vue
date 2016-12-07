@@ -76,6 +76,7 @@
 - [Javascript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
+- [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html)
 
 ### Official Examples
 
@@ -128,6 +129,8 @@
 - [How to make API Calls with Vuex](https://metricloop.com/blog/how-to-make-api-calls-with-vuex) on [Metric Loop](https://metricloop.com/blog)
 - [How to Use Vuex to Build a Feature](https://metricloop.com/blog/how-to-use-vuex-to-build-a-feature) on [Metric Loop](https://metricloop.com/blog)
 - [Vue.js 2.0 Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) on YouTube by DevMarketer
+- [Getting up and Running with the Vue.js 2.0 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) on SitePoint
+- [Vuex For The Clueless — The Missing Primer On Vue’s Application Data Store](https://medium.com/js-dojo/vuex-for-the-clueless-the-missing-primer-on-vues-application-data-store-33fa51ffc3af#.2j25xpfui)
 
 #### 0.12 and earlier
 
@@ -436,6 +439,7 @@
   - [vue-cmap](https://github.com/doodlewind/vue-cmap) China map visualizing component for Vue.js 2.0
   - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) A simple virtual keyboard component for Vue.js 2.0.
   - [vue-flickity](https://github.com/drewjbartlett/vue-flickity) A Vue 2.0 component for [Flickity](https://github.com/metafizzy/flickity) By [@metafizzy](https://github.com/metafizzy)
+  - [vue-aplayer[![GitHub stars](https://img.shields.io/github/stars/SevenOutman/vue-aplayer.svg?style=social&label=Star)](https://github.com/SevenOutman/vue-aplayer)](https://github.com/SevenOutman/vue-aplayer) Easy-to-config music player with controls.
   - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint): component for Vue, this is the easiest way to trigger a function when you scroll [Waypoints](http://imakewebthings.com/waypoints/)-like
 
 - #### i18n
@@ -492,8 +496,9 @@
   - [loopback-vue ★32](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
   - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) ![shield](https://img.shields.io/github/stars/kfei/vue-s3-dropzone.svg?style=social&label=Star&maxAge=2592000) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
   - [**easy-vue**](https://github.com/TIGERB/easy-vue) ![shield](https://img.shields.io/github/stars/tigerb/easy-vue.svg?style=social&label=Star&maxAge=2592000) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
-vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb) 
-- [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
+vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
+  - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
+  - [vue-memo](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
 
 - #### Boilerplates
 
@@ -528,7 +533,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
 
   - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
-  
+
 - #### Scaffolding
 
   - [**vue-cli ★1,115**](https://github.com/vuejs/vue-cli): official CLI for scaffolding Vue.js projects.
@@ -637,7 +642,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue2-filters ★2](https://github.com/freearhey/vue2-filters) A collection of standard filters Vue 1.* adapted for use in Vue 2.*
   - [vue-collision](https://github.com/scaccogatto/vue-collision): fires a @collided[-groupName] event on collision with viewport or any other bounding box, WayPoints-like
   - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) Fire an event on a specific scroll position
-  
+
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
@@ -695,6 +700,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) ✏️ A blog based on GitHub pages by Vue.js 2 + Webpack 2.
   - [**Vuedo** ![Vuedo](https://img.shields.io/github/stars/Vuedo/vuedo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Vuedo/vuedo): Vuedo is a blog platform, built with Laravel and Vue.js. **Website using Vuedo in production : https://vuejsfeed.com/**
   - [vue-music163](https://github.com/pluto1114/vue-music163.git) A Vue.js project for music
+  - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) Tomato5 is a real-time collaboration tool, it combines Pomodoro Technique with a team status share board. We build Tomato5 as the 'Serverless' architecture, powered by Vue.js and Google Firebase.
 
 - #### Commercial Products
 
