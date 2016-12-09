@@ -2005,17 +2005,6 @@ application.  By @Haixing-Hu
    Open Source
   </h4>
   <ul>
-  <li>
-   <a href="https://github.com/caolinjian/rubik-cube">
-    PageKit
-   </a>
-   : 一个魔方页面
-   <sup>
-    <a href="https://caolinjian.github.io/rubik-cube/dist/index.html">
-     [Source]
-    </a>
-   </sup>
-  </li>
    <li>
     <a href="http://pagekit.com/">
      PageKit
