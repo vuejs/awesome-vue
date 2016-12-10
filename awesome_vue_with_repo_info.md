@@ -2143,6 +2143,17 @@ application.  By @Haixing-Hu
     </sup>
     A Chrome Extension allows user use Baidu-Hui services and recieves the push notification about the latest discount infos.
    </li>
+   <li>
+    <a href="http://www.bigdecimap.com:8080/">
+     Demo of Bureaufast workflow egine
+    </a>
+    <sup>
+     <a href="https://github.com/yetaai/bureaufast">
+      [Source]
+     </a>
+    </sup>
+    An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported.
+   </li>
   </ul>
  </li>
  <li>
