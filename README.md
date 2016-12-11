@@ -705,6 +705,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**Tomato5** ![Tomato5](https://img.shields.io/github/stars/zhangxin840/tomato5.svg?style=social&label=Star)](https://github.com/zhangxin840/tomato5) Tomato5 is a real-time collaboration tool, it combines Pomodoro Technique with a team status share board. We build Tomato5 as the 'Serverless' architecture, powered by Vue.js and Google Firebase.
   - [Demo of Bureaufast workflow egine](http://www.bigdecimap.com:8080/): An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported. [source](https://github.com/yetaai/bureaufast)
   - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup>: 魔方
+  - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> A Chrome Extension for tabs management, Search, preview, jump across, and close tabs quickly.
+  
   
 - #### Commercial Products
 
