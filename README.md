@@ -259,7 +259,7 @@
   - [vue-off-canvas](https://github.com/wovue/off-canvas) - A off-canvas component for Vue.js. <sup>1.x compatible</sup>
   - [vue-dialog](https://github.com/wovue/dialog) - A dialog component for Vue.js. <sup>1.x compatible</sup>
   - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
-- [Bootstrap-Vue ★46](https://github.com/bootstrap-vue/bootstrap-vue) Complete **Bootstrap 4** Components For Vue.js 2. <sup>2.x compatible</sup>
+- [**BootstrapVue**](https://bootstrap-vue.github.io) **Bootstrap 4** Components compatible with **Vue.js 2**. [![npm](https://img.shields.io/npm/dt/bootstrap-vue.svg?style=plastic&label=downloads)](http://npmjs.com/package/bootstrap-vue) [![GitHub stars](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?style=social&label= ❤ &style=plastic)](https://github.com/bootstrap-vue/bootstrap-vue)
 - [vue-codemirror ★35](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
 - [vue-video-player ★25](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/
 - [**vue-material ★750**](https://marcosmoura.github.io/vue-material) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup> by [@marcosmoura](https://github.com/marcosmoura)
