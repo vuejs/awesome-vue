@@ -269,6 +269,7 @@
 - [muse-ui](https://github.com/museui/muse-ui) [![muse-ui](https://img.shields.io/github/stars/museui/muse-ui.svg?style=social&label=Star&maxAge=2592000)](https://github.com/museui/muse-ui) Material Desgin UI library for Vuejs 2.0
 - [**vonic ★275**](https://github.com/wangdahoo/vonic) - UI Framework for SPA, based on Vue.js and ionic css components. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
+- [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) Plugin to integrate prosemirror with Vue 2 <sup>2.x compatible</sup> by [@eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe)
 
 ### Libraries & Plugins
 
@@ -501,7 +502,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
   - [vue-memo](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
   - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
-  
+
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
@@ -706,8 +707,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Demo of Bureaufast workflow egine](http://www.bigdecimap.com:8080/): An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported. [source](https://github.com/yetaai/bureaufast)
   - [Rubik Cube](https://caolinjian.github.io/rubik-cube/dist/index.html) <sup>[[Source]](https://github.com/caolinjian/rubik-cube)</sup>: 魔方
   - [Peek-a-tab, Tabs Manager for Google Chrome™](https://chrome.google.com/webstore/detail/peek-a-tab-tabs-manager-f/nnpdamdaknpnohmlbnmgphiodghbohop)<sup>[[Source]](https://github.com/pramjeet/peek-a-tab)</sup> A Chrome Extension for tabs management, Search, preview, jump across, and close tabs quickly.
-  
-  
+
+
 - #### Commercial Products
 
   - [Wijmo](http://wijmo.com/products/wijmo-5/): A collection of [UI controls with VueJS support](http://demos.wijmo.com/5/Vue/Interop/Interop/).
