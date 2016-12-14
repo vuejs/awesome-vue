@@ -444,6 +444,7 @@
   - [vue-aplayer[![GitHub stars](https://img.shields.io/github/stars/SevenOutman/vue-aplayer.svg?style=social&label=Star)](https://github.com/SevenOutman/vue-aplayer)](https://github.com/SevenOutman/vue-aplayer) Easy-to-config music player with controls.
   - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint): component for Vue, this is the easiest way to trigger a function when you scroll [Waypoints](http://imakewebthings.com/waypoints/)-like
   - [vue-online](https://github.com/Sopamo/vue-online): A reactive online/offline component for Vue.js 2.0 which shows a message when the user is offline and provides a convenient reactive online variable
+  - [vuetify](https://github.com/vuetifyjs/vuetify): A material design semantic component framework for Vue.js 2.0
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -610,7 +611,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-dragula ★35](https://github.com/Astray-git/vue-dragula): Vue wrapper for [dragula](https://github.com/bevacqua/dragula)
   - [**vue-infinite-scroll ★167**](https://github.com/ElemeFE/vue-infinite-scroll): infinite scroll directive for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-toast-mobile ★28](https://github.com/ElemeFE/vue-toast-mobile): mobile toast plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
-  - [vue-indicator ★9](https://github.com/mint-ui/mint-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
+  - [vue-indicator ★9](https://github.com/mint-
+  /mint-indicator): mobile loading indicator plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-msgbox ★46](https://github.com/ElemeFE/vue-msgbox): message box (like Sweet Alert) plugin for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-scroll ★12](https://github.com/suguangwen/vue-scroll): add scroll up function and optimize the origin algorithm. Reference to ElemeFE/vue-infinite-scroll.  [@suguangwen](https://github.com/suguangwen)
   - [vue-click-outside ★2](https://github.com/vue-bulma/click-outside): ClickOutside directive for Vue.  [@fundon](https://github.com/fundon)
