@@ -445,6 +445,7 @@
   - [vue-waypoint](https://github.com/scaccogatto/vue-waypoint): component for Vue, this is the easiest way to trigger a function when you scroll [Waypoints](http://imakewebthings.com/waypoints/)-like
   - [vue-online](https://github.com/Sopamo/vue-online): A reactive online/offline component for Vue.js 2.0 which shows a message when the user is offline and provides a convenient reactive online variable
   - [vuetify](https://github.com/vuetifyjs/vuetify): A material design semantic component framework for Vue.js 2.0
+  - [v-tooltip](https://github.com/Akryum/vue-tooltip): Easy tooltips with tether-tooltip <sup>2.0+</sup> by [@Akryum](https://github.com/Akryum)
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
