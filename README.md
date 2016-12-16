@@ -578,6 +578,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### General Plugins/Directives
 
+  - [vue-localstorage](https://github.com/Radyushin/vue-localstorage): Wrapper for work with the Storage interface of the Web Storage API.
   - [vue-element ★82](https://github.com/vuejs/vue-element): Register real custom elements with Vue.
   - [**vue-touch ★355**](https://github.com/vuejs/vue-touch): Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
   - [**vue-animated-list ★186**](https://github.com/vuejs/vue-animated-list): A Vue.js plugin for easily animating `v-for` rendered lists.
