@@ -578,7 +578,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 - #### General Plugins/Directives
 
-  - [vue-localstorage](https://github.com/Radyushin/vue-localstorage): Wrapper for work with the Storage interface of the Web Storage API.
   - [vue-element ★82](https://github.com/vuejs/vue-element): Register real custom elements with Vue.
   - [**vue-touch ★355**](https://github.com/vuejs/vue-touch): Hammer.js wrapper directives for touch gestures. (Updated for 1.0!)
   - [**vue-animated-list ★186**](https://github.com/vuejs/vue-animated-list): A Vue.js plugin for easily animating `v-for` rendered lists.
@@ -655,6 +654,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) Fire an event on a specific scroll position
   - [**vue-lazy-background-images [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-lazy-background-images.svg?style=social&label=Star)](https://github.com/darrynten/vue-lazy-background-images)**](https://github.com/darrynten/vue-lazy-background-images): Simple lazy background images (only background images) for Vue.JS 2+
   - [@skyrpex/now](https://github.com/skyrpex/now) Mixin that adds a reactive variable that is the current time (uses moment.js).
+  - [vue-localstorage](https://github.com/Radyushin/vue-localstorage): Wrapper for work with the Storage interface of the Web Storage API.
 
 - #### SEO
 
