@@ -287,7 +287,6 @@
 - #### Ajax/Data
 
   - [**vue-resource ★1,761**](https://github.com/vuejs/vue-resource) - AJAX/Resource plugin maintained by the [PageKit](http://pagekit.com/) team. <sup>1.0 compatible</sup>
-  - [v-model ★5](https://github.com/laoshu133/v-model) - V-Model is a model plugin for Vue.js, like ng-resource, by [@laoshu133](https://github.com/laoshu133)
   - [vue-resource-case-converter](https://github.com/staskjs/vue-resource-case-converter) - Interceptor for `vue-resource` that transforms request data to snake_case and response data to camelCase
   - [**vue-async-data ★240**](https://github.com/vuejs/vue-async-data) - Async data loading plugin <sup>1.0 compatible</sup>
   - [vue-async-computed ★23](https://github.com/foxbenjaminfox/vue-async-computed) - Plugin to support computed properties that are calculated asynchronously. By [@foxbenjaminfox](https://github.com/foxbenjaminfox)
@@ -296,6 +295,7 @@
   - [vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
   - [vue-jsonp](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
   - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - A mixin that allows syncing props to local attributes automatically, by [@skyrpex].
+  - [v-model ★5](https://github.com/laoshu133/v-model) - V-Model is a model plugin for Vue.js, like ng-resource, by [@laoshu133](https://github.com/laoshu133)
 
 - #### State Management
 
