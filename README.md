@@ -449,6 +449,7 @@
   - [vuetify](https://github.com/vuetifyjs/vuetify): A material design semantic component framework for Vue.js 2.0
   - [v-tooltip](https://github.com/Akryum/vue-tooltip): Easy tooltips with tether-tooltip <sup>2.0+</sup> by [@Akryum](https://github.com/Akryum)
   - [vue-at](https://github.com/fritx/vue-at): At.js for Vue
+  - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
