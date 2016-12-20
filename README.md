@@ -263,8 +263,8 @@
   - [vue-dialog](https://github.com/wovue/dialog) - A dialog component for Vue.js. <sup>1.x compatible</sup>
   - [vue-focus-trap](https://github.com/wovue/focus-trap) -  A Vue component that traps focus for Vue.js, it is a wrapper around [focus-trap](https://github.com/davidtheclark/focus-trap). <sup>1.x compatible</sup>
 - [**BootstrapVue**](https://bootstrap-vue.github.io) **Bootstrap 4** Components compatible with **Vue.js 2**. [![npm](https://img.shields.io/npm/dt/bootstrap-vue.svg?style=plastic&label=downloads)](http://npmjs.com/package/bootstrap-vue) [![GitHub stars](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?style=social&label= ❤ &style=plastic)](https://github.com/bootstrap-vue/bootstrap-vue)
-- [vue-codemirror ★35](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-- [vue-video-player ★25](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/
+- [vue-codemirror ★](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
+- [vue-video-player ★](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
 - [**vue-material ★750**](https://marcosmoura.github.io/vue-material) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup> by [@marcosmoura](https://github.com/marcosmoura)
 - [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
 - [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
@@ -424,8 +424,8 @@
   - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
   - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
-  - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
-  - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
+  - [vue-awesome-swiper ★236](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
+  - [vue-touch-ripple ★46](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
   - [vue-tree ★1](https://github.com/weibangtuo/vue-tree): Vue Tree View Component [@weibangtuo](https://github.com/weibangtuo)
   - [vue-img-loader](https://github.com/JackGit/vue-img-loader) - An image loader UI component for Vue.js 2.0, which supports preview, blur preview and other customize way while loading the image. [@jackgit](https://github.com/JackGit)
   - [vue-typewriter](https://github.com/eduardostuart/vue-typewriter): Vue component that types by @eduardostuart
@@ -452,6 +452,7 @@
   - [v-tooltip](https://github.com/Akryum/vue-tooltip): Easy tooltips with tether-tooltip <sup>2.0+</sup> by [@Akryum](https://github.com/Akryum)
   - [vue-at](https://github.com/fritx/vue-at): At.js for Vue
   - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
+  - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) Quill editor component for Vue2  [@Surmon](https://github.com/surmon-china)
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
