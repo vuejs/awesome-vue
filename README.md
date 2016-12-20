@@ -452,6 +452,7 @@
   - [v-tooltip](https://github.com/Akryum/vue-tooltip): Easy tooltips with tether-tooltip <sup>2.0+</sup> by [@Akryum](https://github.com/Akryum)
   - [vue-at](https://github.com/fritx/vue-at): At.js for Vue
   - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
+  - [**vue-loading-spinner**](https://github.com/nguyenvanduocit/vue-loading-spinner): Just another collection of loading spinners with Vue.js, a lot of spinners, [view demo](https://nguyenvanduocit.github.io/vue-loading-spinner/).
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -465,7 +466,7 @@
   - [vue-translate ★1](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.0.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
   - [vue-gettext ★11](https://github.com/Polyconseil/vue-gettext): Translate your Vue.js applications with gettext <sup>Vue.js 2.0.x</sup>
-
+ 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
 
