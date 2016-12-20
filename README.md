@@ -354,6 +354,7 @@
   - [**Vue datepicker ★124**](https://github.com/hilongjw/vue-datepicker): calendar and datepicker component with material design for Vue.js  by @hilongjw
   - [vue-date-picker ★31](https://github.com/Bubblings/vue-date-picker): A simple datepicker component for Vue.js by @Bubblings
   - [**vue-spinner ★240**](https://github.com/greyby/vue-spinner): A collection of loading spinners with Vue.js.
+  - [**vue-loading-spinner**](https://github.com/nguyenvanduocit/vue-loading-spinner): Just another collection of loading spinners with Vue.js, alot of spinners, [view demo](https://nguyenvanduocit.github.io/vue-loading-spinner/).
   - [vue-image-loader ★23](https://github.com/eduardostuart/vue-image-loader): Async image loader for Vue.js by @eduardostuart
   - [Vue-progressbar ★73](https://github.com/hilongjw/vue-progressbar): A lightweight progress bar for Vue.js  by @hilongjw
   - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor): An interceptor for vue-resource that adds automated progressbar (that is up one line) to all http requests
