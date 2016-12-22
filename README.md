@@ -453,6 +453,7 @@
   - [vue-at](https://github.com/fritx/vue-at): At.js for Vue
   - [vue-parallax](https://github.com/apertureless/vue-parallax): 60 FPS Parallax scroll effect for Vue.js 2 <sup>2.1+</sup>
   - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) Quill editor component for Vue2  [@Surmon](https://github.com/surmon-china)
+  - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) Dom Drag Zone component for Vue.js(2.x)  [@Surmon](https://github.com/surmon-china)
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
