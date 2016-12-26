@@ -172,6 +172,7 @@
 - [express-vue-builder](https://github.com/xpepermint/express-vue-builder) - Vue.js server-side rendering middleware for Express.js.
 - [sprockets-vue ★8](https://github.com/kikyous/sprockets-vue) - Translate `.vue` files to pure JavaScript for Rails Assets Pipeline, without webpack.
 - [**nuxt.js ★1,012**](https://github.com/nuxt/nuxt.js) - A minimalistic framework for server-rendered Vue.js applications.
+- [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for Vue Component.
 
 ### Syntax Highlighting
 
