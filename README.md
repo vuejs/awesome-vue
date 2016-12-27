@@ -159,7 +159,7 @@
 - [vue-dev-server ★5](https://github.com/paulpflug/vue-dev-server) - A small webpack-based development server for building standalone `vue` components
 - [brunch-vue ★9](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
 - [vueify-extract-css ★23](https://github.com/rawcreative/vueify-extract-css) - Browserify plugin to extract css from Vueify-compiled single file components to a separate css file.
-- [eslint-plugin-vue ★29](https://github.com/Twiknight/eslint-plugin-vue) - Eslint plugin for .vue files.
+- [eslint-plugin-vue ★21](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for .vue files.
 - [**vbuild ★204**](https://github.com/egoist/vbuild) - Vue happiness build tool.
 - [vue-markdown-loader ★2](https://github.com/QingWei-Li/vue-markdown-loader) Convert Markdown file to Vue Component using markdown-it.
 - [vue-cluster](https://github.com/VueCluster/VueCluster) Official Vue2 Socketcluster server-less framework with examples.
