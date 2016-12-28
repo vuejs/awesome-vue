@@ -275,6 +275,7 @@
 - [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) Plugin to integrate prosemirror with Vue 2 <sup>2.x compatible</sup> by [@eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe)
 - [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet/) Vue2 component that helps with leaflet interaction (Leaflet = a JavaScript library for interactive maps)
+- [Vuep](https://github.com/QingWei-Li/vuep) A component for rendering Vue components with live editor and preview.<sup>2.0</sup>
 
 ### Libraries & Plugins
 
