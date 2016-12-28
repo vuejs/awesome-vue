@@ -275,6 +275,7 @@
 - [vue-scroller ★60](https://github.com/wangdahoo/vue-scroller) - Vue component for smooth scrolling, pull to refresh and infinite loading. by [@wangdahoo](https://github.com/wangdahoo)
 - [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) Plugin to integrate prosemirror with Vue 2 <sup>2.x compatible</sup> by [@eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe)
 - [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet/) Vue2 component that helps with leaflet interaction (Leaflet = a JavaScript library for interactive maps)
+- [vue-impression](https://github.com/NewDadaFE/vue-impression) A Vue.js 2.0 UI elements for mobile. by[@NewDadaFE](https://github.com/NewDadaFE)
 
 ### Libraries & Plugins
 
@@ -459,7 +460,7 @@
   - [vue-quill-editor ★](https://github.com/surmon-china/vue-quill-editor) Quill editor component for Vue2  [@Surmon](https://github.com/surmon-china)
   - [vue-drag-zone ★](https://github.com/surmon-china/vue-drag-zone) Dom Drag Zone component for Vue.js(2.x)  [@Surmon](https://github.com/surmon-china)
   - [Vuep](https://github.com/QingWei-Li/vuep) A component for rendering Vue components with live editor and preview.<sup>2.0</sup>
-  - [vue-mobiledoc-editor ★](https://github.com/alidcastano/vue-mobiledoc-editor) a mobiledoc editor component toolkit for Vue2. 
+  - [vue-mobiledoc-editor ★](https://github.com/alidcastano/vue-mobiledoc-editor) a mobiledoc editor component toolkit for Vue2.
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
