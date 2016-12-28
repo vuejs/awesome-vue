@@ -194,6 +194,7 @@
  - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
  - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
  - [Bootstrap status label (v-label)](https://github.com/vuejs-br/snippets/blob/master/directives/v-label.md)
+- [VueHelper](https://github.com/OYsun/vscode-VueHelper) ![VueHelper](https://img.shields.io/github/stars/OYsun/vscode-VueHelper.svg?style=social&label=Star&maxAge=2592000)Vue,Vue-router and Vuex snippets for Vscode by [@OYsun](web-oysun.cn)
 
 ### Autocomplete
 
