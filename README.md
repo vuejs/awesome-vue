@@ -220,7 +220,7 @@
   - [vue-parallax ★3](https://github.com/vue-comps/vue-parallax): Scrolls a image slower than the window to create a neat optical effect
   - [vue-zoombox ★0](https://github.com/vue-comps/vue-zoombox): implementation of [zoomerang](https://github.com/yyx990803/zoomerang), Zooms into everything (images, text) - without animations
   - [vue-icons ★10](https://github.com/vue-comps/vue-icons): webpack based - load only what you need - svg inline icons - font compatible mode - fa, material, mdi and octicons
-- [**keen-ui ★551**](https://github.com/JosephusPaye/Keen-UI): A collection of essential UI components inspired by Material Design
+- [**keen-ui ★551**](https://github.com/JosephusPaye/Keen-UI): A collection of essential UI components inspired by Material Design <sup>1.0</sup>
 - [material-ui-vue](http://material-ui-vue.jackyang.me/docs/index.html#!/components/badges/badge): materializecss UI components with Vue, by [@jack](https://github.com/JackGit)
 - [vue-spectre](https://vace.me/a/vue-spectre/index.html): [github](https://github.com/vace/vue-spectre),spectre components built with Vue.js by [@vace](http://github.com/vace) <sup>1.0</sup>
 - [**vue-desktop ★219**](https://github.com/ElemeFE/vue-desktop): A UI library for building admin panel website, by [@ElemeFE](https://github.com/ElemeFE)
