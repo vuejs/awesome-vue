@@ -708,7 +708,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Dashboard framework ★54](https://github.com/thelinuxlich/vue-dashing-js) by @thelinuxlich
   - [a simple notepad ★47](https://github.com/sapjax/fewords)
   - [**FilterBlend ★151**](https://github.com/ilyashubin/FilterBlend): CSS blend modes and filters playground by @ilyashubin
-  - [Koel](http://koel.phanan.net): Music streaming server
+  - [Koel](http://koel.phanan.net) <sup>[[Source]](https://github.com/phanan/koel)</sup> : Music streaming server
   - [Selection Translator](https://chrome.google.com/webstore/detail/ikhdkkncnoglghljlkmcimlnlhkeamad) <sup>[[Source]](https://github.com/lmk123/crx-selection-translate)</sup> A Chrome Extension let browse any language websites has never been easier.
   - [SwitchHosts](https://oldj.github.io/SwitchHosts/) <sup>[[Source]](https://github.com/oldj/SwitchHosts)</sup> Switch hosts quickly.
   - [**RSS Reader ★193**](https://github.com/mrgodhani/rss-reader) Simple RSS Reader made using atom electron and vue.js.
