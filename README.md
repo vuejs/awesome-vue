@@ -678,6 +678,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [@skyrpex/now](https://github.com/skyrpex/now) Mixin that adds a reactive variable that is the current time (uses moment.js).
   - [vue-localstorage](https://github.com/Radyushin/vue-localstorage): Wrapper for work with the Storage interface of the Web Storage API.
   - [@kashio/vue-tooltip](https://github.com/Kashio/vue-tooltip) Vue.js tooltip directive.Vue.js tooltip directive.
+  - [Vue.ImagesLoaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded): Vue.js(2.x) directive to detect image loading on children element. Based on [ImagesLoaded](http://imagesloaded.desandro.com/).
 
 - #### SEO
 
