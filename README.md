@@ -823,6 +823,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [LIHKG討論區](https://lihk-forum.firebaseapp.com) Unofficial Web client for LIHKG forum
    - [FreePoll.Online](https://www.freepoll.online) - A group decision making tool built using Vue.js, [vue-sortable](https://github.com/sagalbot/vue-sortable), [Semantic UI](https://github.com/semantic-org/semantic-ui/) and [Zappa](https://github.com/Miserlou/Zappa).
    - [GitRelease](https://github.com/ChangJoo-Park/gitrelease-app), Track github project's new release on mac menubar using vue.js with electron.
+   - [12BAY.VN](https://12bay.vn) - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
 
 - #### Interactive Experiences
 
