@@ -278,6 +278,7 @@
 - [vue-prosemirror-2](https://github.com/eljefedelrodeodeljefe/vue-prosemirror-2) Plugin to integrate prosemirror with Vue 2 <sup>2.x compatible</sup> by [@eljefedelrodeodeljefe](https://github.com/eljefedelrodeodeljefe)
 - [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet/) Vue2 component that helps with leaflet interaction (Leaflet = a JavaScript library for interactive maps)
 - [vue-impression](https://github.com/NewDadaFE/vue-impression) A Vue.js 2.0 UI elements for mobile. by[@NewDadaFE](https://github.com/NewDadaFE)
+- [vue-github-corners](https://github.com/Roeefl/vue-github-corners) VueJS Component for Tholman's Github-Corners
 
 ### Libraries & Plugins
 
