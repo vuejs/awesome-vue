@@ -281,6 +281,7 @@
 - [vue-impression](https://github.com/NewDadaFE/vue-impression) A Vue.js 2.0 UI elements for mobile. by[@NewDadaFE](https://github.com/NewDadaFE)
 - [vue-github-corners](https://github.com/Roeefl/vue-github-corners) VueJS Component for Tholman's Github-Corners
 - [vue-clip](http://vueclip.adonisjs.com/) Hackable File Uploader For Vue.js 2.0.
+- [vue-numeric](https://github.com/kevinongko/vue-numeric) - Vue 2.0 Input field component to display currency value. By [@kevinongko](https://github.com/kevinongko).
 
 ### Libraries & Plugins
 
