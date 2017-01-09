@@ -282,6 +282,7 @@
 - [vue-github-corners](https://github.com/Roeefl/vue-github-corners) VueJS Component for Tholman's Github-Corners
 - [vue-clip](http://vueclip.adonisjs.com/) Hackable File Uploader For Vue.js 2.0.
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Vue 2.0 Input field component to display currency value. By [@kevinongko](https://github.com/kevinongko).
+- [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
 
 ### Libraries & Plugins
 
@@ -712,6 +713,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue unit tests](http://www.slideshare.net/coulix/vuejs-testing) by [coulix](https://github.com/coulix)
   - [Vue.js: A simple and great choice - London VueJS #2, talk by Blake Newman](https://www.youtube.com/watch?v=n1Xm6xjjlio)
   - [VueJS - ViennaJS July 2016](https://www.youtube.com/watch?v=jqljIc66pLQ)
+  - [Vue, j'avais pas vu! - Codeurs en Seine 2016](http://fr.slideshare.net/BrunoBonnin/vue-javais-pas-vu) (french)
 
 ### Projects Using Vue.js
 
