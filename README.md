@@ -470,12 +470,12 @@
   - [Vuep](https://github.com/QingWei-Li/vuep) A component for rendering Vue components with live editor and preview.<sup>2.0</sup>
   - [vue-mobiledoc-editor ★](https://github.com/alidcastano/vue-mobiledoc-editor) a mobiledoc editor component toolkit for Vue2.
   - [vue-typer](https://github.com/cngu/vue-typer): Vue <sup>2.x+</sup> component that simulates a user typing, selecting, and erasing text. By [@cngu](https://github.com/cngu).
-  
+
   - [vue-instant](https://github.com/santiblanko/vue-instant): Vue <sup>2.x+</sup> Vue instant allows you to easily create autosuggest for your vue application. By [@santiblanko](https://github.com/santiblanko).
   - [pinch-slider](https://github.com/katik/pinch-slider): a vue based mobile slider(or swiper) for images which can be zoomed or pinched.
 
-  
-  
+
+
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -542,7 +542,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [ASP.NET Core Vue.js server-side rendering sample](https://github.com/mgyongyosi/VuejsSSRSample) by [@mgyongyosi](https://github.com/mgyongyosi)
   - [**vuefire-quickstart**](https://github.com/sejr/vuefire-quickstart) - [![Express Vue Stars](https://img.shields.io/github/stars/sejr/vuefire-quickstart.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
   - [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django)
-  
+
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
@@ -550,7 +550,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PLATO ★137](https://github.com/crossjs/plato) by @crossjs - A Vue 2.0 project boilerplate for SPAs use official vuex, vue-router, and lightweight i18n, validator, normalizr, persist, and also has some well designed mobile UI components
   - [electron-vue ★615](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - An Electron & Vue.js (2.0 & 1.0) quick start boilerplate with vue-cli functionality, common Vue plugins, electron-packager, unit/e2e testing, and webpack. <sup>gitbook docs</sup>
   - [browserify-complete ★5](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
-  - [**Modern Vue.js starter boilerplate ★63**](https://github.com/villeristi/vue.js-starter-template) - Vue 2, Vue Router 2, Vue Resource, ES6, Babel, Webpack (with BrowserSync), ESLint, SASS (with autoprefixer), Bootstrap 4, FontAwesome by [villeristi](https://github.com/villeristi)
+  - [**Modern Vue.js starter boilerplate ★82**](https://github.com/villeristi/vue.js-starter-template) - Vue 2, Vue Router 2, Vue Resource, Single File Components, ES6, Babel, Webpack (with BrowserSync), ESLint, SASS (with autoprefixer), Bootstrap 4, FontAwesome by [villeristi](https://github.com/villeristi)
   - [**Boilerplate for Vue.js & LeanCloud  ★5**](https://github.com/jiangjiu/vue-leancloud-boilerplate) by [@jiangjiu](https://github.com/jiangjiu)
   - [vue-typescript-template](https://github.com/danielschmitz/vue-typescript-template) by @danielschmitz - A Vue.js + Typescript project template setup for quick prototyping, inspired by [vue-typescript-seed](https://github.com/itsFrank/vue-typescript-seed)  <sup>vue-cli compatible</sup>
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
@@ -763,7 +763,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [ExcelJSON](http://exceljson.com) <sup>[[Source]](https://github.com/palerdot/exceljson)</sup>: A tool to convert CSV, TSV to/from JSON.
   - [Materialize-blog](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
   - [**leetcode-viewer** ![leetcode-viewer](https://img.shields.io/github/stars/ma63d/leetcode-viewer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Ma63d/leetcode-viewer) A single page application to show your [leetcode](https://leetcode.com/) solutions，backend-free.
-  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) Generate vue single file component on browser 
+  - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) Generate vue single file component on browser
 - #### Commercial Products
 
   - [Wijmo](http://wijmo.com/products/wijmo-5/): A collection of [UI controls with VueJS support](http://demos.wijmo.com/5/Vue/Interop/Interop/).
