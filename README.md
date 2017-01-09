@@ -693,6 +693,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [@kashio/vue-tooltip](https://github.com/Kashio/vue-tooltip) Vue.js tooltip directive.Vue.js tooltip directive.
   - [Vue.ImagesLoaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded): Vue.js(2.x) directive to detect image loading on children element. Based on [ImagesLoaded](http://imagesloaded.desandro.com/).
   - [Vue.resize](https://github.com/David-Desmaisons/Vue.resize): Vue.js(2.x) directive to detect resize events with deboucing and throttling capacity. Based on [css-element-queries](https://github.com/marcj/css-element-queries).
+  - [Content Builder](https://github.com/abdullah/plekan) Agile and scalable content builder for Vue.js 2.x
+  - [Turkish Deasciifier](https://github.com/abdullah/vue-turkish-textarea) Corrects spelling errors of Turkish.
 
 - #### SEO
 
