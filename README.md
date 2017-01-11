@@ -695,6 +695,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue.resize](https://github.com/David-Desmaisons/Vue.resize): Vue.js(2.x) directive to detect resize events with deboucing and throttling capacity. Based on [css-element-queries](https://github.com/marcj/css-element-queries).
   - [Content Builder](https://github.com/abdullah/plekan) Agile and scalable content builder for Vue.js 2.x
   - [Turkish Deasciifier](https://github.com/abdullah/vue-turkish-textarea) Corrects spelling errors of Turkish.
+  - [scroll progress for vue.js](https://github.com/shershen08/vuejs-content-scroll-progress) Plugin to display a progress bar of how much content is scrolled through
 
 - #### SEO
 
