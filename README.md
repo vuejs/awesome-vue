@@ -474,7 +474,7 @@
 
   - [vue-instant](https://github.com/santiblanko/vue-instant): Vue <sup>2.x+</sup> Vue instant allows you to easily create autosuggest for your vue application. By [@santiblanko](https://github.com/santiblanko).
   - [pinch-slider](https://github.com/katik/pinch-slider): a vue based mobile slider(or swiper) for images which can be zoomed or pinched.
-
+  - [vue-event-calendar ★10](https://github.com/GeoffZhu/vue-event-calendar): A simple events calendar for Vue2\. By @GeoffZhu
 
 
 - #### i18n
