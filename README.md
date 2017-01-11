@@ -284,6 +284,7 @@
 - [vue-clip](http://vueclip.adonisjs.com/) Hackable File Uploader For Vue.js 2.0.
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Vue 2.0 Input field component to display currency value. By [@kevinongko](https://github.com/kevinongko).
 - [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
+- [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
 
 ### Libraries & Plugins
 
