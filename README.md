@@ -477,6 +477,10 @@
   - [vue-instant](https://github.com/santiblanko/vue-instant): Vue <sup>2.x+</sup> Vue instant allows you to easily create autosuggest for your vue application. By [@santiblanko](https://github.com/santiblanko).
   - [pinch-slider](https://github.com/katik/pinch-slider): a vue based mobile slider(or swiper) for images which can be zoomed or pinched.
   - [vue-event-calendar ★10](https://github.com/GeoffZhu/vue-event-calendar): A simple events calendar for Vue2\. By @GeoffZhu
+  - [vue-echarts-v3 ![vue-echarts-v3](https://img.shields.io/github/stars/xlsdg/vue-echarts-v3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-echarts-v3): Vue.js(v2.x+) component wrap for ECharts.js(v3.x+)
+  - [vue-countup-v2 ![vue-countup-v2](https://img.shields.io/github/stars/xlsdg/vue-countup-v2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-countup-v2): Vue.js(v2.x+) component wrap for countUp.js(v1.x+)
+  - [vue-odometer ![vue-odometer](https://img.shields.io/github/stars/xlsdg/vue-odometer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-odometer): Vue.js(v2.x+) component wrap for Odometer.js
+  - [vue-duoshuo ![vue-duoshuo](https://img.shields.io/github/stars/xlsdg/vue-duoshuo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-duoshuo): Vue.js(v2.x+) component wrap for DuoShuo.js
 
 
 - #### i18n
@@ -580,6 +584,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue fullstack](https://github.com/erguotou520/vue-fullstack) - A vue fullstack template to generate a reactivity, realtime, user-friendly backend system. Includes: Vue.js 2, ElementUI, express-jwt, mongodb, etc.
 
   - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
+  - [vue-boilerplate-v2 ![vue-boilerplate-v2](https://img.shields.io/github/stars/xlsdg/vue-boilerplate-v2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-boilerplate-v2): A Vue.js(2.x+) project boilerplate
 
 - #### Scaffolding
 
