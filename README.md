@@ -285,6 +285,7 @@
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Vue 2.0 Input field component to display currency value. By [@kevinongko](https://github.com/kevinongko).
 - [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
 - [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
+- [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
 
 ### Libraries & Plugins
 
@@ -311,6 +312,7 @@
   - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - A mixin that allows syncing props to local attributes automatically, by [@skyrpex].
   - [v-model ★5](https://github.com/laoshu133/v-model) - V-Model is a model plugin for Vue.js, like ng-resource, by [@laoshu133](https://github.com/laoshu133)
   - [vue-reload-route-data](https://github.com/imcvampire/vue-reload-route-data) - Give you a ability to reload route data by @imcvampire.
+  - [vue-resource-mock](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's inteceptor.
 
 - #### State Management
 
