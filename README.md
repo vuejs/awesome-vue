@@ -483,6 +483,7 @@
   - [vue-odometer ![vue-odometer](https://img.shields.io/github/stars/xlsdg/vue-odometer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-odometer): Vue.js(v2.x+) component wrap for Odometer.js
   - [vue-duoshuo ![vue-duoshuo](https://img.shields.io/github/stars/xlsdg/vue-duoshuo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-duoshuo): Vue.js(v2.x+) component wrap for DuoShuo.js
   - [vue-places](https://github.com/Gomah/vue-places) Vue 2.x component based on [places.js](https://github.com/algolia/places).
+  - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) Vue.js component to visualize password strength.
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
@@ -849,7 +850,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
    - [12BAY.VN](https://12bay.vn) - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
    - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments
    - [Vue.js Cinema](https://vuejs-cinema.herokuapp.com) - A movie session times app built with Vue.js!
-   
+
 
 - #### Interactive Experiences
 
