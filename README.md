@@ -204,6 +204,7 @@
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 - [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) Vue.js plugin to allow search places using Google Maps API by [@ridermansb](https://twitter.com/ridermansb)
+- [vue-places](https://github.com/Gomah/vue-places) Vue 2.x component based on [places.js](https://github.com/algolia/places).
 
 ### Component Collections
 
