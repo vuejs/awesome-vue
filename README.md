@@ -320,7 +320,7 @@
   - [**vuex ★2,062**](https://github.com/vuejs/vuex) - Flux/Redux inspired application architecture for Vue.js.
   - [**revue ★230**](https://github.com/revue/revue) - Redux binding for Vue by @egoist
   - [vue-redux ★82](https://github.com/yang-wei/vue-redux) - Redux binding for Vue by @yang-wei
-  - [vue-freeze ★50](https://github.com/BosNaufal/vue-freeze) - Simple state management whitout bloating API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
+  - [vue-freeze ★50](https://github.com/BosNaufal/vue-freeze) - Simple state management without bloating the API and Concept for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-simple-store ★39](https://github.com/BosNaufal/vue-simple-store) - Store Organizer To Simplify Your Stores for Vue By [@BosNaufal](https://github.com/BosNaufal)
   - [vue-stash ★50](https://github.com/cklmercer/vue-stash) - Easily share reactive data between components. [@cklmercer](https://github.com/cklmercer)
   - [vuex-actions ★2](https://github.com/weinot/vuex-actions) - Action utilities for vuex, supports promise-based async actions.
