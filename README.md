@@ -890,6 +890,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - Hunliji
   - [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
   - [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
+  - [ZenMate](https://zenmate.com)
 
 ## License
 
