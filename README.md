@@ -197,7 +197,7 @@
  - [Use multiple files in vue-router](https://github.com/vuejs-br/snippets/blob/master/router/use-multiple-files.md)
  - [Vue Permission Directive](https://github.com/vuejs-br/snippets/blob/master/directives/vue-permission.md)
  - [Bootstrap status label (v-label)](https://github.com/vuejs-br/snippets/blob/master/directives/v-label.md)
-- [VueHelper](https://github.com/OYsun/vscode-VueHelper) ![VueHelper](https://img.shields.io/github/stars/OYsun/vscode-VueHelper.svg?style=social&label=Star&maxAge=2592000)Vue,Vue-router and Vuex snippets for Vscode by [@OYsun](web-oysun.cn)
+- [VueHelper](https://github.com/OYsun/vscode-VueHelper) ![VueHelper](https://img.shields.io/github/stars/OYsun/vscode-VueHelper.svg?style=social&label=Star&maxAge=2592000)Vue,Vue-router and Vuex snippets for Vscode by [@OYsun](http://web-oysun.cn)
 
 ### Autocomplete
 
@@ -270,7 +270,7 @@
 - [**BootstrapVue**](https://bootstrap-vue.github.io) **Bootstrap 4** Components compatible with **Vue.js 2**. [![npm](https://img.shields.io/npm/dt/bootstrap-vue.svg?style=plastic&label=downloads)](http://npmjs.com/package/bootstrap-vue) [![GitHub stars](https://img.shields.io/github/stars/bootstrap-vue/bootstrap-vue.svg?style=social&label= ❤ &style=plastic)](https://github.com/bootstrap-vue/bootstrap-vue)
 - [vue-codemirror ★](https://github.com/surmon-china/vue-codemirror) Codemirror component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
 - [vue-video-player ★](https://github.com/surmon-china/vue-video-player) Live / Video Player (based on video.js) for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
-- [**vue-material ★1550**](https://vuematerial.github.io) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup> by [@marcosmoura](https://github.com/marcosmoura)
+- [**vue-material ★750**](https://marcosmoura.github.io/vue-material) Lightweight components built from scratch exactly according to the specs. <sup>2.0</sup> by [@marcosmoura](https://github.com/marcosmoura)
 - [vue-notifications ★0](https://github.com/se-panfilov/vue-notifications) Agnostic non-blocking notifications library. Allow you to manage notifications in declaration style. <sup>1.x - 2.x compatible</sup> [@se-panfilov](https://github.com/se-panfilov)
 - [vue-fa-calendar](https://github.com/compmeist/vue-fa-calendar) - Customize this printable Vue 2 Font-Awesome calendar component with your own classes.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) [![vue-highcharts](https://img.shields.io/github/stars/weizhenye/vue-highcharts.svg?label=%E2%98%85)](https://github.com/weizhenye/vue-highcharts) Highcharts component for Vue. 📊
@@ -286,6 +286,7 @@
 - [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
 - [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
 - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
+- - [VueCircleMenu](https://github.com/OYsun/vscode-VueHelper) ![GitHub stars](https://img.shields.io/github/stars/OYsun/VueCircleMenu.svg)A beautiful circle menu with Vue.js by [@OYsun](http://web-oysun.cn)
 
 ### Libraries & Plugins
 
@@ -501,7 +502,6 @@
   - [vuejs-carousel](https://github.com/ludo237/vuejs-carousel): Complete photo carousel build with VueJS and web standards in mind<sup>VueJs 2.1.6+</sup>
   - [vue-progressbar-xeonpowder ★1](https://github.com/XeonPowder/vue-progressbar): A progressbar forked from @hilongjw, updated by @XeonPowder, with more bells and whistles for Vue.JS 2+
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
-  - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
