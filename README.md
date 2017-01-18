@@ -711,6 +711,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Content Builder](https://github.com/abdullah/plekan) Agile and scalable content builder for Vue.js 2.x
   - [Turkish Deasciifier](https://github.com/abdullah/vue-turkish-textarea) Corrects spelling errors of Turkish.
   - [scroll progress for vue.js](https://github.com/shershen08/vuejs-content-scroll-progress) Plugin to display a progress bar of how much content is scrolled through
+  - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) An escape hatch for DOM Nodes, e.g. append to `document.body`.
 
 - #### SEO
 
