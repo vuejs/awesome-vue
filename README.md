@@ -615,7 +615,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue-Typed ★7](https://github.com/budiadiono/vue-typed): The vue-class-component in typescript favor by @budiadiono
   - [Vue as a Meteor UI layer ★60](https://github.com/Akryum/meteor-vue-component): Packages to integrate vue in your meteor project as first-class citizen (with single-file components & apollo support) by @Akryum
   - [Vue-Typescript ★68](https://github.com/itsFrank/vue-typescript): Typescript class decorators that allow for complete intellisense and type-checking support when developing Vue components in ts. By [@itsFrank](https://github.com/itsFrank)
-  - [Reactive vue(x) testing with Typescript and WallabyJs ](https://github.com/davidmoshal/reactive-vue-typescript-testing) - Boilerplate showing how to test the reaction of Vue components to Vuex model changes. Vue 1.x, Vue-typescript, Typescript 2.x. Test runner: WallabyJs.
   - [Vue-Framework7 ★48](https://github.com/lmk123/vue-framework7): Framework7 components built with Vue.js by [@lmk123](lmk123)
   - [Vue-Deepstream-Connector ★5](https://github.com/ecerroni/vue-deepstream-connector): A connector for bidirectional data-sync between Deepstream.io and Vue.js by [@ric0](https://github.com/ecerroni)
   - [vuets](https://github.com/vuets/vuets): Vue components using typescript 2.0 with compatibility layer between version 1 and 2 of vue and vue-router. By [@dyu](https://github.com/dyu)
@@ -726,6 +725,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-typescript-jest ![vue-typescript-jest](https://img.shields.io/github/stars/locoslab/vue-typescript-jest.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-jest): Test Vue.js components and TypeScript sources using Jest
   - [vue-jest-utils ![vue-jest-utils](https://img.shields.io/github/stars/locoslab/vue-jest-utils.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-jest-utils): Simple snapshot testing of Vue.js components (JavaScript and TypeScript) using Jest and html2jade
   - [vue-typescript-component-example ![vue-typescript-component-example](https://img.shields.io/github/stars/locoslab/vue-typescript-component-example.svg?style=social&label=Star&maxAge=2592000)](https://github.com/locoslab/vue-typescript-component-example): Example TypeScript/Tsify/Vue.js/Vueify/Pug setup supporting Hot Module Replacement and unit/snapshot testing with Jest
+  - [Testing Vuex with Typescript and WallabyJs](https://github.com/davidmoshal/reactive-vue-typescript-testing) - Boilerplate showing how to test the reactvity of Vue components to Vuex model changes. Vue 1.x, Vue-typescript, Typescript 2.x. Test runner: WallabyJs.
 
 - #### Talks
 
