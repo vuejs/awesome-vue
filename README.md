@@ -308,7 +308,7 @@
   - [vue-model ★63](https://github.com/aarondfrancis/vue-model) - Plugin to make rich models with built-in HTTP actions by [@aaronfrancis](https://github.com/aarondfrancis)
   - [vue-laravel-forms ★20](https://github.com/cklmercer/vue-laravel-forms) - Form helpers for your Laravel backed Vue.js projects.
   - [vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-  - [vue-jsonp](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
+  - [vue-jsonp ★10](https://github.com/LancerComet/vue-jsonp) - A tiny library for handling JSONP request. By [@lancercomet](https://github.com/lancercomet)
   - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - A mixin that allows syncing props to local attributes automatically, by [@skyrpex].
   - [v-model ★5](https://github.com/laoshu133/v-model) - V-Model is a model plugin for Vue.js, like ng-resource, by [@laoshu133](https://github.com/laoshu133)
   - [vue-reload-route-data](https://github.com/imcvampire/vue-reload-route-data) - Give you a ability to reload route data by @imcvampire.
@@ -717,6 +717,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [scroll progress for vue.js](https://github.com/shershen08/vuejs-content-scroll-progress) Plugin to display a progress bar of how much content is scrolled through
   - [vue-dom-portal](https://github.com/calebroseland/vue-dom-portal) An escape hatch for DOM Nodes, e.g. append to `document.body`.
   - [vue-count](https://github.com/Monine/vue-count) a plugin of count for Vue.js
+  - [vuexer](https://github.com/LancerComet/vuexer) A Vue 1.0 plugin that simplifies vuex handling. It's useful when your components are used in different vue projects. By [@lancercomet](https://github.com/lancercomet)
 
 - #### SEO
 
