@@ -212,7 +212,7 @@
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
 - [VueStrap Base Components](http://kzima.github.io/vuestrap-base-components/#/accordion), A complete set of Bootstrap 4 web components built with pure Vue.js, by @kzima <sup>1.0</sup>
-- [**Vux ★2,570**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI. By [@airyland](https://github.com/airyland)
+- [**VUX ★6316**](https://github.com/airyland/vux): Mobile web UI Components based on Vue and WeUI. By [@airyland](https://github.com/airyland) <sup>2.x compatible</sup>
 - [Vue Material Components](http://appcomponents.org/material-components/): Vue.js UI components using [materializecss.com](http://materializecss.com/) by mjanys
 - [Vue Upload Component](https://github.com/lian-yue/vue-upload-component/): Vue.js Multiple file upload component support ie9 [lianyue.org](http://www.lianyue.org) by LianYue
 - [vue-comps](https://github.com/vue-comps): A collection of unstyled and unanimated plain vue components
