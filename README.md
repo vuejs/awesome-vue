@@ -286,6 +286,7 @@
 - [vue-morris](https://github.com/bbonnin/vue-morris) - Vue component wrapping morris.js charts lib. By [@bbonnin](https://github.com/bbonnin).
 - [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
 - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
+- [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) - Simple File Upload component with upload progress, upload events for Vue.js. Supports Vue 2.x.
 
 ### Libraries & Plugins
 
