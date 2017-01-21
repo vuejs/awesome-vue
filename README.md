@@ -490,6 +490,7 @@
   - [tinymce-vue-2](https://github.com/mbouclas/tinymce-vue-2) TinyMCE for Vue 2
   - [v-qrcode](https://github.com/atwxp/v-qrcode) [![v-qrcode](https://img.shields.io/github/stars/atwxp/v-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atwxp/v-qrcode) : A QRCode Component for Vue 2
   - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git): thumbnail-slider is a simple slider for a list of images which can be used in photo albums likewise and has both row and column modes.
+  - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) Photonkit components for Vue 2
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
