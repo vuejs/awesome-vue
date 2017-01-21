@@ -356,7 +356,6 @@
 - #### UI Components
 
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
-  - [Vue Tag Editor Component ★24](https://github.com/hnakamur/vue.tag-editor.js) by @hnakamur
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
   - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/)
   - [Typed select component ★4](https://github.com/dgerber/vue-select-js) by @dgerber
