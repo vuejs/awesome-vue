@@ -287,6 +287,7 @@
 - [Framework7 Vue](http://framework7.io/vue/) - Build hybrid mobile apps with iOS & Android native look and feel with power of Vue.js and Framework7.
 - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
 - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) - Simple File Upload component with upload progress, upload events for Vue.js. Supports Vue 2.x.
+- [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) - Vue component for highlighting the differences between 2 images, based on ZURB's [TwentyTwenty](http://zurb.com/playground/twentytwenty) plugin. Supports Vue 2.x.
 
 ### Libraries & Plugins
 
