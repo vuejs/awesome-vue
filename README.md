@@ -288,6 +288,7 @@
 - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - Yet another "Toast" component. Supports both Vue 1.x and 2.x.
 - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) - Simple File Upload component with upload progress, upload events for Vue.js. Supports Vue 2.x.
 - [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) - Vue component for highlighting the differences between 2 images, based on ZURB's [TwentyTwenty](http://zurb.com/playground/twentytwenty) plugin. Supports Vue 2.x.
+- [Vue-Blu](https://github.com/chenz24/vue-blu) [![Vue-Blu](https://img.shields.io/github/stars/chenz24/vue-blu.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma. by [@chenz24](https://github.com/chenz24)
 
 ### Libraries & Plugins
 
