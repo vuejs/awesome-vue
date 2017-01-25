@@ -752,6 +752,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 ### Projects Using Vue.js
 
 - #### Open Source
+
   - [PageKit](http://pagekit.com/) <sup>[[Source]](https://github.com/pagekit/pagekit)</sup>
   - [p5.js editor](http://p5js.org/download/) <sup>[[Source]](https://github.com/processing/p5.js-editor)</sup>
   - [Python China](https://python-china.org) <sup>[[Source]](https://github.com/zerqu/qingcheng)</sup>
