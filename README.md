@@ -495,7 +495,7 @@
   - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) Photonkit components for Vue 2
   - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - Vue.js(v2.x+) component for creating pagination.
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) - Simple on/off switches with theme support for bulma, bootstrap, and custom themes.
-  
+
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -574,7 +574,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PLATO ★137](https://github.com/crossjs/plato) by @crossjs - A Vue 2.0 project boilerplate for SPAs use official vuex, vue-router, and lightweight i18n, validator, normalizr, persist, and also has some well designed mobile UI components
   - [electron-vue ★615](https://github.com/SimulatedGREG/electron-vue) by @SimulatedGREG - An Electron & Vue.js (2.0 & 1.0) quick start boilerplate with vue-cli functionality, common Vue plugins, electron-packager, unit/e2e testing, and webpack. <sup>gitbook docs</sup>
   - [browserify-complete ★5](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
-  - [**Modern Vue.js starter boilerplate ★95**](https://github.com/villeristi/vue.js-starter-template) - Vue 2, Vue Router 2, Axios, Single File Components, ES6, Babel, Webpack (with BrowserSync), ESLint, SASS (with autoprefixer), Bootstrap 4, FontAwesome, Animate.css & many more by [villeristi](https://github.com/villeristi)
+  - [**Modern Vue.js starter boilerplate ★101**](https://github.com/villeristi/vue.js-starter-template) - Vue 2, Vue Router 2, Axios, Single File Components, ES6, Babel, Webpack 2 (with BrowserSync), Webpack Dashboard, ESLint, SASS, Bootstrap 4, FontAwesome, Animate.css & many more by [villeristi](https://github.com/villeristi)
   - [**Boilerplate for Vue.js & LeanCloud  ★5**](https://github.com/jiangjiu/vue-leancloud-boilerplate) by [@jiangjiu](https://github.com/jiangjiu)
   - [vue-typescript-template](https://github.com/danielschmitz/vue-typescript-template) by @danielschmitz - A Vue.js + Typescript project template setup for quick prototyping, inspired by [vue-typescript-seed](https://github.com/itsFrank/vue-typescript-seed)  <sup>vue-cli compatible</sup>
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
@@ -601,8 +601,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
   - [Vue SSR Boilerplate](https://github.com/fenivana/vue-ssr-boilerplate) by [@fenivana](https://github.com/fenivana) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
   - [vue-boilerplate-v2 ![vue-boilerplate-v2](https://img.shields.io/github/stars/xlsdg/vue-boilerplate-v2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-boilerplate-v2): A Vue.js(2.x+) project boilerplate
-  
-  - [Vue all-in Typescript example ](https://github.com/Jack85/vuejs-typescript-template) by [@Jack85](https://github.com/Jack85) - All in bootstrap 4 frontend corporate vue typescript example with webpack, vuex, localstorage, datepicker, multiselect... 
+
+  - [Vue all-in Typescript example ](https://github.com/Jack85/vuejs-typescript-template) by [@Jack85](https://github.com/Jack85) - All in bootstrap 4 frontend corporate vue typescript example with webpack, vuex, localstorage, datepicker, multiselect...
 
 - #### Scaffolding
 
