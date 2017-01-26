@@ -258,7 +258,7 @@
 - [**quasar-framework :star:800**](https://github.com/rstoenescu/quasar-framework) SPA front-end framework on steroids. Endless list of components with Material and iOS themes. Build responsive websites and hybrid mobile Apps (that look native!) using same code, with Vue 2. Electron App included. With Webpack 2. By [@rstoenescu](https://github.com/rstoenescu) <sup>2.x compatible</sup>
 - [N3-components](https://github.com/N3-components/N3-components) - A UI library, by [@zhangking](https://github.com/zhangking) Websites & native mobile Apps. Full Stack Toolkit.
 - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload): A vue plugin for image to crop and upload  [@Vanthink-UED](https://github.com/Vanthink-UED)
-- [ElementUI](https://github.com/ElemeFE/element): Desktop UI elements for Vue.js 2.0  [@ElemeFE](https://github.com/ElemeFE)
+- [**ElementUI ★7,500**](https://github.com/ElemeFE/element): Desktop UI elements for Vue.js 2.0  [@ElemeFE](https://github.com/ElemeFE)
 - [vue-beauty](https://github.com/FE-Driver/vue-beauty): Beautiful UI components build with vue and ant design
 - [Radon UI](https://github.com/luojilab/radon-ui): A elegant, simple, and efficient UI framework
 - [vue-antd](https://github.com/okoala/vue-antd): Vue UI Component & Ant.Design
@@ -300,7 +300,7 @@
   - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
   - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
-  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991  
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991  
 
 - #### Ajax/Data
 
