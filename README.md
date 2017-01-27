@@ -604,6 +604,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-boilerplate-v2 ![vue-boilerplate-v2](https://img.shields.io/github/stars/xlsdg/vue-boilerplate-v2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/xlsdg/vue-boilerplate-v2): A Vue.js(2.x+) project boilerplate
 
   - [Vue all-in Typescript example ](https://github.com/Jack85/vuejs-typescript-template) by [@Jack85](https://github.com/Jack85) - All in bootstrap 4 frontend corporate vue typescript example with webpack, vuex, localstorage, datepicker, multiselect...
+  - [vue-mix ★5](https://github.com/cklmercer/vue-mix) by @cklmercer - Vue 2.0 SPA boilerplate with routing, global store, global events, and more. Uses laravel-mix.
 
 - #### Scaffolding
 
