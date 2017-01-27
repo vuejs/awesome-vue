@@ -334,7 +334,7 @@
   - [vuex-plugin-jsdata](http://github.com/AlexandreBonaventure/vuex-jsdata-plugin) - Sync state with js-data store (for Vuex 2.x).
   - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to create actions.
   - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
-  
+
 - #### Validation
 
   - [**vue-validator ★1137**](https://github.com/vuejs/vue-validator) - Form validation plugin maintained by @kazupon <sup>2.0 compatible</sup>
@@ -498,6 +498,7 @@
   - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - Vue.js(v2.x+) component for creating pagination.
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) - Simple on/off switches with theme support for bulma, bootstrap, and custom themes.
   - [vue-masked-input ![vue-masked-input](https://img.shields.io/github/stars/niksmr/vue-masked-input.svg?style=social&label=Star&maxAge=2592000)](https://niksmr.github.io/vue-masked-input/) - Simple masked input component for Vue.js 2.X.
+  - [vue-droppler](https://github.com/joearcher/vue-droppler) - Droppler is a Vue 2 component for creating fixed position "dropdown" content using drop.js.
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
