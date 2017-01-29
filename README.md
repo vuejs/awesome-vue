@@ -580,6 +580,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [browserify-complete ★5](https://github.com/danielschmitz/browserify-complete) by @danielschmitz - A Browserify + router + resource + vuex + bulma setup for quick prototyping <sup>vue-cli compatible</sup>
   - [**Modern Vue.js starter boilerplate ★101**](https://github.com/villeristi/vue.js-starter-template) - Vue 2, Vue Router 2, Axios, Single File Components, ES6, Babel, Webpack 2 (with BrowserSync), Webpack Dashboard, ESLint, SASS, Bootstrap 4, FontAwesome, Animate.css & many more by [villeristi](https://github.com/villeristi)
   - [**Boilerplate for Vue.js & LeanCloud  ★5**](https://github.com/jiangjiu/vue-leancloud-boilerplate) by [@jiangjiu](https://github.com/jiangjiu)
+  - [vue-share-components](https://github.com/Akryum/vue-share-components) by @Akryum - Perfect to publish and share your own components
   - [vue-typescript-template](https://github.com/danielschmitz/vue-typescript-template) by @danielschmitz - A Vue.js + Typescript project template setup for quick prototyping, inspired by [vue-typescript-seed](https://github.com/itsFrank/vue-typescript-seed)  <sup>vue-cli compatible</sup>
   - [Webpack template w/ Coffee](https://github.com/italomaia/webpack) Modified Vue-Cli webpack template for usage with coffee and python backends (aka: flask)
   - [vue-stack-2.0 ★139](https://github.com/cklmercer/vue-stack-2.0) by @cklmercer - Vue 2.0 project boilerplate with routing, global store, global events, and more.
