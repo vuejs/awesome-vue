@@ -444,7 +444,7 @@
   - [vue-resource-nprogress](https://github.com/imcvampire/vue-resource-nprogress) - A progressbar interceptors for vue-resource using `NProgress` by [@imcvampire](https://github.com/imcvampire)
   - [vue-datatable](https://github.com/galenyuan/vue-datatable) - A Datatable component for Vuejs, has all feature of jQuery Datatables by [@galenyuan](https://github.com/galenyuan)
   - [vue-tables-2](https://github.com/matfish2/vue-tables-2) Vue 2.0 Version of the `vue-tables` plugin
-  - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar
+  - [vue-radial-progress ★13](https://github.com/wyzant-dev/vue-radial-progress) Radial progress bar component for Vue 1.x and 2.x <sup>1.0 and 2.0 compatible</sup>
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
   - [vue-awesome-swiper ★236](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
   - [vue-touch-ripple ★46](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
