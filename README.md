@@ -334,6 +334,7 @@
   - [vuex-plugin-jsdata](http://github.com/AlexandreBonaventure/vuex-jsdata-plugin) - Sync state with js-data store (for Vuex 2.x).
   - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to create actions.
   - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
+  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share subset of application mutations accross different tabs/windows. Simpler, yet usually sufficient alternative to [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
 
 - #### Validation
 
