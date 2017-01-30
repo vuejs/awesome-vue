@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "list-outdated": "./bin/list_outdated.js"
+  },
+  "dependencies": {
+    "github": "^8.1.1",
+    "github-url-to-object": "2.2.6",
+    "lodash": "4.17.4"
+  }
+}
