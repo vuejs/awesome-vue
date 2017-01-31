@@ -177,6 +177,7 @@
 - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for Vue Component.
 - [vue-eslint-parser](https://github.com/mysticatea/vue-eslint-parser) - The ESLint custom parser for `.vue` files.
 - [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
+- [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue files).
 
 ### Syntax Highlighting
 
