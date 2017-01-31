@@ -500,6 +500,7 @@
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) - Simple on/off switches with theme support for bulma, bootstrap, and custom themes.
   - [vue-masked-input ![vue-masked-input](https://img.shields.io/github/stars/niksmr/vue-masked-input.svg?style=social&label=Star&maxAge=2592000)](https://niksmr.github.io/vue-masked-input/) - Simple masked input component for Vue.js 2.X.
   - [vue-droppler](https://github.com/joearcher/vue-droppler) - Droppler is a Vue 2 component for creating fixed position "dropdown" content using drop.js.
+  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A Vue.js server side component to create dynamic tables. Compatible with Vue 2.x and Laravel.
 
 - #### i18n
   - [**vue-i18n ★271**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0, 2.0-pre-alpha compatible</sup>
