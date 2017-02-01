@@ -302,7 +302,7 @@
   - [Vue route ★73](https://github.com/ayamflow/vue-route), ng-view inspired routes for Vue by @ayamflow
   - [**voie ★130**](https://github.com/inca/voie) — simple router / layout manager inspired by FSMs and ui-router by [Boris Okunskiy](https://github.com/inca)<sup>1.0</sup>
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
-  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991  
+  - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991
 
 - #### Ajax/Data
 
@@ -336,6 +336,7 @@
   - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to create actions.
   - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
   - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share subset of application mutations accross different tabs/windows. Simpler, yet usually sufficient alternative to [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
+  - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two o more components. By [@gocanto](https://github.com/gocanto)
 
 - #### Validation
 
