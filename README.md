@@ -334,7 +334,7 @@
   - [vue-sync](http://github.com/buhrmi/vue-sync) - Sync state with other places such as the browser URL or a backend api. directly, without using stores.
   - [vuex-plugin-jsdata](http://github.com/AlexandreBonaventure/vuex-jsdata-plugin) - Sync state with js-data store (for Vuex 2.x).
   - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to create actions.
-  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
+  - [vuex-basement ★4](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
   - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share subset of application mutations accross different tabs/windows. Simpler, yet usually sufficient alternative to [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
   - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two o more components. By [@gocanto](https://github.com/gocanto)
 
