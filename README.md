@@ -423,6 +423,7 @@
   - [vue-stroll ★8](https://github.com/xiaoluoboding/vue-stroll): An awesome CSS3 list scroll effects component for Vue.js. [@xiaoluoboding](https://github.com/xiaoluoboding)
   - [Vue.Draggable ★201](https://github.com/SortableJS/Vue.Draggable): Vue.js 2.0 component to drag-and-drop elements in synchronization with View-Model. Based on [Sortable.js](https://github.com/RubaXa/Sortable)
   - [vue-chart ★10](https://github.com/miaolz123/vue-chart): A Powerful and Highspeed Chart Parser for Vue. By [@miaolz123](https://github.com/miaolz123)
+  - [vue-carousel ★37](https://github.com/SSENSE/vue-carousel): A flexible, responsive, touch-friendly carousel for Vue.js By [@SSENSE](https://github.com/SSENSE)
   - [vue-m-carousel ★1](https://github.com/shiye515/vue-m-carousel): A carousel component for Vue. By [@shiye515](https://github.com/shiye515)
   - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel): A responsive carousel(namely slider or swiper) component for Vue.js v2.x+. By [@lsycxyj]
   - [Vue.Isotope ★7](https://github.com/David-Desmaisons/Vue.Isotope): Vue directive supporting [isotope](http://isotope.metafizzy.co/) layout filtering and sorting.
