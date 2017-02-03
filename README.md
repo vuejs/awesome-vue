@@ -741,6 +741,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-count](https://github.com/Monine/vue-count) a plugin of count for Vue.js
   - [vuexer](https://github.com/LancerComet/vuexer) A Vue 1.0 plugin that simplifies vuex handling. It's useful when your components are used in different vue projects. By [@lancercomet](https://github.com/lancercomet)
   - [vue-default-value](https://github.com/termosa/vue-default-value) A Vue.js Directive to set a default value for editable elements with no affect to the model state.
+  - [vue-scrollTo](https://github.com/rigor789/vue-scrollTo) A Vue.js directive that can scroll to elements on the page (with offest and easing, no jQuery required)
 
 - #### SEO
 
