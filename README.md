@@ -177,7 +177,10 @@
 - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for Vue Component.
 - [vue-eslint-parser](https://github.com/mysticatea/vue-eslint-parser) - The ESLint custom parser for `.vue` files.
 - [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
-- [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue files).
+- [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
+- **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
+
+  Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
 
 ### Syntax Highlighting
 
