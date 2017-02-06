@@ -1368,6 +1368,15 @@
      &#9733 26, pushed 1 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/njleonzhang/vue-data-tables">
+     vue-data-tables
+    </a>
+    : Vue2.0 datatables, based on element-ui, el-table + el-pagination + filter + sort
+    <sup>
+     &#9733 11, pushed 0 days ago
+    </sup>
+   </li>
   </ul>
  </li>
  <li>
