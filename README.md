@@ -296,6 +296,7 @@
 - [Vue-Blu](https://github.com/chenz24/vue-blu) [![Vue-Blu](https://img.shields.io/github/stars/chenz24/vue-blu.svg?style=social&label=Star&maxAge=2592000)](https://github.com/chenz24/vue-blu) - UI Component Library Base on Vue.js(2.x) and Bulma. by [@chenz24](https://github.com/chenz24)
 - [:hotsprings: **Onsen UI for Vue 2**](https://onsen.io/vue) [![Onsen UI](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OnsenUI/OnsenUI) - Complete set of Vue.js 2.x components to create hybrid & mobile web apps with iOS & Android native look and feel. Write code once and get it autostyled for each platform.
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui, el-table + el-pagination + custom filter and sort. by [@njleonzhang](https://github.com/njleonzhang/)
+- [vue-impress](https://github.com/superwf/vue-impress) - Inspired by [impress.js](https://github.com/impress/impress.js). Supports Vue 2.x. [demo](http://superwf.github.io/vue-impress-demo.html)
 
 ### Libraries & Plugins
 
