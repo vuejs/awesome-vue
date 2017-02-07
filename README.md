@@ -176,7 +176,7 @@
 - [**nuxt.js ★1,012**](https://github.com/nuxt/nuxt.js) - A minimalistic framework for server-rendered Vue.js applications.
 - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for Vue Component.
 - [vue-eslint-parser](https://github.com/mysticatea/vue-eslint-parser) - The ESLint custom parser for `.vue` files.
-- [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
+- [vue-styleguide-generator ★19](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
 - [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
 - **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
 
@@ -502,7 +502,7 @@
   - [vue-places](https://github.com/Gomah/vue-places) Vue 2.x component based on [places.js](https://github.com/algolia/places).
   - [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) Vue.js component to visualize password strength.
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
-  - [vue-audio](https://github.com/shershen08/vuejs-sound-player) Vue.js sound audio player UI. Covers audio-tag API and adds more. By @shershen08
+  - [vue-audio ★9](https://github.com/shershen08/vuejs-sound-player) Vue.js sound audio player UI. Covers audio-tag API and adds more. By @shershen08
   - [tinymce-vue-2](https://github.com/mbouclas/tinymce-vue-2) TinyMCE for Vue 2
   - [v-qrcode](https://github.com/atwxp/v-qrcode) [![v-qrcode](https://img.shields.io/github/stars/atwxp/v-qrcode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/atwxp/v-qrcode) : A QRCode Component for Vue 2
   - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git): thumbnail-slider is a simple slider for a list of images which can be used in photo albums likewise and has both row and column modes.
@@ -515,6 +515,7 @@
   - [vue-flatpickr](https://github.com/jrainlau/vue-flatpickr) - A datepicker based on flatpickr.
   - [vue-popper-component ★6](https://github.com/antongorodezkiy/vue-popper-component) - Simple Vue.js (v1) component for [Popper.js](https://popper.js.org/) plugin.
   - [vue-simplemde ★17](https://github.com/F-loat/vue-simplemde) - Markdown Editor component for Vue.js(v2) based on [simplemde](https://github.com/NextStepWebs/simplemde-markdown-editor).
+  - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) - Vue 2 directive for masonry blocks layouting
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
