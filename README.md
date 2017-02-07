@@ -752,7 +752,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-default-value](https://github.com/termosa/vue-default-value) A Vue.js Directive to set a default value for editable elements with no affect to the model state.
   - [vue-scrollTo](https://github.com/rigor789/vue-scrollTo) A Vue.js directive that can scroll to elements on the page (with offest and easing, no jQuery required)
   - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
-
+  - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll): keep element scrolled to the bottom (for Vuejs 2)
+  
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
