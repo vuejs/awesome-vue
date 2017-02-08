@@ -516,6 +516,7 @@
   - [vue-popper-component ★6](https://github.com/antongorodezkiy/vue-popper-component) - Simple Vue.js (v1) component for [Popper.js](https://popper.js.org/) plugin.
   - [vue-simplemde ★17](https://github.com/F-loat/vue-simplemde) - Markdown Editor component for Vue.js(v2) based on [simplemde](https://github.com/NextStepWebs/simplemde-markdown-editor).
   - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) - Vue 2 directive for masonry blocks layouting
+  - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) - Rich Grid with full Vue Component support
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
