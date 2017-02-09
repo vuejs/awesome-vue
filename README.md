@@ -155,7 +155,6 @@
 - [**vue-loader ★643**](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
 - [**vueify ★494**](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
 - [**vue-devtools ★934**](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
-- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications. 
 - [grunt-vueify ★2](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
 - [vue-compiler ★2](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
@@ -180,6 +179,7 @@
 - [vue-styleguide-generator ★19](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
 - [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
 - **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
+- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications. 
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
 
