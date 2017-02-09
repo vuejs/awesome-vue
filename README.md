@@ -24,6 +24,7 @@
   - [Routing](#routing)
   - [Ajax/Data](#ajaxdata)
   - [State Management](#state-management)
+  - [Event Management](#event-management)
   - [Validation](#validation)
   - [UI Components](#ui-components)
   - [i18n](#i18n)
@@ -344,8 +345,11 @@
   - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to create actions.
   - [vuex-basement ★4](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
   - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share subset of application mutations accross different tabs/windows. Simpler, yet usually sufficient alternative to [vuex-basement](https://github.com/RashadSaleh/vuex-basement)
-  - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two o more components. By [@gocanto](https://github.com/gocanto)
   - [vuex-redux-saga](https://github.com/xanf/vuex-redux-saga) - Use all powers of [redux-saga](https://redux-saga.github.io/redux-saga/) with vuex. Build asynchronyous data flows with generators and channels
+  
+- #### Event Management
+  - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two or more components. By [@gocanto](https://github.com/gocanto)
+  - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Simple plugin to manage your custom events in the application. <sup>Compatible with Vue 1 and Vue 2</sup> By [Sandeep K](https://github.com/sandeepk01)
 
 - #### Validation
 
