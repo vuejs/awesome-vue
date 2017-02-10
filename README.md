@@ -379,6 +379,7 @@
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
   - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/)
   - [Typed select component ★4](https://github.com/dgerber/vue-select-js) by @dgerber
+  - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
   - [vue-select ★59](https://github.com/Haixing-Hu/vue-select): A Vue.js component implementing the select control with the [jQuery select2 plugin](https://github.com/select2/select2).  By @Haixing-Hu
   - [vue-html-editor ★97](https://github.com/Haixing-Hu/vue-html-editor): A Vue.js component implementing the HTML editor with the [jQuery summernote plugin](https://github.com/summernote/summernote). By @Haixing-Hu
   - [vue-datetime-picker ★92](https://github.com/Haixing-Hu/vue-datetime-picker): A Vue.js component implementing the datetime picker control using the [Eonasdan's bootstrap datetime picker plugin](https://github.com/Eonasdan/bootstrap-datetimepicker). By @Haixing-Hu
