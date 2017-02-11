@@ -764,6 +764,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-chat-scroll](https://github.com/theomessin/vue-chat-scroll): keep element scrolled to the bottom (for Vuejs 2)
   - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show given elements with the Bootstrap 4 / 3 or self defined breakpoints.
   - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
+  - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
   
 - #### SEO
 
@@ -914,6 +915,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue.js Calendar](http://vuejs-calendar.getjsdojo.com) - A calendar app built with Vue.js, Vuex and server-side rendering
   - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio
   - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS &amp; Bitly API
+  - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
 
 - #### Interactive Experiences
 
