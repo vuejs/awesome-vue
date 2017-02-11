@@ -473,7 +473,7 @@
   - [vue-slick](https://github.com/staskjs/vue-slick) Vue 2.0 component for [this Slick-carousel](http://kenwheeler.github.io/slick) By [@staskjs](https://github.com/staskjs)
   - [vue-mugen-scroll ★90](https://github.com/egoist/vue-mugen-scroll) Infinite scroll component for Vue.js 2.0
   - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) Virtual keyboard component for Vue.js. Designed to Raspberry Pi Touch Display
-  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) [![GitHub stars](https://img.shields.io/github/stars/nicolasbeauvais/vue-social-sharing.svg?style=social&label=Star&maxAge=2592000)]() : A Vue.js component for sharing links to social networks, work with Vue 1.X or 2.X.
+  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing): A Vue.js component for sharing links to social networks, work with Vue 1.X or 2.X.
   - [vue-shortkey](https://github.com/iFgR/vue-shortkey) Apply shortcuts to your elements in a simple way.
   - [vue-pull-refresh-and-load-more](https://github.com/uniquezhuo/vue-pull-to-refresh-and-load-more) a scroll component with function of pull up refresh and pull down load more for Vue. By <a href="https://github.com/uniquezhuo">uniquezhuo</a>.
   - [side-effect](https://github.com/egoist/side-effect): Create Vue components with global side effects
@@ -522,7 +522,8 @@
   - [vue-simplemde ★17](https://github.com/F-loat/vue-simplemde) - Markdown Editor component for Vue.js(v2) based on [simplemde](https://github.com/NextStepWebs/simplemde-markdown-editor).
   - [vue-masonry ★9](https://github.com/shershen08/vue-masonry) - Vue 2 directive for masonry blocks layouting
   - [ag-grid-vue](https://github.com/ceolter/ag-grid-vue) - Rich Grid with full Vue Component support
-
+  - [vue-add-to-calendar](https://github.com/nicolasbeauvais/vue-add-to-calendar): A Vue.js component that provides "Add to Calendar" functionality, work with Vue 2.X.
+  
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
