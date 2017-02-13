@@ -156,6 +156,7 @@
 - [**vue-loader ★643**](https://github.com/vuejs/vue-loader) - Vue component loader for Webpack.
 - [**vueify ★494**](https://github.com/vuejs/vueify) - Vue component transform for Browserify.
 - [**vue-devtools ★934**](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue applications.
+- [vue-build ★4](http://vue-build.com) - Simple templateless customizable cli for building any size vue application.
 - [grunt-vueify ★2](https://github.com/SkewedAspect/grunt-vueify) - Translate `.vue` files to pure JavaScript, without using Browserify. (Useful for Electron apps)
 - [vue-compiler ★2](https://github.com/paulpflug/vue-compiler) - A simple CLI wrapper around vueify
 - [vue-autocompile](https://atom.io/packages/vue-autocompile) - Atom.io package to compile `.vue` files on save.
