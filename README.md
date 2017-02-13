@@ -372,6 +372,7 @@
   - [vue-contextable](https://github.com/xpepermint/vue-contextable): [Contextable.js](https://github.com/xpepermint/contextablejs) plugin for Vue.js 2.0. Form validation has never been easier!
   - [**vuelidate ★43**](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js by @monterail <sup>2.0 compatible</sup>
   - [**simple-vue-validator ★17**](https://github.com/semisleep/simple-vue-validator) - Simple, yet flexible solution aimed to support both basic and complex validation scenarios <sup>2.0 compatible</sup>
+  - [vue-vform](https://github.com/joseluisq/vue-vform) - [Vue.js 2](https://vuejs.org/) form component that integrate [jQuery Validation](https://github.com/jquery-validation/jquery-validation) and [Axios](https://github.com/mzabriskie/axios).
 
 - #### UI Components
 
