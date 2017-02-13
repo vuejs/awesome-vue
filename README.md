@@ -767,6 +767,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show given elements with the Bootstrap 4 / 3 or self defined breakpoints.
   - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
+  - [vue-qart ](https://github.com/superman66/vue-qart): The directive of Vue 2.0 for qart.js which can generate pretty qrcode by img.
   
 - #### SEO
 
