@@ -16,6 +16,7 @@
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
+- [Testing](#testing)
 - [Syntax Highlighting](#syntax-highlighting)
 - [Snippets](#snippets)
 - [Autocomplete](#autocomplete)
@@ -180,9 +181,18 @@
 - [vue-styleguide-generator ★19](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
 - [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
 - **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
+<<<<<<< HEAD
 - [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications.
+=======
+- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications. 
+- [vue-build ★9](http://vue-build.com) - Simple templateless customizable cli for building any size vue application.
+>>>>>>> dabc7b7cb2fda33f30a38c63a86762f986a35bf3
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
+
+### Testing
+
+- [vue-node](https://github.com/knpwrs/vue-node) - Allows you to `require` `.vue` components in node for testing without browsers.
 
 ### Syntax Highlighting
 
@@ -599,7 +609,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp). by [CaiYiLiang](https://github.com/CaiYiLiang)
   - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) ![Vue2.x-douban](https://img.shields.io/github/stars/superman66/vue2.x-douban.svg?style=social&label=Star&maxAge=2592000) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
   - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) ![vue-laravel-example](https://img.shields.io/github/stars/jcc/vue-laravel-example.svg?style=social&label=Star&maxAge=2592000) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
-
+  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template 
+  
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
@@ -770,7 +781,12 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
   - [vue-qart ](https://github.com/superman66/vue-qart): The directive of Vue 2.0 for qart.js which can generate pretty qrcode by img.
+<<<<<<< HEAD
 
+=======
+  - [Vue-Interval](https://github.com/reinerBa/Vue-Interval): Vue.js(2.x) mixin to create components with countdown or clock, define methods that will be called in a specified interval, to dynamically start, suspend, resume and delete intervals that can have a livespan and callback.
+  
+>>>>>>> dabc7b7cb2fda33f30a38c63a86762f986a35bf3
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
@@ -921,6 +937,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio
   - [Shorten Urls with bitly API](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS &amp; Bitly API
   - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
+  - [WizzAir](https://wizzair.com/)
 
 - #### Interactive Experiences
 
