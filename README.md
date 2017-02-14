@@ -16,6 +16,7 @@
 - [Official Examples](#official-examples)
 - [Tutorials](#tutorials)
 - [Development Tools](#development-tools)
+- [Testing](#testing)
 - [Syntax Highlighting](#syntax-highlighting)
 - [Snippets](#snippets)
 - [Autocomplete](#autocomplete)
@@ -184,6 +185,10 @@
 - [vue-build ★9](http://vue-build.com) - Simple templateless customizable cli for building any size vue application.
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
+
+### Testing
+
+- [vue-node](https://github.com/knpwrs/vue-node) - Allows you to `require` `.vue` components in node for testing without browsers.
 
 ### Syntax Highlighting
 
