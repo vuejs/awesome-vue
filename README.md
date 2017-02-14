@@ -215,7 +215,6 @@
 ### Component Collections
 
 - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
-  - [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding.
 - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
 - [Extra Vuestrap components](http://gritcode.github.io/gritcode-components/#/toast), more components built with just B4 and Vue.js, by @kzima <sup>1.0</sup>
@@ -300,6 +299,7 @@
 - [:hotsprings: **Onsen UI for Vue 2**](https://onsen.io/vue) [![Onsen UI](https://img.shields.io/github/stars/OnsenUI/OnsenUI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OnsenUI/OnsenUI) - Complete set of Vue.js 2.x components to create hybrid & mobile web apps with iOS & Android native look and feel. Write code once and get it autostyled for each platform.
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui, el-table + el-pagination + custom filter and sort. by [@njleonzhang](https://github.com/njleonzhang/)
 - [vue-impress](https://github.com/superwf/vue-impress) - Inspired by [impress.js](https://github.com/impress/impress.js). Supports Vue 2.x. [demo](http://superwf.github.io/vue-impress-demo.html)
+- [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding.
 
 ### Libraries & Plugins
 
