@@ -194,6 +194,7 @@
 
 - [vue-node](https://github.com/knpwrs/vue-node) - Allows you to `require` `.vue` components in node for testing without browsers.
 - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A utility library to make testing your components easy.
+- [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - Load `.vue` files directly from your html/js. No node.js environment, no build step.
 
 ### Syntax Highlighting
 
