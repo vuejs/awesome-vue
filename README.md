@@ -193,6 +193,7 @@
 ### Testing
 
 - [vue-node](https://github.com/knpwrs/vue-node) - Allows you to `require` `.vue` components in node for testing without browsers.
+- [avoriaz](https://github.com/eddyerburgh/avoriaz) - A utility library to make testing your components easy.
 
 ### Syntax Highlighting
 
