@@ -780,12 +780,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [awesome-mask ★24](https://github.com/moip/awesome-mask): The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks: [Examples](https://moip.github.io/awesome-examples/)
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
   - [vue-qart ](https://github.com/superman66/vue-qart): The directive of Vue 2.0 for qart.js which can generate pretty qrcode by img.
-<<<<<<< HEAD
-
-=======
   - [Vue-Interval](https://github.com/reinerBa/Vue-Interval): Vue.js(2.x) mixin to create components with countdown or clock, define methods that will be called in a specified interval, to dynamically start, suspend, resume and delete intervals that can have a livespan and callback.
-  
->>>>>>> dabc7b7cb2fda33f30a38c63a86762f986a35bf3
+
 - #### SEO
 
   - [vue-head ★97](https://github.com/ktquez/vue-head) - Manager the meta information of the head tag, a simple and easy way
