@@ -538,6 +538,7 @@
   - [vue-qriously](https://github.com/theomessin/vue-qriously) - Generate QR codes on HTML canvas easily using qrious <sup>2.x compatible</sup>
   - [survey.js](https://github.com/surveyjs/surveyjs): JavaScript full featured JSON based Survey library with vue implementation
   - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) Progressive image loading plugin for Vue
+  - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map): 基于Vue.js(v1)的百度地图组件
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
