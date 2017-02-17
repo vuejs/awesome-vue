@@ -68,6 +68,7 @@
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
 - [vue-requests ★27](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+- [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 
 ### Podcasts
 
