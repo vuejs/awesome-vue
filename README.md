@@ -185,6 +185,7 @@
 - [vue-build ★9](http://vue-build.com) - Simple templateless customizable cli for building any size vue application.
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
+- [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) - Vue.js server-side renderer for *.vue file based on vue-server-renderer
 
 ### Testing
 
