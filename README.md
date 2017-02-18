@@ -68,6 +68,7 @@
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
 - [vue-requests ★27](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+- [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 
 ### Podcasts
 
@@ -539,6 +540,7 @@
   - [survey.js](https://github.com/surveyjs/surveyjs): JavaScript full featured JSON based Survey library with vue implementation
   - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) Progressive image loading plugin for Vue
   - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map): 基于Vue.js(v1)的百度地图组件
+  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d): Beautiful, flexible and touch-friendly 3D Carousel for Vue.js 
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
@@ -787,6 +789,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [storyblok-vue](https://github.com/storyblok/storyblok-vue): Make any element editable with the Vue Storyblok directive. Just add `v-editable="content"` to a html element.
   - [vue-qart ](https://github.com/superman66/vue-qart): The directive of Vue 2.0 for qart.js which can generate pretty qrcode by img.
   - [Vue-Interval](https://github.com/reinerBa/Vue-Interval): Vue.js(2.x) mixin to create components with countdown or clock, define methods that will be called in a specified interval, to dynamically start, suspend, resume and delete intervals that can have a livespan and callback.
+  - [Vuedeux](https://github.com/Vuedeux/vuedeux): a lightweight, open-source utility layer for binding Vuex to Redux allowing developers to efficiently use their Redux stores within Vue/Vuex applications.
   - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids): A Vue.js(2.x) plugin that helps to use id-related attributes with no side-effect
 
 - #### SEO
@@ -941,6 +944,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS, also [open source](https://github.com/MovingToHTTPS/movingtohttps.com).
+  - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
 
 - #### Interactive Experiences
 
