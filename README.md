@@ -541,6 +541,7 @@
   - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) Progressive image loading plugin for Vue
   - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map): 基于Vue.js(v1)的百度地图组件
   - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d): Beautiful, flexible and touch-friendly 3D Carousel for Vue.js 
+  - [vue-context-menu ★13](https://github.com/vmaimone/vue-context-menu): Vue plugin for right click context menu
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
