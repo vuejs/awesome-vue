@@ -38,6 +38,7 @@
   - [TypeScript](#typescript)
   - [Analytics](#analytics)
   - [Advertising](#advertising)
+  - [Utility](#utility)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -310,7 +311,6 @@
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui, el-table + el-pagination + custom filter and sort. by [@njleonzhang](https://github.com/njleonzhang/)
 - [vue-impress](https://github.com/superwf/vue-impress) - Inspired by [impress.js](https://github.com/impress/impress.js). Supports Vue 2.x. [demo](http://superwf.github.io/vue-impress-demo.html)
 - [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding.
-- [vue-decorators ★1](https://github.com/partyka95/vue-decorators): Decorators for Vue and Vuex [@partyka95](https://github.com/partyka95)
 
 ### Libraries & Plugins
 
@@ -567,6 +567,9 @@
 
 - #### Advertising
   - [**vue-adsense [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-adsense.svg?style=social&label=Star)](https://github.com/darrynten/vue-adsense)**](https://github.com/darrynten/vue-adsense): Google Adsense implementation for Vue.JS 2+
+
+- #### Utility
+  - [vue-decorators ★1](https://github.com/partyka95/vue-decorators): Decorators for Vue and Vuex [@partyka95](https://github.com/partyka95)
 
 - #### Examples
 
