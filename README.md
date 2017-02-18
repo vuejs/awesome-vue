@@ -943,6 +943,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS, also [open source](https://github.com/MovingToHTTPS/movingtohttps.com).
+  - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
 
 - #### Interactive Experiences
 
