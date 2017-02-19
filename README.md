@@ -38,6 +38,7 @@
   - [TypeScript](#typescript)
   - [Analytics](#analytics)
   - [Advertising](#advertising)
+  - [Utility](#utility)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Apps/Websites](#appswebsites)
@@ -567,6 +568,9 @@
 
 - #### Advertising
   - [**vue-adsense [![GitHub stars](https://img.shields.io/github/stars/darrynten/vue-adsense.svg?style=social&label=Star)](https://github.com/darrynten/vue-adsense)**](https://github.com/darrynten/vue-adsense): Google Adsense implementation for Vue.JS 2+
+
+- #### Utility
+  - [vue-decorators ★1](https://github.com/partyka95/vue-decorators): Decorators for Vue and Vuex [@partyka95](https://github.com/partyka95)
 
 - #### Examples
 
