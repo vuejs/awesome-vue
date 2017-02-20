@@ -953,7 +953,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS, also [open source](https://github.com/MovingToHTTPS/movingtohttps.com).
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
-
+  - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) - A collaborative writing game.
+  
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
