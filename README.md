@@ -526,7 +526,6 @@
   - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
   - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
 
-
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
 
