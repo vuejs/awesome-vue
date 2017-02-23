@@ -44,6 +44,7 @@
   - [Apps/Websites](#appswebsites)
   - [Interactive Experiences](#interactive-experiences)
   - [Enterprise Usage](#enterprise-usage)
+- [Books](#books)
 
 ### Official Resources
 
@@ -1000,6 +1001,11 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Clemenger BBDO Melbourne](http://clemengerbbdo.com.au)
   - [ZenMate](https://zenmate.com)
   - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
+
+### Books
+
+- [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
+- [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
 
 ## License
 
