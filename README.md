@@ -185,7 +185,7 @@
 - [vue-styleguide-generator ★19](https://github.com/shershen08/vue-styleguide-generator) - Style guide generator for Vue. Generate preview html page with components details out of your source folder
 - [vuegister](https://github.com/iatsiuk/vuegister) - A require hook for loading of the Vue.js single-file components (or *.vue* files).
 - **[App Framework](https://github.com/scriptPilot/app-framework)** [![NPM Downloads](https://img.shields.io/npm/dt/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![Latest Stable Version](https://img.shields.io/npm/v/app-framework.svg)](https://www.npmjs.com/package/app-framework) [![License](https://img.shields.io/npm/l/app-framework.svg)](https://www.npmjs.com/package/app-framework)
-- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications. 
+- [**DejaVue**](https://github.com/MiCottOn/DejaVue) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/MiCottOn/DejaVue) - Chrome devtools extension for visualizing and debugging Vue applications.
 - [vue-build ★9](http://vue-build.com) - Simple templateless customizable cli for building any size vue application.
 
   Does all the tricky stuff for you to develop, test, build and deploy iOS and Android like web applications.
@@ -545,10 +545,11 @@
   - [survey.js](https://github.com/surveyjs/surveyjs): JavaScript full featured JSON based Survey library with vue implementation
   - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) Progressive image loading plugin for Vue
   - [vue-baidu-map](https://github.com/XingzheFE/vue-baidu-map): 基于Vue.js(v1)的百度地图组件
-  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d): Beautiful, flexible and touch-friendly 3D Carousel for Vue.js 
+  - [vue-carousel-3d](https://github.com/wlada/vue-carousel-3d): Beautiful, flexible and touch-friendly 3D Carousel for Vue.js
   - [vue-context-menu ★13](https://github.com/vmaimone/vue-context-menu): Vue plugin for right click context menu
   - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view): A JSON Tree View (for Vue 2.x)
   - [vue-fraction-grid](https://github.com/bkzl/vue-fraction-grid) - Flexbox based responsive fraction grid system for Vue.js (2.x)
+  - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) A pull down refresh component implement by vue 2.0 [@lakb248](https://github.com/lakb248)
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
@@ -628,8 +629,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp). by [CaiYiLiang](https://github.com/CaiYiLiang)
   - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) ![Vue2.x-douban](https://img.shields.io/github/stars/superman66/vue2.x-douban.svg?style=social&label=Star&maxAge=2592000) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
   - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) ![vue-laravel-example](https://img.shields.io/github/stars/jcc/vue-laravel-example.svg?style=social&label=Star&maxAge=2592000) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
-  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template 
-  
+  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template
+
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
