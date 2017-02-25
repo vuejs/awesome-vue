@@ -316,6 +316,7 @@
 - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) [![vue-data-tables](https://img.shields.io/github/stars/njleonzhang/vue-data-tables.svg?style=social&label=Star&maxAge=2592000)](https://github.com/njleonzhang/vue-data-tables) - vue2.0 DataTables, based on element-ui, el-table + el-pagination + custom filter and sort. by [@njleonzhang](https://github.com/njleonzhang/)
 - [vue-impress](https://github.com/superwf/vue-impress) - Inspired by [impress.js](https://github.com/impress/impress.js). Supports Vue 2.x. [demo](http://superwf.github.io/vue-impress-demo.html)
 - [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding.
+- [vue-chalkboard](https://github.com/filipemeneses/vue-chalkboard) - A native Vue.js component that provides a simple canvas chalkboard. By [@filipemeneses](https://github.com/filipemeneses). [Demo](http://blog.filipemeneses.com.br/vue-chalkboard/) <sup>2.x compatible</sup>
 
 ### Libraries & Plugins
 
@@ -809,7 +810,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuedeux](https://github.com/Vuedeux/vuedeux): a lightweight, open-source utility layer for binding Vuex to Redux allowing developers to efficiently use their Redux stores within Vue/Vuex applications.
   - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids): A Vue.js(2.x) plugin that helps to use id-related attributes with no side-effect
   - [@kashio/vue-toast](https://github.com/Kashio/vue-toast) Vue.js toast plugin.
-  - [vue-ls](https://github.com/RobinCK/vue-ls) Vue plugin for work with LocalStorage from Vue context. Support watch changes. 
+  - [vue-ls](https://github.com/RobinCK/vue-ls) Vue plugin for work with LocalStorage from Vue context. Support watch changes.
 
 - #### SEO
 
