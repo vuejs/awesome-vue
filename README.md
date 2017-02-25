@@ -807,6 +807,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuedeux](https://github.com/Vuedeux/vuedeux): a lightweight, open-source utility layer for binding Vuex to Redux allowing developers to efficiently use their Redux stores within Vue/Vuex applications.
   - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids): A Vue.js(2.x) plugin that helps to use id-related attributes with no side-effect
   - [@kashio/vue-toast](https://github.com/Kashio/vue-toast) Vue.js toast plugin.
+  - [vue-ls](https://github.com/RobinCK/vue-ls) Vue plugin for work with LocalStorage from Vue context. Support watch changes. 
 
 - #### SEO
 
