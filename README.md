@@ -553,6 +553,7 @@
   - [vue-carousel ★54](https://github.com/SSENSE/vue-carousel): A flexible, responsive, touch-friendly carousel for Vue.js By [@SSENSE](https://github.com/SSENSE)
   - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) A pull down refresh component implement by vue 2.0 [@lakb248](https://github.com/lakb248)
   - [vue-ip-input](https://github.com/lakb248/vue-ip-input) A ip input implements by vuejs [@lakb248](https://github.com/lakb248)
+  - [vue-float-label](https://github.com/bkzl/vue-float-label) - Float label pattern for Vue.js (2.x)
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
