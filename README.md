@@ -534,6 +534,7 @@
   - [thumbnail-slider](https://github.com/katik/thumbnail-slider.git): thumbnail-slider is a simple slider for a list of images which can be used in photo albums likewise and has both row and column modes.
   - [vue-photonkit](https://github.com/kaorun343/vue-photonkit) Photonkit components for Vue 2
   - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - Vue.js(v2.x+) component for creating pagination.
+  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Vue.js(v2.x+) component for creating pagination highly customizable. Inspired in Angular uib Pagination.
   - [vue-switches](https://github.com/drewjbartlett/vue-switches) - Simple on/off switches with theme support for bulma, bootstrap, and custom themes.
   - [vue-masked-input ![vue-masked-input](https://img.shields.io/github/stars/niksmr/vue-masked-input.svg?style=social&label=Star&maxAge=2592000)](https://niksmr.github.io/vue-masked-input/) - Simple masked input component for Vue.js 2.X.
   - [vue-droppler](https://github.com/joearcher/vue-droppler) - Droppler is a Vue 2 component for creating fixed position "dropdown" content using drop.js.
