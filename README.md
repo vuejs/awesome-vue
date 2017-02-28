@@ -348,6 +348,7 @@
   - [vue-remote](https://github.com/MacArthurJustin/vue-remote) - A websocket based remote event system for ease of building dynamic applications, based on Vue's event system.
   - [vue-instagram](https://github.com/kevinongko/vue-instagram) - Vue 2.0 Fetch Instagram's feeds component. By [@kevinongko](https://github.com/kevinongko).
   - [vue-wamp](https://github.com/lajosbencz/vue-wamp) - AutobahnJS wrapper served as a plugin. By [@lajosbencz](https://github.com/lajosbencz)
+  - [vue-apollo](https://github.com/Akryum/vue-apollo) A small library for fetching data via Apollo / GraphQL in Vue (1.x and 2.x) by @Akryum
 
 - #### State Management
 
