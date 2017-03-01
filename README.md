@@ -318,6 +318,10 @@
 - [VueStrap + Bootstrap 3 SASS integration guide](https://github.com/pmsaue0/vuejs-bootstrap3), Sample app with sensible SASS architecture and Bootstrap overriding.
 - [vue-chalkboard](https://github.com/filipemeneses/vue-chalkboard) - A native Vue.js component that provides a simple canvas chalkboard. By [@filipemeneses](https://github.com/filipemeneses). [Demo](http://blog.filipemeneses.com.br/vue-chalkboard/) <sup>2.x compatible</sup>
 - [CoreUI](http://coreui.io), Open Source Vue.js Admin Template by [@mrholek](https://github.com/mrholek) <sup>2.x compatible</sup>
+- [ATUI](http://aliqin.github.io/), vue components for desktop by [@aliqin](https://github.com/aliqin/) fe team <sup>2.0</sup>
+
+
+
 ### Libraries & Plugins
 
 - #### Routing
