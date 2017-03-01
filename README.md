@@ -563,6 +563,8 @@
   - [vue-ip-input](https://github.com/lakb248/vue-ip-input) A ip input implements by vuejs [@lakb248](https://github.com/lakb248)
   - [vue-float-label](https://github.com/bkzl/vue-float-label) - Float label pattern for Vue.js (2.x)
   - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Vue.js(v2.x+) component for creating pagination highly customizable. Inspired in Angular uib Pagination.
+  - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) - 基于Vue2的好看的图片输入框 By [Waynecz](https://github.com/waynecz)
+  
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
