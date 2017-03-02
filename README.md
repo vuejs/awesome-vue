@@ -566,6 +566,7 @@
   - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Vue.js(v2.x+) component for creating pagination highly customizable. Inspired in Angular uib Pagination.
   - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) - 基于Vue2的好看的图片输入框 By [Waynecz](https://github.com/waynecz)
   - [vue-laypage](https://github.com/sinchang/vue-laypage) - A simple pagination component for Vue.js, Based on [layPage](http://laypage.layui.com/). By [@sinchang](https://github.com/sinchang)
+  - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) - [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for Vue. By [@gluons](https://github.com/gluons)
   
 
 - #### i18n
