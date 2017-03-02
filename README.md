@@ -898,6 +898,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [VueCompomnentGenerator](https://changjoo-park.github.io/vue-component-generator/) Generate vue single file component on browser
   - [SDR News](https://news.superdevresources.com/) <sup>[[Source]](https://github.com/super-dev/SDR-News)</sup> -  News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs)
   - [**PJ Blog** ![PJ Blog](https://img.shields.io/github/stars/jcc/blog.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/blog): PJ Blog is an open source blog built with Laravel and Vue.js by [Jiajian Chan](https://github.com/jcc)
+  - [**Lulumi-browser** ![Lulumi-browser](https://img.shields.io/github/stars/qazbnm456/lulumi-browser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/qazbnm456/lulumi-browser): Lulumi-browser is a light weight browser coded with vue and electron
 - #### Commercial Products
 
   - [Wijmo](http://wijmo.com/products/wijmo-5/): A collection of [UI controls with VueJS support](http://demos.wijmo.com/5/Vue/Interop/Interop/).
