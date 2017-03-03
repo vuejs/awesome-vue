@@ -320,6 +320,7 @@
 - [vue-chalkboard](https://github.com/filipemeneses/vue-chalkboard) - A native Vue.js component that provides a simple canvas chalkboard. By [@filipemeneses](https://github.com/filipemeneses). [Demo](http://blog.filipemeneses.com.br/vue-chalkboard/) <sup>2.x compatible</sup>
 - [CoreUI](http://coreui.io), Open Source Vue.js Admin Template by [@mrholek](https://github.com/mrholek) <sup>2.x compatible</sup>
 - [ATUI](http://aliqin.github.io/), vue components for desktop by [@aliqin](https://github.com/aliqin/) fe team <sup>2.0</sup>
+- [vue-collapse](https://github.com/cezardasilva/vue-collapse): A simple collapse component for Vue.js 2.X By [@cezardasilva](https://github.com/cezardasilva).
 
 
 
@@ -568,7 +569,6 @@
   - [vue-laypage](https://github.com/sinchang/vue-laypage) - A simple pagination component for Vue.js, Based on [layPage](http://laypage.layui.com/). By [@sinchang](https://github.com/sinchang)
   - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) - [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for Vue. By [@gluons](https://github.com/gluons)
   - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) - Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.
-  
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
