@@ -1022,6 +1022,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [ZenMate](https://zenmate.com)
   - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
   - [Tuniu mp](https://m.tuniu.com/m2015/mpChannel/index)
+  - [Livestorm](https://livestorm.co)
 
 ### Books
 
