@@ -987,6 +987,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) - A collaborative writing game.
   - [Coypu](https://coypu.co) - Text-editor-like weekly planner
   - [wxsm's space](https://wxsm.space) - A static blog system by vue 2.0, purely front-end after built and packaging. 
+  - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News; [article how it was built](http://devan.blaze.com.au/blog/2017/3/3/tophn-a-fun-side-project-built-with-vuejs-and-rethinkdb)
 
 - #### Interactive Experiences
 
