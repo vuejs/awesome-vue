@@ -207,12 +207,12 @@
 - [Atom](https://atom.io/packages/language-vue) by @hedefalk
 - [Atom (2)](https://atom.io/packages/language-vue-component) by @CYBAI
 - [Vim ★48](https://github.com/posva/vim-vue) by @darthmall and @posva
-- [Visual Studio Code](https://marketplace.visualstudio.com/items/liuji-jim.vue) by Jim Liu
 - [Brackets ★11](https://github.com/pandao/brackets-vue) by @pandao
 - [**IntelliJ IDEA / WebStorm ★66**](https://github.com/postalservice14/vuejs-plugin) by @postalservice14
 - [Emacs ★10](https://github.com/CodeFalling/vue-mode) by @CodeFalling
 - [Visual Studio 2015 ★7](https://github.com/madskristensen/VuePack) by @madskristensen
 - [KDE/Katepart (Kate, KWrite, KDevelop)](https://github.com/mtorromeo/kate-syntax-files/blob/master/vue.xml) by @mtorromeo
+- [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref
 
 ### Snippets
 
@@ -228,6 +228,7 @@
 - [vue-autocomplete](https://atom.io/packages/vue-autocomplete) for Atom.io by [@ealves-pt](https://github.com/ealves-pt)
 - [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) Vue.js plugin to allow search places using Google Maps API by [@ridermansb](https://twitter.com/ridermansb)
+- [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref
 
 ### Component Collections
 
