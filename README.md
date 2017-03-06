@@ -984,6 +984,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
   - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) - A collaborative writing game.
   - [Coypu](https://coypu.co) - Text-editor-like weekly planner
+  - [wxsm's space](https://wxsm.space) - A static blog system by vue 2.0, purely front-end after built and packaging. 
 
 - #### Interactive Experiences
 
