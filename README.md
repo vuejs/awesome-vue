@@ -570,6 +570,7 @@
   - [vue-laypage](https://github.com/sinchang/vue-laypage) - A simple pagination component for Vue.js, Based on [layPage](http://laypage.layui.com/). By [@sinchang](https://github.com/sinchang)
   - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) - [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for Vue. By [@gluons](https://github.com/gluons)
   - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) - Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.
+  - [vue-toasted](https://shakee93.github.io/vue-toasted) : a cool touch compatible, responsive toast for vue. by [@shakee93](https://github.com/shakee93)
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
