@@ -571,6 +571,7 @@
   - [vue-highlight.js](https://github.com/gluons/vue-highlight.js) - [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for Vue. By [@gluons](https://github.com/gluons)
   - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) - Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.
   - [vue-toasted](https://shakee93.github.io/vue-toasted) : a cool touch compatible, responsive toast for vue. by [@shakee93](https://github.com/shakee93)
+  - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) A simple Vue checkbox switch (On/Off) style with no dependencies by [@rafaelpimpa](https://github.com/rafaelpimpa)
 
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
@@ -651,8 +652,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) ![Vue2.x-douban](https://img.shields.io/github/stars/superman66/vue2.x-douban.svg?style=social&label=Star&maxAge=2592000) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
   - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) ![vue-laravel-example](https://img.shields.io/github/stars/jcc/vue-laravel-example.svg?style=social&label=Star&maxAge=2592000) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
   - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template
+  - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
   - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68) 
-
+  
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
@@ -989,10 +991,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
   - [GroupWrite.io](https://github.com/groupwrite-io/groupwrite.io) - A collaborative writing game.
   - [Coypu](https://coypu.co) - Text-editor-like weekly planner
-  - [wxsm's space](https://wxsm.space) - A static blog system by vue 2.0, purely front-end after built and packaging. 
+  - [wxsm's space](https://wxsm.space) - A static blog system by vue 2.0, purely front-end after built and packaging.
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News; [article how it was built](http://devan.blaze.com.au/blog/2017/3/3/tophn-a-fun-side-project-built-with-vuejs-and-rethinkdb)
   - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) - Full Stack Weekly is free weekly newsletter for full stack developers.
-  
+
 - #### Interactive Experiences
 
   - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
