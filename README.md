@@ -195,6 +195,7 @@
 - [vue-easy-renderer](https://github.com/leaves4j/vue-easy-renderer) - Vue.js server-side renderer for *.vue file based on vue-server-renderer
 - [lint-sass-vue](https://atom.io/packages/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files.
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x)
+- [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules
 
 ### Testing
 
