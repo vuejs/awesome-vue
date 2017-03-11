@@ -572,7 +572,7 @@
   - [vue-vpaginator](https://github.com/joseluisq/vue-vpaginator) - Vue.js 2 + Bootstrap paginator component for Laravel Pagination response data.
   - [vue-toasted](https://shakee93.github.io/vue-toasted) : a cool touch compatible, responsive toast for vue. by [@shakee93](https://github.com/shakee93)
   - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) A simple Vue checkbox switch (On/Off) style with no dependencies by [@rafaelpimpa](https://github.com/rafaelpimpa)
-
+  - [vue trend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js by [@QingWei-Li](https://github.com/QingWei-Li)
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
