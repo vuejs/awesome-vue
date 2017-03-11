@@ -47,6 +47,7 @@
   - [Enterprise Usage](#enterprise-usage)
 - [Books](#books)
 
+### Official Resources
 
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
