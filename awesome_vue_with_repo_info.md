@@ -2464,6 +2464,11 @@ application.  By @Haixing-Hu
      gitlab
     </a>
    </li>
+   <li>
+    <a href="https://m.tuniu.com/m2015/mpChannel/index" target="__blank">
+      Tuniu mp
+    </a>
+   </li>
   </ul>
  </li>
 </ul>
