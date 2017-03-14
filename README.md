@@ -418,7 +418,8 @@
   - [vue-country-select ★12](https://github.com/Haixing-Hu/vue-country-select): A Vue.js component implementing the select control used to select countries. It depends on [vue-select](https://github.com/Haixing-Hu/vue-select) and [vue-i18n](https://github.com/Haixing-Hu/vue-i18n). By @Haixing-Hu
   - [Form generation from JSON Schema ★22](https://github.com/dgerber/vue-formidable) by @dgerber
   - [vue-panel ★40](https://github.com/ericmcdaniel/vue-panel): A suite of Vue.js components for building Flexbox layouts by @ericmcdaniel
-  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc
+  - [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/): A suite of Vue.js components to build reactive Google Maps Applications by @GuillaumeLeclerc <sup>1.0</sup>
+  - [vue2-google-maps](https://github.com/xkjyeah/vue-google-maps): A suite of Vue.js components to build reactive Google Maps Applications. Forked from [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps/) <sup>2.0</sup>
   - [vue-transition ★39](https://github.com/Twiknight/vue-transition): A component to trigger a CSS transition at any time by @Twiknight
   - [SVG icons](http://kzima.github.io/vuestrap-icons/#/icons), SVG sprites in form of a simple `<icon>` component, by @kzima <sup>1.0</sup>
   - [Vue YouTube Embed ★19](https://github.com/kaorun343/vue-youtube-embed): a component for Vue.js and YouTube by @kaorun343
