@@ -577,6 +577,10 @@
   - [vue-toasted](https://shakee93.github.io/vue-toasted) : a cool touch compatible, responsive toast for vue. by [@shakee93](https://github.com/shakee93)
   - [vue-checkbox-switch](https://github.com/rafaelpimpa/vue-checkbox-switch) A simple Vue checkbox switch (On/Off) style with no dependencies by [@rafaelpimpa](https://github.com/rafaelpimpa)
   - [vue trend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js by [@QingWei-Li](https://github.com/QingWei-Li)
+  - [vuedals](https://github.com/javisperez/vuedals) - Multiple modal windows with just one component instance in your html by [@javisperez](https://github.com/javisperez)
+  - [vue-dialog](https://github.com/javisperez/vue-dialog) - Dialog windows (confirm, alert and hard confirm) based on Vuedals by [@javisperez](https://github.com/javisperez)
+  - [vue-longpress ★14](https://github.com/javisperez/vuelongpress) - Action confirmation button by holding the click by [@javisperez](https://github.com/javisperez)
+  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for Vue 2.x, like v-show but toggles visibility instead of display by [@javisperez](https://github.com/javisperez)
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -586,7 +590,7 @@
   - [vue-jade-editor ★1](https://github.com/zxdong262/vue-jade-editor): a online jade(pug) editor plugin by [@zxdong262](https://github.com/zxdong262)
   - [vue-video ★40](https://github.com/hilongjw/vue-video): A HTML5 video player component for Vue.js  by @hilongjw
   - [vue-i18n](https://github.com/MattyRad/vue-i18n): A small but effective Internationalization plugin
-  - [vue-translate ★11](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.x compatible</sup> by @javisperez
+  - [vue-translate ★20](https://github.com/javisperez/vuetranslate): A small and basic translation plugin for Vue.js <sup>1.x, 2.x compatible</sup> by @javisperez
   - [vuex-i18n ★1](https://github.com/dkfbasel/vuex-i18n): Internationalization made simple with vue and vuex <sup>Vue.js 2.0.x</sup> by @dkfbasel
   - [vue-gettext ★11](https://github.com/Polyconseil/vue-gettext): Translate your Vue.js applications with gettext <sup>Vue.js 2.0.x</sup>
   - [vuejs-carousel](https://github.com/ludo237/vuejs-carousel): Complete photo carousel build with VueJS and web standards in mind<sup>VueJs 2.1.6+</sup>
