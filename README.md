@@ -636,7 +636,6 @@
   - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
   - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
   - [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
-  - [vue-demo-sale-platform](https://github.com/fishenal/Vuejs-SalePlatform) a simply vue2.0 demo built with Vue 2.0, vue-router, vue-cli, include mockdata server, some common components. by [fishenal](https://github.com/fishenal)
   - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS) ★202**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
@@ -663,6 +662,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
   - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68) 
   - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) ![vue-laravel-example](https://img.shields.io/github/stars/pluto1114/vue-music-qq.svg?style=social&label=Star&maxAge=2592000) A qq-music project is based on vue-cli. The pages are simple and smooth
+
 - #### Boilerplates
 
   - [Boilerplate for Vue.js plugin  ★26](https://github.com/kazupon/vue-plugin-boilerplate) by @kazupon <sup>vue-cli compatible</sup>
