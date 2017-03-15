@@ -840,6 +840,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) Simple BEM class name generator for Vue.JS
   - [vuec](https://github.com/dealloc/vuec) A simple IoC container for VueJS
   - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload): A lazyload plugin for Vue.js v2.x+.. By [@lsycxyj]
+  - [vue-konami-code](https://github.com/azzra/vue-konami-code): VueJS Konami code plugin Vue.js v2.x+ By [@azzra]
 
 - #### SEO
 
