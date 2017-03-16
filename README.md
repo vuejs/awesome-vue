@@ -1006,6 +1006,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Full Stack Weekly](https://www.fullstackweekly.com/category/newsletter/) - Full Stack Weekly is free weekly newsletter for full stack developers.
   - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000)  - 「ONE · 一个」Vue复刻版 / A replication of http://wufazhuce.com/ in Vue
   - [Surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application blog built with Nuxt.js for nodepress.
+  - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
 
 - #### Interactive Experiences
 
