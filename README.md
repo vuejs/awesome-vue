@@ -736,6 +736,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Neutronium](https://github.com/David-Desmaisons/Neutronium) ![Neutronium](https://img.shields.io/github/stars/David-Desmaisons/Neutronium.svg?style=social&label=Star&maxAge=2592000) library to create .NET desktop applications using HTML, CSS and javascript. Like Electron for .NET with a powerfull integration with Vue.js.
   - [vue-threejs](https://github.com/fritx/vue-threejs) ![vue-threejs](https://img.shields.io/github/stars/fritx/vue-threejs.svg?style=social&label=Star&maxAge=2592000) Vue bindings for Three.js
   - [Framework7-Vue ★113](https://github.com/nolimits4web/Framework7-Vue): Build full featured iOS & Android apps using Framework7 & Vue (http://framework7.io) [@nolimits4web]
+  - [require-vuejs](https://github.com/edgardleal/require-vuejs): RequireJS plugin to async and dynamic load and parse .vue single file components.
 
 - #### General Plugins/Directives
 
