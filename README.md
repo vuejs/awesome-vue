@@ -407,7 +407,8 @@
   - [vue-vform](https://github.com/joseluisq/vue-vform) - [Vue.js 2](https://vuejs.org/) form component that integrate [jQuery Validation](https://github.com/jquery-validation/jquery-validation) and [Axios](https://github.com/mzabriskie/axios).
 
 - #### UI Components
-
+  
+  - [vue-js-modal](https://github.com/euvl/vue-js-modal) Simple to use, highly customizable Vue.js modal with 0 dependencies
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
   - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/)
