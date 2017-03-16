@@ -1007,6 +1007,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [「ONE · 一个」](https://github.com/sabrinaluo/vue-one) ![vue-one](https://img.shields.io/github/stars/sabrinaluo/vue-one.svg?style=social&label=Star&maxAge=2592000)  - 「ONE · 一个」Vue复刻版 / A replication of http://wufazhuce.com/ in Vue
   - [Surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application blog built with Nuxt.js for nodepress.
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
+  - [AdhocDB](https://adhocdb.com) - Lightweight backend for contact forms optimized for websites and serverless apps. Supports sending email notifications when new data appear.
 
 - #### Interactive Experiences
 
