@@ -596,7 +596,6 @@
   - [vue-gettext ★11](https://github.com/Polyconseil/vue-gettext): Translate your Vue.js applications with gettext <sup>Vue.js 2.0.x</sup>
   - [vuejs-carousel](https://github.com/ludo237/vuejs-carousel): Complete photo carousel build with VueJS and web standards in mind<sup>VueJs 2.1.6+</sup>
   - [vue-progressbar-xeonpowder ★1](https://github.com/XeonPowder/vue-progressbar): A progressbar forked from @hilongjw, updated by @XeonPowder, with more bells and whistles for Vue.JS 2+
-  - [vue-echarts ★194](https://github.com/Justineo/vue-echarts): ECharts component for Vue.js. By [@Justineo](https://github.com/Justineo)
   - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
   - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) - build systems with many languages in an easy way, by [Leonardo Vilarinho](https://github.com/leonardovilarinho)
 
