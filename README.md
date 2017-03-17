@@ -236,6 +236,7 @@
 
 ### Component Collections
 
+- [ATUI](http://aliqin.github.io/), vue components for desktop by @aliqin fe team <sup>2.0</sup>
 - [VueStrap](http://yuche.github.io/vue-strap/), Bootstrap components built with pure Vue.js by @yuche <sup>1.0</sup>
 - [VueBoot](http://morgul.github.io/vueboot/), Bootstrap v4 components by @Morgul <sup>1.0</sup>
 - [**vue-mdl ★436**](https://github.com/posva/vue-mdl): Reusable Vue.js components using Material Design Lite. By [@posva](https://github.com/posva)
