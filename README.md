@@ -327,6 +327,7 @@
 - [ATUI](http://aliqin.github.io/), vue components for desktop by [@aliqin](https://github.com/aliqin/) fe team <sup>2.0</sup>
 - [vue-collapse](https://github.com/cezardasilva/vue-collapse): A simple collapse component for Vue.js 2.X By [@cezardasilva](https://github.com/cezardasilva).
 - [vue-treeflow](https://github.com/yimian/vue-treeflow): visualize tree structure data based on vue.js 1.0 By [@starplanet](https://github.com/starplanet).
+- [v-dispicker](https://github.com/jcc/v-distpicker) [![V-Distpicker](https://img.shields.io/github/stars/jcc/v-distpicker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/v-distpicker) - A flexible, highly available district selector for picking provinces, cities and districts of China. by [Jiajian Chan](https://github.com/jcc)
 
 
 ### Libraries & Plugins
