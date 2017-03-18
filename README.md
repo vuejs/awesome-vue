@@ -327,7 +327,7 @@
 - [ATUI](http://aliqin.github.io/), vue components for desktop by [@aliqin](https://github.com/aliqin/) fe team <sup>2.0</sup>
 - [vue-collapse](https://github.com/cezardasilva/vue-collapse): A simple collapse component for Vue.js 2.X By [@cezardasilva](https://github.com/cezardasilva).
 - [vue-treeflow](https://github.com/yimian/vue-treeflow): visualize tree structure data based on vue.js 1.0 By [@starplanet](https://github.com/starplanet).
-
+- [vue-emoji](https://github.com/rishiqing/vue-emoji): An emoji component based on vue.js 2.x By [@374632897](https://github.com/374632897)
 
 ### Libraries & Plugins
 
@@ -408,7 +408,7 @@
   - [vue-vform](https://github.com/joseluisq/vue-vform) - [Vue.js 2](https://vuejs.org/) form component that integrate [jQuery Validation](https://github.com/jquery-validation/jquery-validation) and [Axios](https://github.com/mzabriskie/axios).
 
 - #### UI Components
-  
+
   - [vue-countup ★11](https://github.com/samcrosoft/vue-countup): A Vue.js component for the very interesting [CountUp.js](https://inorganik.github.io/countUp.js/) plugin. <sup>1.0 compatible</sup>
   - [Vue Crop](http://pespantelis.github.io/vue-crop/)
   - [Vue Typeahead](http://pespantelis.github.io/vue-typeahead/)
@@ -661,7 +661,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) ![vue-laravel-example](https://img.shields.io/github/stars/jcc/vue-laravel-example.svg?style=social&label=Star&maxAge=2592000) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
   - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template
   - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
-  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68) 
+  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) ![shield](https://img.shields.io/github/stars/yujiahaol68/reddit-app.svg?style=social&label=Star&maxAge=2592000) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68)
   - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) ![vue-laravel-example](https://img.shields.io/github/stars/pluto1114/vue-music-qq.svg?style=social&label=Star&maxAge=2592000) A qq-music project is based on vue-cli. The pages are simple and smooth
 
 - #### Boilerplates
@@ -1026,7 +1026,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [NOIZE original](http://noizeoriginal.com) - by KFFEIN
   - [Jason Bourne : Remember Everything](http://www.remembereverything.com) — by Stinkdigital *Awwwards SOTD, FWA FOTD.*
   - [listentothe.cloud](http://listentothe.cloud/) - Ambient music player plus live talks from airports worldwide by Anders Åberg
-  
+
 - #### Enterprise Usage
 
   - Alibaba
