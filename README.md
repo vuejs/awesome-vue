@@ -120,7 +120,7 @@
 - [Vue.js Screencast Series in Spanish](https://styde.net/curso-de-vue-js/) on Styde.net
 - [**讲解Vue.js 官网 中文-含代码、百度云、youtube ★672**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
-- [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
+- [Vue.js in Bahasa Indonesia](https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
 - [Building a Mobile App with Cordova and Vue.js](https://coligo.io/building-a-mobile-app-with-cordova-vuejs/) on Coligo.io
 - [Vue.js from Scratch Series in Russian](https://www.youtube.com/playlist?list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7) on YouTube by .dev
 - [Створення сервісу для зберігання файлів з Flask, RethinkDB та Vue.js, ч. 1](http://codeguida.com/post/526/) Ukraine
@@ -443,10 +443,10 @@
   - [vue-loading-bar ★50](https://github.com/BosNaufal/vue-loading-bar) Youtube Like Loading Bar Component for Vue by [@BosNaufal](https://github.com/BosNaufal)
   - [vue-bootstrap-modal ★20](https://github.com/Coffcer/vue-bootstrap-modal) Bootstrap style modal component for Vue by [@Coffcer](https://github.com/Coffcer)
   - [vue-waves ★6](https://github.com/Teddy-Zhu/vue-waves):Click effect inspired by Google's Material Design ,the vue version By @Teddy-Zhu
-  - [vue-table] (https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
-  - [vue-tables] (https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
-  - [vue-smart-table ★100] (https://github.com/gurghet/vue-smart-table): A simple grid component for building rich reactive tables
-  - [fire-select] (https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
+  - [vue-table](https://github.com/ratiw/vue-table): component that will automatically request (JSON) data from the server and display them nicely in html table with swappable/extensible pagination component. By @ratiw
+  - [vue-tables](https://github.com/matfish2/vue-tables): This Vue package offers an easy and intuitive way of displaying Bootstrap-styled grids with data coming either from the client or from the server. By @matfish2
+  - [vue-smart-table ★100](https://github.com/gurghet/vue-smart-table): A simple grid component for building rich reactive tables
+  - [fire-select](https://github.com/firework/fire-select): Vue component that transforms overwhelming select boxes into something fancy, simple and user-friendly. It is similar to Selectize, Chosen, Select2, etc.
   - [vue-color ★125](https://github.com/xiaokaike/vue-color), Color picker
   - [vue-avatar ★27](https://github.com/eliep/vue-avatar): display user avatar with fallback to user's initials.
   - [vue-msui ★17](https://github.com/yjj5855/vue-msui) by [@yjj5855](https://github.com/yjj5855) : A Vue modal
@@ -687,7 +687,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-boilerplate](https://github.com/MillerRen/vue-boilerplate) Vue 2.0 boilerplate，based on webpack and es6，includes vuex，vue-router，vue-resource, vue-auth
   - [bourgeon ★9](https://github.com/rayfranco/bourgeon) Vue 2.0 template for vue-cli based on webpack including stylus (jeet, rupture, typus), vuex, I18n, routing and SVG sprites.
   - [vue-ssr-hmr-template ★42](https://github.com/hilongjw/vue-ssr-hmr-template) Vue2 + Webpack2 + HMR + Server Side Render + Express template by [@Awe](https://github.com/hilongjw)
-  - [Vuejs Starter Kit 2 ★12] (https://github.com/MetinSeylan/VuejsStarterKit) Vue 2.0 modern application structure [MetinSeylan](https://github.com/MetinSeylan)
+  - [Vuejs Starter Kit 2 ★12](https://github.com/MetinSeylan/VuejsStarterKit) Vue 2.0 modern application structure [MetinSeylan](https://github.com/MetinSeylan)
   - [vue-cli-template](https://github.com/xpepermint/vue-cli-template) - A simple server-side rendering CLI template for Vue.js. by [@xpepermint](https://twitter.com/kristijansedlak)
   - [vue-adonis](https://github.com/Atinux/vue-adonis) - AdonisJS + Vue.js with server-side rendering by [@Atinux](https://github.com/Atinux)
   - [A simple template for Vue.js plugin](https://github.com/znck/vue-plugin-simple) [![★11](https://img.shields.io/github/stars/znck/vue-plugin-simple.svg?style=social&label=Star&maxAge=2592000)](https://github.com/znck/vue-plugin-simple) by [@znck](https://github.com/znck) - Uses rollup to pack.
@@ -797,7 +797,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-lazy-component](https://github.com/Coffcer/vue-lazy-component): Vue directive for lazy load components or elements.
   - [v-media-query](https://github.com/AStaroverov/v-media-query): Plugin adds methods for work with media query
   - [v-text-mask](https://github.com/text-mask/text-mask/tree/master/vue): Vue Directive for masking input of phones, email, etc
-  - [v-pagination] (https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap.
+  - [v-pagination](https://github.com/matfish2/vue-pagination) Simple, generic and non-intrusive pagination component for Vue.js. Presentation is based on bootstrap.
   - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) Vue 2.0 version of the `v-pagination` plugin
   - [vue-socketcluster](https://github.com/happilymarrieddad/vue-socketcluster) Integration from socketcluster to vue.
   - [vue-lazyloadimg](https://github.com/yodfz/vue-lazyloadImg) lazy load image.
