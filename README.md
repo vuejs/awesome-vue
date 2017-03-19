@@ -1011,6 +1011,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application blog built with Nuxt.js for nodepress.
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
   - [AdhocDB](https://adhocdb.com) - Lightweight backend for contact forms optimized for websites and serverless apps. Supports sending email notifications when new data appear.
+  - [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
 
 - #### Interactive Experiences
 
