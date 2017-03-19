@@ -845,6 +845,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vuec](https://github.com/dealloc/vuec) A simple IoC container for VueJS
   - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload): A lazyload plugin for Vue.js v2.x+.. By [@lsycxyj]
   - [vue-konami-code](https://github.com/azzra/vue-konami-code): VueJS Konami code plugin Vue.js v2.x+ By [@azzra]
+  - [vue-styled-components](https://github.com/styled-components/vue-styled-components): Visual primitives for the component age. A simple port for Vue.js(2.x) of styled-components 💅 By [@liqueflies](https://github.com/liqueflies)
 
 - #### SEO
 
