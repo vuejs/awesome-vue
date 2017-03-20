@@ -584,6 +584,9 @@
   - [vue-dialog](https://github.com/javisperez/vue-dialog) - Dialog windows (confirm, alert and hard confirm) based on Vuedals by [@javisperez](https://github.com/javisperez)
   - [vue-longpress ★14](https://github.com/javisperez/vuelongpress) - Action confirmation button by holding the click by [@javisperez](https://github.com/javisperez)
   - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for Vue 2.x, like v-show but toggles visibility instead of display by [@javisperez](https://github.com/javisperez)
+  - [vue-js-modal](https://github.com/euvl/vue-js-modal) Simple to use, highly customizable Vue.js modal with 0 dependencies
+  - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) Pretty and simple toggle (switch) button
+
 - #### i18n
   - [**vue-i18n ★605**](https://github.com/kazupon/vue-i18n): Internationalization plugin by @kazupon <sup>1.0 (by v4.10.0), 2.0-pre-alpha compatible</sup>
   - [vue-localize ★11](https://github.com/vuedev-com/vue-localize): Internationalization plugin for vue.js based applications
@@ -600,7 +603,6 @@
   - [vue-progressbar-xeonpowder ★1](https://github.com/XeonPowder/vue-progressbar): A progressbar forked from @hilongjw, updated by @XeonPowder, with more bells and whistles for Vue.JS 2+
   - [VueLinkPopover](https://github.com/klummy/VueLinkPopover): Flexible, customizable Twitter style popover component for Vue.js.
   - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) - build systems with many languages in an easy way, by [Leonardo Vilarinho](https://github.com/leonardovilarinho)
-  - [vue-js-modal](https://github.com/euvl/vue-js-modal) Simple to use, highly customizable Vue.js modal with 0 dependencies
 
 - #### Analytics
   - [**vue-ua [![GitHub stars](https://img.shields.io/github/stars/ScreamZ/vue-analytics.svg)](https://github.com/ScreamZ/vue-analytics)**](https://github.com/ScreamZ/vue-analytics): Google Universal Analytics implementation for Vue.JS 2+
