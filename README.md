@@ -381,6 +381,7 @@
   - [vuex-redux-saga](https://github.com/xanf/vuex-redux-saga) - Use all powers of [redux-saga](https://redux-saga.github.io/redux-saga/) with vuex. Build asynchronyous data flows with generators and channels
   - [vuex-promise-middleware](https://github.com/MatteoGabriele/vuex-promise-middleware) - Promise state dispatcher for Vuex
   - [vuex-local](https://github.com/ktsn/vuex-local) - Local state management within Vuex
+  - [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.
 
 - #### Event Management
   - [vuemit](https://github.com/gocanto/vuemit) - Vuemit is a tiny library to work with events on Vue.js. Its aim is to keeping simple the fact of sharing information between two or more components. By [@gocanto](https://github.com/gocanto)
