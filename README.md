@@ -218,6 +218,7 @@
 - [Visual Studio 2015 ★7](https://github.com/madskristensen/VuePack) by @madskristensen
 - [KDE/Katepart (Kate, KWrite, KDevelop)](https://github.com/mtorromeo/kate-syntax-files/blob/master/vue.xml) by @mtorromeo
 - [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref
+- [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs), IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
 
 ### Snippets
 
@@ -234,6 +235,7 @@
 - [google-autocomplete ★9](https://github.com/gocanto/google-autocomplete) An easy approach to achieve address autocomplete from google map. by [@gocanto](https://github.com/gocanto)
 - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) Vue.js plugin to allow search places using Google Maps API by [@ridermansb](https://twitter.com/ridermansb)
 - [vetur ★150](https://github.com/octref/vetur) : Vue tooling for VSCode by @octref
+- [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs), IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
 
 ### Component Collections
 
