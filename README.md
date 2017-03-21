@@ -330,6 +330,7 @@
 - [vue-treeflow](https://github.com/yimian/vue-treeflow): visualize tree structure data based on vue.js 1.0 By [@starplanet](https://github.com/starplanet).
 - [v-dispicker](https://github.com/jcc/v-distpicker) [![V-Distpicker](https://img.shields.io/github/stars/jcc/v-distpicker.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jcc/v-distpicker) - A flexible, highly available district selector for picking provinces, cities and districts of China. by [Jiajian Chan](https://github.com/jcc)
 - [vue-emoji](https://github.com/rishiqing/vue-emoji): An emoji component based on vue.js 2.x By [@374632897](https://github.com/374632897)
+- [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2. <sup>2.x</sup>
 
 ### Libraries & Plugins
 
