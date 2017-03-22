@@ -343,6 +343,7 @@
   - [vue-script2 ★6](https://github.com/taoeffect/vue-script2) - Load route-specific code or vendor scripts with a `<script>`-like tag, by @taoeffect
   - [vue-update](https://github.com/ZeroDark1991/vue-update) - provides extra hook for data-updating, by @ZeroDark1991
   - [vue-acl ★12](https://github.com/leonardovilarinho/vue-acl) - its components and routes well protected with an access control list, by [Leonardo Vilarinho](https://github.com/leonardovilarinho)
+  - [vue-navigation](https://github.com/zack24q/vue-navigation) [![GitHub stars](https://img.shields.io/github/stars/zack24q/vue-navigation.svg?style=social&label=Star)](https://github.com/zack24q/vue-navigation)  - A page navigation library, built with vue2 and vue-router2. 一个页面导航库，依赖vue2与vue-router2。by [zack24q](https://github.com/zack24q)
 
 - #### Ajax/Data
 
