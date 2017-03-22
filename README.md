@@ -394,7 +394,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Coypu](https://coypu.co) - Text-editor-like weekly planner
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
-  - [Roozame Ø±ÙØ²Ø§ÙÙ](http://www.roozame.com) - Roozame is a persian smart news media service.
+  - [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
 
 
 
