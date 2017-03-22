@@ -507,6 +507,7 @@ Tooltips / popovers
 ### Menu
 
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav) - Side-nav.
+ - [vue-navigation](https://github.com/zack24q/vue-navigation) - A page navigation library, built with vue2 and vue-router2. 一个页面导航库，依赖vue2与vue-router2。by [zack24q](https://github.com/zack24q)
 
 ### Carousel
 
