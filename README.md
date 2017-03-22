@@ -736,6 +736,7 @@ Tooltips / popovers
  - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Twitter Bootstrap 4 Components For Vue.js 2.
+ - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
 
 ###### Mobile
 
