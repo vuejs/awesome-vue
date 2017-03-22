@@ -736,7 +736,7 @@ Tooltips / popovers
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
  - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
- - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Twitter Bootstrap 4 Components For Vue.js 2.
+ - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
 
 ###### Mobile
