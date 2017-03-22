@@ -27,7 +27,7 @@
   - [Enterprise Usage](#enterprise-usage)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
-    - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/awesome-vue.git)
+    - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab)
     - [Table](#table)
     - [Notification](#notification)
     - [Loader](#loader)
