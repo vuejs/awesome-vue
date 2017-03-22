@@ -284,6 +284,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
   - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68)
   - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) A qq-music project is based on vue-cli. The pages are simple and smooth
+  - [Veggie Map](https://veggiemap.herokuapp.com/) An interactive demo using Vuejs + Vue router + Leaflet and Firebase
 
 
 ### Books
@@ -506,6 +507,7 @@ Tooltips / popovers
 ### Menu
 
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav) - Side-nav.
+ - [vue-navigation](https://github.com/zack24q/vue-navigation) - A page navigation library, built with vue2 and vue-router2. 一个页面导航库，依赖vue2与vue-router2。by [zack24q](https://github.com/zack24q)
 
 ### Carousel
 
@@ -734,7 +736,8 @@ Tooltips / popovers
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
  - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
- - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) - Twitter Bootstrap 4 Components For Vue.js 2.
+ - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
+ - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
 
 ###### Mobile
 
@@ -914,6 +917,7 @@ Tooltips / popovers
  - [vuex-plugin-jsdata](https://github.com/AlexandreBonaventure/vuex-jsdata-plugin) - A plugin for syncing Vuex store with js-data.
  - [vuex-local](https://github.com/ktsn/vuex-local) - Local state management within Vuex.
  - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to easily create and manage actions.
+ - [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.
 
 ###### Sync Between Tabs
 
@@ -1052,6 +1056,7 @@ Tooltips / popovers
 #### Intellij
 
  - [Vue.js Plugin](https://github.com/postalservice14/vuejs-plugin) - Vue.js features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc).
+ - [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs), IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
 
 #### Emacs
 
@@ -1060,7 +1065,6 @@ Tooltips / popovers
 #### Kate
 
  - [Kate Syntax Files](https://github.com/mtorromeo/kate-syntax-files) - Syntax files (modified or original) for katepart (kate, kwrite, kdevelop).
-
 
 
 
