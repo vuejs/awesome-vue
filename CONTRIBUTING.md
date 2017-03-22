@@ -29,5 +29,5 @@ If you consider your project finished, does not need any contribution, consider 
 Apps/Websites give the opportunity to showcase the awesome things we can build with vuejs.
 You should put your app/website in this category if the following condition are true:
 - The website is available without error or ssl certificate problems, and load in a reasonable amount of time.
-- The website is using vuejs intensively. It should have more than a couple of components.
+- The website is using vuejs intensively. It should have more than a couple of components, and also it have to detect with [vue-devtools](https://github.com/vuejs/vue-devtools).
 - The website is original and not too simple. For that reason, blog and simple landing page are rejected.
