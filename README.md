@@ -925,6 +925,7 @@ Tooltips / popovers
  - [vuex-local](https://github.com/ktsn/vuex-local) - Local state management within Vuex.
  - [vuex-action](https://github.com/varHarrie/vuex-action) - Utilities for vuex to easily create and manage actions.
  - [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.
+ - [vuex-cache](https://github.com/superwf/vuex-cache) - A Vuex plugin utility to cache action those will make remote request.
 
 ###### Sync Between Tabs
 
