@@ -230,6 +230,7 @@
 - [Let's Vue! - OpenLecture 2017.01 in Russian]() on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
 - [Bootstrapping your first Vue.js application using vue-cli](https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/) by [@afropolymath](https://twitter.com/afropolymath)
 - [Bulid vue-hackernews-2.0 from Scratch](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
+- [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5#.kp81np177)
 
 ### Examples
 
@@ -910,6 +911,10 @@ Tooltips / popovers
 
  - [revue](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
+
+#### Authentication/Authorization
+
+ - [vue-kindergarten](https://github.com/JiriChara/vue-kindergarten)
 
 #### Vuex Utilities
 
