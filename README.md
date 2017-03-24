@@ -288,6 +288,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) A qq-music project is based on vue-cli. The pages are simple and smooth
   - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab)  Navigation Tab with both plain Vue JSX and Vue + Redux Binding
   - [Veggie Map](https://veggiemap.herokuapp.com/) An interactive demo using Vuejs + Vue router + Leaflet and Firebase
+  - [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) examples how to use d3 for visualisations.
 
 ### Books
 
