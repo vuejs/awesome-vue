@@ -638,6 +638,7 @@ Tooltips / popovers
 
  - [vue-tagsinput](https://github.com/Ginhing/vue-tagsinput) - A tags input component based on Vue.js.
  - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - Vue.js 2.0 Input Tag Component.
+ - [v-distpicker](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.
 
 #### Color Picker
 
