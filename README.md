@@ -1056,7 +1056,7 @@ Tooltips / popovers
 
 #### Vim
 
- - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highligth for Vue.js components.
+ - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highlight for Vue.js components.
 
 #### Visual Studio Code
 
