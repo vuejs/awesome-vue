@@ -426,6 +426,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - Line
  - Nintendo
  - Celtra
+ - [Locaweb](https://www.locaweb.com.br)
+ - [Moip](https://moip.com.br/)
  - [Sainsbury's](https://sainsburys.jobs/)
  - [AREX](https://arex.io/)
  - DJI
