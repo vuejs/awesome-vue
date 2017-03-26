@@ -556,6 +556,7 @@ Tooltips / popovers
 ### Audio / Video
 
  - [vue-aplayer](https://github.com/SevenOutman/vue-aplayer) - A Vue 2.x component of easy-to-config music players with controls.
+ - [vue-audio](https://github.com/shershen08/vuejs-sound-player) - audio-tag wrapper; sound player component for Vue 2.x
 
 ### Infinite Scroll
 
