@@ -96,6 +96,8 @@
     - [Code Style](#code-style)
     - [CSS](#css)
     - [Asset Management](#asset-management)
+    - [Page Navigation](#page-navigation)
+    - [Miscellaneous](#miscellaneous-3)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
@@ -965,6 +967,10 @@ Tooltips / popovers
  - [vue-brunch](https://github.com/nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
  - [vbuild](https://github.com/egoist/vbuild) - Fast prototype and distribute modern web apps like a pro.
  - [http-vue-loader](https://github.com/FranckFreiburger/http-vue-loader) - Load .vue files directly from your html/js without node.js environment nor build step.
+ 
+### Page Navigation
+
+ - [vue-navigation](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
 
 ### Page Navigation
 
