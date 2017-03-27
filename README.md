@@ -921,6 +921,7 @@ Tooltips / popovers
 
  - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
  - [vue-sync](https://github.com/buhrmi/vue-sync) - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.
+ - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
 
 #### Redux
 
