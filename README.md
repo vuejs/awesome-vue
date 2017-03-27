@@ -915,6 +915,7 @@ Tooltips / popovers
 
  - [vue-localstorage](https://github.com/pinguinjkeke/vue-local-storage) - Vue.js localStorage plugin with types support.
  - [vue-ls](https://github.com/RobinCK/vue-ls) - Vue plugin for work with LocalStorage from Vue context.
+ - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
 
 ### State Management
 
