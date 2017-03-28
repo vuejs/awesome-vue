@@ -599,7 +599,6 @@ Tooltips / popovers
  - [vue-keyboard](https://github.com/MartyWallace/vue-keyboard) - Vue 2 virtual keyboard component.
  - [vue-twentytwenty](https://github.com/mhayes/vue-twentytwenty) - Image comparison component, works with Vue.js 2.x
  - [vue-cookie-law](https://github.com/apertureless/vue-cookie-law) - Cookie info plugin for Vue.js 2.x
- - [vue-gravatar](https://github.com/JiriChara/vue-gravatar) - A dead-simple gravatar component for Vue.js 2.x
 
 
 
@@ -735,6 +734,7 @@ Tooltips / popovers
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework.
  - [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
+ - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs.
 
 ### Mobile
 
