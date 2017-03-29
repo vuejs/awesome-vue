@@ -340,7 +340,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa)
  - [OpenAPI 3 viewer](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
   - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
-
+  - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 ### Commercial Products
 
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
