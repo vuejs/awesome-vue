@@ -735,6 +735,7 @@ Tooltips / popovers
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework.
  - [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
+ - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
 
 ### Mobile
 
