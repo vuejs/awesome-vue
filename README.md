@@ -330,7 +330,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Vuedo](https://github.com/Vuedo/vuedo) - Blog platform, built with Laravel and Vue.js.
  - [vue-music163](https://github.com/pluto1114/vue-music163) - A Vue.js project for music.
  - [Tomato5](https://github.com/zhangxin840/tomato5) - Real-time collaboration tool, it combines Pomodoro Technique with a team status share board.
- - [Peek-a-tab](https://github.com/pramjeet/peek-a-tab) - Tabs Manager for Google Chrome.
  - [Web Learn](https://github.com/freearhey/web-learn) - A service which provides simple access to thousands of video tutorials on web developing and programming.
  - [ExcelJSON](https://github.com/palerdot/exceljson) - A tool to convert CSV, TSV to/from JSON.
  - [Materialize-blog](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
