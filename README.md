@@ -404,6 +404,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
   - [Koumoul](https://koumoul.com)
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
+  - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
 
 
 ### Interactive Experiences
