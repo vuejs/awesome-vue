@@ -35,7 +35,7 @@
     - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
-    - [Iframes](#iframe)
+    - [Iframes](#iframes)
     - [Menu](#menu)
     - [Carousel](#carousel)
     - [Charts](#charts)
