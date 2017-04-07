@@ -579,6 +579,10 @@ Tooltips / popovers
 
  - [vue-markdown](https://github.com/miaolz123/vue-markdown) - A Powerful and Highspeed Markdown Parser for Vue.
 
+### PDF
+
+ - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
+
 ### Tree
 
 *Display a tree data structure*
