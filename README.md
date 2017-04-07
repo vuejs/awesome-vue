@@ -93,6 +93,7 @@
     - [State Management](#state-management)
       - [Redux](#redux)
       - [Vuex Utilities](#vuex-utilities)
+    - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
     - [CSS](#css)
     - [Asset Management](#asset-management)
@@ -955,6 +956,10 @@ Tooltips / popovers
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
+### Concurrency Management 
+
+  - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for for Vue.js.
+  
 ### Code Style
 
 *Improve readability of code*
