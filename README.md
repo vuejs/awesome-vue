@@ -689,6 +689,7 @@ Tooltips / popovers
 
  - [vue-clip](https://github.com/thetutlage/vue-clip) - Simple and hackable file uploader for VueJs. Supports Vue >= 2.1.
  - [vue-simple-upload](https://github.com/saivarunk/vue-simple-upload) - Simple File upload component for Vue.js.
+ - [vue-image-crop-upload](https://github.com/dai-siki/vue-image-crop-upload) - A vue component for image crop and upload.
 
 #### Context Menu
 
