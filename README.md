@@ -45,6 +45,7 @@
     - [Infinite Scroll](#infinite-scroll)
     - [Pull-to-refresh](#pull-to-refresh)
     - [Markdown](#markdown)
+    - [PDF](#pdf)
     - [Tree](#tree)
     - [Social Sharing](#social-sharing)
     - [QR Code](#qr-code)
