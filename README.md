@@ -1056,6 +1056,7 @@ Tooltips / popovers
  - [vue-markdown-loader](https://github.com/QingWei-Li/vue-markdown-loader) - Convert Markdown file to Vue Component.
  - [vue-play](https://github.com/vue-play/vue-play) - A minimalistic framework for demonstrating your Vue components.
  - [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) - React inspired style guide generator for Vue.js.
+ - [CheatSheet](https://vuejs-tips.github.io/cheatsheet) - Complete Interactive API.
 
 ### Test
 
