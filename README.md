@@ -481,6 +481,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notifications](https://github.com/se-panfilov/vue-notifications) - Vue.js agnostic non-blocking notifications library.
  - [vue-easy-toast](https://github.com/noru/vue-easy-toast) - A toast plugin for vue/vue2.
  - [vue-toasted](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS.
+ - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
 
 ### Loader
 
