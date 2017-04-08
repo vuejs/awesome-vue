@@ -774,6 +774,7 @@ Tooltips / popovers
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
+ - [N3-components](https://github.com/N3-components/N3-components) Beautiful web components for Vue 1.0 & 2.0.
 
 ###### Mobile
 
