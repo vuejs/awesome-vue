@@ -593,6 +593,8 @@ Tooltips / popovers
 
 *Display a tree data structure*
 
+ - [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) - A Tree View based on [D3.js](https://d3js.org/)
+
 ###### JSON
 
 *Display JSON data*
