@@ -410,7 +410,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Koumoul](https://koumoul.com)
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
-  - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API 
+  - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
 
 
 ### Interactive Experiences
@@ -754,6 +754,7 @@ Tooltips / popovers
  - [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
+ - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
 
 ### Mobile
 
@@ -970,10 +971,10 @@ Tooltips / popovers
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
-### Concurrency Management 
+### Concurrency Management
 
   - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for for Vue.js.
-  
+
 ### Code Style
 
 *Improve readability of code*
