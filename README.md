@@ -355,6 +355,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 ### Apps/Websites
 
+  - [acgdesu](http://acgdesu.com)
   - [Laravel Spark](https://spark.laravel.com/)
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
