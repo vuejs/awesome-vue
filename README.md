@@ -411,6 +411,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
   - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
+  - [douban](https://github.com/ericjjj/douban) -  Douban book website with server side render
+  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites 
+  - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
 
 
 ### Interactive Experiences
