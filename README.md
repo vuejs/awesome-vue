@@ -121,7 +121,8 @@
     - [Server](#server)
     - [Electron](#electron)
     - [Parts](#parts)
-
+  - [Runtime](#runtime)
+    - [Commnand Line / Terminal](#command-line--terminal)
 
 
 
@@ -1189,6 +1190,10 @@ Tooltips / popovers
 
  - [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
 
+## Runtime
+
+### Commnand Line / Terminal
+ - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
 
 
 <br/>
