@@ -121,7 +121,8 @@
     - [Server](#server)
     - [Electron](#electron)
     - [Parts](#parts)
-
+  - [Runtime](#runtime)
+    - [Commnand Line / Terminal](#command-line--terminal)
 
 
 
@@ -238,6 +239,7 @@
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5#.kp81np177)
 - [Complete Vue.js Application Tutorial - Creating a Simple Budgeting App with Vue](http://matthiashager.com/complete-vuejs-application-tutorial) by [@matthiaswh](https://github.com/matthiaswh)
 - [Vue.js Tutorial: A Prerendered, SEO-Friendly Example](https://snipcart.com/blog/vuejs-tutorial-seo-example)
+- [Vue.js Introduction For People Who Know Just Enough jQuery To Get By](https://medium.com/@mattrothenberg/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
 - [Fetching Data from a Third-Party API with Vue.js and Axios](https://www.sitepoint.com/fetching-data-third-party-api-vue-axios/)
 
 ### Examples
@@ -412,6 +414,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [NinjaCalc](http://ninja-calc.mbedded.ninja) - A suite of embedded engineering related calculators, built as an open-source single-page app with vue.js.
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
   - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
+  - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
 
 
 ### Interactive Experiences
@@ -512,6 +515,7 @@ Tooltips / popovers
 
 - [vuedals](https://github.com/javisperez/vuedals) - A VueJS (2.x) Plugin for multiple modals windows with a single component instance.
 - [sweet-modal-vue](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
+- [vue-js-modal](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 
 ### Parallax
 
@@ -679,6 +683,7 @@ Tooltips / popovers
 *Switch / on/off toggle / checkbox*
 
  - [vue-switches](https://github.com/drewjbartlett/vue-switches) - An on/off switch component for Vue.js with theme support.
+ - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - Vue.js 2.0+ toggle / switch button - simple, pretty, customizable.
 
 #### Masked Input
 
@@ -724,6 +729,7 @@ Tooltips / popovers
  - [vue-longpress](https://github.com/javisperez/vuelongpress) - A VueJS (2.x) button component that requires you to keep pressing to confirm a given action.
  - [vue-embed](https://github.com/Gomah/vue-embed) - Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown.
  - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - A Vue.js (2.x) autosuggest component for the Google Maps Places API.
+ - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
 
 
 
@@ -783,6 +789,8 @@ Tooltips / popovers
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
+ - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
+ - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
 
 ###### Mobile
 
@@ -817,6 +825,7 @@ Tooltips / popovers
  - [vue-clickaway](https://github.com/simplesmiler/vue-clickaway) - Reusable clickaway directive for reusable Vue.js components.
  - [vue-scrollfire](https://github.com/vue-comps/vue-scrollfire) - Fires an event on a specific scroll position.
  - [vue-resize-directive](https://github.com/David-Desmaisons/Vue.resize) - Vue directive to detect resize events with deboucing and throttling capacity.
+ - [v-click-outside](https://github.com/ndelvalle/v-click-outside) - Vue directive to react on clicks outside of an element without stopping the event propagation.
 
 ### Responsive Design
 
@@ -862,6 +871,7 @@ Tooltips / popovers
  - [vue-lazy-background-images](https://github.com/darrynten/vue-lazy-background-images) - Lazy load background images for Vue 2.
  - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin.
  - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload) - A lazyload plugin for Vue.js v2.x+.
+ - [vue-lazyload-img](https://github.com/JALBAA/vue-lazyload-img) - Especially optimized for mobile browser. support V2 & v1.
 
 ### Pagination
 
@@ -873,6 +883,7 @@ Tooltips / popovers
 ### Animation
 
  - [vue2-animate](https://github.com/asika32764/vue2-animate) - A Vue.js 2.0 port of Animate.css. For use with Vue's built-in transitions.
+ - [animated-vue](https://github.com/radical-dreamers/animated-vue) - A Ve.js 2.x plugin to easily use Animate.css animations as transitions. As easy as <animated-tada>!
 
 ### Meta Tags
 
@@ -900,6 +911,7 @@ Tooltips / popovers
  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) - Interceptor that ties a progressbar to all requests, that it is clear that something is loading.
  - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
+ - [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) - Component to detect container resizing (event-based)
 
 
 
@@ -940,6 +952,7 @@ Tooltips / popovers
  - [vuex-i18n](https://github.com/dkfbasel/vuex-i18n) - Localization plugin for vue.js 2.0 using vuex as store.
  - [vue-gettext](https://github.com/Polyconseil/vue-gettext) - Translate your Vue.js applications with gettext.
  - [vue-i18n](https://github.com/MattyRad/vue-i18n) - A small plugin for implementing translations in Vue.js.
+ - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) - Support many languages in Vue.js 2.
 
 ### Custom Events
 
@@ -1187,6 +1200,10 @@ Tooltips / popovers
 
  - [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
 
+## Runtime
+
+### Commnand Line / Terminal
+ - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
 
 
 <br/>
