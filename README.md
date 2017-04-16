@@ -795,6 +795,7 @@ Tooltips / popovers
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
  - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
+ - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
 
 ###### Mobile
 
