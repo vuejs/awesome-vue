@@ -383,40 +383,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Zova](https://zova.com/)
   - [风投侠](https://vcshare.cn/)
   - [COPA 2016](http://www.ca2016.com/)
-  - [vue2-elm ★5520](https://github.com/bailicangdu/vue2-elm) A open source single page app build with vue2 + vuex , include 45 pages.
-
-- #### Interactive Experiences
-  
-  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/) - by Écorce & KFFEIN
-  - [Facebook NewsFeed](https://newsfeed.fb.com/)
-  - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
-  - [Blood, Sweat and Tools](http://bloodsweatandtools.discovery.ca/gamebench/) - by Jam3, led by @cheapsteak
-  - [Omnisense Experience](http://omnisense.net) - *Awwwards & FWA SOTD, FWA Cutting Edge. Awwwards SOTM nominee.*
-  - [Being the Bear](https://danslapeaudelours.canalplus.fr/en/) - *Awwwards & FWA SOTD, FWA Cutting Edge, Awwwards SOTM nominee.*
-  - [Heineken Star Experience](http://www.starexperience.fr/) - *FWA SOTD.*
-  - [Louis Ansa Website (portfolio)](http://louisansa.com) - *Awwwards SOTD, FWA nominee.*
-  - [Digital For All](http://www.digitalforallnow.com/en/experience)
-  - [Djeco.com](http://www.djeco.com/en)
-
-- #### Enterprise Usage
-
-  - Alibaba
-  - Baidu
-  - Sina Weibo
-  - Xiaomi
-  - Ele.me
-  - Optimizely
-  - Expedia
-  - UCWeb
-  - Line
-  - Nintendo
-  - Celtra
-  - Sainsbury's
-  - [AREX](https://arex.io/)
-  - DJI
-
-## License
-=======
   - [cloudradioo](http://cloudradioo.com) - Web app that plays randomly all top 50 songs from the soundcloud charts
   - [vNotes](https://halfeld.github.io/v-notes/#!/) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
@@ -455,7 +421,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
   - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
-
+  - [vue2-elm ★5520](https://github.com/bailicangdu/vue2-elm) A open source single page app build with vue2 + vuex , include 45 pages.
 
 ### Interactive Experiences
 
