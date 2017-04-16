@@ -299,6 +299,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Veggie Map](https://veggiemap.herokuapp.com/) An interactive demo using Vuejs + Vue router + Leaflet and Firebase
   - [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) examples how to use d3 for visualisations.
   - [vue-twitter-client](https://github.com/YuheiNakasaka/vue-twitter-client) A Twitter Client App build with Vue 2.X, Vuex, electron-vue and Electron
+  - [**Douban**](https://github.com/jeneser/douban) Awesome douban Example created with **Vue2.x** + **Vuex** + **Vue-router** + **vue-resource**. by [jeneser](https://github.com/jeneser)
 
 ### Books
 
