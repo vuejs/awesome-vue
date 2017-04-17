@@ -736,7 +736,7 @@ Tooltips / popovers
 
 #### Wizard
  
- - [vue-tab-wizard](https://github.com/cristijora/vue-tab-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
+ - [vue-form-wizard](https://github.com/cristijora/vue-tab-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
 
 
 
