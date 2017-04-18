@@ -527,7 +527,6 @@ Tooltips / popovers
 
 ### Icons
 
- - [vue-icons](https://github.com/vue-comps/vue-icons) - Webpack based - load only what you need - svg inline icons.
  - [vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
 
 ### Menu
