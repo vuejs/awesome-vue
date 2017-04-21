@@ -524,6 +524,7 @@ Tooltips / popovers
 - [sweet-modal-vue](https://github.com/adeptoas/sweet-modal-vue) - The sweetest library to happen to modals. Now available for Vue.js.
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 - [vudal](https://github.com/Egorvah/vudal) - Modal window for vue.js
+- [vodal](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ### Parallax
 
