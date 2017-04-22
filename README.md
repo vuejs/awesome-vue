@@ -616,6 +616,10 @@ Tooltips / popovers
 
  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
 
+###### Vue-tree
+
+ - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue2.js. 
+
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
