@@ -353,7 +353,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
   - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
-  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites 
+  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
 
@@ -745,7 +745,7 @@ Tooltips / popovers
  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
 
 #### Wizard
- 
+
  - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
 
 
@@ -1227,6 +1227,7 @@ Tooltips / popovers
 *Sacaffold parts of the app*
 
  - [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
+ - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for vue component, supports Vue1.X and Vue2.X.
 
 ## Runtime
 
