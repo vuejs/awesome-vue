@@ -353,7 +353,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
   - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
-
+  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites 
+  - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
 ### Commercial Products
 
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -419,6 +420,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue.js Feed](https://vuejsfeed.com/) - The latest Vue.js news, tutorials, plugins, and more. Made with Vue.js and Laravel, based on **[Vuedo](https://github.com/Vuedo/vuedo)**.
   - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
+
 
 
 ### Interactive Experiences
