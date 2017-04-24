@@ -611,16 +611,12 @@ Tooltips / popovers
 
 ### Tree
 
-*Display a tree data structure*
-
  - [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) - A Tree View based on [D3.js](https://d3js.org/)
-
-###### JSON
-
-*Display JSON data*
 
  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
 
+ - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.
+ 
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
