@@ -565,6 +565,7 @@ Tooltips / popovers
  - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
  - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
  - [vue-chartist](https://github.com/lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.
+ - [g2-vue](https://github.com/fireyy/g2-vue) - Factory wrapper for using G2 easily in a Vue Component.
 
 ### Time
 
