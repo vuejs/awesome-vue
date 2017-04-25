@@ -789,6 +789,7 @@ Tooltips / popovers
  - [framework7-vue](https://github.com/nolimits4web/Framework7) - Full featured HTML framework for building iOS & Android apps.
  - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+ - [vant](https://github.com/youzan/vant) - [Chinese] A Vue.js 2.0 Mobile UI at YouZan.
 
 ### Component Collections
 
