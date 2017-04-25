@@ -542,6 +542,7 @@ Tooltips / popovers
 ### Menu
 
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav) - Side-nav.
+ - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
 
 ### Carousel
 
