@@ -233,7 +233,7 @@
 - [Vue.js 2 & Vuex (Basics)](https://www.youtube.com/playlist?list=PL55RiY5tL51pT0DNJraU93FhMzhXxtDAo)
 - [Türkçe VueJS Eğitim Videoları](https://www.youtube.com/playlist?list=PLa3NvhdFWNipwk1KXeUpVQnAiAfuBw4El) on YouTube by [Fatih Acet](http://fatihacet.com)
 - [Building a JSON Tree View Component in Vue.js from Scratch in Six Steps](https://devblog.digimondo.io/building-a-json-tree-view-component-in-vue-js-from-scratch-in-six-steps-ce0c05c2fdd8#.738ok0l4p) on [digimondo devblog](https://devblog.digimondo.io/) by [Arvid Kahl](https://www.twitter.com/arvidkahldev)
-- [Let's Vue! - OpenLecture 2017.01 in Russian]() on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
+- [Let's Vue! - OpenLecture 2017.01 in Russian](https://youtu.be/7pmw5gvWAf8) on YouTube by Illya Klymov ([@xanf](https://github.com/xanf/))
 - [Bootstrapping your first Vue.js application using vue-cli](https://afropolymath.svbtle.com/bootstrapping-your-first-vue-js-project/) by [@afropolymath](https://twitter.com/afropolymath)
 - [Build vue-hackernews-2.0 from Scratch](https://github.com/Detachment/Build-vue-hackernews-2.0-from-scratch) by [@ Detachment](https://github.com/Detachment)
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5#.kp81np177)
@@ -353,6 +353,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
   - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
+  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
+  - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
+  - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
 
 ### Commercial Products
 
@@ -420,6 +423,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [蒜瓣](https://github.com/JasonBai007/suanban) - A web app developed with Vue2.0 and Douban API
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
   - [GRAP](https://grap.io) - Business communication service
+  - [Easy Mock](https://easy-mock.com)
 
 
 ### Interactive Experiences
@@ -484,6 +488,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
  - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.
  - [vuetiful-datatable](https://github.com/andrewcourtice/vuetiful/tree/master/src/components/datatable) - Datatable component with sorting, filtering, pagination, grouping and aggregation.
+ - [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - VueJS datatable for Materialize CSS
 
 ### Notification
 
@@ -499,7 +504,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 *Loaders / spinners / progress bars — Let the user know that something is loading*
 
  - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
-
+ - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
+ 
 #### Progress Bar
 
 *A slim progress bar at the top of the page*
@@ -562,6 +568,7 @@ Tooltips / popovers
  - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
  - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
  - [vue-chartist](https://github.com/lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.
+ - [g2-vue](https://github.com/fireyy/g2-vue) - Factory wrapper for using G2 easily in a Vue Component.
 
 ### Time
 
@@ -607,15 +614,11 @@ Tooltips / popovers
 
 ### Tree
 
-*Display a tree data structure*
-
  - [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) - A Tree View based on [D3.js](https://d3js.org/)
 
-###### JSON
-
-*Display JSON data*
-
  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
+
+ - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.
 
 ### Social Sharing
 
@@ -742,7 +745,7 @@ Tooltips / popovers
  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
 
 #### Wizard
- 
+
  - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
 
 
@@ -860,6 +863,7 @@ Tooltips / popovers
  - [simple-vue-validator](https://github.com/semisleep/simple-vue-validator) - A simple yet flexible validator library for vue.js.
  - [vue-vform](https://github.com/joseluisq/vue-vform) - Vue.js 2 form component that integrates jQuery Validation and Axios.
  - [vue-form](https://github.com/fergaldoyle/vue-form) - Comprehensive form validation for Vue.js.
+ - [vuelidation](https://github.com/cj/vuelidation) - simple, powerful, vuejs validation.
 
 
 ### Scroll
@@ -888,6 +892,7 @@ Tooltips / popovers
  - [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin.
  - [vue-l-lazyload](https://github.com/lsycxyj/vue-l-lazyload) - A lazyload plugin for Vue.js v2.x+.
  - [vue-lazyload-img](https://github.com/JALBAA/vue-lazyload-img) - Especially optimized for mobile browser. support V2 & v1.
+ - [vue-lazy-images](https://github.com/yyh1102/vue-lazyload-images) - A plugin of lazyload images for Vue 2.x.
 
 ### Pagination
 
@@ -971,6 +976,7 @@ Tooltips / popovers
  - [vue-i18n](https://github.com/MattyRad/vue-i18n) - A small plugin for implementing translations in Vue.js.
  - [vue-multilanguage](https://github.com/leonardovilarinho/vue-multilanguage) - Support many languages in Vue.js 2.
  - [vue-ts-locale](https://github.com/twcapps/vue-ts-locale) - A plugin for implementing translations using Intl in Vue.js 2 with typescript support.
+ - [vue-i18next](https://github.com/panter/vue-i18next) - A i18next wrapper to support translations in Vue.js 2.
 
 ### Custom Events
 
@@ -1222,6 +1228,7 @@ Tooltips / popovers
 *Sacaffold parts of the app*
 
  - [vue-generator](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
+ - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for vue component, supports Vue1.X and Vue2.X.
 
 ## Runtime
 
