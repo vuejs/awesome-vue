@@ -983,7 +983,8 @@ Tooltips / popovers
 
  - [vue-events](https://github.com/cklmercer/vue-events) - Simple event handling for Vue.js.
  - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS.
-
+ - [vue-event-manager](https://github.com/pagekit/vue-event-manager) - The global event manager for Vue.js.
+ 
 ### Persistence
 
 *LocalStorage etc.*
