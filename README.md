@@ -640,8 +640,9 @@ Tooltips / popovers
  - [vue-gravatar](https://github.com/JiriChara/vue-gravatar) - A dead-simple gravatar component for Vue.js 2.x
  - [vue-clipboard2](https://github.com/Inndy/vue-clipboard2) - An easy to use clipboard.js binding for Vue.js 2.x
 
+### Tabs
 
-
+ - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
 
 ### Form
 
