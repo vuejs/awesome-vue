@@ -788,7 +788,7 @@ Tooltips / popovers
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
-
+ - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
 ### Mobile
 
 *UI frameworks for mobile*
@@ -805,7 +805,6 @@ Tooltips / popovers
  - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
  - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
- - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
  - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
