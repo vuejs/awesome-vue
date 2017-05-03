@@ -359,6 +359,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
   - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
+  - [Media Manager](https://github.com/iutbay/mm) - Web File Manager.
 
 
 ### Commercial Products
