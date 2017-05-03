@@ -358,7 +358,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
   - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
-
+  - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
 
 ### Commercial Products
 
@@ -427,7 +427,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
   - [GRAP](https://grap.io) - Business communication service
   - [Easy Mock](https://easy-mock.com)
-
+  - [mmf-blog-vue2-ssr](https://github.com/lincenying/mmf-blog-vue2-ssr) A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
+  
 
 ### Interactive Experiences
 
