@@ -430,6 +430,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
   - [GRAP](https://grap.io) - Business communication service
   - [Easy Mock](https://easy-mock.com)
+  - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.  
 
 
 ### Interactive Experiences
