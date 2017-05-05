@@ -361,6 +361,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
   - [Media Manager](https://github.com/iutbay/mm) - Web File Manager.
   - [dyu/bookmarks](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
+  - [JSON Schema Editor](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 
 
 ### Commercial Products
