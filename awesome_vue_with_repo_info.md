@@ -1510,6 +1510,22 @@
      &#9733 11, pushed 0 days ago
     </sup>
    </li>
+   <li>
+    <strong>
+     <a href="https://github.com/sejr/vuefire-quickstart/">vuefire-quickstart</a> 
+     <!-- Place this tag where you want the button to render. -->
+     <a class="github-button"
+        href="https://github.com/sejr/vuefire-quickstart"
+        data-icon="octicon-star"
+        data-style="mega"
+        data-count-href="/sejr/vuefire-quickstart/stargazers"
+        data-count-api="/repos/sejr/vuefire-quickstart#stargazers_count"
+        data-count-aria-label="# stargazers on GitHub"
+        aria-label="Star sejr/vuefire-quickstart on GitHub">Star</a>
+        well-documented Firebase integration w/ webpack and eslint,
+        by <a href="https://github.com/sejr">@sejr</a>
+    </strong>
+   </li>
   </ul>
  </li>
  <li>
@@ -2309,6 +2325,11 @@ application.  By @Haixing-Hu
      小桃酱
     </a>
    </li>
+   <li>
+    <a href="https://12bay.vn">
+      12BAY.VN - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
+    </a>
+   </li>
   </ul>
  </li>
  <li>
@@ -2441,6 +2462,11 @@ application.  By @Haixing-Hu
    <li>
     <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">
      gitlab
+    </a>
+   </li>
+   <li>
+    <a href="https://m.tuniu.com/m2015/mpChannel/index" target="__blank">
+      Tuniu mp
     </a>
    </li>
   </ul>
