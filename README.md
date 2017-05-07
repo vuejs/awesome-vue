@@ -173,6 +173,7 @@
 - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
 - [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html)
+- [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
 
 ### Official Examples
 
