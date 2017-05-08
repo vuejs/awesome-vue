@@ -338,11 +338,18 @@
   </a>
  </li>
  <li>
+  <a href="http://www.imooc.com/learn/694">
+   Vue.js 入门基础
+  </a>
+  on imooc.com
+ </li>
+ <li>
   <a href="https://laravist.com/series/vue-js-1-0-in-action-series">
    Vue.js 中文系列视频教程
   </a>
   on Laravist
  </li>
+
  <li>
   <a href="http://coligo.io/vuejs-the-basics/">
    Vue.js: The Basics
