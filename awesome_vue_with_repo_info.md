@@ -403,6 +403,11 @@
   </a>
   on Coligo.io
  </li>
+ <li>
+  <a href="https://github.com/jayway/vue-js-workshop">
+   Jayway Vue.js workshop. Build an e-commerce site with vue-router, vuex and vue-resource
+  </a>
+ </li> 
 </ul>
 <h4>
  0.12 and earlier
