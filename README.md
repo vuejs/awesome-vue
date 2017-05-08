@@ -193,6 +193,7 @@
 - [Vuex basics: Tutorial and explanation](http://skyronic.com/2016/01/03/vuex-basics-tutorial/)
 - [Vuex introduction video - James Browne from London Vue.js Meetup #1](https://www.youtube.com/watch?v=l1KHL-TX3qs)
 - [Vue.js 中文系列视频教程](https://laravist.com/series/vue-js-1-0-in-action-series) on Laravist
+- [Vue.js 入门基础](http://www.imooc.com/learn/694) on imooc.com
 - [Vue.js: The Basics](http://coligo.io/vuejs-the-basics/) on Coligo.io
 - [VueJs: Components](https://coligo.io/vuejs-components/) on Coligo.io
 - [Dynamic Components in Vue.js](https://coligo.io/dynamic-components-in-vuejs/) on Coligo.io
