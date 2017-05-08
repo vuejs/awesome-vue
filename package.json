@@ -1,0 +1,16 @@
+{
+  "name": "awesome-vue",
+  "scripts": {
+    "list-outdated": "./bin/list_outdated.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/awesome-vue.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "github": "^8.1.1",
+    "github-url-to-object": "2.2.6"
+  },
+  "license": "MIT"
+}
