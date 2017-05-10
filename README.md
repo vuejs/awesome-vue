@@ -101,6 +101,7 @@
     - [Asset Management](#asset-management)
     - [Page Navigation](#page-navigation)
     - [Miscellaneous](#miscellaneous-3)
+    - [Web Workers](#web-workers)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
@@ -1082,6 +1083,8 @@ Tooltips / popovers
 - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 - [vue-inject](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
+### Web Workers
+- [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
 
 
 
