@@ -433,7 +433,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub](https://github.com/KDCinfo/snippets/tree/master/guessright) (although not the live files that run the game at kdcinfo).
   - [GRAP](https://grap.io) - Business communication service
   - [Easy Mock](https://easy-mock.com)
-  - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.  
+  - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
   - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
 
 ### Interactive Experiences
@@ -1216,6 +1216,7 @@ Tooltips / popovers
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
  - [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects.
+ - [Vue-Django](https://github.com/NdagiStanley/vue-django) - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
 
 ### Client
 
@@ -1260,7 +1261,7 @@ Tooltips / popovers
 
 ## Runtime
 
-### Commnand Line / Terminal
+### Command Line / Terminal
  - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
 
 
