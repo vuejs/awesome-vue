@@ -102,6 +102,7 @@
     - [Page Navigation](#page-navigation)
     - [Miscellaneous](#miscellaneous-3)
     - [Web Workers](#web-workers)
+    - [JSX](#jsx)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
@@ -1096,6 +1097,10 @@ Tooltips / popovers
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
 
+
+### JSX
+- [jsx-vue-functional](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - A Babel plugin that brings syntactic sugar for Vue functional components.
+- [jsx-event-modifiers](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 
 
 
