@@ -2167,7 +2167,7 @@ application.  By @Haixing-Hu
    </li>
    <li>
     <a href="http://www.bigdecimap.com:8080/">
-     Demo of Bureaufast workflow egine
+     Demo of Bureaufast workflow engine
     </a>
     <sup>
      <a href="https://github.com/yetaai/bureaufast">
@@ -2175,6 +2175,12 @@ application.  By @Haixing-Hu
      </a>
     </sup>
     An enterprise work flow engine capable of integrating SAP, Oracle, etc. e.g., Purchase Order release just by config although futher development supported.
+   </li>
+   <li>
+    <a href="https://github.com/qazbnm456/lulumi-browser">
+     Lulumi-browser
+    </a>
+    : A light weight browser coded with vue and electron
    </li>
   </ul>
  </li>
