@@ -850,6 +850,7 @@ Tooltips / popovers
 
  - [nuxt](https://github.com/nuxt/nuxt.js) - Framework for server-rendered Vue.js applications.
  - [app-framework](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
+ - [Bit](https://github.com/teambit/bit) - Maintain and use individual Value (and other) components across applications without having to pull entire libraries.
 
 
 
