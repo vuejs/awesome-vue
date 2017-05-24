@@ -633,6 +633,7 @@ Tooltips / popovers
 ### Markdown
 
  - [vue-markdown](https://github.com/miaolz123/vue-markdown) - A Powerful and Highspeed Markdown Parser for Vue.
+ - [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) - A markdown editor based on Vue that supports a variety of personalized features.
 
 ### PDF
 
@@ -654,7 +655,7 @@ Tooltips / popovers
 
  - [vue-qriously](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
  - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
- 
+
 ### Search
  - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
 
