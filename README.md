@@ -556,6 +556,7 @@ Tooltips / popovers
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 - [vudal](https://github.com/Egorvah/vudal) - Modal window for vue.js
 - [vodal](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+- [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 
 ### Parallax
 
