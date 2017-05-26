@@ -731,6 +731,7 @@ Tooltips / popovers
  - [vue-input-tag](https://github.com/matiastucci/vue-input-tag) - Vue.js 2.0 Input Tag Component.
  - [v-distpicker](https://github.com/jcc/v-distpicker) A flexible, highly available district picker for picking provinces, cities and districts of China for Vue.js 2.x.
  - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) A graceful, highly customizable img type input for Vue 2
+ - [vue-img-preview](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2
 
 #### Color Picker
 
