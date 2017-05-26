@@ -1184,6 +1184,7 @@ Tooltips / popovers
  - [vue-play](https://github.com/vue-play/vue-play) - A minimalistic framework for demonstrating your Vue components.
  - [vue-styleguide-generator](https://github.com/shershen08/vue-styleguide-generator) - React inspired style guide generator for Vue.js.
  - [CheatSheet](https://vuejs-tips.github.io/cheatsheet) - Complete Interactive API.
+ - [propdoc](https://github.com/propellant/doctor) - A single component that provides simple documentation of Vue.js components/props.
 
 ### Test
 
