@@ -560,6 +560,7 @@ Tooltips / popovers
 - [vudal](https://github.com/Egorvah/vudal) - Modal window for vue.js
 - [vodal](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 - [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
+- [vue2-simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
 
 ### Parallax
 
