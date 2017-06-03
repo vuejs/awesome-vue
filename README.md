@@ -790,6 +790,7 @@ Tooltips / popovers
 #### Context Menu
 
  - [vue-context-menu](https://github.com/vmaimone/vue-context-menu) - A context menu component for vue js.
+ - [vue-context](https://github.com/timwis/vue-context/tree/master) - A flexible context menu component for Vue.
 
 #### Miscellaneous
 
