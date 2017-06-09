@@ -1076,6 +1076,7 @@ Tooltips / popovers
  - [vue-sync](https://github.com/buhrmi/vue-sync) - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.
  - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
  - [vue-duo](https://github.com/haoxins/vue-duo) - A tiny state management for Vue.js.
+ - [vuez](https://github.com/markselby9/vuez) - A simple but powerful State Management for Vue.js, with only 2 APIs.
 
 #### Redux
 
