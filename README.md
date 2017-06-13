@@ -586,6 +586,7 @@ Tooltips / popovers
 
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav) - Side-nav.
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
+ - [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown) - Vue.js 2 dropdown menu component. Light, easy to use and extend, no external deps.
 
 ### Carousel
 
