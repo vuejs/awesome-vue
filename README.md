@@ -125,7 +125,7 @@
     - [Electron](#electron)
     - [Parts](#parts)
   - [Runtime](#runtime)
-    - [Commnand Line / Terminal](#command-line--terminal)
+    - [Command Line / Terminal](#command-line--terminal)
 
 
 
