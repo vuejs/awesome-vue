@@ -1214,6 +1214,7 @@ Tooltips / popovers
 ## Dev Tools
 
  - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
+ - [vuepack.org](http://vuepack.org) - A simple page that allows you to select Vue components and download them as a single minified JS file.
 
 ### Inspect
 
