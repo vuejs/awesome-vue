@@ -886,6 +886,7 @@ Tooltips / popovers
  - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
  - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
+ - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - [Chinese] Highly scalable web components for vue 2.0
 
 ###### Mobile
 
