@@ -890,7 +890,7 @@ Tooltips / popovers
  - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
  - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
- - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - [Chinese] Highly scalable web components for vue 2.0
+ - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
 
 ###### Mobile
 
@@ -1324,7 +1324,7 @@ Tooltips / popovers
  - [vue-typescript-boilerplate](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
  - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
  - [Vuets](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
- 
+
 ### Universal
 
 *Render Vue application to HTML on the server and to the DOM in the browser*
