@@ -104,6 +104,7 @@
     - [Miscellaneous](#miscellaneous-3)
     - [Web Workers](#web-workers)
     - [JSX](#jsx)
+    - [Migration](#migration)
   - [Integrations](#integrations)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
