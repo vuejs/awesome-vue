@@ -1099,7 +1099,6 @@ Tooltips / popovers
  - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
  - [vue-duo](https://github.com/haoxins/vue-duo) - A tiny state management for Vue.js.
  - [vuez](https://github.com/markselby9/vuez) - A simple but powerful State Management for Vue.js, with only 2 APIs.
- - [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
 
 #### Redux
 
@@ -1177,6 +1176,11 @@ Tooltips / popovers
 ### JSX
 - [jsx-vue-functional](https://github.com/nickmessing/babel-plugin-jsx-vue-functional) - A Babel plugin that brings syntactic sugar for Vue functional components.
 - [jsx-event-modifiers](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
+
+
+### Migration
+
+ - [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
 
 
 
