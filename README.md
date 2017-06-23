@@ -52,7 +52,8 @@
     - [Search](#search)
     - [Miscellaneous](#miscellaneous)
     - [Form](#form)
-      - [Date Picker](#date-picker)
+      - [Picker](#picker)
+        - [Date Picker](#date-picker)
       - [Select](#select)
       - [Slider](#slider)
       - [Drag and Drop](#drag-and-drop)
@@ -721,14 +722,17 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
-#### Date Picker
+#### Picker
+
+ - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
+
+##### Date Picker
 
 *Date / datetime / time Picker*
 
  - [vue-datepicker](https://github.com/hilongjw/vue-datepicker) - Calendar and datepicker component with material design for Vue.js.
  - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
- - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
  - [vuedt](https://github.com/nkoehring/vuedt) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 
 #### Select
