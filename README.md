@@ -1251,6 +1251,7 @@ Tooltips / popovers
 
  - [Vue.js devtools](https://github.com/vuejs/vue-devtools) - Chrome devtools extension for debugging Vue.js applications.
  - [DejaVue](https://github.com/MiCottOn/DejaVue) - Visualization and debugging tool built for Vue.js.
+ - [vue-clicky](https://github.com/Herteby/vue-clicky) - Right click any component to show info about it in the console.
 
 ### Docs
 
