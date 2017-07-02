@@ -597,8 +597,10 @@ Tooltips / popovers
 
 ### Parallax
 
+
 - [vue-parallax](https://github.com/vue-comps/vue-parallax) - Scrolls a image slower than the window to create a neat optical effect.
 - [vue-parallaxy](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
+
 
 ### Icons
 
