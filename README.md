@@ -169,6 +169,7 @@
 - [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 - [vueslack - 1300+ registered users worldwide](https://vueslack.com/)
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
+- [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
 
 ### Podcasts
 
