@@ -173,6 +173,7 @@
 - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
 - [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html)
+- [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
 
 ### Official Examples
 
@@ -757,6 +758,7 @@ Tooltips / popovers
  - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - A Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ip-input](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
  - [vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds
+ - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids) - Vue.js 2.x plugin that helps to use id-related attributes with no side-effect
 
 #### Wizard
 
@@ -1077,6 +1079,7 @@ Tooltips / popovers
 - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
 - [vue-super](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
+- [vue-inject](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 
 
 
@@ -1144,6 +1147,7 @@ Tooltips / popovers
 
  - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.
  - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
+ - [vuenit](https://github.com/jackmellis/vuenit) - Utilities for testing Vue components and directives.
 
 ###### Browser-less require
 
@@ -1221,6 +1225,7 @@ Tooltips / popovers
  - [Vue Element Starter](https://github.com/Metnew/vue-element-starter) - Robust Vue 2 starter with Element-UI.
  - [vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A modern Vue.js multiple pages starter which uses Vue 2, Webpack2, and Element-UI
  - [vue-typescript-boilerplate](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
+ - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
 
 ### Universal
 
