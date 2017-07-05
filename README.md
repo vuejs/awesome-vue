@@ -557,6 +557,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-toasted](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS.
  - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
  - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.
+ - [vs-notify](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify) - Tiny but powerful notification component with no dependencies.
 
 ### Loader
 
@@ -872,7 +873,7 @@ Tooltips / popovers
  - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).
  - [vue-virtualscroll](https://github.com/ddgll/vue-virtualscroll) - [Vue 2.x] component to virtual scroll things.
  - [vue-inview](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
- - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes 
+ - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
 
 
 
