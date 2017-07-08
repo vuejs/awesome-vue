@@ -559,6 +559,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
  - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.
  - [vs-notify](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify) - Tiny but powerful notification component with no dependencies.
+ - [vue2-notify](https://github.com/websmurf/vue2-notify) - Vue.js 2+ notification plugin.
  - [vue-notifyjs](https://github.com/cristijora/vue-notifyjs) - Minimalist, 3kb themable notification plugin
 
 ### Loader
