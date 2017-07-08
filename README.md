@@ -725,7 +725,7 @@ Tooltips / popovers
  - [vue-kanban](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
  - [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) - A simple and elegant letter avatar component for vue.js
  - [vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js
-
+ - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)
 
 ### Tabs
 
