@@ -899,6 +899,7 @@ Tooltips / popovers
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
+ - [vulma](https://vulma.org) - Vue + Bulma = Vulma.
 ### Mobile
 
 *UI frameworks for mobile*
