@@ -170,6 +170,7 @@
 - [vueslack - 1300+ registered users worldwide](https://vueslack.com/)
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
+- [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 
 ### Podcasts
 
