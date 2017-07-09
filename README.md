@@ -1066,6 +1066,7 @@ Tooltips / popovers
  - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
  - [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) - Component to detect container resizing (event-based)
+ - [v-blur](https://github.com/ndelvalle/v-blur) - Vue directive to blur an element dynamically
 
 ### WebGL
 
