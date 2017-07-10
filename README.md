@@ -485,6 +485,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Power Thesaurus](https://www2.powerthesaurus.org) - A crowdsourced online thesaurus
   - [Chattanosy](https://chattanosy.com) - A community-powered database of new things and places in Chattanooga, TN.
   - [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
+  - [CodeBottle](https://codebottle.io/) - Drag-and-drop snippets to your projects
 
 ### Interactive Experiences
 
