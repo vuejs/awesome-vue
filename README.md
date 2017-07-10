@@ -487,6 +487,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Power Thesaurus](https://www2.powerthesaurus.org) - A crowdsourced online thesaurus
   - [Chattanosy](https://chattanosy.com) - A community-powered database of new things and places in Chattanooga, TN.
   - [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
+  - [CodeBottle](https://codebottle.io/) - Drag-and-drop snippets to your projects
 
 ### Interactive Experiences
 
@@ -734,6 +735,7 @@ Tooltips / popovers
  - [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) - A simple and elegant letter avatar component for vue.js
  - [vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js
  - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)
+ - [vue-invisible-recaptcha](https://github.com/MicroDroid/vue-invisible-recaptcha) - Super easy integration for Google's Invisible reCAPTCHA
 
 ### Tabs
 
