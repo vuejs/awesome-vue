@@ -170,6 +170,7 @@
 - [vueslack - 1300+ registered users worldwide](https://vueslack.com/)
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
+- [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 
 ### Podcasts
 
@@ -264,6 +265,7 @@
 - [Vue.js 2 & Firebase - Building Real Time Single Page Web Applications](https://www.youtube.com/watch?v=we4zuQIXmnw)
 - [Vue.js 2 & Vue-Resource - Real-World Application With External API Access](https://www.youtube.com/watch?v=p-7Zi9xYt2M)
 - [Interactive Vue.js Screencasts For Beginners](https://scrimba.com/playlist/playlist-38)
+- [Vue.JS ile NASA API'ını Kullanarak Veri Çekme](https://www.youtube.com/watch?v=uC5b2VDATDU) on YouTube by [Ali GÖREN](https://aligoren.com)
 
 ### Examples
 
@@ -332,6 +334,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
   - [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
   - [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
+  - [MyDiary-Vue](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) A diary application build with Vue 2.X which is also have contact and todolist function
+  - [VueJS Example Projects](https://github.com/vue-project) on Github by [Ali GÖREN](https://aligoren.com)
 
 ### Books
 
@@ -481,6 +485,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [n2ex](https://github.com/OrangeXC/n2ex) - A vue ssr(nust) website, use v2ex API
   - [Power Thesaurus](https://www2.powerthesaurus.org) - A crowdsourced online thesaurus
   - [Chattanosy](https://chattanosy.com) - A community-powered database of new things and places in Chattanooga, TN.
+  - [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
 
 ### Interactive Experiences
 
@@ -559,6 +564,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notifikation](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
  - [vue-notification](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.
  - [vs-notify](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-notify) - Tiny but powerful notification component with no dependencies.
+ - [vue2-notify](https://github.com/websmurf/vue2-notify) - Vue.js 2+ notification plugin.
+ - [vue-notifyjs](https://github.com/cristijora/vue-notifyjs) - Minimalist, 3kb themable notification plugin
+ - [vueup](https://github.com/chryb/vueup) - Simple, lightweight and elegant global notification popup for Vue.js
 
 ### Loader
 
@@ -566,6 +574,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
  - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
  - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
+ - [vuex-loading](https://github.com/f/vuex-loading) - Multiple Loader Management for Vue/Vuex applications.
 
 #### Progress Bar
 
@@ -723,7 +732,7 @@ Tooltips / popovers
  - [vue-kanban](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
  - [vue-letter-avatar](https://github.com/aidewoode/vue-letter-avatar) - A simple and elegant letter avatar component for vue.js
  - [vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js
-
+ - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)
 
 ### Tabs
 
@@ -821,6 +830,7 @@ Tooltips / popovers
 
  - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload) - A vue plugin for image to crop and upload.
  - [vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0.
+ - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A picture clipping plugin for vue2.0
 
 #### File Upload
 
@@ -890,11 +900,12 @@ Tooltips / popovers
 *Set of components + responsive layout system*
 
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2.
- - [vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js.
+ - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
+ - [vulma](https://vulma.org) - Vue + Bulma = Vulma.
 ### Mobile
 
 *UI frameworks for mobile*
@@ -960,6 +971,7 @@ Tooltips / popovers
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports) - Define your custom viewports and use them in your components.
  - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
+ - [vue-match-media](https://github.com/drenglish/vue-match-media) - Vue 2.x-compatible plugin that offers a consistent, semantic approach to making components media query-aware.
 
 ### Form
 
@@ -1057,6 +1069,7 @@ Tooltips / popovers
  - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
  - [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) - Component to detect container resizing (event-based)
+ - [v-blur](https://github.com/ndelvalle/v-blur) - Vue directive to blur an element dynamically
 
 ### WebGL
 
