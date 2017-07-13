@@ -526,6 +526,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
  - [Storyblok](https://app.storyblok.com)
  - [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
+ - [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
 
 
 
