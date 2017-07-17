@@ -492,6 +492,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Chattanosy](https://chattanosy.com) - A community-powered database of new things and places in Chattanooga, TN.
   - [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
   - [CodeBottle](https://codebottle.io/) - Drag-and-drop snippets to your projects
+  - [1XBET](https://1xbet.com) - A betting company operating since 2007
 
 ### Interactive Experiences
 
