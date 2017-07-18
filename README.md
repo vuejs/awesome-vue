@@ -1254,6 +1254,7 @@ Tooltips / popovers
 
 
 ## Integrations
+ - [require-vuejs](https://github.com/edgardleal/require-vuejs) - RequireJS plugin to async and dynamic load and parse .vue components.
 
 *Integrate with services or other frameworks*
 
