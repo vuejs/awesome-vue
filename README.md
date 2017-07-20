@@ -859,6 +859,7 @@ Tooltips / popovers
  - [vue-core-image-upload](https://github.com/Vanthink-UED/vue-core-image-upload) - A vue plugin for image to crop and upload.
  - [vue-croppa](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0.
  - [vue-cropper](https://github.com/xyxiao001/vue-cropper) - A picture clipping plugin for vue2.0
+ - [vue-croppie](https://github.com/jofftiquez/vue-croppie) - A Vue2 wrapper for croppie image cropper
 
 #### File Upload
 
