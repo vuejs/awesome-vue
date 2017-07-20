@@ -1045,6 +1045,7 @@ Tooltips / popovers
 ### Routing
 
  - [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+ - [vue-router-storage](https://github.com/ElderJames/vue-router-storage) - Router storage & resolve solution for Vue.js 2 & vue-router 2
 
 ### Lazy Load
 
