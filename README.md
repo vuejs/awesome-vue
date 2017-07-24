@@ -503,6 +503,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [1XBET](https://1xbet.com) - A betting company operating since 2007
   - [MyOwnTV](http://myowntv.org) - A streaming website for creating internet television
   - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
+  - [Talk to Someone](https://talktosomeone.net) - Free, anonymous and confidential online text chat with strangers around the world.
 
 ### Interactive Experiences
 
