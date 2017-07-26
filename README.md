@@ -1092,6 +1092,7 @@ Tooltips / popovers
 ### Filters
 
  - [vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.
+ - [morphling](https://github.com/jofftiquez/morphling) - A collection of standard and custom filters for Vue 2.
 
 ### SVG
 
