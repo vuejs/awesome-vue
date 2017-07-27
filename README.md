@@ -504,7 +504,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [MyOwnTV](http://myowntv.org) - A streaming website for creating internet television
   - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
   - [Talk to Someone](https://talktosomeone.net) - Free, anonymous and confidential online text chat with strangers around the world.
-  - [轮子工厂](http://www.wheelsfactory.cn)
+  - [轮子工厂](http://www.wheelsfactory.cn) - A ui components and libraries sharing website
   
 ### Interactive Experiences
 
