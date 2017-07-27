@@ -940,6 +940,7 @@ Tooltips / popovers
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [vulma](https://vulma.org) - Vue + Bulma = Vulma.
+ - [iviewui](https://www.iviewui.com/) - A high quality UI Toolkit based on Vue.js.
 ### Mobile
 
 *UI frameworks for mobile*
