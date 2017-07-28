@@ -860,6 +860,7 @@ Tooltips / popovers
  - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.
  - [vue-at](https://github.com/fritx/vue-at) - At.js for Vue.
  - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor
+ - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
 
 #### Image Manipulation
 
