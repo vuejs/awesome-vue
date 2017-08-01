@@ -952,7 +952,7 @@ Tooltips / popovers
 
 *UI frameworks for mobile*
 
- - [framework7-vue](https://github.com/nolimits4web/Framework7) - Full featured HTML framework for building iOS & Android apps.
+ - [Framework7-Vue](https://github.com/nolimits4web/Framework7-Vue) - Build full featured iOS & Android apps using Framework7 & Vue.
  - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
