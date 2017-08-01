@@ -744,6 +744,7 @@ Tooltips / popovers
  - [vue-qart](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
 
 ### Search
+ - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
  - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
 
 ### Miscellaneous
