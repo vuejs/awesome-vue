@@ -1172,6 +1172,7 @@ Tooltips / popovers
  - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS.
  - [vue-event-manager](https://github.com/pagekit/vue-event-manager) - The global event manager for Vue.js.
  - [vue-geb](https://github.com/vouill/vue-geb) - A global event bus using Observables.
+ - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
 
 ### Persistence
 
