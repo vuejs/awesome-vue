@@ -1512,7 +1512,7 @@
    </li>
    <li>
     <strong>
-     <a href="https://github.com/sejr/vuefire-quickstart/">vuefire-quickstart</a> 
+     <a href="https://github.com/sejr/vuefire-quickstart/">vuefire-quickstart</a>
      <!-- Place this tag where you want the button to render. -->
      <a class="github-button"
         href="https://github.com/sejr/vuefire-quickstart"
@@ -1629,6 +1629,18 @@
     <sup>
      &#9733 9, pushed 37 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/NdagiStanley/vue-django">
+     Vue-Django
+    </a>
+    - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
+   </li>
+   <li>
+    <a href="https://github.com/cstrap/python-vuejs">
+      python-vuejs
+    </a>
+    - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a vue-cli wrapper.
    </li>
   </ul>
  </li>
@@ -2462,6 +2474,11 @@ application.  By @Haixing-Hu
    <li>
     <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">
      gitlab
+    </a>
+   </li>
+   <li>
+    <a href="https://m.tuniu.com/m2015/mpChannel/index" target="__blank">
+      Tuniu mp
     </a>
    </li>
   </ul>
