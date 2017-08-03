@@ -776,6 +776,7 @@ Tooltips / popovers
 ### Tabs
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
+ - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) - A touch swipe tab component for vue.js(vue2).
 
 ### Form
 
