@@ -983,6 +983,7 @@ Tooltips / popovers
 *Set of components for mobile*
 
  - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
+ - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
 
 ### Other
 
