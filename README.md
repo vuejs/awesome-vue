@@ -421,6 +421,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements  VueJS (v2.x) on AdminLTE.
 - [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
 - [Explore-Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
+- [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) - Open Source Admin Template powered by Vue.js
+- [ChuckNorris](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 
 ### Commercial Products
 
@@ -505,7 +507,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
   - [Talk to Someone](https://talktosomeone.net) - Free, anonymous and confidential online text chat with strangers around the world.
   - [轮子工厂](http://www.wheelsfactory.cn) - A ui components and libraries sharing website
-  
+  - [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
+  - [Ripplectron](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
+
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
@@ -630,6 +634,7 @@ Tooltips / popovers
 - [v-img](https://github.com/crowdbotics/v-img) - Easy to install image gallery.
 - [vue-dialog-drag](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 - [vue-ya-semantic-modal](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
+- [vue-pure-lightbox](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 
 ### Parallax
 
@@ -639,12 +644,14 @@ Tooltips / popovers
 ### Icons
 
  - [vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
+ - [vue-material-design-icons](https://gitlab.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitLab") - A collection of SVG Material Design icons as single file components.
 
 ### Menu
 
  - [vue-side-nav](https://github.com/vue-comps/vue-side-nav) - Side-nav.
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
  - [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown) - Vue.js 2 dropdown menu component. Light, easy to use and extend, no external deps.
+ - [vue-slideout](https://github.com/vouill/vue-slideout) - Vue implementation of the popular library [slideout](https://github.com/Mango/slideout)
  - [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
 
 ### Carousel
@@ -743,6 +750,7 @@ Tooltips / popovers
 
 ### Search
  - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
+ - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
 
 ### Miscellaneous
 
@@ -770,6 +778,7 @@ Tooltips / popovers
 ### Tabs
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
+ - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) - A touch swipe tab component for vue.js(vue2).
 
 ### Form
 
@@ -839,6 +848,7 @@ Tooltips / popovers
  - [vue-switches](https://github.com/drewjbartlett/vue-switches) - An on/off switch component for Vue.js with theme support.
  - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - Vue.js 2.0+ toggle / switch button - simple, pretty, customizable.
  - [vue-checkbox-radio](https://github.com/mariomka/vue-checkbox-radio) - A Vue component to easily styling checkbox and radio inputs.
+ - [vue-enhanced-check](https://github.com/Keiwen/vue-enhancedCheck) - Vue component to redesign/labelize checkbox/radio, including toggle/switch button.
 
 #### Masked Input
 
@@ -858,6 +868,7 @@ Tooltips / popovers
  - [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.
  - [vue-at](https://github.com/fritx/vue-at) - At.js for Vue.
  - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor
+ - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
 
 #### Image Manipulation
 
@@ -941,11 +952,14 @@ Tooltips / popovers
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [vulma](https://vulma.org) - Vue + Bulma = Vulma.
+ - [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
+ - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
+
 ### Mobile
 
 *UI frameworks for mobile*
 
- - [framework7-vue](https://github.com/nolimits4web/Framework7) - Full featured HTML framework for building iOS & Android apps.
+ - [Framework7-Vue](https://github.com/nolimits4web/Framework7-Vue) - Build full featured iOS & Android apps using Framework7 & Vue.
  - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 
@@ -970,6 +984,7 @@ Tooltips / popovers
 *Set of components for mobile*
 
  - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
+ - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
 
 ### Other
 
@@ -1095,6 +1110,7 @@ Tooltips / popovers
 
  - [vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.
  - [morphling](https://github.com/jofftiquez/morphling) - A collection of standard and custom filters for Vue 2.
+ - [vue-currency-filter](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
 
 ### SVG
 
@@ -1161,6 +1177,8 @@ Tooltips / popovers
  - [vue-events](https://github.com/cklmercer/vue-events) - Simple event handling for Vue.js.
  - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS.
  - [vue-event-manager](https://github.com/pagekit/vue-event-manager) - The global event manager for Vue.js.
+ - [vue-geb](https://github.com/vouill/vue-geb) - A global event bus using Observables.
+ - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
 
 ### Persistence
 
@@ -1200,6 +1218,7 @@ Tooltips / popovers
  - [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.
  - [vuex-cache](https://github.com/superwf/vuex-cache) - A Vuex plugin utility to cache action those will make remote request.
  - [vuex-persist](https://github.com/championswimmer/vuex-persist) - A Typescript-ready Vuex plugin to help save the store to localStorage or any custom Storage (that you can configure).
+  - [vuex-local-state](https://github.com/biluochun/vuex-localState) - Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.
 
 ###### Sync Between Tabs
 
@@ -1314,6 +1333,7 @@ Tooltips / popovers
 
  - [vue-dev-server](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
  - [vuepack.org](http://vuepack.org) - A simple page that allows you to select Vue components and download them as a single minified JS file.
+ - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
 
 ### Inspect
 
@@ -1428,6 +1448,8 @@ Tooltips / popovers
  - [vue-typescript-boilerplate](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
  - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
  - [Vuets](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
+ - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
+ - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
 
 ### Universal
 
