@@ -97,6 +97,7 @@
     - [Persistence](#persistence)
     - [State Management](#state-management)
       - [Redux](#redux)
+      - [Mobx](#mobx)
       - [Vuex Utilities](#vuex-utilities)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -1203,6 +1204,10 @@ Tooltips / popovers
 
  - [revue](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
+
+#### Mobx
+
+ - [movue](https://github.com/nighca/movue) - Mobx integration for Vue.js.
 
 #### Authentication/Authorization
 
