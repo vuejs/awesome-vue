@@ -510,6 +510,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [轮子工厂](http://www.wheelsfactory.cn) - A ui components and libraries sharing website
   - [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
   - [Ripplectron](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
+  - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
 
 ### Interactive Experiences
 
