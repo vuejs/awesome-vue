@@ -510,6 +510,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [轮子工厂](http://www.wheelsfactory.cn) - A ui components and libraries sharing website
   - [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
   - [Ripplectron](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
+  - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
 
 ### Interactive Experiences
 
