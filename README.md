@@ -1125,6 +1125,9 @@ Tooltips / popovers
 
 - [vue-3d-model](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
 
+### Fullscreen
+
+- [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
 
 
 
