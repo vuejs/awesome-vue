@@ -1251,8 +1251,9 @@ Tooltips / popovers
 
  - [vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions.
  - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
- - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for vue.js projects.
- - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for VueJS (beta).
+ - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
+ - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
+ - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
 
 ### CSS
 
