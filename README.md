@@ -1251,8 +1251,9 @@ Tooltips / popovers
 
  - [vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions.
  - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
- - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for vue.js projects.
- - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for VueJS (beta).
+ - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
+ - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
+ - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
 
 ### CSS
 
@@ -1330,10 +1331,9 @@ Tooltips / popovers
  - [vue-grecaptcha](https://github.com/drozdzynski/vue-grecaptcha) - Google reCAPTCHA for VueJS 2
  - [vue-recaptcha](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js
  - [require-vuejs](https://github.com/edgardleal/require-vuejs) - RequireJS plugin to async and dynamic load and parse .vue components.
+ - [facebook-login-vuejs](https://github.com/iliran11/facebook-login-vue.git) - Vue Component for Authenticating your Facebook App and get the benefits of Facebook Login.
  - [vuejs/vuefire](https://github.com/vuejs/vuefire) - Official Firebase Integration for VueJS
  - [vuefire](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
-
-
 
 ###### Google Analytics
 
