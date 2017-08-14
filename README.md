@@ -350,6 +350,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue Weather Notifier](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
   - [Nuxt Type](https://github.com/sdras/nuxt-type) An example Vue project with Nuxt for routing/SSR to demo page transitions
   - [VueBlog](https://github.com/wmui/vueblog) A blog system supporting service side rendering by [wmui](https://github.com/wmui)
+  - [Cinemateka](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
   - [vue-pwa-vision](https://github.com/aofdev/vue-pwa-vision) - Vue + Vuetify + Google Cloud Vision Face Detection With Progressive Web App by [aofdev](https://github.com/aofdev)
   - [vue-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) - Vue + Vuetify + Amazon Rekognition Face Detection with Progressive Web App by [aofdev](https://github.com/aofdev)
 
@@ -464,7 +465,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
   - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
   - [X-SONGTAO](http://xiangsongtao.com) - A Personal blog. FE and CMS are in same vue SPA.
-  - [Cinemateka](http://cinema.seance.ru) - Film & events schedule SPA made with Vue & Laravel 5. Russian.
   - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
   - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hostiptal information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
