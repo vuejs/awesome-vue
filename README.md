@@ -275,6 +275,7 @@
 - [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
 - [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
 - [Vue.js视频系列，免费、入门、实战](http://nodelover.me/courses) on nodelover
+- [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 
 ### Examples
 
