@@ -276,6 +276,7 @@
 - [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
 - [Vue.js视频系列，免费、入门、实战](http://nodelover.me/courses) on nodelover
 - [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
+- [Vue.js: Development Machine Setup](https://www.ecofic.com/about/blog/vue-dev-machine-setup/) by [@chadcampbell](https://twitter.com/chadcampbell)
 
 ### Examples
 
