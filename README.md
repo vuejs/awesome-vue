@@ -355,6 +355,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-pwa-vision](https://github.com/aofdev/vue-pwa-vision) - Vue + Vuetify + Google Cloud Vision Face Detection With Progressive Web App by [aofdev](https://github.com/aofdev)
   - [vue-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) - Vue + Vuetify + Amazon Rekognition Face Detection with Progressive Web App by [aofdev](https://github.com/aofdev)
   - [vue-2.x-boilerplate](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small startker kit for a Vue project Vuex + vue-router
+  - [vue-minesweeper](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
 
 ### Books
 
@@ -618,6 +619,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue2-loading-bar](https://github.com/BosNaufal/vue2-loading-bar) - Simplest Youtube Like Loading Bar Component For Vue 2.
  - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js.
  - [vue-nprogress](https://github.com/vue-bulma/nprogress) - Progress bars is based on nprogress for Vue.
+ - [vue-progress-button](https://github.com/websmurf/vue-progress-button) - Vue.js 2.x animated button component.
 
 ### Tooltip
 
