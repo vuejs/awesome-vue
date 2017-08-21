@@ -1,6 +1,6 @@
 {
   "name": "vue-music",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "a music player",
   "main": "Music.vue",
   "scripts": {
@@ -21,6 +21,6 @@
     "url": "https://github.com/petsgre/music/issues"
   },
   "homepage": "https://github.com/petsgre/music#readme",
-  "_from": "vue-music@1.0.4",
-  "_resolved": "http://registry.npm.taobao.org/vue-music/download/vue-music-1.0.4.tgz"
+  "_from": "vue-music@1.0.7",
+  "_resolved": "http://registry.npm.taobao.org/vue-music/download/vue-music-1.0.7.tgz"
 }
