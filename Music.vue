@@ -18,7 +18,7 @@
           <input type="range" id="rangeVoice" v-model="voice" min="0" max="100" @input="changeVoice()">
         </div>
       </div>
-      <div @click="changeModel(modelImg)" :data-index="modelImg" class="music-model" :style="{backgroundImage: 'url(https://www.166zx.com/static/img/' + modelImg + '.png)'}"></div>
+      <div @click="changeModel(modelImg)" :data-index="modelImg" class="music-model" :style="{backgroundImage: 'url('+modelBase[modelImg-1].url+')'}"></div>
       <div class="music-list" @click.self.stop="listShow=!listShow,voiceShow=false">
       </div>
       <div class="music-list-result" v-if="listShow" v-click-outside="listOutside">
@@ -134,7 +134,20 @@ export default {
       voiceShow: false,
       listShow: false,
       modelImg: 1,
-      length: 0
+      length: 0,
+      modelBase: [{
+          index: 1,
+          url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABs0lEQVRYR+2XjU0CQRSEZyrQDsQK1ArEDqACoQKxA+3ADtQKxArUCsQOtAKlgjGDu+RYjvuBO0gMm5BA2Lv3vXnvzd4RO17ccXz8bwBJHZKfRSq3poCkUwAvAMYkh6sgWgGQdAjAmR+EwEOSD3kQrQA4kKQBgPtM0FyI1gCqQswAJL0CON/SSC4osQsA5zmHyAN425ISI5KTJQCSrfZFmtweoFUFJHU9ZEH2D5I/WymBpBGAKwCdJKDd8DoL0rgCkhzkMmYNIGYdfcYWfRYhGgWQ1APwlMn6gqRNzmYXS+GfPqD6/hIB7gD49AJJ122tJWkC4KQCgLcc+6hubObDCfidkK9SYO6GTQKk8jtIEcAzyV4sgY/O2Dh15e+7ocIDyHsNBW5J3swVSLq3DkQ2S3f4UcUe8CT8nQVxrQnxSNIKutOzI1hUgilJPzUtPxUnN/EMO0N3d+kKjei9UQUbUrx2No5hzVXLbcINIex+42QcY+ApgAFJ/z9bK6cggfgimdpqoSLBlOwt9hWr4I8NaOE8KBzDAOHx6lYtQ2mdkg2lPlDl5aJu0Oz+UoBNbl7l2j3AL3xf3yFN7UzRAAAAAElFTkSuQmCC"
+        },
+        {
+          index: 2,
+          url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABQklEQVRYR+2W7U0DMRBE31QAHQAdpAUqCFTA0UGoAOgAKiDpIFQAVEA6oAU6WLTIjozOOXRfzh/7T6JT4nk7nt2zOPLSkfWpANWBlgNmtgJOZgjnN7CR5J/7lQPYAqczACwAAy5SiGIZMLNz4Au4lPQeCywG4IJm5g5UgMMOmJkH5Q3YSrqdOoidR5CIxw5YTw1xECAR/wCW3q/ADTAKwsy8mKUk3+9PCIMmCu3xCbxKaiIl4G3zAjxKehhyHEHE9/4tJNnbh5Ef9SYCNFEktcnMrlxYkg+nQcvMmlDIGvDvd8B9LDg3CVu9Okg5+VMCEZ/6SHaY9n0gF5SxAOH8oxN78aIAAWIhafffy2jyI+hysEgGhgBcj0l+n8zkHPBX5Zn3bp+Nevz2ufM+EAbT00yXEudcpUEseh/IuVQBqgPVgR84rqjbMQPaWQAAAABJRU5ErkJggg=="
+        },
+        {
+          index: 3,
+          url: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABXUlEQVRYR+2W/VHDMAzFnzZgk3YDyghMQJmAdpKyAe0EsAEdoaPABOJeT8nlw46lXt3ccfWfiRP99Cw/STDzkpnj4w7wfxVQ1QcAnwC2InLK1VoVBSz4N4AlgB8ATzmIKgDMVlX3AF4s8yxENQAvxBlAVd8BLCY84SQi2ynPUFXKvUvsWXWejZRoAI4AHgumtBeR19QeC84zZ+GVVg8iAsAfjyCCwRu4FqJYA6q6BvDRSasHYcf3Zu8PIsL97lUEsBopQbDiEQ1+/saLWlLC+5/hPjeAR4lLIEIANSDCANeGcAF0TOZZRHiFaF6Thek9jiLA4J6zq7GxXA0iakSje55QwpP8L4AVO2QEIGsyQYg2eOsD5mZsJrnFZrSZSs0gUi7Y7TG94CEj8ug63DOYCUbBqwJ4glcDsJGMLZ4zRjLzRq3iNbxEevMJzgZfADY3H0oj0NUU8ELcAWZX4A+QLKwhysdzlAAAAABJRU5ErkJggg=="
+        }
+      ]
     }
   },
   methods: {
@@ -158,10 +171,10 @@ export default {
       })
     },
     playOnline(e) { //播放音乐
-      var search = this.$http.get("edit/home/GetMusicInfo?hash=" + e.FileHash)
+      var search = this.$http.jsonp('http://blog.166zx.com/edit/home/GetMusicInfo?hash=' + e.FileHash)
       search.then(data => {
         if (data.body.resultCode == 1) {
-          var musicInfo = JSON.parse(data.body.data);
+          var musicInfo = data.body.data;
           this.musicUrl = musicInfo.data.play_url;
           var music = new Music();
           music.reload();
@@ -172,9 +185,7 @@ export default {
             alert("很遗憾！播放源地址无效！");
           }
         }
-      }).catch(data => {
-        //console.log("获取音乐失败")
-      })
+      }).catch(data => {})
     },
     addTempList(e) { //添加到播放列表
       var list = this.onlineLists;
@@ -247,7 +258,7 @@ export default {
           break;
       }
     },
-    bubbling(event){
+    bubbling(event) { //修复 click-outside 阻止事件向上冒泡。
       var flag = false;
       for (var x = 0; x < event.path.length; x++) {
         if (event.path[x].className == "music-list-result") {
@@ -340,14 +351,14 @@ export default {
 
 .music-pre {
   flex: 1;
-  background: url("../assets/img/pre.png") no-repeat center;
+  background: url("./img/pre.png") no-repeat center;
   cursor: pointer;
 }
 
 .music-next {
   flex: 1;
   cursor: pointer;
-  background: url("../assets/img/next.png") no-repeat center;
+  background: url("./img/next.png") no-repeat center;
 }
 
 .music-toggle {
@@ -370,7 +381,7 @@ export default {
 
 .music-voice {
   float: left;
-  background: url('../assets/img/voice.png') no-repeat 0 8px;
+  background: url("./img/voice.png") no-repeat 0 8px;
   height: 100%;
   width: 50px;
   cursor: pointer;
@@ -469,16 +480,16 @@ input[type=range]::-webkit-slider-thumb {
 }
 
 .play {
-  background: url("../assets/img/play.png") no-repeat center;
+  background: url("./img/play.png") no-repeat center;
 }
 
 .pause {
-  background: url("../assets/img/pause.png") no-repeat center;
+  background: url("./img/pause.png") no-repeat center;
 }
 
 .music-show,
 .music-left {
-  background: url("../assets/img/right.png") no-repeat center;
+  background: url("./img/right.png") no-repeat center;
   background-position-x: -7px;
   width: 20px;
   height: 48px;
@@ -488,12 +499,12 @@ input[type=range]::-webkit-slider-thumb {
 }
 
 .music-box .music-left {
-  background: url("../assets/img/left.png") no-repeat center;
+  background: url("./img/left.png") no-repeat center;
 }
 
 .music-list {
   float: left;
-  background: url('../assets/img/list.png') no-repeat -6px 6px;
+  background: url("./img/list.png") no-repeat -6px 6px;
   background-size: 40px 40px;
   height: 100%;
   width: 50px;
