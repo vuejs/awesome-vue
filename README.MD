@@ -19,18 +19,31 @@ npm
 
 	<template>
 	  <div id="app">
-	    <Music></Music>
+	    <Music :protocol="protocol"></Music>
 	  </div>
 	</template>
 	<script>
 	import Music from 'vue-music'
 	export default {
 	  name: 'app',
+	   data(){
+		return{
+		  protocol:"http"
+		}
+	  },
 	  components: {
 	    Music
 	  }
 	}
 	</script>
+
+## api
+
+protocol
+
+
+	protocol:"http"  required,string
+
 
 ## 功能要点
 

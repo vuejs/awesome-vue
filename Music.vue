@@ -150,6 +150,12 @@ export default {
       ]
     }
   },
+  props:{
+    protocol: {
+      type: String,
+      required: true
+    }
+  },
   methods: {
     musicToggle() {
       var music = new Music();
@@ -158,9 +164,10 @@ export default {
     },
     musicSearch() {
       var musicName = this.musicName;
+      var protocol = this.protocol;
       this.searchShow = true;
       //酷狗音乐
-      var search = this.$http.jsonp("https://songsearch.kugou.com/song_search_v2?_callback=jQuery191034642999175022426_1489023388639&keyword=" + musicName + "&page=1&pagesize=10&userid=-1&clientver=&platform=WebFilter&tag=em&filter=2&iscorrection=1&privilege_filter=0&_=1489023388641")
+      var search = this.$http.jsonp(protocol+"://songsearch.kugou.com/song_search_v2?_callback=jQuery191034642999175022426_1489023388639&keyword=" + musicName + "&page=1&pagesize=10&userid=-1&clientver=&platform=WebFilter&tag=em&filter=2&iscorrection=1&privilege_filter=0&_=1489023388641")
       search.then(data => {
         if (data.body.error_code == 0) {
           var list = validateFilePath(data.body.data.lists);
@@ -171,7 +178,16 @@ export default {
       })
     },
     playOnline(e) { //播放音乐
-      var search = this.$http.jsonp('http://blog.166zx.com/edit/home/GetMusicInfo?hash=' + e.FileHash)
+      var protocol = this.protocol;
+      var url;
+      if(protocol==undefined){
+        throw "请输入请求协议格式(http或https)!"
+      }else if(protocol == 'http'){
+        url = 'http://blog.166zx.com/edit/home/GetMusicInfo?hash=' + e.FileHash;
+      }else{
+        url = 'https://www.166zx.com/edit/home/GetMusicInfo?hash=' + e.FileHash;
+      }
+      var search = this.$http.jsonp(url)
       search.then(data => {
         if (data.body.resultCode == 1) {
           var musicInfo = data.body.data;
