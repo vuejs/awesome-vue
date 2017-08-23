@@ -1,21 +1,20 @@
-## 基于html5<audio>的网页音乐播放器
+## Web pages based on HTML 5 < audio > music player
 
 > ![效果图](https://www.166zx.com/static/img/music_ui.png)
 
 > [demo](https://www.166zx.com/ "demo")
 
-## 需要
+## Requirements
 
 - vue ^2.3.3
 - vue-resource ^1.3.4
 - v-click-outside ^0.0.8
 
-## 下载
-npm
+## Installation
 
 	npm install vue-music --save
 
-## 使用
+## Usage
 
 	<template>
 	  <div id="app">
@@ -45,41 +44,36 @@ protocol
 	protocol:"http"  required,string
 
 
-## 功能要点
+## Function
 
-vue实例监听变化的数据，再通过music对象进行具体的dom操作。
+- play/pause，Previous，Next
 
-- 播放/暂停，上一首，下一首
+play/pause：
 
-播放/暂停：
+> watch a toggle，named**audioToggle**，control by toggle typed boolean
 
-> 通过监听一个开关，这里叫做**audioToggle**，去布尔值进行播放与暂停的判断
+Previous/Next：
 
-上/下一首：
-
-> 通过一个play()函数，执行播放，通过传入的参数(随机播放，列表播放，单曲循环)判断**播放模式**
-
-> 单曲循环和随机播放比较容易，不需要判断方向，即是上一首还是下一首
-
-> 列表循环需要判断一下**上一首还是下一首**
+> function named 'play()' to play music，3 arguments('random play'，'The list of play'，'single cycle') to change **Play mode**
 
 
-- 实时进度
+- range
 
-这里采用监听html5的一个audio事件**timeupdate**来实时返回播放的进度，进度条使用input新属性range，通过v-model的双向绑定的特点，就可以实时修改range的播放进度
+watch the event named **timeupdate** to modify the range，useing input new attribute range，by Two-way binding
 
-- 播放时长
+- play time
 
+as same as range,do not describe again,you can modify the attribute named duration
 
-- 声音调控
+- voice
 
+as same as range , modify the attribute 'range'
 
+- play mode
 
-- 播放模式
+3 condition：single cycle、The list of play、random play
+detail to see play list tips
 
-分为三种：单曲循环、列表循环、随机播放
-播放模式涉及到播放列表，详见播放列表。
+- play list
 
-- 播放列表
-
-列表循环以及随机播放时候需要用到列表，我将储存好的列表存放在localstorage中(效仿网易云)，如果没有列表默认播放faded(个人比较喜欢的一首歌，很有旋律感)
+play mode need to use play list,i save the list to localstorage(like Netease Cloud Music),if there is no one in list,it will play the music that named 'faded'(i like it,very rhythmical)
