@@ -1636,6 +1636,12 @@
     </a>
     - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
    </li>
+   <li>
+    <a href="https://github.com/cstrap/python-vuejs">
+      python-vuejs
+    </a>
+    - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a vue-cli wrapper.
+   </li>
   </ul>
  </li>
  <li>
