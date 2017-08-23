@@ -76,4 +76,4 @@ detail to see play list tips
 
 - play list
 
-play mode need to use play list,i save the list to localstorage(like Netease Cloud Music),if there is no one in list,it will play the music that named 'faded'(i like it,very rhythmical)
+
