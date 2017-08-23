@@ -524,6 +524,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
   - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
   - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
+  - [Develteam](https://www.develteam.com) - A social network for indie game dievelopers.
+  - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
 
 ### Interactive Experiences
 
