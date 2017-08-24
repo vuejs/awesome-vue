@@ -1009,6 +1009,7 @@ Tooltips / popovers
 
  - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
  - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
+ - [we-vue](https://github.com/tianyong90/we-vue) - A set of mobile ui components based on Vue.js 2.0 and WEUI.
 
 ### Other
 
