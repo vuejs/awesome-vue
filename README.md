@@ -173,6 +173,7 @@
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 - [VueJS Spanish - Slack Group](http://vuejs-es.herokuapp.com/)
+- [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
 
 ### Podcasts
 
