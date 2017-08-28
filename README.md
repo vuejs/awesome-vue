@@ -1120,6 +1120,7 @@ Tooltips / popovers
  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
  - [vue-pagination-bootstrap](https://github.com/brunoseco/vue-pagination-bootstrap) - A Vue.js (1.x & 2.x) server-side paging component with a template based on Bootstrap
+ - [laravel-vue-semantic-ui-pagination](https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination) - A Vue.js 2.x pagination used with Laravel & Semantic-UI.
 
 ### Animation
 
