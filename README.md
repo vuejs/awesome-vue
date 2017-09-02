@@ -14,8 +14,9 @@
     - [External Resources](#external-resources)
     - [Job Portal](#job-portal)
     - [Community](#community)
+    - [Conferences](#conferences)
     - [Podcasts](#podcasts)
-    - [Official Examples](#official-examples)
+    - [Official Examples](#official-examples)
     - [Tutorials](#tutorials)
     - [Examples](#examples)
     - [Books](#books)
@@ -174,6 +175,11 @@
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 - [VueJS Spanish - Slack Group](http://vuejs-es.herokuapp.com/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
+
+### Conferences
+
+- [VueConf](http://conf.vuejs.org)
+- [Vue.js London](http://vuejs.london)
 
 ### Podcasts
 
