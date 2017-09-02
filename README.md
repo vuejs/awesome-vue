@@ -14,7 +14,7 @@
     - [External Resources](#external-resources)
     - [Job Portal](#job-portal)
     - [Community](#community)
-    - [Conferences](#conferences)
+    - [Conferences](#conferences)
     - [Podcasts](#podcasts)
     - [Official Examples](#official-examples)
     - [Tutorials](#tutorials)
