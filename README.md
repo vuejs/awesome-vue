@@ -1180,14 +1180,11 @@ Tooltips / popovers
 ### WebGL
 
 - [vue-3d-model](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
+- [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 
 ### Fullscreen
 
 - [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
-
-
-
-
 
 ## Utilities
 
