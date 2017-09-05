@@ -868,6 +868,7 @@ Tooltips / popovers
  - [awe-dnd](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.
  - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
  - [vddl](https://github.com/hejianxian/vddl) - Vue components for modifying lists with the HTML5 drag & drop API, supports VueJs versions 1 and 2.
+ - [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
 
 #### Autocomplete
 
