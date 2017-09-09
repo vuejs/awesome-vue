@@ -173,7 +173,7 @@
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
-- [VueJS Spanish - Slack Group](https://vue-es.herokuapp.com/)
+- [VueJS Spanish - Slack Group](https://slack.vue-es.org/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
 
 ### Conferences
