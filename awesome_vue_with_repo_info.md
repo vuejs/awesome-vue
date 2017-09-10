@@ -2433,16 +2433,6 @@ application.  By @Haixing-Hu
     </a>
     - by KFFEIN
    </li>
-   <li>
-    <a href="https://madewithvuejs.com/">
-    madewithvuejs.com
-    <a>
-   </li>
-    <li>
-    <a href="https://vuecomponents.com/">
-    vuecomponents.com
-    <a>
-   </li>
   </ul>
  </li>
  <li>
