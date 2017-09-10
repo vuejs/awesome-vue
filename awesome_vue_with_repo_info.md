@@ -2342,6 +2342,16 @@ application.  By @Haixing-Hu
       12BAY.VN - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
     </a>
    </li>
+    <li>
+    <a href="https://madewithvuejs.com/">
+    madewithvuejs.com
+    <a>
+   </li>
+    <li>
+    <a href="https://vuecomponents.com/">
+    vuecomponents.com
+    <a>
+   </li>
   </ul>
  </li>
  <li>
