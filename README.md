@@ -452,6 +452,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Voten](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
 - [News Weaver](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
 - [Wake Up Billie Joe!](https://wakeupbilliejoe.com) - A web site countdown to October, based on Green Day's song Wake me up when September Ends. Created using Vue and Firebase.
+- [Astrum](https://github.com/NoDivide/astrum) - A lightweight pattern library designed to be included with any web project.
 
 ### Commercial Products
 
