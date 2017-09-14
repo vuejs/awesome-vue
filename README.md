@@ -865,6 +865,7 @@ Tooltips / popovers
  - [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
  - [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.
   - [stf-vue-select](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
+ - [vue-select-image](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
 
 #### Slider
 
