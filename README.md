@@ -615,6 +615,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-good-table](https://github.com/xaksis/vue-good-table) - An easy to use, VueJS (2.x) table plugin with sorting, column filtering, pagination etc.
  - [vue-grid](https://github.com/dzwillia/vue-grid) - A flexible grid component for Vue.js
  - [vue-easytable](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
+ - [vue2-datatable-component](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
 
 ### Notification
 
