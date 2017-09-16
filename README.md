@@ -546,6 +546,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
   - [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
   - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
+  - [iPrevYou - YouTube™ Player](https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa) - A chrome app for watching youtube videos on your desktop.
 
 ### Interactive Experiences
 
