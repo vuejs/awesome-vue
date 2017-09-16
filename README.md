@@ -1115,6 +1115,7 @@ Tooltips / popovers
  - [vue-form](https://github.com/fergaldoyle/vue-form) - Comprehensive form validation for Vue.js.
  - [vuelidation](https://github.com/cj/vuelidation) - simple, powerful, vuejs validation.
  - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
+ - [vuejs-model-validator](https://github.com/deulos/vuejs-model-validator) - VueJS style data component validation. Easiness, simplicity, accurate.
 
 
 ### Scroll
