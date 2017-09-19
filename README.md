@@ -157,6 +157,8 @@
 - [Vue.js Newsletter](http://vue-newsletter.com/) - Weekly dose of handpicked Vue.js news
 - [Vue.js Tips](http://vuetips.com) - Tips to become a better Vue.js developer
 - [Vue.js Wikipedia](https://en.wikipedia.org/wiki/Vue.js)
+- [Vue.js Radar](https://www.vuejsradar.com) - Curated newsletter + site covering new Vue.js releases/contributions. 
+
 
 ### Job Portal
 
