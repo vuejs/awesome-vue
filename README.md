@@ -1215,6 +1215,7 @@ Tooltips / popovers
  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
  - [vue-resize-sensor](https://github.com/FranckFreiburger/vue-resize-sensor) - Component to detect container resizing (event-based)
  - [v-blur](https://github.com/ndelvalle/v-blur) - Vue directive to blur an element dynamically
+ - [vue-async-methods](https://github.com/mokkabonna/vue-async-methods) - Helper utilities for promise based methods
 
 ### WebGL
 
