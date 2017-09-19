@@ -931,6 +931,7 @@ Tooltips / popovers
 - [vue-numeric](https://github.com/kevinongko/vue-numeric) - Input field component to display currency value based on Vue.
 - [awesome-mask](https://github.com/moip/awesome-mask) - Mask directive based on a pure and simply VanillaJS implementation
 - [v-money](https://github.com/vuejs-tips/v-money) - Tiny (<2k gzipped) input/directive mask for currency
+- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric) - A Vue.js component that wraps the awesome autoNumeric input formatter library
 
 #### Rich Text Editing
 
