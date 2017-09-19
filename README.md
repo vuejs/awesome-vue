@@ -1005,6 +1005,7 @@ Tooltips / popovers
  - [vue-inview](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
  - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
  - [vue-extend-layout](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
+ - [Vue-Layout](https://github.com/jaweii/Vue-Layout) - Vue可视化布局工具 / Vue Visualization Layout Tool .
 
 
 
