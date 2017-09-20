@@ -554,6 +554,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
   - [iPrevYou - YouTube™ Player](https://chrome.google.com/webstore/detail/iprevyou-youtube-player/blijlgfnjhnhmnaldaiienmjggbjhbaa) - A chrome app for watching youtube videos on your desktop.
   - [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
+  - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
 
 ### Interactive Experiences
 
@@ -592,6 +593,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Storyblok](https://app.storyblok.com)
  - [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
  - [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
+ - Adobe
+ - IBM
 
 
 
