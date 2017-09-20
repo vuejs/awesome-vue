@@ -494,6 +494,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PAIXIN](http://www.paixin.com/) - A genuine picture sale website
   - [CodeBottle](https://codebottle.io/) - Drag-and-drop snippets to your projects
   - [1XBET](https://1xbet.com) - A betting company operating since 2007
+  - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
 
 ### Interactive Experiences
 
@@ -532,6 +533,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Storyblok](https://app.storyblok.com)
  - [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
  - [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
+ - Adobe
+ - IBM
 
 
 
