@@ -857,6 +857,10 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
+#### Editable
+
+- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) -Better editable Component in Vue Edit.
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
