@@ -1231,6 +1231,7 @@ Tooltips / popovers
 
 - [vue-3d-model](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
 - [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
+- [vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 
 ### Fullscreen
 
@@ -1418,7 +1419,6 @@ Tooltips / popovers
  - [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
  - [av-ts](https://github.com/HerringtonDarkholme/av-ts) - A modern, type-safe, idiomatic Vue binding library.
  - [Neutronium](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS and javascript.
- - [vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
  - [vue-typescript-jest](https://github.com/locoslab/vue-typescript-jest) - Jest preprocessor.js for Vue.js components (supporting html, pug, and babel) and TypeScript.
  - [vue-jest-utils](https://github.com/locoslab/vue-jest-utils) - Utilities for testing Vue.js components using Jest.
  - [vue-custom-element](https://github.com/karol-f/vue-custom-element) - Vue Custom Element - Custom Elements for Vue.js.
