@@ -1602,6 +1602,7 @@ Tooltips / popovers
 
  - [Vuetober](https://github.com/scottbedard/oc-vuetober-theme) - Single page apps with Laravel, Vue.js, and October CMS.
  - [Toucan](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
+ - [vue-server-demo](https://github.com/fritx/vue-server-demo) - Writing koa server in Vue.
 
 ### Electron
 
