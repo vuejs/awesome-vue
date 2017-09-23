@@ -1114,6 +1114,7 @@ Tooltips / popovers
  - [vue-selectable](https://github.com/JSmith01/vue-selectable) - Vue 1.x/2.x directive to make items selectable by mouse.
  - [vue-click-helper](https://github.com/huangshuwei/vue-click-helper) - Vue2.x directive to handle click event and dblclick event on same element.
  - [v-hotkey](https://github.com/Dafrok/v-hotkey) - Vue 2.x directive for binding hotkeys to components.
+ - [vue-resize](https://github.com/Akryum/vue-resize) - Vue 2.x component to detect DOM elements resizing (event based/no window.onresize)
 
 ### Responsive Design
 
