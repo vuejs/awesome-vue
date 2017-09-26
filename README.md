@@ -1243,6 +1243,7 @@ Tooltips / popovers
 - [vue-3d-model](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
 - [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 - [vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
+- [VueGL](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 
 ### Fullscreen
 
