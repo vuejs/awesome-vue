@@ -1450,6 +1450,7 @@ Tooltips / popovers
 
  - [vue-ua](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
  - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
+ - [vue-gtm](https://github.com/mib200/vue-gtm) - Vue plugin for Google Tag Manager
 
 
 
