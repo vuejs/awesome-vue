@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" alt="awesome">
+  <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
   <br>
   <br>
 </p>
