@@ -1012,7 +1012,8 @@ Tooltips / popovers
  - [vue-rate](https://github.com/SinanMtl/vue-rate) - Rate component for Vue
  - [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
- - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button
+ - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
+ - [vue-stepper](https://github.com/PygmySlowLoris/vue-stepper) - A simple stepper with simple actions such as next, back and end to perform simple forms.
 
 #### Wizard
 
