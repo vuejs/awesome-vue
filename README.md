@@ -379,7 +379,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vuefire-realtimedatabase](https://github.com/aofdev/vuefire-realtimedatabase) A Vuefire Vue2-RealtimeDatabaseCRUD with Firebase
   - [vuefire-storage](https://github.com/aofdev/vuefire-storage) A Vuefire Vue2-Storage with Firebase
   - [Vue2-PWA-Blog](https://github.com/deepak-singh/vue-blog-pwa) by @deepak-singh
-  - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps 
+  - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
 
 ### Books
 
@@ -473,7 +473,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Collate Notes](http://www.collatenotes.com/)
  - [Formester](https://www.formester.com/) - Form, email marketing automation made easy
  - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over facebook messenger.
- 
+
 
 ### Apps/Websites
 
@@ -674,6 +674,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-top-progress](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js.
  - [vue-nprogress](https://github.com/vue-bulma/nprogress) - Progress bars is based on nprogress for Vue.
  - [vue-progress-button](https://github.com/websmurf/vue-progress-button) - Vue.js 2.x animated button component.
+ - [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) - A simple, flexible progress bar for Vue.js
 
 ### Tooltip
 
