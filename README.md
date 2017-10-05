@@ -566,6 +566,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
   - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
+  - [Boardbang](https://boardbang.com) - Media sharing platform.
 
 ### Interactive Experiences
 
