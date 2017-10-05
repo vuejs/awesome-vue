@@ -69,6 +69,7 @@
       - [Context Menu](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
   - [UI Layout](#ui-layout)
+    - [Admin Template](#admin-template)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
     - [Mobile](#mobile)
@@ -1048,9 +1049,10 @@ Tooltips / popovers
  - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
  - [vue-extend-layout](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
 
+### Admin Template
 
-
-
+*Set of admin template*
+  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
 
 
 
