@@ -1050,7 +1050,7 @@ Tooltips / popovers
 ### Admin Template
 
 *Set of admin template*
-  - [iView Vue Admin] (https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
+  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
 
 
 
