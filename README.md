@@ -1110,8 +1110,8 @@ Tooltips / popovers
 
 *Set of admin template*
 
-  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
-  - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element vue Admin / An admin template based on Element UI 2.x
+  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin portal template based on iView 2.x
+  - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element vue Admin / An admin portal template based on Element UI 2.x
  
 ### Other
 
