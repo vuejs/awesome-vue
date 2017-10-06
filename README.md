@@ -73,6 +73,7 @@
     - [Responsive](#responsive)
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
+    - [Admin Template](#admin-template)
     - [Other](#other)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
@@ -1102,7 +1103,13 @@ Tooltips / popovers
 
  - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
  - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
+ 
+### Admin Template
 
+*Set of admin template*
+
+  - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
+  
 ### Other
 
  - [nuxt](https://github.com/nuxt/nuxt.js) - Framework for server-rendered Vue.js applications.
