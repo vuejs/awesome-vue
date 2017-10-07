@@ -1481,6 +1481,7 @@ Payment utilities.
  - [vuejs/vuefire](https://github.com/vuejs/vuefire) - Official Firebase Integration for VueJS
  - [vuefire](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
  - [vue-runkit](https://github.com/maple3142/vue-runkit) - RunKit Embed for Vue.js
+ - [vue-youtube](https://github.com/anteriovieira/vue-youtube) - Provides a simple layer for you to use your imagination while over the [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference). (Compatible with SSR)
 
 ###### Google Analytics
 
