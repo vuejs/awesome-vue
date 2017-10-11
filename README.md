@@ -1034,6 +1034,7 @@ Tooltips / popovers
  - [vuetify-google-autocomplete](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
  - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
+ - [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
 
 #### Wizard
 
