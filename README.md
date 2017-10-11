@@ -670,7 +670,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  
 ### Loader
 
-*Loaders / spinners / progress bars — Let the user know that something is loading*
+*Loaders / spinners / progress bars / Skeleton — Let the user know that something is loading*
 
  - [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
  - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
@@ -678,6 +678,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-spinner-component](https://sergeyloysha.github.io/vue-spinner-component/) - Customizable, lightweight spinner for Vue.js.
  - [vue-progress-path](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
  - [vue-blockui](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similiar to jquery blockUI, can be used for loading screen.
+ - [](https://jrainlau.github.io/vue-occupy/) - Minimalist vue 2 occupy / skeleton
+ - [vue-skeleton-card](https://github.com/FrancescoSaverioZuppichini/skeleton-card-vuejs) - More advanced vue 2 occupy / skeleton like the one used on Facebook pages
 
 #### Progress Bar
 
