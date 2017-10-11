@@ -573,6 +573,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
   - [Boardbang](https://boardbang.com) - Media sharing platform.
+  - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
 
 ### Interactive Experiences
 
