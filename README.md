@@ -1335,7 +1335,8 @@ Tooltips / popovers
  - [vue-ts-locale](https://github.com/twcapps/vue-ts-locale) - A plugin for implementing translations using Intl in Vue.js 2 with typescript support.
  - [vue-i18next](https://github.com/panter/vue-i18next) - A i18next wrapper to support translations in Vue.js 2.
  - [vue-polyglot](https://github.com/guillaumevincent/vue-polyglot) - Basic translation plugin for Vue.js 2 with async loading.
- - [v-localize](https://github.com/neetVeritas/vue-localize) - Simple localization plugin for the amazing VueJS.
+ - [v-localize](https://github.com/neetjn/v-localize) - Simple localization plugin for 
+the amazing Vue.js.
 
 ### Custom Events
 
