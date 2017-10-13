@@ -921,7 +921,8 @@ Tooltips / popovers
 - [vue-jalaali-datepicker](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
-
+- [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localisation support and more.
+ 
 #### Select
 
  - [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
