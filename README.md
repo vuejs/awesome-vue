@@ -1640,11 +1640,6 @@ Payment utilities.
  - [vue-typescript-boilerplate](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
  - [vue-tachyons-template](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
  - [Vuets](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
-<<<<<<< HEAD
-
-||||||| merged common ancestors
- 
-=======
  - [MMF-FE/vue-typescript](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
  - [Friendly Vue Starter](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
  - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
@@ -1653,7 +1648,6 @@ Payment utilities.
  - [layout](https://github.com/ktquez/layout) - A full-featured Webpack + Vue Extend layout
  - [layout-simple](https://github.com/ktquez/layout-simple) - A simple Webpack + Vue Extend layout
 
->>>>>>> master
 ### Universal
 
 *Render Vue application to HTML on the server and to the DOM in the browser*
