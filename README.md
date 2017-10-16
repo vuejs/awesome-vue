@@ -595,6 +595,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Tolks.io](https://tolks.io)
  - [Meet Graham](http://www.meetgraham.com.au)
  - [NOIZE original](http://noizeoriginal.com)
+ - [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
 
 ### Enterprise Usage
 
