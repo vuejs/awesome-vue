@@ -1371,6 +1371,8 @@ the amazing Vue.js.
  - [vuet](https://github.com/medevicex/vuet) - Vue.js state management model for Agile Development
  - [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
  - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
+ - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
+ 
 
 #### Redux
 
