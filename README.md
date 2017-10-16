@@ -195,7 +195,7 @@
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
 - [Changelog #184 (11-27-2015)](https://changelog.com/184/)
 - [Software Engineering Daily (12-29-2015)](http://softwareengineeringdaily.com/2015/12/29/front-end-javascript-with-evan-you/)
-- [Javascript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
+- [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
 - [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html)
@@ -377,7 +377,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Nuxt Type](https://github.com/sdras/nuxt-type) An example Vue project with Nuxt for routing/SSR to demo page transitions
   - [VueBlog](https://github.com/wmui/vueblog) A blog system supporting service side rendering by [wmui](https://github.com/wmui)
   - [Cinemateka](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
-  - [vue-2.x-boilerplate](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small startker kit for a Vue project Vuex + vue-router
+  - [vue-2.x-boilerplate](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small starter kit for a Vue project Vuex + vue-router
   - [vue-minesweeper](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
   - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue by [OXOYO](https://github.com/OXOYO)
   - [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
@@ -472,7 +472,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Astrum](https://github.com/NoDivide/astrum) - A lightweight pattern library designed to be included with any web project.
 - [vue2-pwa-vision](https://github.com/aofdev/vue-pwa-vision) - A Face Detection Google Cloud Vision with Vue2 + Vuetify + Progressive Web App
 - [vue2-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
-  - [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across canada
+  - [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
 - [SPA-asp.net-api-vuejs-](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
 - [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 - [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
@@ -488,7 +488,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
  - [Collate Notes](http://www.collatenotes.com/)
  - [Formester](https://www.formester.com/) - Form, email marketing automation made easy
- - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over facebook messenger.
+ - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
 
 
 ### Apps/Websites
@@ -521,7 +521,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
   - [X-SONGTAO](http://xiangsongtao.com) - A Personal blog. FE and CMS are in same vue SPA.
   - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
-  - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hostiptal information
+  - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
   - [Jobi : Recruiting Platform ](https://www.jobi.tn/)
   - [The Spice House](https://www.thespicehouse.com) - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
   - [Livestorm](http://livestorm.co) - Webinar / Live events app.
@@ -535,7 +535,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PLAYCODE.IO](https://playcode.io) - Playground for Rapid Frontend Experiments.
   - [The Void Radio](http://thevoidrad.io) - Underground House Music Online Radio.
   - [Bitly Vue](https://alpixel.github.io/bitly-vuejs) - Shorten URLs with VueJS & Bitly API.
-  - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for it's frontend.
+  - [Storyblok](https://www.storyblok.com) - API Based/Decoupled CMS using VueJS for its frontend.
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
@@ -571,7 +571,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
   - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
   - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
-  - [Develteam](https://www.develteam.com) - A social network for indie game dievelopers.
+  - [Develteam](https://www.develteam.com) - A social network for indie game developers.
   - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
   - [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
   - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
