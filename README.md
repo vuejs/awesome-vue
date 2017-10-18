@@ -1578,7 +1578,7 @@ Payment utilities.
 
 *Load Vue components without browser*
 
- - [vuegister](https://github.com/iatsiuk/vuegister) - Vuegister (an acronym for vue-register) is a require hook for loading of the Vue.js single-file components (or .vue files).
+ - [vuegister](https://github.com/iatsiuk/vuegister) - Vuegister (a portmanteau of vue & register) is a require hook for loading of the Vue.js single-file components (or .vue files).
  - [vue-node](https://github.com/knpwrs/vue-node) - Load vue components in node.
 
 ### Source Code Editing
