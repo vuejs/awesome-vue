@@ -483,6 +483,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [My Animation List](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 - [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 - [TidyTab](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
+- [peregrine-cms](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 
 ### Commercial Products
 
