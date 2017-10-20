@@ -1056,7 +1056,8 @@ Tooltips / popovers
  - [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
  - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
  - [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
-
+ - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ 
 #### Wizard
 
  - [vue-form-wizard](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
@@ -1382,7 +1383,7 @@ the amazing Vue.js.
  - [vue-ya-stash](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
  - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
  - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
-
+ - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
 
 #### Redux
 
