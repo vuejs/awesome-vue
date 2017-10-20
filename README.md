@@ -588,7 +588,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
-
+  - [Habitaca](https://habitica.com/) - online task management application in  the form of a role-playing game.
+  
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
