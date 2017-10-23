@@ -787,7 +787,7 @@ Tooltips / popovers
  - [vuebars](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
  - [vue-d3-network](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
  - [vue2vis](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).
- - [vue-c3][https://github.com/chryb/vue-c3] - A reusable vue component for c3 charts
+ - [vue-c3](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts
 
 ### Time
 
