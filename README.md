@@ -938,6 +938,7 @@ Tooltips / popovers
 - [vue-date-picker](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 - [vue-monthly-picker](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 - [vue-hotel-datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localisation support and more.
+- [vue2-persian-datepicker](https://github.com/dyonir/vue2-persian-datepicker) - An awesome persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 #### Select
 
@@ -1016,7 +1017,7 @@ Tooltips / popovers
  - [vue-wysiwyg](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor
  - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
  - [vue-pell-editor](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor
-
+ - [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.
 #### Image Manipulation
 
 *Edit images*
