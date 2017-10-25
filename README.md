@@ -306,6 +306,7 @@
 - [Using props for accessing URL parameters within components with Vue Router](https://www.youtube.com/watch?v=ESg0k2zdME4) by [@mikestreety](https://twitter.com/mikestreety)
 - [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
 - [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
+- [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
 
 
 ### Examples
