@@ -217,7 +217,7 @@
 
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
-- [Build an App with Vue.js: From Authentication to Calling an API](https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/) on Auth0 blog
+- [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
 - [Vue.js build set-up from scratch with webpack, vue-loader and hot reload](http://skyronic.com/2015/12/28/vue-project-scratch/)
