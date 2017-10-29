@@ -184,6 +184,7 @@
 - [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 - [VueJS Brasil - Facebook Page [Portuguese]](https://www.facebook.com/vuejsbrasil/)
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
+- [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
 
 ### Conferences
 
