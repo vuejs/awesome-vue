@@ -99,6 +99,7 @@
     - [Persistence](#persistence)
     - [State Management](#state-management)
       - [Redux](#redux)
+        - 
       - [Mobx](#mobx)
       - [Vuex Utilities](#vuex-utilities)
     - [Concurrency Management](#concurrency-management)
@@ -1404,6 +1405,7 @@ the amazing Vue.js.
 
  - [revue](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
+  - [redux-store-mixin](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
 
 #### Mobx
 
