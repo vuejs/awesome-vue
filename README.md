@@ -1133,6 +1133,8 @@ Tooltips / popovers
  - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://v4-alpha.getbootstrap.com/) grid and components for Vue.js 2.
 ### Mobile
+- [Zircle UI](https://zircle.io) - A circular zooming user interface library based on Vue.js 2.
+### Mobile
 
 *UI frameworks for mobile*
 
