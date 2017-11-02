@@ -1132,6 +1132,7 @@ Tooltips / popovers
  - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
  - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://v4-alpha.getbootstrap.com/) grid and components for Vue.js 2.
+ - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
 ### Mobile
 
 *UI frameworks for mobile*
