@@ -309,7 +309,7 @@
 - [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
 - [Building a Full Stack Web App with Vue.js and Express.js](https://www.youtube.com/watch?v=Fa4cRMaTDUI&t=) by [@CodyLSeibert](https://twitter.com/CodyLSeibert)
 - [Vue.js 2 Recipes (Video)](https://www.packtpub.com/application-development/vuejs-2-recipes-video) by Peter van Meijgaard, Packt. (September 2017)
-- [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js) on Sabe.io
+- [Getting Started with Vue.js](https://sabe.io/tutorials/getting-started-with-vue-js) on [Sabe.io](https://sabe.io/)
 - [Building Your First Advanced CRUD Application with Vue 2 (Video)](https://www.packtpub.com/web-development/building-your-first-advanced-crud-application-vue-2-video) by Peter van Meijgaard, Packt. (July 2017)
 - [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
