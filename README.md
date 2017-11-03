@@ -1086,6 +1086,7 @@ Tooltips / popovers
  - [vue-fab](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
  - [vue-complexify](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
 
 #### Wizard
 
