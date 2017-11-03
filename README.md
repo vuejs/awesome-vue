@@ -928,6 +928,7 @@ Tooltips / popovers
  - [vue-maze](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
  - [vue-drag-verify](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
+ - [vue-sticker](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
 
 ### Tabs
 
