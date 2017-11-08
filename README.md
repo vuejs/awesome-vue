@@ -613,6 +613,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [CodeDependencyScanner](https://github.com/NeutroniumCore/CodeDependencyScanner/) - A C# dektop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
   - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
   - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
+  - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
 
 
 ### Interactive Experiences
