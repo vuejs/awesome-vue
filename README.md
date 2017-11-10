@@ -1358,6 +1358,7 @@ Tooltips / popovers
  - [v-blur](https://github.com/ndelvalle/v-blur) - Vue directive to blur an element dynamically
  - [vue-async-methods](https://github.com/mokkabonna/vue-async-methods) - Helper utilities for promise based methods
  - [vue-openseadragon](https://github.com/braceslab/vue-openseadragon) - OpenSeaDragon component for Vue.js (zoom and pan)
+ - [vue-match-heights](https://github.com/samturrell/vue-match-heights) - Directive to set heights of elements to be the same.
 
 ### WebGL
 
