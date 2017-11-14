@@ -1433,7 +1433,8 @@ the amazing Vue.js.
  - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
  - [vue-idb](https://github.com/ddgll/vue-idb) - Lists and huge lists management with IndexedDB (Dexie.js) only or automatically created and extendible vuex modules
  - [vuejs-storage](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
-  - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
+ - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
+ - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 
 ### State Management
 
