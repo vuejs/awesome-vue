@@ -996,6 +996,12 @@
     </a>
    </li>
    <li>
+    <a href="https://github.com/Eazymov/vue-mce">
+     Vue-mce
+    </a>
+	: tinymce editor component for Vue.js by @Eazymov
+   </li>
+   <li>
     <a href="http://pespantelis.github.io/vue-typeahead/">
      Vue Typeahead
     </a>
