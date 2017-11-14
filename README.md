@@ -1046,7 +1046,6 @@ Tooltips / popovers
 
 #### Rich Text Editing
 
- - [vue-mce](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
  - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue2.
  - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
  - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) - A MediumEditor component for Vue 2.
@@ -1057,6 +1056,7 @@ Tooltips / popovers
  - [vue-trumbowyg](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
  - [vue-pell-editor](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor
  - [vue-tinymce-editor](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.
+ - [vue-mce](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
 #### Image Manipulation
 
 *Edit images*
