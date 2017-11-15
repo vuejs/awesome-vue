@@ -1000,6 +1000,7 @@ Tooltips / popovers
  - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
  - [vddl](https://github.com/hejianxian/vddl) - Vue components for modifying lists with the HTML5 drag & drop API, supports VueJs versions 1 and 2.
  - [vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
+ - [vue-swing](https://github.com/goweiwen/vue-swing) - A swipeable cards interface, as seen in apps like Jelly and Tinder.
 
 #### Autocomplete
 
