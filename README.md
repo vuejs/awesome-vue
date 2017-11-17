@@ -1164,6 +1164,7 @@ Tooltips / popovers
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://v4-alpha.getbootstrap.com/) grid and components for Vue.js 2.
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A circular zooming UI library based on Vue.js 2.
+ - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  
 ### Mobile
 
