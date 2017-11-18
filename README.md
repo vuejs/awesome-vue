@@ -969,6 +969,7 @@ Tooltips / popovers
 *Date / datetime / time Picker*
 
  - [vue-datepicker](https://github.com/hilongjw/vue-datepicker) - Calendar and datepicker component with material design for Vue.js.
+  - [vue-datetime-picker](https://github.com/Haixing-Hu/vue-datetime-picker) - A Vue.js component implementing the datetime picker control using the Eonasdan's bootstrap datetime picker plugin.
  - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
  - [vuedt](https://github.com/nkoehring/vuedt) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
