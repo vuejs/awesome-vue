@@ -36,6 +36,8 @@
     - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
+    - [Iframes](#iframes)
+    
     - [Menu](#menu)
     - [Carousel](#carousel)
     - [Charts](#charts)
@@ -772,6 +774,10 @@ Tooltips / popovers
 
  - [vue-parallax](https://github.com/vue-comps/vue-parallax) - Scrolls an image slower than the window to create a neat optical effect.
  - [vue-parallaxy](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
+
+### Iframes
+
+ - [vue-frame](https://github.com/juliandavidmr/vue-frame) - Dynamic component for rapid creation of interfaces with iframes.
 
 ### Icons
 
