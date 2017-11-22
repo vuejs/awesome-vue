@@ -507,6 +507,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Light Bootstrap Dashboard](https://github.com/cristijora/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [Hubaga](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 - [vue-webpack-buefy](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+- [Coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
 ### Commercial Products
 
@@ -565,7 +566,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
-  - [Coypu](https://coypu.co) - Text-editor-like weekly planner
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
   - [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
