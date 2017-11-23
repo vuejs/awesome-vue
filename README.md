@@ -1386,6 +1386,7 @@ Tooltips / popovers
 
 *Utilities not directly related to the UI*
  - [vue-underscore](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
+ 
 ### Typescript
 
  - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
