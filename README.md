@@ -1472,6 +1472,7 @@ the amazing Vue.js.
  - [vue-assign-model](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
  - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
 
 #### Redux
 
