@@ -1441,6 +1441,7 @@ Tooltips / popovers
  - [vue-polyglot](https://github.com/guillaumevincent/vue-polyglot) - Basic translation plugin for Vue.js 2 with async loading.
  - [v-localize](https://github.com/neetjn/v-localize) - Simple localization plugin for
 the amazing Vue.js.
+ - [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
 
 ### Custom Events
 
