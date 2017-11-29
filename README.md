@@ -1514,6 +1514,7 @@ the amazing Vue.js.
  - [object-to-vuex-store](https://github.com/Raiondesu/object-to-vuex-store) - Convert any JS object into a valid vuex-store object.
  - [vuex-async-module](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
  - [vuex-api](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
+ - [vuex-queries](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex 
 
 ###### Sync Between Tabs
 
