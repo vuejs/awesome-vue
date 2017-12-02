@@ -185,7 +185,8 @@
 - [VueJS Brasil - Facebook Page [Portuguese]](https://www.facebook.com/vuejsbrasil/)
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
 - [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
-
+- [VueJS India 🇮🇳  - Discord chat server](https://goo.gl/mYXKUv)
+🇮
 ### Conferences
 
 - [VueConf](http://conf.vuejs.org)
