@@ -957,6 +957,7 @@ Tooltips / popovers
  - [vue-drag-verify](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
  - [vue-sticker](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
+ - [v-rating](https://github.com/vinayakkulkarni/v-rating) - ⭐️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
 
 ### Tabs
 
