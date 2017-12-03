@@ -186,7 +186,8 @@
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
 - [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
 - [VueJS India 🇮🇳  - Discord chat server](https://goo.gl/mYXKUv)
-🇮
+- [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
+
 ### Conferences
 
 - [VueConf](http://conf.vuejs.org)
@@ -206,6 +207,7 @@
 - [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 - [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
 - [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller)
+- [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
 
 ### Official Examples
 
@@ -956,6 +958,7 @@ Tooltips / popovers
  - [vue-drag-verify](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
  - [vue-sticker](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
+ - [v-rating](https://github.com/vinayakkulkarni/v-rating) - ⭐️ Rating component in Semantic-UI made with VueJS (< 500B gzipped, blazing fast)
 
 ### Tabs
 
