@@ -1473,6 +1473,7 @@ the amazing Vue.js.
  - [vuejs-storage](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
  - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
  - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
+- [vue-web-storage](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
 
 ### State Management
 
