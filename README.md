@@ -630,6 +630,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
   - [Vuethwallet](https://github.com/sc0vu/vuethwallet) - A simple app generate ethereum wallet with vuejs.
   - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
+  - [Vuethexplore](https://github.com/sc0Vu/vuethexplore) - A simple app explore ethereum blockchain with vuejs.
 
 
 ### Interactive Experiences
