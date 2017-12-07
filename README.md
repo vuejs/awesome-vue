@@ -966,6 +966,7 @@ Tooltips / popovers
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
  - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) - A touch swipe tab component for vue.js(vue2).
+ - [vue-tabs-component] (https://github.com/spatie/vue-tabs-component) - An easy way to display tabs with Vue.
 
 ### Form
 
@@ -973,7 +974,7 @@ Tooltips / popovers
 
 #### Editable
 
-- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) -Better editable Component in Vue Edit.
+- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) - Better editable Component in Vue Edit.
 
 #### Picker
 
