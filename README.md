@@ -1554,6 +1554,7 @@ the amazing Vue.js.
 
  - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) - Simple BEM class name generator for Vue.JS.
  - [vue-css](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-css) - Vue.js plugin that allows you to bundle CSS with your components.
+ - [vue-mods-names](https://rgru.github.io/vue-mods-names/#/) - Adding modificators to class names for all components in app.
 
 ### Asset Management
 
