@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <br>
   <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
   <br>
@@ -503,7 +503,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [SPA-asp.net-api-vuejs-](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
 - [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 - [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
-- [vue2-text-swimlane](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js
 - [Wiki.js](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 - [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) - A Speech to text With Google Cloud Speech on Vue2 + Vuetify + Progressive Web App
 - [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
@@ -519,6 +518,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Coypu](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 - [core-server](https://github.com/skyhark-projects/core-server) - Highly scallable VueJs framework with an integrated API system, and multiple advanced features.
 - [discord-logo](https://github.com/NNTin/discord-logo) - A Vue.js animated discord logo generator based on SVGs. ([Github Page](https://nntin.github.io/discord-logo/))
+- [node-vue-template](https://github.com/mubaidr/node-vue-template) - A starter template for building complete application using Node.js (API) and Vue.js (SPA) with some included packages and configurations to help start the development quickly.
 
 ### Commercial Products
 
@@ -819,6 +819,7 @@ Tooltips / popovers
  - [vue-coverflow](https://github.com/OrangeXC/vue-coverflow) - A vue2.x coverflow component.
  - [vue-agile](https://github.com/lukaszflorczak/vue-agile) – A carousel component inspired by Slick, written in Vue.js and vanilla JS only.
  - [vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) – A carousel component created by ganlanyuan, written in Vue.js. No jQuery. Works in IE8+.
+ - [vue2-text-swimlane](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js
 
 ### Charts
 
@@ -1498,7 +1499,7 @@ the amazing Vue.js.
  - [revue](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
     - [redux-store-mixin](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
- - [vuejs-redux](https://github.com/titouancreach/vuejs-redux) - High order component facilities for Vue and Redux.  
+ - [vuejs-redux](https://github.com/titouancreach/vuejs-redux) - High order component facilities for Vue and Redux.
 
 #### Mobx
 
@@ -1646,7 +1647,7 @@ Payment utilities.
  - [vue-ua](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
  - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
  - [vue-gtm](https://github.com/mib200/vue-gtm) - Vue plugin for Google Tag Manager
- 
+
 ###### Yandex Metrika
  - [vue-ya-metrica](https://github.com/shershen08/vue-ya-metrica) - Vue plugin for Yandex.Metrica
  - [vue-yandex-metrika](https://github.com/vchaptsev/vue-yandex-metrika) - Vue plugin for Yandex Metrika with router integration, plugin options by ([@vchaptsev](https://github.com/vchaptsev/))
