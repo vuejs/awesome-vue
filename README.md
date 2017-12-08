@@ -796,6 +796,7 @@ Tooltips / popovers
  - [vue-icon-font](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
  - [vue-ionicons](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
  - [vue-ico](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
+ - [mdi-vue](https://github.com/therufa/mdi-vue) - Material Design Icon components for Vuejs
 
 ### Menu
 
