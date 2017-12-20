@@ -806,6 +806,7 @@ Tooltips / popovers
  - [vue-quick-menu](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
  - [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
  - [vue-router-nav](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
+ - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enought in 80% of cases
 
 ### Carousel
 
