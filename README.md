@@ -1346,6 +1346,7 @@ Tooltips / popovers
 
  - [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
  - [vue-router-storage](https://github.com/ElderJames/vue-router-storage) - Router storage & resolve solution for Vue.js 2 & vue-router 2
+ - [vue-routisan](https://github.com/raniesantos/vue-routisan) - Elegant route definitions for Vue Router based on Laravel routing system
  - [vue-tidyroutes](https://github.com/edgarnadal/vue-tidyroutes) - Decentralized vue-router routes definitions
 
 ### Lazy Load
