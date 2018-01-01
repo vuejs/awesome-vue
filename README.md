@@ -136,6 +136,7 @@
     - [Parts](#parts)
   - [Runtime](#runtime)
     - [Command Line / Terminal](#command-line--terminal)
+  - [Prerendering](#prerendering)
 
 
 
@@ -1881,7 +1882,9 @@ Payment utilities.
 ### Command Line / Terminal
  - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
 
-
+## Prerendering
+ - [react-snap](https://github.com/stereobooster/react-snap) - A zero-configuration static pre-renderer for SPA
+ 
 <br/>
 <br/>
 <br/>
