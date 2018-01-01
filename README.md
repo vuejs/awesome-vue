@@ -1512,6 +1512,7 @@ the amazing Vue.js.
  - [vue-browserstore](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
  - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 - [vue-web-storage](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
+- [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
 
 ### State Management
 
