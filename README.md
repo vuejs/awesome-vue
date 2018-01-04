@@ -526,6 +526,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 - [fd-vue](https://github.com/freedomotic/fd-vue-webapp) - Vue.js client for an IoT framework
 - [wildfire](https://github.com/cheng-kang/wildfire) - A drop-in replacement for other comment plug-ins.
+- [Uber Run] (https://github.com/break-enter/uberrun) - Simple automation desktop app to download and organize your tax invoices from Uber.
 
 ### Commercial Products
 
