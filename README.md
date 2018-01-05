@@ -38,7 +38,6 @@
     - [Icons](#icons)
     - [Menu](#menu)
     - [Carousel](#carousel)
-    - [Seamless Scroll](#seamless-scroll)
     - [Charts](#charts)
     - [Time](#time)
     - [Calendar](#calendar)
@@ -975,9 +974,6 @@ Tooltips / popovers
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
  - [vue-swipe-tabs](https://github.com/zhangxiang958/vue-tab) - A touch swipe tab component for vue.js(vue2).
  - [vue-tabs-component](https://github.com/spatie/vue-tabs-component) - An easy way to display tabs with Vue.
- 
-### Seamless-scroll
- - [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
 
 ### Form
 
@@ -1340,6 +1336,10 @@ Tooltips / popovers
 
 - [vue-scroll-behavior](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 
+*Seamless scrolling*
+
+- [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
+ 
 ### Routing
 
  - [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
