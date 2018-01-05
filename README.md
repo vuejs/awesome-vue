@@ -903,6 +903,7 @@ Tooltips / popovers
  - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
  - [vue-canvasvideo](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
  - [vue-music](https://github.com/petsgre/music) - A Vue component base on html5 <audio>.
+ - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 
 ### Infinite Scroll
 
