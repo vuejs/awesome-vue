@@ -645,6 +645,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Fintechers](https://www.fintechers.io) - Fintech focused job board.
   - [Devjournal](https://www.devjournalapp.com) - Collaborative todo list for projects and ideas.
   - [Bubbleflat](https://bubbleflat.com) - Online platform that helps students and young Professionals find their perfect roommates by searching for people with similar lifestyles, interests, or schools. Laravel & Vuejs
+  - [TeaQuinox Tea Co](https://teaquinox.com/) -- ecommerce site that specializes in loose leaf tea.  
 
 ### Interactive Experiences
 
