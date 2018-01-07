@@ -829,6 +829,7 @@ Tooltips / popovers
  - [vue-drawer-layout](https://github.com/hjl19911127/vue-drawer-layout) - A simple DrawerLayout component like Android has for Vue.js.
  - [vue-simple-menu](https://github.com/RGRU/vue-simple-menu) - Simple menu component with a set of basic functionality, which is enought in 80% of cases
  - [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) - A Vue.js tree navigation menu with unlimited number of levels and minimum styles included
+ - [bp-vuejs-dropdown](https://github.com/borisbutenko/bp-vuejs-dropdown) - Vuejs => 2 dropdown. Easy to use, no external, optional.
 
 ### Carousel
 
