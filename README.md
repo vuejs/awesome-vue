@@ -1080,6 +1080,7 @@ Tooltips / popovers
  - [vue-img-inputer](https://github.com/waynecz/vue-img-inputer) A graceful, highly customizable img type input for Vue 2
  - [vue-img-preview](https://github.com/dameety/vue-image-preview) An image input preview component in vue 2
  - [v-image](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)
+ - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) A simple tags input Vue.js 2 component with typeahead/autocomplete
 
 #### Color Picker
 
