@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <br>
   <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
   <br>
@@ -994,6 +994,7 @@ Tooltips / popovers
  - [vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders) -  Composable components for rendering fake (progressive) content like facebook in vue
  - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
  - [vue-creativecommons](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.
+ - [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
  
  
 ### Tabs
