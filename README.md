@@ -1112,6 +1112,7 @@ Tooltips / popovers
 - [vue-input-number](https://github.com/joseluisq/vue-input-number) - A custom input number component for Vue.js 2.
 - [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
 - [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
+- [vue-ip](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 
 #### Rich Text Editing
 
