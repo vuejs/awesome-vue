@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <br>
   <img width="400" src="./logo.svg" alt="logo of vue-awesome repository">
   <br>
@@ -997,6 +997,7 @@ Tooltips / popovers
  - [vue-page-designer](https://github.com/fireyy/vue-page-designer) - Vue component for drag-and-drop to design and build mobile website.
  - [vue-creativecommons](https://github.com/julon/vue-creativecommons) - CreativeCommons.org Vue.js components library.
  - [vue-status-indicator](https://github.com/coderdiaz/vue-status-indicator) - A Vue.js component to show status indicator as colored dots.
+ - [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
  
 ### Tabs
 
