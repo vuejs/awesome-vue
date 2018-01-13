@@ -1121,6 +1121,7 @@ Tooltips / popovers
 - [v-unicode](https://github.com/ndelvalle/v-unicode) - Vue directive to restrict an input by unicode values.
 - [vue-cleave-component](https://github.com/ankurk91/vue-cleave-component) - Vue.js component for [cleave.js](http://nosir.github.io/cleave.js/)
 - [vue-ip](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
+- [vue-r-mask](https://github.com/raidan00/vue-r-mask) - Template similar to javascript regular expression.
 
 #### Rich Text Editing
 
