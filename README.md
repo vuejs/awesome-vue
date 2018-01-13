@@ -1549,7 +1549,6 @@ the amazing Vue.js.
 ### State Management
 
  - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
- - [tuex](https://github.com/Raiondesu/Tuex) - A mostly reasonable alternative to Vuex.
  - [vue-sync](https://github.com/buhrmi/vue-sync) - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.
  - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
  - [vue-duo](https://github.com/haoxins/vue-duo) - A tiny state management for Vue.js.
@@ -1560,6 +1559,7 @@ the amazing Vue.js.
  - [vue-stash](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
+ - [tuex](https://github.com/Raiondesu/Tuex) - A mostly reasonable alternative to Vuex.
 
 #### Redux
 
