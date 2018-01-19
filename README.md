@@ -883,6 +883,7 @@ Tooltips / popovers
  - [vue-timeago](https://github.com/egoist/vue-timeago) - A tiny timeago component for Vue.
  - [vue-moment-jalaali](https://github.com/saman/vue-moment-jalaali) - Jalaali Moment.js filters for your Vue.js project.
  - [vue-countdown-timer](https://github.com/sagarkbhatt/vuejs-countdown-timer) - Added timezone conversion support.
+ - [vue-analog-clock-range](https://github.com/f/vue-analog-clock-range) - Analog clock range to show time difference.
 
 ### Calendar
 
