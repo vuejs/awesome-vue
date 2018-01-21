@@ -1572,6 +1572,8 @@ the amazing Vue.js.
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-model](https://github.com/aarondfrancis/vue-model) - Model component for Vue.js
  - [tuex](https://github.com/Raiondesu/Tuex) - A mostly reasonable alternative to Vuex.
+ - [revuejs](https://github.com/dwqs/revuejs) - A tiny, light and handy state management for vuejs 2, writing less verbose code.
+ - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
 
 #### Redux
 
