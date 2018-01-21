@@ -876,6 +876,7 @@ Tooltips / popovers
  - [vue2vis](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).
  - [vue-c3](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts
  - [vue-d2b](https://github.com/d2bjs/vue-d2b) - Vue components for d2b charts. (Including axis, pie, sankey, and sunburst charts)
+ - [VueChart](https://github.com/SeregPie/VueChart) - A very simple Vue wrapper for Chart.
 
 ### Time
 
