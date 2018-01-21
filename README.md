@@ -1147,6 +1147,7 @@ Tooltips / popovers
  - [vue-mce](https://github.com/Eazymov/vue-mce) - tinymce editor component for VueJS.
  - [Vue2-Editor](https://github.com/davidroyer/vue2-editor) - HTML Editor using Vue.js and Quilljs
  - [vue-codemirror](https://github.com/surmon-china/vue-codemirror) - A Codemirror component for Vue2.
+ - [vue-easy-tinymce](https://github.com/m3esma/vue-easy-tinymce) - A simple and powerful package for easy usage of tinymce in Vue.js project.
 
 #### Image Manipulation
 
