@@ -70,6 +70,7 @@
       - [Miscellaneous](#miscellaneous-1)
       - [CSV](#csv)
     - [Canvas](#canvas)
+    - [Link Preview](#link-preview)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1214,6 +1215,11 @@ Tooltips / popovers
 ### Canvas
 
  - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
+ 
+ 
+ ### Link Preview
+
+ - [link-prevue](https://github.com/nivaldomartinez/link-prevue) - Flexible component for generate a link preview.
 
 
 
