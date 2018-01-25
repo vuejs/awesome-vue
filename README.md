@@ -656,6 +656,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [blip](https://blip.website) - Test websites for speed, mobile-friendliness, security and the HTML5 doctype. Find businesses around a location and test their websites en masse, or just test your own URL.
   - [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
   - [U3xyz](https://u3xyz.com) - A personal blog base on vue ssr.
+  - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
 
 
 ### Interactive Experiences
@@ -670,6 +671,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Meet Graham](http://www.meetgraham.com.au)
  - [NOIZE original](http://noizeoriginal.com)
  - [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
+ - [Bootstrap 4 Editor](http://www.itwonders-web.com/bootstrap4-editor/)
 
 ### Enterprise Usage
 
@@ -759,6 +761,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notice](https://github.com/nikitamarcius/vue-notice) - Vue.js 2 wrapper around Noty.js with native API
  - [vue-flash-message](https://github.com/keen-on-design/vue-flash-message) - Simple yet flexible notification plugin
  - [@voerro/vue-notifications](https://github.com/keen-on-design/vue-flash-message) - Simple Vue.js 2 notifications plugin with HTML and styling support.
+ - [vue-awesome-notifications](https://github.com/f3oall/vue-awesome-notifications) - Lightweight Vue.js notification library with advanced async support.
 
 ### Loader
 
@@ -1095,7 +1098,7 @@ Tooltips / popovers
  - [vue-auto-complete](https://github.com/charliekassel/vuejs-autocomplete) - Autocomplete for Vue2. Works with objects or api calls.
  - [vue-autosuggest](https://github.com/Educents/vue-autosuggest) - WAI-ARIA complete Autosuggest component with full customization over rendering and styling.
  - [v-autosuggest](https://github.com/soraino/v-autosuggest) - A simple modular Vuejs component that autosuggest input from a dyanamic or static data querying.
- - [autocomplete] (https://github.com/ieski/AutoComplete) - Simple modular Vuejs 2.* component.
+ - [autocomplete](https://github.com/ieski/AutoComplete) - Simple Autocomplete component for Vue.js 2.*
 
 #### Type Select
 
@@ -1372,6 +1375,7 @@ Tooltips / popovers
  - [vue-focus](https://github.com/simplesmiler/vue-focus) - A reusable focus directive for reusable Vue.js components.
  - [vue-form-generator](https://github.com/icebob/vue-form-generator) - A schema-based form generator component for Vue.js.
  - [vue-json-schema](https://github.com/demsking/vue-json-schema) - Generate a form using JSON Schema and Vue.js
+ - [ic-formly](https://github.com/InCuca/ic-formly) - Simple form component powered by vue-formly.
  - [Form Builder](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
 
 #### Validation
@@ -1656,6 +1660,7 @@ the amazing Vue.js.
  - [vue-bem-cn](https://github.com/c01nd01r/vue-bem-cn) - Simple BEM class name generator for Vue.JS.
  - [vue-css](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-css) - Vue.js plugin that allows you to bundle CSS with your components.
  - [vue-mods-names](https://github.com/RGRU/vue-mods-names) - Adding modificators to class names for all components in app.
+ - [vue-styler](https://github.com/mrtone/vue-styler) - Simple, performant styler for vue.
 
 ### Asset Management
 
