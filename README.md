@@ -740,6 +740,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [el-search-table-pagination](https://github.com/zollero/el-search-table-pagination) - Combines Form, Table and Pagination components of Element UI together. Based on Vue 2.x.([Detail](https://mp.weixin.qq.com/s/r_OumEQB79lpEETThHA70g))
  - [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
  - [Vue Datatable](https://github.com/laravel-enso/vuedatatable) - VueJS powered Datatable with Laravel server-side loading and JSON template setup
+ - [v2-table](https://github.com/dwqs/v2-table) - A simple table component based Vue 2.x.
 
 ### Notification
 
