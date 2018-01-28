@@ -1419,6 +1419,9 @@ Tooltips / popovers
 *Customize the scroll behavior*
 
 - [vue-scroll-behavior](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+- [vue-scroll-stop](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
+
+.
 
 *Seamless scrolling*
 
