@@ -1225,6 +1225,7 @@ Tooltips / popovers
 ### Canvas
 
  - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
+ - [vue-canvas-effect](https://github.com/chenxuan0000/vue-canvas-effect) - A simple, canvas effect collection for Vue.js.
  
  
  ### Link Preview
