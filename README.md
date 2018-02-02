@@ -824,6 +824,7 @@ Tooltips / popovers
 - [vue-swal](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs. (Compatible with SSR)
 - [vue-modal-dialogs](https://github.com/hjkcai/vue-modal-dialogs) - ✨ Promisify your own dialogs!
 - [vue-img-view](https://github.com/la7ender/vue-img-view) - a plugin for Vue.js, you can drag / view / rotate pictures anywhere
+- [vue-modaltor](https://github.com/davodaslanifakor/modaltor) - most advance configurable modal component for vuejs
 
 ### Parallax
 
