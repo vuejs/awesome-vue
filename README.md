@@ -1026,6 +1026,7 @@ Tooltips / popovers
  - [vue-google-adsense](https://github.com/mazipan/vue-google-adsense) - Vue.js Google Adsense Component with InFeed and InArticle Ads support
  - [emoji-vue](https://github.com/shershen08/emoji-vue) - Emoji 😎👌🏻 dropdown for Vue.js project
  - [vue-chessboard](https://github.com/vitogit/vue-chessboard) -  Chessboard vue component to load positions, create positions and see threats.
+ - [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.
  
 ### Tabs
 
