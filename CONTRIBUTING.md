@@ -29,5 +29,6 @@ If you consider your project finished, and it does not need any contributions, c
 Apps/Websites gives the opportunity to showcase the awesome things we can build with vuejs.
 You should put your app/website in this category if the following conditions are true:
 - The website is available without errors or ssl certificate problems, and load in a reasonable amount of time.
-- The website is using vuejs intensively. It should have more than a couple components, and also it should detect vue with [vue-devtools](https://github.com/vuejs/vue-devtools).
+- The website is using vuejs intensively. It should detect vue with [vue-devtools](https://github.com/vuejs/vue-devtools).
+- If you cannot detect vue with `vue-devtools` due to work at non public pages (e.g. for enterprise website), you can send Pull Request with screenshot that detected it.
 - The website is original and not too simple. For that reason, blogs and simple landing pages are rejected.

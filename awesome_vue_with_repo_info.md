@@ -1,6 +1,6 @@
 <p align="center">
  <br>
-  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" width="400">
+  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.svg" width="400">
    <br>
     <br>
     </br>
@@ -1512,7 +1512,7 @@
    </li>
    <li>
     <strong>
-     <a href="https://github.com/sejr/vuefire-quickstart/">vuefire-quickstart</a> 
+     <a href="https://github.com/sejr/vuefire-quickstart/">vuefire-quickstart</a>
      <!-- Place this tag where you want the button to render. -->
      <a class="github-button"
         href="https://github.com/sejr/vuefire-quickstart"
@@ -1629,6 +1629,18 @@
     <sup>
      &#9733 9, pushed 37 days ago
     </sup>
+   </li>
+   <li>
+    <a href="https://github.com/NdagiStanley/vue-django">
+     Vue-Django
+    </a>
+    - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
+   </li>
+   <li>
+    <a href="https://github.com/cstrap/python-vuejs">
+      python-vuejs
+    </a>
+    - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a vue-cli wrapper.
    </li>
   </ul>
  </li>
