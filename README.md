@@ -389,7 +389,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**Douban**](https://github.com/jeneser/douban) Awesome douban Example created with **Vue2.x** + **Vuex** + **Vue-router** + **vue-resource**. by [jeneser](https://github.com/jeneser)
   - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) - Integrates Storyblok's Component System, allows to create editable Websites.
   - [Vuexpresso](https://github.com/Ethaan/vuexpresso) - A boilerplate using VueX, Vue-Router, Vue-Apollo, webpack, GraphQL, Apollo-client, express and mongo
-  - [Vue.js with Sails.js backend example project](https://github.com/ndabAP/Vue.js-with-Sails.js-backend-example-project) - This project is for those who are new to single-page applications and want to learn through a real example.
+  - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
   - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
   - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
   - [vue-xplan](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
@@ -1648,14 +1648,15 @@ the amazing Vue.js.
  - [vuex-rest-api](https://github.com/christianmalek/vuex-rest-api) - A Helper utility to simplify the usage of REST APIs with Vuex. Based on axios.
  - [vuex-cache](https://github.com/superwf/vuex-cache) - A Vuex plugin utility to cache action those will make remote request.
  - [vuex-persist](https://github.com/championswimmer/vuex-persist) - A Typescript-ready Vuex plugin to help save the store to localStorage or any custom Storage (that you can configure).
-  - [vuex-local-state](https://github.com/biluochun/vuex-localState) - Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.
-  - [vuex-cli-scaffold](https://github.com/ndabAP/vuex-cli-scaffold) - Scaffold vuex actions, mutations, getters and the state.
+ - [vuex-local-state](https://github.com/biluochun/vuex-localState) - Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.
+ - [vuex-cli-scaffold](https://github.com/ndabAP/vuex-cli-scaffold) - Scaffold vuex actions, mutations, getters and the state.
  - [vuex-action-reload](https://github.com/chlab/vuex-action-reload) - A vuex plugin that reloads actions when a condition is met.
  - [vuejs-storage](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
  - [vuex-orm](https://github.com/revolver-app/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
  - [vuex-async-module](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
  - [vuex-api](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
  - [vuex-queries](https://github.com/whtsky/vuex-queries) - Vuex-Queries helps you write query functions in Vuex
+ - [vuex-microservice](https://github.com/ndabAP/vuex-microservice) - Define microservice URLs at a dedicated place and use them inside your Vuex actions.
 
 ###### Sync Between Tabs
 
