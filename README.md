@@ -1281,7 +1281,6 @@ Tooltips / popovers
 *Set of components + responsive layout system*
 
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2.
- - [vuesax](https://github.com/lusaxweb/vuesax) - Vuesax components for Vue.js.
  - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
@@ -1298,7 +1297,7 @@ Tooltips / popovers
  - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
-
+ - [vuesax](https://github.com/lusaxweb/vuesax) - Vuesax components for Vue.js.
 ### Mobile
 
 *UI frameworks for mobile*
