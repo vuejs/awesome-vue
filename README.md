@@ -1297,7 +1297,8 @@ Tooltips / popovers
  - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
-
+ - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
+ 
 ### Mobile
 
 *UI frameworks for mobile*
