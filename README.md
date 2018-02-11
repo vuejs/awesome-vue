@@ -667,7 +667,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [U3xyz](https://u3xyz.com) - A personal blog base on vue ssr.
   - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
   - [Chess Guardian](http://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
-
+  - [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
 
 ### Interactive Experiences
 
