@@ -550,7 +550,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 - [XMR Miner](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
-
+- [JoyProxy](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 
 ### Commercial Products
 
