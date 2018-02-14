@@ -1095,7 +1095,7 @@ Tooltips / popovers
 #### Slider
 
  - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - Slider for vue1.x and vue2.x.
- - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very Simple Vue Slider Bar Component.
+ - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very simple vue slider bar component.
  - [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) - Circle slider component for vue2.x.
  - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider. 
 
