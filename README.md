@@ -550,6 +550,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 - [XMR Miner](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
+- [activity-automation](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
 
 
 ### Commercial Products
@@ -792,7 +793,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration.
  - [svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - A simple,progress bar for Vue.js.
  - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Tiny full screen loading indicator
- 
+
 #### Progress Bar
 
 *A slim progress bar at the top of the page*
@@ -1096,7 +1097,7 @@ Tooltips / popovers
 
  - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - Slider for vue1.x and vue2.x.
  - [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) - Circle slider component for vue2.x.
- - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider. 
+ - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider.
 
 #### Drag and Drop
 
@@ -1304,7 +1305,7 @@ Tooltips / popovers
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
  - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
- 
+
 ### Mobile
 
 *UI frameworks for mobile*
