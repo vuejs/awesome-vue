@@ -982,6 +982,8 @@ Tooltips / popovers
  - [vue-json-tree-view](https://github.com/arvidkahl/vue-json-tree-view) - A JSON Tree View Component for Vue.js.
 
  - [vue-tree](https://github.com/halower/vue2-tree) - A Tree Component for Vue.js 2.X.
+ 
+ - [liquor-tree](https://github.com/amsik/liquor-tree) - Amazing Vue Tree component
 
 ### Social Sharing
 
