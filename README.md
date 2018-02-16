@@ -550,8 +550,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 - [XMR Miner](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
+- [JoyProxy](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
 - [activity-automation](https://github.com/mubaidr/activity-automation) - Manage daily activities and get reports on timely basis.
-
 
 ### Commercial Products
 
@@ -1097,7 +1097,8 @@ Tooltips / popovers
 
  - [vue-slider-component](https://github.com/NightCatSama/vue-slider-component) - Slider for vue1.x and vue2.x.
  - [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) - Circle slider component for vue2.x.
- - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider.
+ - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider. 
+ - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very simple vue slider bar component.
 
 #### Drag and Drop
 
@@ -1497,6 +1498,7 @@ Tooltips / popovers
  - [vue-mixin-tween](https://github.com/lukechinworth/vue-mixin-tween) - Mixin factory that adds tweened values to component context for animations
  - [v-odometer](https://github.com/JefferyHus/v-odometer) - Smoothly transitions numbers with ease. Use this library to give your application a smooth animation, only applicable on numbers.
  - [vue2-transitions](https://github.com/cristijora/vue2-transitions) ✨ Reusable Vue 2 transition components
+ - [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) Super easy magic-move transitions for Vue apps 🎩
 
 ### Meta Tags
 
