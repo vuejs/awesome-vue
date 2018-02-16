@@ -673,6 +673,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
   - [Chess Guardian](http://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
   - [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
+  - [MECHANICAL](https://addons.mozilla.org/en-US/firefox/addon/mechmod/) - Reddit mod for Firefox that surfaces contextual data insights.
 
 ### Interactive Experiences
 
