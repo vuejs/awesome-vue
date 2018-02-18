@@ -1103,6 +1103,7 @@ Tooltips / popovers
  - [vue-circle-slider](https://github.com/devstark-com/vue-circle-slider) - Circle slider component for vue2.x.
  - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider. 
  - [vue-slide-bar](https://github.com/biigpongsatorn/vue-slide-bar) - Very simple vue slider bar component.
+ - [textra](https://github.com/hosein2398/Textra) - Vue js add-on to slide text.
 
 #### Drag and Drop
 
