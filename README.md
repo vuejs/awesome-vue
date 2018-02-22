@@ -1658,6 +1658,7 @@ the amazing Vue.js.
  - [tuex](https://github.com/Raiondesu/Tuex) - A mostly reasonable alternative to Vuex.
  - [revuejs](https://github.com/dwqs/revuejs) - A tiny, light and handy state management for vuejs 2, writing less verbose code.
  - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
+ - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
 
 #### Redux
 
