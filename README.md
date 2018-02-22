@@ -1501,6 +1501,7 @@ Tooltips / popovers
  - [vue-pagination-wing](https://github.com/mazipan/vue-pagination-wing) - Vue.js pagination with customize wing settings.
  - [vue-paginate-al](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data.
  - [vue-tiny-pagination](https://github.com/coderdiaz/vue-tiny-pagination) - A Vue component for create a tiny pagination.
+ - [laravel-vue-pagination](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
 
 ### Animation
 
