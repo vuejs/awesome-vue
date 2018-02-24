@@ -997,6 +997,8 @@ Tooltips / popovers
 
  - [liquor-tree](https://github.com/amsik/liquor-tree) - Amazing Vue Tree component
 
+ - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - A Tree Ui Base On Vue.
+
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
