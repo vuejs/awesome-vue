@@ -72,6 +72,7 @@
       - [CSV](#csv)
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
+    - [Tour](#tour)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1268,11 +1269,14 @@ Tooltips / popovers
  - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
 
 
- ### Link Preview
+### Link Preview
 
  - [link-prevue](https://github.com/nivaldomartinez/link-prevue) - Flexible component for generate a link preview.
 
 
+### Tour  
+
+- [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
 
 ## UI Layout
