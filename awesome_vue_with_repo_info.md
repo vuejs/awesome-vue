@@ -1548,6 +1548,15 @@
      &#9733 33, pushed 14 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/rodzzlessa24/vue-electron">
+     VueJS Component Module Boilerplate
+    </a>
+    by @codetheorist
+    <sup>
+     &#9733 33, pushed 2 min ago
+    </sup>
+   </li>
   </ul>
   <sup>
    &#9733 16, pushed 52 days ago
