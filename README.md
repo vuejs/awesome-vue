@@ -2032,6 +2032,7 @@ Payment utilities.
  - [vue-component-generator](https://github.com/lakb248/vue-component-generator) - A generator for vue component, supports Vue1.X and Vue2.X.
  - [rapydml_cmp](https://github.com/valq7711/rapydml_cmp) - Vue-component pythonic generator, built on top of RapydML & RapydScript.
  - [vue-authoring-template](https://github.com/DrSensor/vue-authoring-template) - Template for authoring also publishing Vue component and their use case in story-scenario (storybook) format in easy way.
+ - [vue-component-boilerplate](https://github.com/codetheorist/vue-component-boilerplate) - Template for generating the boilerplate code for a VueJS components, with build scripts and testing pre-installed.
 
 ## Runtime
 
