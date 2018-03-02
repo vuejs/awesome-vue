@@ -197,6 +197,7 @@
 ### Conferences
 
 - [VueConf](http://conf.vuejs.org)
+- [VueConf US](http://vueconf.us)
 - [Vue.js London](http://vuejs.london)
 
 ### Podcasts
