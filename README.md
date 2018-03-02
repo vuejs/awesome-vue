@@ -1500,6 +1500,7 @@ Tooltips / popovers
  - [v-lazy-img](https://github.com/nkoehring/v-lazy-img) - Tiny (<0.6kb) directive for progressive image loading for Vue 2.
  - [vue-clazy-load](https://github.com/matheusgrieger/vue-clazy-load) - Lightweight transitionable image lazy loading component using IntersecionObserver for Vue 2.
  - [vue-lazy-this](https://github.com/thangman22/vue-lazy-this) - Lazyloading component using Intersection Observer API.
+ - [v2-lazy-list](https://github.com/dwqs/v2-lazy-list/) - A simple lazy-load list component based Vue 2.x
 
 ### Pagination
 
