@@ -691,6 +691,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [MECHANICAL](https://addons.mozilla.org/en-US/firefox/addon/mechmod/) - Reddit mod for Firefox that surfaces contextual data insights.
   - [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
   - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
+  - [9GAG](https://9gag.com) - Popular online platform and social media website
 
 ### Interactive Experiences
 
@@ -1288,7 +1289,7 @@ Tooltips / popovers
  - [link-prevue](https://github.com/nivaldomartinez/link-prevue) - Flexible component for generate a link preview.
 
 
-### Tour  
+### Tour
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
