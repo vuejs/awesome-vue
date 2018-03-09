@@ -443,6 +443,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-relay-examples](https://github.com/ntkme/vue-relay-examples) - A collection of example applications using vue-relay.
 - [laravel-vue-boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) - A Laravel 5.5 SPA boilerplate with a users CRUD using Vue.js 2.5, Bootstrap 4, TypeScript, Sass, Pug and Jest.
 - [Vue Design System](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
+- [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ### Books
 
@@ -928,6 +929,7 @@ Tooltips / popovers
  - [vue-c3](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts
  - [vue-d2b](https://github.com/d2bjs/vue-d2b) - Vue components for d2b charts. (Including axis, pie, sankey, and sunburst charts)
  - [VueChart](https://github.com/SeregPie/VueChart) - A very simple Vue wrapper for Chart.
+ - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 
 ### Time
 
