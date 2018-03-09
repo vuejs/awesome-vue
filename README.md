@@ -1845,7 +1845,7 @@ Payment utilities.
  - [vue-raven](https://github.com/anteriovieira/vue-raven) - Automatically reports uncaught JavaScript exceptions triggered from vue component.
  - [vue-telegram-login](https://github.com/vchaptsev/vue-telegram-login) - Vue Component for [Telegram Login](https://core.telegram.org/widgets/login) by [@vchaptsev](https://github.com/vchaptsev/)
  - [vuexpress](https://github.com/vuexpress/vuexpress) - Vue + Express.js = VueXpress / A server side rendering engine for Express.js. Use .vue files as your express.js templates.
- 
+
 ###### Google Analytics
 
  - [vue-ua](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
@@ -1903,7 +1903,6 @@ Payment utilities.
  - [@vuedoc/md](https://github.com/vuedoc/md) - Generate a Markdown Documentation for a Vue file.
  - [jsdoc-vue-component](https://github.com/ccqgithub/jsdoc-vue-component) - A jsodc3 plugin that extract vue SFC info(name, props, events...) to document.
  - [jsdoc-vuedoc](https://github.com/ccqgithub/jsdoc-vuedoc) - A jsdoc3 plugin use `@vuedoc/md`.
- - [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Created from react styleguidist for Vue Components with a living style guide
  - [vue-storybook](https://github.com/mattrothenberg/vue-storybook) –  Add `<story>` blocks to your Vue single file components for tighter integration of Vue + [Storybook](https://github.com/storybooks/storybook)
 
 ### Test
