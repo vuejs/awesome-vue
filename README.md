@@ -96,6 +96,7 @@
     - [SVG](#svg)
     - [Miscellaneous](#miscellaneous-2)
     - [WebGL](#webgl)
+    - [Page Visibility](#page-visibility)
   - [Utilities](#utilities)
     - [Typescript](#typescript)
     - [HTTP Requests](#http-requests)
@@ -1605,6 +1606,12 @@ Tooltips / popovers
 ### Fullscreen
 
 - [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
+
+### Page visibility
+
+- [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) - 
+A Vue 2.x component of easy-to-config page visibility api.
+
 
 ## Utilities
 
