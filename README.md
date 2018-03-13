@@ -161,6 +161,7 @@
 - [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
+- [Vue.js News](https://news.vuejs.org/)
 
 ### External Resources
 
@@ -203,6 +204,7 @@
 
 ### Podcasts
 
+- [The Official Vue.js News Podcast](https://news.vuejs.org/)
 - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
 - [JavaScript Jabber #187 (11-25-2015)](https://devchat.tv/js-jabber/187-jsj-vue-js-with-evan-you)
 - [Changelog #184 (11-27-2015)](https://changelog.com/184/)
