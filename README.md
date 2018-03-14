@@ -1079,6 +1079,7 @@ Tooltips / popovers
  - [emoji-vue](https://github.com/shershen08/emoji-vue) - Emoji 😎👌🏻 dropdown for Vue.js project
  - [vue-chessboard](https://github.com/vitogit/vue-chessboard) -  Chessboard vue component to load positions, create positions and see threats.
  - [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.
+ - [v-currency](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.
 
 ### Tabs
 
