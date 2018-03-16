@@ -1690,6 +1690,7 @@ the amazing Vue.js.
  - [VueStorage](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 - [vue-web-storage](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
 - [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
+- [vue-idb-keyval](https://gist.github.com/bradoyler/3b706bbfbb4e3b17f4a00dd092ce78e5) plugin for idb-keyval, a super-simple-small promise-based keyval store implemented with IndexedDB 
 
 ### State Management
 
