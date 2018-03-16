@@ -2074,6 +2074,7 @@ Payment utilities.
  - [VuePack](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
  - [vue-flexible-link](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
  - [vuelectron](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.
+ - [vue-design](https://github.com/L-Chris/vue-design) - the best website visualization builder with Vue and Electron.
 
 ### Parts
 
