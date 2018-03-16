@@ -1504,6 +1504,8 @@ Tooltips / popovers
 - [vue-stroll](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 - [navscroll-js](https://github.com/nash403/navscroll-js) - Highlights menu items as you scroll, and also scrolls to a section when a menu item clicked. Use as a vue component, a vue directive or with vanilla js.
 - [vue-scrollwatch](https://github.com/Desdesdesgo/vue-scrollwatch) - A light plugin detecting scroll event,customize callback when element enter viewport,expose 'scrollTo' api to scroll to specific  element .Using vue directive.
+- [vue-check-view](https://github.com/vtimofeev/vue-check-view) - A plugin that checks if element is in viewport. Fast, small, has no dependencies, live demo.
+
 
 *Customize the scroll behavior*
 
