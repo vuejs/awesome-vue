@@ -704,7 +704,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
   - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
   - [9GAG](https://9gag.com) - Popular online platform and social media website
-  - [Cryptovue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
+  - [CryptoVue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
 
 ### Interactive Experiences
 
