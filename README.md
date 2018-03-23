@@ -1622,6 +1622,8 @@ Tooltips / popovers
 - [vue-pano](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 - [vue-threejs](https://github.com/fritx/vue-threejs) - Vue bindings for Three.js.
 - [VueGL](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
+- [vue-vr](https://github.com/imudin/vue-vr) - A framework for building VR applications with Vue
+based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.io/Panolens/), inspired by [react-vr](https://github.com/facebook/react-vr)
 
 ### Fullscreen
 
