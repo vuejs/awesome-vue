@@ -451,7 +451,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 
 ### Books
-
+fm
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
 - [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
 - [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
@@ -1087,6 +1087,7 @@ Tooltips / popovers
  - [vue-chessboard](https://github.com/vitogit/vue-chessboard) -  Chessboard vue component to load positions, create positions and see threats.
  - [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.
  - [v-currency](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.
+ - [nx-card](https://github.com/nazar-xda/nx-card) - Simple and 😍beautiful card component made for vue.js.
 
 ### Tabs
 
