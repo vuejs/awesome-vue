@@ -163,6 +163,7 @@
 - [GitHub Repo](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
+- [Vue.js News](https://news.vuejs.org/)
 
 ### External Resources
 
@@ -220,6 +221,7 @@
 - [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller)
 - [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
 - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
+- [The Official Vue.js News Podcast](https://news.vuejs.org/)
 
 ### Youtube Channels
  - [VueNYC](https://www.youtube.com/vuenyc)
