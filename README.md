@@ -1091,6 +1091,7 @@ Tooltips / popovers
  - [vue-mindmap](https://github.com/anteriovieira/vue-mindmap) - Vue component for mindnode maps.
  - [v-currency](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.
  - [nx-card](https://github.com/nazar-xda/nx-card) - Simple and 😍beautiful card made for vue.js.
+ - [vue-emoji-picker](https://github.com/DCzajkowski/vue-emoji-picker) - Highly customizable unicode emoji picker 🔥🚀
 
 ### Tabs
 
