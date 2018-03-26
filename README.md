@@ -1029,6 +1029,8 @@ Tooltips / popovers
  - [liquor-tree](https://github.com/amsik/liquor-tree) - Amazing Vue Tree component
 
  - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - A Tree Ui Base On Vue.
+ 
+ - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
 
 ### Social Sharing
 
