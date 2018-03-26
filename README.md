@@ -1698,6 +1698,7 @@ the amazing Vue.js.
  - [vue-event-manager](https://github.com/pagekit/vue-event-manager) - The global event manager for Vue.js.
  - [vue-geb](https://github.com/vouill/vue-geb) - A global event bus using Observables.
  - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
+ - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
 
 ### Persistence
 
