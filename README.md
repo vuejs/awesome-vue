@@ -707,6 +707,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [9GAG](https://9gag.com) - Popular online platform and social media website
   - [CryptoVue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
   - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
+  - [great Vue components show - Vue 资源精选](http://vue.awesometiny.com/) - a website about greate Vue components list,Category,  inline Demo show and brief
 
 ### Interactive Experiences
 
