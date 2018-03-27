@@ -1092,6 +1092,7 @@ Tooltips / popovers
  - [v-currency](https://github.com/ignoreintuition/v-currency) - Vue component for formatting currency.
  - [nx-card](https://github.com/nazar-xda/nx-card) - Simple and 😍beautiful card made for vue.js.
  - [vue-emoji-picker](https://github.com/DCzajkowski/vue-emoji-picker) - Highly customizable unicode emoji picker 🔥🚀
+ - [vue-e164](https://github.com/evildvl/vue-e164) - Customizable phone formatter with E.164 standart support
 
 ### Tabs
 
