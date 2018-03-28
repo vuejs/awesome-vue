@@ -711,6 +711,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
   - [MailRabbit](https://mailrabbit.io) - Create, A/B test, and monitor transactional emails without a developer.
   - [Vue资源精选](http://vue.awesometiny.com) - greate Vue components list, category, inline demo show and brief
+  - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 
 ### Interactive Experiences
 
@@ -1309,7 +1310,7 @@ Tooltips / popovers
 #### CSV
 
  - [vuecsv](https://github.com/ynishi/vuecsv) - A Simple CSV Downloader from json with option modal panel component.
- 
+
 #### Comment System
 
 - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
@@ -1641,7 +1642,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 ### Page visibility
 
-- [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) - 
+- [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) -
 A Vue 2.x component of easy-to-config page visibility api.
 
 
@@ -1835,7 +1836,7 @@ the amazing Vue.js.
 - [vue-deepset](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 - [vue-gaspard](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
 - [vue-configuration](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
-- [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2. 
+- [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
