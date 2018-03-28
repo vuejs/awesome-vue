@@ -1983,6 +1983,7 @@ Payment utilities.
  - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile) - Auto compile vue file on save.
  - [lint-sass-vue@atom.io](https://github.com/fsblemos/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files.
  - [vuejs2-snippets@atom.io](https://github.com/CorentinAndre/Vuejs-snippets) - Atom snippets for javascript and components, including lifecycle hooks, directives, properties, vuex, vue-router, vue-i18n support.
+ - [vue2-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue2-autocomplete) - Vue.js 2.0+ autocomplete for Atom.
 
 #### Sublime Text
 
