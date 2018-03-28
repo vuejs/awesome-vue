@@ -1031,6 +1031,8 @@ Tooltips / popovers
  - [liquor-tree](https://github.com/amsik/liquor-tree) - Amazing Vue Tree component
 
  - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - A Tree Ui Base On Vue.
+ 
+ - [Bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks (Vue, React, Angular and Riot).
 
 ### Social Sharing
 
