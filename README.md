@@ -796,6 +796,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
  - [Vue Datatable](https://github.com/laravel-enso/vuedatatable) - VueJS powered Datatable with Laravel server-side loading and JSON template setup
  - [v2-table](https://github.com/dwqs/v2-table) - A simple table component based Vue 2.x.
+ - [vue-high-performance-edit-table](https://github.com/lky5230/edit-table-by-vue) - A high-performance table component based Vue 2.x.
 
 ### Notification
 
