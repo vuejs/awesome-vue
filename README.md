@@ -714,6 +714,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [MailRabbit](https://mailrabbit.io) - Create, A/B test, and monitor transactional emails without a developer.
   - [Vue资源精选](http://vue.awesometiny.com) - greate Vue components list, category, inline demo show and brief
   - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
+  - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
 
 ### Interactive Experiences
 
