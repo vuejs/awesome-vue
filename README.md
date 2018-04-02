@@ -1723,6 +1723,7 @@ the amazing Vue.js.
  - [vue-web-storage](https://github.com/ankurk91/vue-web-storage) Another Vue.js plugin for localStorage and sessionStorage
  - [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
  - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
+ - [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 
 ### State Management
 
