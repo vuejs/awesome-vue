@@ -1642,12 +1642,6 @@
     </a>
     - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a vue-cli wrapper.
    </li>
-    <li>
-    <a href="https://github.com/frogbob/vue-ts-component-generator">
-      Vue Typescript component generator
-    </a>
-    - A simple cli tool for generating vue typescript components.
-   </li>
   </ul>
  </li>
  <li>
