@@ -1122,7 +1122,7 @@ Tooltips / popovers
 
 #### Generator
 
- - [vue-json-schema](https://github.com/demsking/vue-json-schema) - Generate a form using JSON Schema and Vue.js
+ - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 
 ##### Date Picker
 
