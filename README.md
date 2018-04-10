@@ -732,6 +732,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [NOIZE original](http://noizeoriginal.com)
  - [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
  - [Bootstrap 4 Editor](http://www.itwonders-web.com/bootstrap4-editor/)
+ - [Subtletab - Browser Extension](https://subtletab.com)
 
 ### Enterprise Usage
 
