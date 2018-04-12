@@ -347,7 +347,6 @@
 - [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b) by Hassan Djirdeh, [@djirdehh](https://twitter.com/djirdehh)
 - [Let’s Build a Custom Vue.js Router](https://hackernoon.com/lets-build-a-custom-vue-js-router-7de634be87c4) by Hassan Djirdeh, [@djirdehh](https://twitter.com/djirdehh)
 - [Getting started with Vue, Webpack 4 & Babel](https://medium.com/@BjornKrols/getting-started-with-vue-webpack-4-babel-edd3e577421e) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
-- [Getting started with Vue, Webpack 4 & Babel](https://medium.com/@BjornKrols/getting-started-with-vue-webpack-4-babel-edd3e577421e) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [How to add Bootstrap 4 to your Vue project](https://medium.com/@BjornKrols/integrating-and-customising-bootstrap-4-in-vue-js-cbc29ba7688e) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [How to add Semantic UI to your Vue project](https://codeburst.io/how-to-add-semantic-ui-to-your-vue-project-cc8c4783a673) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [How to add ESLint to your Vue project](https://codeburst.io/tutorial-how-to-add-eslint-to-your-vue-js-project-ccfb84fab9) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
