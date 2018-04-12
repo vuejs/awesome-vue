@@ -589,6 +589,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Justine](https://github.com/MisRob/Justine) - A configurable HTML documentation generator (currently supports JSDoc) using Vue components for the documentation template
 - [Deezer-Vue](https://sh0cked.github.io/deezer-vue/) - Deezer client built with Vue\Vuex
 - [Vuep.run](https://vuep.run) - Online SFC editor for Vue
+- [V·oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued
+
 
 ### Commercial Products
 
@@ -724,6 +726,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
   - [Made with love](https://made-with-love.xyz/) - The Made with Love around the world, initiative is a movement to celebrate, promote and build a brand. It feed Tech news, design inspiration and trends from over 100 sources including Dribbble, ProductHunt, Behance and Techcrunch.
   - [Path to Product](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies.
+  - [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project. :)
 
 ### Interactive Experiences
 
