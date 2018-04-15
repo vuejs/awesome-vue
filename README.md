@@ -730,6 +730,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Path to Product](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies.
   - [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project. :)
   - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent' :house:
+  - [SyncLounge](https://synclounge.tv) - SyncLounge is a tool to sync Plex content across multiple players in multiple locations.
 
 ### Interactive Experiences
 
