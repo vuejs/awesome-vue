@@ -1835,7 +1835,7 @@ the amazing Vue.js.
 
 ### Concurrency Management
 
-  - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for for Vue.js.
+ - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for Vue.js.
 
 ### Code Style
 
