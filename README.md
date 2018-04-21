@@ -1821,6 +1821,7 @@ the amazing Vue.js.
  - [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync) - Vuex state synchronization between iframe/window.
  - [vuex-aspect](https://gitlab.com/frissdiegurke/vuex-aspect) - Bind remote data of any kind to the vuex store.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
+ - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
 
 ###### Sync Between Tabs
 
@@ -1834,7 +1835,7 @@ the amazing Vue.js.
 
 ### Concurrency Management
 
-  - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for for Vue.js.
+ - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for Vue.js.
 
 ### Code Style
 
