@@ -2169,6 +2169,7 @@ Payment utilities.
  - [vuelectron](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.
  - [vue-design](https://github.com/L-Chris/vue-design) - the best website visualization builder with Vue and Electron.
  - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - A Vue Cli 3 plugin for Electron with no required configuration that uses [Electron Builder](https://www.electron.build/) and [Electron Webpack](https://webpack.electron.build/).
+ - [dapp](https://github.com/fritx/dapp) - Boilerplate for stack of Vue/Parcel/Electron.
 
 ### Parts
 
