@@ -817,6 +817,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-crud-x](https://github.com/ais-one/vue-crud-x) - Extensible crud component using Vuetify layout, other than the usual page, sort, filter, it is able to do nested CRUD, custom forms, filters, operations.
  - [Vue Datatable](https://github.com/laravel-enso/vuedatatable) - VueJS powered Datatable with Laravel server-side loading and JSON template setup
  - [v2-table](https://github.com/dwqs/v2-table) - A simple table component based Vue 2.x.
+ - [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid) - A high-performance grid engine that work on a canvas for Vue.js.
 
 ### Notification
 
@@ -857,6 +858,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Tiny full screen loading indicator
  - [vue-loaders](https://github.com/Hokid/vue-loaders) - vue wrappers for [loaders.css](https://github.com/ConnorAtherton/loaders.css)
  - [vue-promise-btn](https://github.com/STUkh/vue-promise-btn) - Tiny and powerful tool for asynchronous buttons(or any other tag) lock with fancy built-in spinner
+ - [vue-spinkit](https://github.com/TonPC64/vue-spinkit) - 🌈 A collection of loading indicators animated with CSS for VueJS
 
 #### Progress Bar
 
@@ -1125,6 +1127,7 @@ Tooltips / popovers
  - [vue-connection-listener](https://github.com/Botre/vue-connection-listener) - Vue event bus plugin listening for online/offline changes.
  - [vue-sauce](https://github.com/Botre/vue-sauce) - "View source" directive for Vue.
  - [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
+ - [numeric-keyboard](https://github.com/viclm/numeric-keyboard) - Numeric keyboard for mobile browsers.
 
 ### Tabs
 
@@ -1668,6 +1671,7 @@ Tooltips / popovers
  - [vue-conditional-attrs](https://github.com/FL3NKEY/vue-conditional-attrs) - A Vue.js component for conditional rendering attributes and directives
  - [vue-cbsc](https://github.com/arthurvasconcelos/vue-cbsc) - A Vue.js 2.x component for programmatically blender, shader and convert colors.
  - [vue-spatialnavigation](https://github.com/twcapps/vue-spatialnavigation) - Vue directive (Vue.js 2.x) for spatial navigation (keyboard navigation)
+ - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
 
 ### WebGL
 
@@ -1821,6 +1825,7 @@ the amazing Vue.js.
  - [vuex-iframe-sync](https://github.com/L-Chris/vuex-iframe-sync) - Vuex state synchronization between iframe/window.
  - [vuex-aspect](https://gitlab.com/frissdiegurke/vuex-aspect) - Bind remote data of any kind to the vuex store.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
+ - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
 
 ###### Sync Between Tabs
 
@@ -1834,7 +1839,7 @@ the amazing Vue.js.
 
 ### Concurrency Management
 
-  - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for for Vue.js.
+ - [vuency](https://github.com/alidcastano/vuency) - Concurrency management for Vue.js.
 
 ### Code Style
 
@@ -2108,6 +2113,7 @@ Payment utilities.
  - [vue-starter](https://github.com/devCrossNet/vue-starter) - an enterprise ready boilerplate for isomorphic, progressive web apps with Vue.JS
  - [vue-vuex-typescript-webpack-seed](https://github.com/IsraelZablianov/vue-vuex-typescript-webpack-seed) - A seed project with Vue, Vuex, Typescript, Scss & Webpack with hot reloading
   - [VueCharged Template](https://github.com/mrboomer/vuecharged-template) - A highly opinionated, feature-first Vue 2 template with CLI scaffolding. Uses Vue 2, Vuex, Vue Router and Vue I18n.
+  - [Huncwot](https://github.com/zaiste/huncwot) - Vue.js boilerplate with Node.js for building modern JavaScript applications with « batteries included » approach.
 
 ### Client
 
@@ -2162,6 +2168,7 @@ Payment utilities.
  - [vue-flexible-link](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
  - [vuelectron](https://github.com/rachmanzz/vuelectron) - electronjs starter kits for vue.
  - [vue-design](https://github.com/L-Chris/vue-design) - the best website visualization builder with Vue and Electron.
+ - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - A Vue Cli 3 plugin for Electron with no required configuration that uses [Electron Builder](https://www.electron.build/) and [Electron Webpack](https://webpack.electron.build/).
  - [dapp](https://github.com/fritx/dapp) - Boilerplate for stack of Vue/Parcel/Electron.
 
 ### Parts
