@@ -1265,6 +1265,7 @@ Tooltips / popovers
 - [vue-ip](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 - [vue-r-mask](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
+- [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
 #### Rich Text Editing
 
