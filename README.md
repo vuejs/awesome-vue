@@ -1128,6 +1128,7 @@ Tooltips / popovers
  - [vue-sauce](https://github.com/Botre/vue-sauce) - "View source" directive for Vue.
  - [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
  - [numeric-keyboard](https://github.com/viclm/numeric-keyboard) - Numeric keyboard for mobile browsers.
+ - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) - A Vue component that lets you quickly create responsive image tags with an optimal number of image sources for all devices.
 
 ### Tabs
 
