@@ -1791,6 +1791,7 @@ the amazing Vue.js.
  - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
+ - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
 
 #### Redux
 
