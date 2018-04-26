@@ -594,6 +594,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [V·oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 - [Pomidorus](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 - [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
+- [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
 
 
 ### Commercial Products
