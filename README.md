@@ -735,6 +735,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent' :house:
   - [SyncLounge](https://synclounge.tv) - SyncLounge is a tool to sync Plex content across multiple players in multiple locations.
   - [HCE.it](https://www.hce.it/) - The website of an Italian agency, entirely made with Vue using a Laravel-based headless CMS.
+  - [Pages](https://www.pages.xyz/) - Web design inspiration
 
 ### Interactive Experiences
 
