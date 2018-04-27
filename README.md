@@ -355,6 +355,7 @@
 - [How to make content dynamic via URL query parameters in Vue](https://medium.com/@BjornKrols/tutorial-dynamic-content-via-url-query-parameters-in-vue-js-d2df19b66633) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [How to enable history mode for AWS S3 hosted Vue applications](https://medium.com/@BjornKrols/how-to-enable-history-mode-for-aws-s3-hosted-vue-applications-3bf40d51d9a7) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [A basic introduction to debugging Vue applications using breakpoints](https://medium.com/@BjornKrols/a-basic-introduction-to-debugging-vue-applications-using-breakpoints-2ef76ce419f2) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
+- [Building a Library Management app with Vue, Firebase and Scaffoldhub](https://vue-firebase.com/tutorial.html) By Felipe Lima [@fpastorelima](https://twitter.com/fpastorelima)
 
 ### Examples
 
