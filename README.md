@@ -1621,7 +1621,7 @@ Tooltips / popovers
  - [vue-paginate-al](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data.
  - [vue-tiny-pagination](https://github.com/coderdiaz/vue-tiny-pagination) - A Vue component for create a tiny pagination.
  - [laravel-vue-pagination](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
-  - [vue-lpage](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
+ - [vue-lpage](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
  - [v-page](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
 
 ### Animation
