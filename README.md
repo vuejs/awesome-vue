@@ -355,6 +355,7 @@
 - [How to make content dynamic via URL query parameters in Vue](https://medium.com/@BjornKrols/tutorial-dynamic-content-via-url-query-parameters-in-vue-js-d2df19b66633) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [How to enable history mode for AWS S3 hosted Vue applications](https://medium.com/@BjornKrols/how-to-enable-history-mode-for-aws-s3-hosted-vue-applications-3bf40d51d9a7) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [A basic introduction to debugging Vue applications using breakpoints](https://medium.com/@BjornKrols/a-basic-introduction-to-debugging-vue-applications-using-breakpoints-2ef76ce419f2) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
+- [Building a Library Management app with Vue, Firebase and Scaffoldhub](https://vue-firebase.com/tutorial.html) By Felipe Lima [@fpastorelima](https://twitter.com/fpastorelima)
 
 ### Examples
 
@@ -594,6 +595,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [V·oogle](https://github.com/VeryWow/v-oogle) - Google.com, reVued
 - [Pomidorus](https://github.com/tatyshev/pomidorus) - Pomodoro time tracker build using Vue and D3 🍅
 - [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
+- [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
 
 
 ### Commercial Products
@@ -733,6 +735,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project. :)
   - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent' :house:
   - [SyncLounge](https://synclounge.tv) - SyncLounge is a tool to sync Plex content across multiple players in multiple locations.
+  - [HCE.it](https://www.hce.it/) - The website of an Italian agency, entirely made with Vue using a Laravel-based headless CMS.
+  - [Pages](https://www.pages.xyz/) - Web design inspiration
 
 ### Interactive Experiences
 
@@ -975,7 +979,7 @@ Tooltips / popovers
  - [vue-d2b](https://github.com/d2bjs/vue-d2b) - Vue components for d2b charts. (Including axis, pie, sankey, and sunburst charts)
  - [VueChart](https://github.com/SeregPie/VueChart) - A very simple Vue wrapper for Chart.
  - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
- - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS 
+ - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS
 
 ### Time
 
@@ -1024,6 +1028,7 @@ Tooltips / popovers
  - [vue-canvasvideo](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
  - [vue-music](https://github.com/petsgre/music) - A Vue component base on html5 <audio>.
  - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
+ - [vue-plyr](https://github.com/redxtech/vue-plyr) - A set of Vue components for the plyr video & audio player.
 
 ### Infinite Scroll
 
@@ -1058,6 +1063,7 @@ Tooltips / popovers
  - [vue-trees-ui](https://github.com/wyr1227/vue-trees) - A Tree Ui Base On Vue.
  - [Bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks (Vue, React, Angular and Riot).
  - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
+ - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
 
 ### Social Sharing
 
@@ -1129,6 +1135,8 @@ Tooltips / popovers
  - [vue-sauce](https://github.com/Botre/vue-sauce) - "View source" directive for Vue.
  - [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
  - [numeric-keyboard](https://github.com/viclm/numeric-keyboard) - Numeric keyboard for mobile browsers.
+ - [vue-zoom-on-hover](https://github.com/Intera/vue-zoom-on-hover) - Image zoom on mouse hover
+ - [vue-responsive-image](https://github.com/HCESrl/vue-responsive-image) - A Vue component that lets you quickly create responsive image tags with an optimal number of image sources for all devices.
 
 ### Tabs
 
@@ -1266,6 +1274,7 @@ Tooltips / popovers
 - [vue-ip](https://github.com/peteringram0/vue-ip) - An ip address input with port and material design support
 - [vue-r-mask](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 - [vue-input-code](https://github.com/zhouyuexie/vue-input-code) - Base on Vue.js 2.0+ verification code input component.
+- [label-edit](https://github.com/myokyawhtun/label-edit) - Inspired by Trello. Click to show editable input and return the value changes. This is a Vue Component.
 
 #### Rich Text Editing
 
@@ -1506,7 +1515,6 @@ Tooltips / popovers
  - [vue-esc](https://github.com/ianaya89/vue-esc) - Vue.js directive to add a document event listener on escape keyup.
  - [vue-global-events](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
  - [vue-edge-check](https://github.com/gu-fan/vue-edge-check/) – Check browser edge to prevent transition effect triggered oddly when swipe edge with `vue-router`
- - [vue-directive-clickout](https://github.com/LinusBorg/vue-directive-clickout) – A directive to catch clicks outside of an element, compatible with Vue 2.0 only
 
 ### Responsive Design
 
@@ -1603,7 +1611,7 @@ Tooltips / popovers
 
 ### Pagination
 
- - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
+  - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component.
  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
@@ -1659,6 +1667,7 @@ Tooltips / popovers
  - [vue-content-loading](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
  - [vue-annotator](https://github.com/DrSensor/vue-annotator) - Annotate page using any SVG Element (`rect`, `polygon`, and many more, even HTML Element like `canvas` if wrapped in `foreignObject`)
  - [vue-svg-sprite](https://github.com/thierrymichel/vue-svg-sprite) - A directive to simply use SVG sprite (vue 2.x).
+ - [vue-svg-filler](https://github.com/biigpongsatorn/vue-svg-filler) - Vue component for custom your svg file 🖍 🎨 (vue 2.x).
 
 ### Miscellaneous
 
@@ -1787,6 +1796,7 @@ the amazing Vue.js.
  - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
+ - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
 
 #### Redux
 
