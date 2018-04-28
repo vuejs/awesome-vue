@@ -1603,7 +1603,7 @@ Tooltips / popovers
 
 ### Pagination
 
-  - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
+ - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component.
  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
