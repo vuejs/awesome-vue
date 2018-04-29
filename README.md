@@ -339,7 +339,6 @@
   - [vue-swipe ★100](https://github.com/ElemeFE/vue-swipe): touch slider component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-loadmore ★63](https://github.com/mint-ui/mint-loadmore): two-direction mobile pull-to-refresh component for Vuejs [@ElemeFE](https://github.com/ElemeFE)
   - [vue-tree-view ★7](https://github.com/10quality/vue-tree-view): Tree View component for Vuejs [@10quality](https://github.com/10quality)
-  - [vue-draggable-nested-tree ★0](https://github.com/phphe/vue-draggable-nested-tree): Draggable Tree component for Vuejs2 [@phphe](https://github.com/phphe)
   - [vue-swiper ★23](https://github.com/weilao/vue-swiper): Swiper component. Easy to use. [@weilao](https://github.com/weilao)
   - [vue-peity ★12](https://github.com/vue-bulma/peity): A Vue version of an excellent [peity](https://github.com/benpickles/peity) library for beautiful mini <svg> graphs, by [@fundon](https://github.com/fundon)
   - [vue-area ★5](https://github.com/blue0728/vue-area): Provincial level three linkage [@serge](https://github.com/blue0728)
@@ -372,6 +371,7 @@
   - [Vue slider component](https://github.com/NightCatSama/vue-slider-component) Can use the slider component in vue1.x and vue2.x by [@NightCatSama](https://github.com/NightCatSama)
   - [vue-awesome-swiper ★53](https://github.com/surmon-china/vue-awesome-swiper) Swiper3(slide) component for Vue.js(1.x ~ 2.0) [@Surmon](https://github.com/surmon-china)
   - [vue-touch-ripple ★25](https://github.com/surmon-china/vue-touch-ripple) Touch ripple component for Vue.js(1.x ~ 2.0)  [@Surmon](https://github.com/surmon-china)
+  - [vue-draggable-nested-tree ★0](https://github.com/phphe/vue-draggable-nested-tree): Draggable Tree component for Vuejs2 [@phphe](https://github.com/phphe)
  
 
 - #### i18n
