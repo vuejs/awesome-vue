@@ -1065,7 +1065,6 @@ Tooltips / popovers
  - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
  - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
  - [vue-draggable-nested-tree ★0](https://github.com/phphe/vue-draggable-nested-tree): Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
-
 ### Social Sharing
 
  - [vue-social-sharing](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
