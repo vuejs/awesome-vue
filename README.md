@@ -731,7 +731,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue资源精选](http://vue.awesometiny.com) - greate Vue components list, category, inline demo show and brief
   - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
   - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
-  - [Made with love](https://made-with-love.xyz/) - The Made with Love around the world, initiative is a movement to celebrate, promote and build a brand. It feed Tech news, design inspiration and trends from over 100 sources including Dribbble, ProductHunt, Behance and Techcrunch.
+  - [Made with love](https://made-with-love.xyz/) - The Made with Love ❤️ around the world, initiative is a movement to celebrate 🎉, promote 📣 and build a brand 👑. It feed Tech news, design inspiration and trends from over 💯 sources including Dribbble, ProductHunt, Behance and Techcrunch. 💝
   - [Path to Product](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies.
   - [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project. :)
   - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent' :house:
