@@ -1403,6 +1403,7 @@ Tooltips / popovers
  - [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Official fullPage.js component for Vue.js.
  - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data.
  - [autoresponsive-vue](https://github.com/xudafeng/autoresponsive-vue) - Auto responsive grid layout library for Vue.
+ - [VueFlex](https://github.com/SeregPie/VueFlex) - A flexbox grid system.
 
 
 
