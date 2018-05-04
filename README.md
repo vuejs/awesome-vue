@@ -1407,6 +1407,7 @@ Tooltips / popovers
  - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data.
  - [autoresponsive-vue](https://github.com/xudafeng/autoresponsive-vue) - Auto responsive grid layout library for Vue.
  - [VueFlex](https://github.com/SeregPie/VueFlex) - A flexbox grid system.
+ - [v-chacheli](https://gitlab.com/shellyBits/v-chacheli) - A Vue.js component to create and display custom dashboard-like grid layouts.
 
 
 
