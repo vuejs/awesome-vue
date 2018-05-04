@@ -598,6 +598,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
 - [Socialhome](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 - [GenVue](https://github.com/herbat73/GenVue) - a hostable, web application that lets confidential users upload and share private files build on Vue.js, Vuetifyjs and NetCore WebAPI stack
+- [vue-array](https://github.com/BlackHole1/vue-array) - Array object operation under Vue, Array object operation under Vue Use this package to manipulate the array. Vue can monitor the changes in the array
 
 ### Commercial Products
 
