@@ -108,6 +108,7 @@
       - [Redux](#redux)
       - [Mobx](#mobx)
       - [Vuex Utilities](#vuex-utilities)
+    - [Parent-Child Component Communication](#parent-child-component-communication)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -1856,6 +1857,10 @@ the amazing Vue.js.
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
+
+### Parent-Child Component Communication
+
+ - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A lightweight Vue mixin for communicating between Parent and Child components, with optional listeners and transformations.
 
 ### GraphQL
 
