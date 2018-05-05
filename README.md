@@ -357,6 +357,7 @@
 - [A basic introduction to debugging Vue applications using breakpoints](https://medium.com/@BjornKrols/a-basic-introduction-to-debugging-vue-applications-using-breakpoints-2ef76ce419f2) by Bjorn Krols, [@KrolsBjorn](https://twitter.com/KrolsBjorn)
 - [Building a Library Management app with Vue, Firebase and Scaffoldhub](https://vue-firebase.com/tutorial.html) By Felipe Lima [@fpastorelima](https://twitter.com/fpastorelima)
 - [Build a Vue.Js E-Commerce App with ButterCMS Headless Backend](https://snipcart.com/blog/vuejs-ecommerce-headless-buttercms)
+- [MASTER VUE.JS](https://vueschool.io/)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
