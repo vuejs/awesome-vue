@@ -53,6 +53,7 @@
     - [QR Code](#qr-code)
     - [Search](#search)
     - [Miscellaneous](#miscellaneous)
+    - [Tabs](#tabs)
     - [Form](#form)
       - [Picker](#picker)
         - [Date Picker](#date-picker)
