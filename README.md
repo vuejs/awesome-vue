@@ -1072,7 +1072,7 @@ Tooltips / popovers
  - [Bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks (Vue, React, Angular and Riot).
  - [plantain-00/tree-component](https://github.com/plantain-00/tree-component) - A reactjs, angular and vuejs tree component.
  - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
- - [vue-draggable-nested-tree ★0](https://github.com/phphe/vue-draggable-nested-tree): Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
+ - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
 
 ### Social Sharing
 
