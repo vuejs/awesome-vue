@@ -2147,6 +2147,7 @@ Payment utilities.
  - [vue-vuex-typescript-webpack-seed](https://github.com/IsraelZablianov/vue-vuex-typescript-webpack-seed) - A seed project with Vue, Vuex, Typescript, Scss & Webpack with hot reloading
   - [VueCharged Template](https://github.com/mrboomer/vuecharged-template) - A highly opinionated, feature-first Vue 2 template with CLI scaffolding. Uses Vue 2, Vuex, Vue Router and Vue I18n.
   - [Huncwot](https://github.com/zaiste/huncwot) - Vue.js boilerplate with Node.js for building modern JavaScript applications with « batteries included » approach.
+  - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge vue template focused on code quality and developer happiness. Featuring: nuxt, flow, and jest.
 
 ### Client
 
