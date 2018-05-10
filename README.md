@@ -1804,7 +1804,6 @@ the amazing Vue.js.
 ### State Management
 
  - [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
- - [vue-shared](https://github.com/raizam/vue-shared) A light and easy shared state management plugin for Vue
  - [vue-sync](https://github.com/buhrmi/vue-sync) - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.
  - [vuelm](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
  - [vue-duo](https://github.com/haoxins/vue-duo) - A tiny state management for Vue.js.
@@ -1821,6 +1820,7 @@ the amazing Vue.js.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
+ - [vue-shared](https://github.com/raizam/vue-shared) A light and simple alternative to vuex
 
 #### Redux
 
