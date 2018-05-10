@@ -1821,6 +1821,7 @@ the amazing Vue.js.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
+ - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 
 #### Redux
 
