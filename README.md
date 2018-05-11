@@ -1091,6 +1091,7 @@ Tooltips / popovers
 ### Search
  - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
  - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
+ - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
 
 ### Miscellaneous
 
