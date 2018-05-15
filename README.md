@@ -1376,6 +1376,7 @@ Tooltips / popovers
  - [vue-mc](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
  - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
+ - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
 
 #### Wizard
 
