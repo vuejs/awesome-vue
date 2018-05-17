@@ -1793,6 +1793,7 @@ A Vue 2.x component of easy-to-config page visibility api.
  - [v-localize](https://github.com/neetjn/v-localize) - Simple localization plugin for
 the amazing Vue.js.
  - [vue-simple-i18n](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
+ - [template-string-i18n](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
 
 ### Custom Events
 
