@@ -327,7 +327,7 @@
 - [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom_Hernandez](https://twitter.com/Atom_Hernandez)
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/) by [@alexjoverm](https://twitter.com/alexjoverm)
 - [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations) by [@udyuxdev](https://twitter.com/UdyUXDev)
-- [Creating Custom Vue.js Plugins] (https://alligator.io/vuejs/creating-custom-plugins/)
+- [Creating Custom Vue.js Plugins](https://alligator.io/vuejs/creating-custom-plugins/)
 - [Async in VueJS part 1](https://medium.com/js-dojo/async-in-vue-js-part-1-28d96f751a2e)
 - [Async in VueJS part 2](https://medium.com/js-dojo/async-in-vuejs-part-2-45e81c836e38)
 - [Using localStorage with Vuex store without a plugin](https://www.mikestreety.co.uk/blog/vue-js-using-localstorage-with-the-vuex-store) by [@mikestreety](https://twitter.com/mikestreety)
@@ -927,6 +927,7 @@ Tooltips / popovers
 - [v-modal-backdrop](https://github.com/nash403/v-modal-backdrop) - A simple generic backdrop component for vue
 - [vue-cute-modal](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 - [v-dialogs](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
+- [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 
 ### Parallax
 
@@ -1163,6 +1164,7 @@ Tooltips / popovers
  - [vue-cast-props](https://github.com/anteriovieira/vue-cast-props) - Provides a convenient way of converting props to common data types.
  - [vue2-heropatterns](https://github.com/JustSteveKing/vue2-heropatterns) - A Vue2 implementation allowing you to add the popular Hero Patterns onto any Div
  - [vue-link](https://github.com/Developmint/vue-link) - One component to link them all 🔗 (treat external and internal links same)
+ - [vue-identify-network](https://github.com/vinayakkulkarni/vue-identify-network) - ⚡️Identify what kinda internet your users are using!
  - [vue-cloneya](https://github.com/ridaamirini/vue-cloneya) - A vue component to clone DOM elements
 
 ### Tabs
@@ -1859,6 +1861,7 @@ the amazing Vue.js.
  - [vue-kindergarten](https://github.com/JiriChara/vue-kindergarten)
  - [vue-authenticate](https://github.com/dgrubelic/vue-authenticate) - Simple Vue.js authentication library for login/register and OAuth (1.0/2.0) authentication
  - [vue-facebook-account-kit](https://github.com/biessek/vue-facebook-account-kit) - Simple vue wrapper to the fb account kit library.
+ - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
 
 #### Vuex Utilities
 
@@ -2058,7 +2061,6 @@ Payment utilities.
  - [DejaVue](https://github.com/MiCottOn/DejaVue) - Visualization and debugging tool built for Vue.js.
  - [vue-clicky](https://github.com/Herteby/vue-clicky) - Right click any component to show info about it in the console.
  - [vuejs-logger](https://github.com/justinkames/vuejs-logger) - Provides customizable logging functionality for Vue.js.
- - [vue-bugsnag](https://github.com/ankurk91/vue-bugsnag) - Vue.js plugin for [bugsnag](https://www.bugsnag.com/) v3.x error reporting
  - [bugsnag-vue](https://github.com/bugsnag/bugsnag-vue) - Official Vue.js plugin for [bugsnag](https://www.bugsnag.com/) error reporting
  - [vue-inspector](https://github.com/calirojas506/vue-inspector) - Vue.js Inspector for Mobile Devices
  - [Vue Performance Devtool](https://github.com/vue-perf-devtool/vue-perf-devtool) - Vue Performance Devtool is a browser extension for inspecting the performance of Vue Components
