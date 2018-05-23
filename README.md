@@ -751,6 +751,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Scrumpy](https://scrumpy.io/) - A Beautiful Project Management Tool for Agile Teams
   - [Spektrum](https://spektrummedia.com/) - The website of Spektrum Media Agency
   - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
+  - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
 
 ### Interactive Experiences
 
