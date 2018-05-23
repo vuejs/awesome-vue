@@ -1178,6 +1178,7 @@ Tooltips / popovers
  - [vue-link](https://github.com/Developmint/vue-link) - One component to link them all 🔗 (treat external and internal links same)
  - [vue-identify-network](https://github.com/vinayakkulkarni/vue-identify-network) - ⚡️Identify what kinda internet your users are using!
  - [vue-cloneya](https://github.com/ridaamirini/vue-cloneya) - A vue component to clone DOM elements
+ - [vue-survey-builder](https://github.com/FissionHQ/vue-survey-builder) - Survey builder for vue.js applications
 
 ### Tabs
 
@@ -1396,7 +1397,6 @@ Tooltips / popovers
  - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
  - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
  - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
- - [vue-survey-builder](https://github.com/FissionHQ/vue-survey-builder) - Survey builder for vue.js applications
 
 #### Wizard
 
