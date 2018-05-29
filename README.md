@@ -1375,6 +1375,7 @@ Tooltips / popovers
  - [vue-lil-context-menu](https://github.com/timwis/vue-lil-context-menu) - A flexible lil context menu component for Vue.
  - [vue-mouse-menu](https://github.com/zgj233/vue-mouse-menu) - A mouse-menu component for vue 2+.
  - [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
+ - [vue-context](https://github.com/rawilk/vue-context) - A simple but flexible context menu for vue js.
 
 #### Miscellaneous
 
