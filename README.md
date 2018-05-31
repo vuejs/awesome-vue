@@ -1531,6 +1531,7 @@ Tooltips / popovers
   - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x
   - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
+  - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
 
 ### Other
 
