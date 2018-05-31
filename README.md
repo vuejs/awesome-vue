@@ -82,6 +82,8 @@
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
     - [Admin Template](#admin-template)
+    - [Server-side rendering](#server-side-rendering)
+    - [Static website generator](#static-website-generator)
     - [Other](#other)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
@@ -1540,9 +1542,18 @@ Tooltips / popovers
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
 
+### Server-side rendering
+
+ - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
+ - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
+
+### Static website generator
+
+ - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
+ - [Peco](https://github.com/egojump/peco) - A static website generator for humans.
+
 ### Other
 
- - [nuxt](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
  - [app-framework](https://github.com/scriptPilot/app-framework) - IOS and Android Apps with HTML & JavaScript - develop, build and deploy - free and open source.
  - [Myfirebase](https://github.com/myfirebase/myfirebase) - A decoupled Single page application Framework which is highly compatible with google firebase.
 - [Vue-Access-Control](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue.js 2.
