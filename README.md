@@ -369,6 +369,7 @@
 - [Build a realtime payment dashboard with Stripe](https://pusher.com/tutorials/realtime-payment-dashboard-stripe)
 - [Build a cryptocurrency tracker using Vue.js](https://pusher.com/tutorials/cryptocurrency-tracker-vue)
 - [Build a design feedback app using Vue.js](https://pusher.com/tutorials/design-feedback-vuejs)
+- [Developing a Single Page App with Flask and Vue.js](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
