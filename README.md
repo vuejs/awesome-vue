@@ -761,6 +761,7 @@
   - [Spektrum](https://spektrummedia.com/) - The website of Spektrum Media Agency
   - [SPK](https://www.spk.rocks/) The website of SPK Ecosystem
   - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
+  - [Configuration File Management] (http://www.configapp.com/) A simple way to manage your configuration files
 
 ### Interactive Experiences
 
