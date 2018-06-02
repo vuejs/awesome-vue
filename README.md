@@ -1630,6 +1630,7 @@ Tooltips / popovers
  - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
  - [vuejs-model-validator](https://github.com/deulos/vuejs-model-validator) - VueJS style data component validation. Easiness, simplicity, accurate.
  - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
+ - [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
 
 ### Scroll
 
