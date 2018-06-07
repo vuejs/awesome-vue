@@ -1195,6 +1195,7 @@ Tooltips / popovers
  - [vue-cookie-accept-decline](https://github.com/promosis/vue-cookie-accept-decline) - Show a banner with text, a decline button, and an accept button on your page. Remembers selection using cookies. Emits an event with current selection on creation. Good for GDPR requirements.
  - [@lossendae/vue-avatar](https://github.com/lossendae/vue-avatar) - An avatar component for VueJS 2.0.
  - [vue-text-highlight](https://github.com/AlbertLucianto/vue-text-highlight) - Text highlighter library for Vue.js 💄
+ - [vue2-hammer](https://github.com/bsdfzzzy/vue2-hammer) Hammer.js wrapper for Vue 2.x to support mobile touch..
 
 
 ### Tabs
