@@ -1260,6 +1260,7 @@ Tooltips / popovers
  - [vue-dropdowns](https://github.com/mikerodham/vue-dropdowns) - A minimalistic and adaptable way to display select boxes if using objects for vue2.x
  - [v-cascade](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)
  - [vue-multi-select](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
+ - [v-region](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
 
 #### Slider
 
@@ -1727,6 +1728,7 @@ Tooltips / popovers
  - [vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) Super easy magic-move transitions for Vue apps 🎩
  - [animated-number-vue](https://github.com/Leocardoso94/animated-number-vue) Super easy way to animate numbers.
  - [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
+ - [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
  - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
 
 ### Meta Tags
