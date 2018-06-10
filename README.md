@@ -1260,6 +1260,7 @@ Tooltips / popovers
  - [vue-dropdowns](https://github.com/mikerodham/vue-dropdowns) - A minimalistic and adaptable way to display select boxes if using objects for vue2.x
  - [v-cascade](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)
  - [vue-multi-select](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
+ - [v-region](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
 
 #### Slider
 
