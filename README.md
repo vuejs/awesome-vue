@@ -1733,6 +1733,7 @@ Tooltips / popovers
  - [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
  - [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
  - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
+ - [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
 
 ### Meta Tags
 
