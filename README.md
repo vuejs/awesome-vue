@@ -1860,7 +1860,6 @@ the amazing Vue.js.
  - [template-string-i18n](https://github.com/cutsin/template-string-i18n) - I18n using template strings with auto save/load translate documents.
  - [vue-translations](https://github.com/owl1n/vue-translations) - Translate your vuejs application easy with it.
 
-
 ### Custom Events
 
  - [vue-events](https://github.com/cklmercer/vue-events) - Simple event handling for Vue.js.
