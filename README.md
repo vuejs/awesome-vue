@@ -1947,6 +1947,7 @@ the amazing Vue.js.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
  - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
+ - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
 
 ###### Sync Between Tabs
 
