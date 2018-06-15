@@ -952,6 +952,7 @@ Tooltips / popovers
 - [vue-cute-modal](https://github.com/dillonchanis/vue-cute-modal) - A simple and easy to use Modal component for Vue applications.
 - [v-dialogs](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
 - [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
+- [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 
 ### Parallax
@@ -1711,7 +1712,7 @@ Tooltips / popovers
 
 ### Pagination
 
-  - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
+ - [vue-paginate](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
  - [vue-pagination-2](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component.
  - [vuejs-uib-pagination](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
@@ -1722,6 +1723,7 @@ Tooltips / popovers
  - [laravel-vue-pagination](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
  - [vue-lpage](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
  - [v-page](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
+ - [vue-smart-pagination](https://github.com/grinmax/vue-smart-pagination) - Smart pagination of any data with a lot of nice settings.
 
 ### Animation
 
@@ -1947,6 +1949,7 @@ the amazing Vue.js.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
  - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
+ - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
 
 ###### Sync Between Tabs
 
