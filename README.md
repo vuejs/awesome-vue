@@ -475,6 +475,9 @@
 - [Vue Design System](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 - [Vue Bulma Demo](https://github.com/faisaltheparttimecoder/bulma-vuejs-demo-website) - A simple demo website to check out Bulma / Vue JS & express in conjunction.
 - [Starter application ready for production with TypeScript, vuex, vue-router, HMR and more](https://github.com/kadro/vue-boilerplate)
+- [vue.js与laravel结合的前后端分离开发模板](https://github.com/wmhello/laravel_template_with_vue)- A template website to laravel passport / Vue.JS & Element UI.
+
+
 
 ### Books
 
@@ -1231,7 +1234,7 @@ Tooltips / popovers
 #### Generator
 
  - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
- - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor 
+ - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
 
 ##### Date Picker
 
