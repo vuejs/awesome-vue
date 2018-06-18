@@ -1524,6 +1524,7 @@ Tooltips / popovers
  - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
  - [vue-antd-ui](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+ - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 
 ### Mobile
 
