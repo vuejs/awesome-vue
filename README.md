@@ -721,7 +721,6 @@
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
   - [Bazaar](https://bazaar.co) - Media sharing platform.
   - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
-  - [Save Coins](https://savecoins.me) - Save Coins helps Nintendo Switch owners to save money on Nintendo eShop.
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
