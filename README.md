@@ -1816,8 +1816,8 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 ### Page visibility
 
-- [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) -
-A Vue 2.x component of easy-to-config page visibility api.
+- [vue-page-visibility-awesome](https://github.com/stefanodotit/vue-page-visibility-awesome) - A Vue 2.x component of easy-to-config page visibility api.
+- [vue-authplugin](https://github.com/vv13/vue-authplugin) - an elegant view auth control plugin, support directive and prototype methods.
 
 
 ## Utilities
