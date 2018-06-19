@@ -721,7 +721,6 @@
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
   - [Bazaar](https://bazaar.co) - Media sharing platform.
   - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
-  - [Save Coins](https://savecoins.me) - Save Coins helps Nintendo Switch owners to save money on Nintendo eShop.
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
@@ -1524,6 +1523,7 @@ Tooltips / popovers
  - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
  - [vue-antd-ui](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+ - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
  - [Carvue.js](https://github.com/nicholaslee119/carbon-components-vue) - IBM's Carbon Design System for Vue.js
 
 ### Mobile
@@ -1751,6 +1751,7 @@ Tooltips / popovers
  - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
  - [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
  - [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
+ - [vue-animejs](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
 
 ### Meta Tags
 
