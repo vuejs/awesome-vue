@@ -100,6 +100,7 @@
 - [**讲解Vue.js 官网 中文-含代码、百度云、youtube ★277**](https://github.com/bhnddowinf/vuejs-learn) on bhnddowinf
 - [Exploring Real Time Apps with VueJS, ES2015 and Webpack](https://blog.pusher.com/exploring-real-time-apps-with-vuejs-es2016-and-webpack/) on Pusher
 - [Vue.js in Bahasa Indonesia] (https://www.sekolahkoding.com/track/belajar-vue-js) on sekolahkoding.com
+- [API Driven Development With Laravel and VueJS (Free Course)] on serversideup.net
 
 #### 0.12 and earlier
 
@@ -450,6 +451,7 @@
   - [liqi.newtab - 利器 · 灵感生成器 New Tab](https://chrome.google.com/webstore/detail/lidppokaooioojchghdjekhcgdjkkohe)<sup>[[Source]](https://github.com/DanielZhu/liqi.io.chrome-newtab.git)</sup> A New Tab Chrome Extension gives you a moment to read the good quotations with their recommanded tools which were excerpted from the interviews made by liqi.com, you can always find your favorites.
   - [Dhammapada website ★2](https://github.com/nguyenvanduocit/kinhphapcu-web): Dhammapada website, an experience with Vuejs and golang
   - [**Vue + LeanCloud 单页博客 ★46**](https://github.com/jiangjiu/vue-leancloud-blog) a spa blog using LeanCloud, Vue.js, Vue-Router, Vuex and Vue-resource by [@jiangjiu](https://github.com/jiangjiu)
+  - [Roast](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 
 - #### Apps/Websites
 
