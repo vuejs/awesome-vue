@@ -1751,6 +1751,7 @@ Tooltips / popovers
  - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
  - [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
  - [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
+ - [vue-animejs](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
 
 ### Meta Tags
 
