@@ -2344,7 +2344,7 @@ application.  By @Haixing-Hu
    </li>
    <li>
    <a href="https://yangonbusreport.org">
-     Full SPA of Centralized YBS Public eComplaint Management System.
+     YBR - Full SPA of Centralized YBS Public eComplaint Management System.
    </a>
    </li>
   </ul>
