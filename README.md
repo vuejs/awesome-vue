@@ -1421,6 +1421,7 @@ Tooltips / popovers
 
 #### Miscellaneous
 
+ - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) - Search places and address using Google Maps API.
  - [vuep](https://github.com/QingWei-Li/vuep) - A component for rendering Vue components with live editor and preview.
  - [vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any input into an address autocomplete.
