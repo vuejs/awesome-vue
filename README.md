@@ -1129,6 +1129,7 @@ Tooltips / popovers
  - [sl-vue-tree](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
  - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
  - [vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
+ - [vue-jstree](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2 with beautiful icons and drag&drop
 
 
 ### Social Sharing
