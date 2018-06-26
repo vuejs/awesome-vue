@@ -1579,6 +1579,7 @@ Tooltips / popovers
   - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
+  - [HeyUI Admin](https://github.com/heyui/heyui-admin) - HeyUI Vue Admin / An admin template based on HeyUI 2.x
 
 ### Server-side rendering
 
