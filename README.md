@@ -1067,6 +1067,7 @@ Tooltips / popovers
  - [vue2-datePicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
  - [vue2-slot-calendar](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
  - [quasar-calendar](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
+ - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2 
 
 ### Map
 
