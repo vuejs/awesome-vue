@@ -1702,8 +1702,6 @@ composing CSS breakpoint state.
 - [vue-scroll-behavior](https://github.com/jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
 - [vue-scroll-stop](https://github.com/voxtobox/vue-scroll-stop) - Stops propagation scroll when edge reached.
 
-.
-
 *Seamless scrolling*
 
 - [vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) - A simple, Seamless scrolling for Vue.js.
