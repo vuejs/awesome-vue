@@ -1245,6 +1245,7 @@ Tooltips / popovers
 
  - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
  - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
+ - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
 
 ##### Date Picker
 
