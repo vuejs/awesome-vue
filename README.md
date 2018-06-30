@@ -1277,6 +1277,7 @@ Tooltips / popovers
  - [v-cascade](https://github.com/zanseven007/v-cascade) - A lovely component of cascade selector with Vue 2.x (Support both of PC and Mobile)
  - [vue-multi-select](https://github.com/IneoO/vue-multi-select) - A custom component to make select/multiselect for Vue2.
  - [v-region](https://github.com/TerryZ/v-region) - A simple region selector, provide Chinese administrative division data.
+ - [v-selectpage](https://github.com/TerryZ/v-selectpage) - A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server side resources supports.
 
 #### Slider
 
