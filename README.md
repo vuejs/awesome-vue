@@ -505,7 +505,7 @@
 # Projects Using Vue.js
 
 ### Open Source
-
+ - [Stack Edit](https://github.com/benweet/stackedit/) - In-browser Markdown editor
  - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
  - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
  - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
