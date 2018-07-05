@@ -637,6 +637,7 @@
  - [Cover](http://cover.20theme.com) - A high quality Component Library built on Vue.js
  - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
  - [Pragmatic](https://themeforest.net/item/pragmatic-vuejs-admin-template/21775201?ref=Linko91&utm_source=awesomevue) - Responsive and configurable admin template built with Vue.js and Element.
+ - [Seat](https://www.useseat.com/) - Simple and modern team communication and collaboration solution.
 
 ### Apps/Websites
 
