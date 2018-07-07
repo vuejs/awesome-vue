@@ -2007,6 +2007,7 @@ the amazing Vue.js.
  - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
  - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
  - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
+ - [vert](https://github.com/LancerComet/Vert-Core) - Library to build Vue applications in OOP.
 
 ### CSS
 
