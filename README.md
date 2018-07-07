@@ -1936,7 +1936,6 @@ the amazing Vue.js.
  - [lue](https://github.com/dwqs/lue) - Vue and vuex based library, writing less verbose code.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
- - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - ridiculously simple vuex wiring + setup
  - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
 
 #### Redux
@@ -1982,6 +1981,7 @@ the amazing Vue.js.
  - [vuex-map-fields](https://github.com/maoberlehner/vuex-map-fields) - Enable two-way data binding for form fields.
  - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
  - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
+ - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - provides a unified path syntax to Vuex stores (such as `foo/bar@a.b.c`)
 
 ###### Sync Between Tabs
 
