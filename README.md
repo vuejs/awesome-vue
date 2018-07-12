@@ -1067,8 +1067,7 @@ Tooltips / popovers
  - [vue2-datePicker-infinite](https://github.com/leepyng/vue-datepicker-infinite) - An infinite datePicker for Vue2, easy to use and no dependencies.
  - [vue2-slot-calendar](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
  - [quasar-calendar](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
- - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2 
- - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2.类似国内旅游APP使用的订酒店日历。
+ - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
 
 ### Map
 
@@ -1272,7 +1271,8 @@ Tooltips / popovers
 - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 - [VCalendar](https://vcalendar.io/) Very customizable and powerfull calendar/datepicker component with many features and good docummentation.
-- [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
+- [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection 
+ - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 
 #### Select
 
