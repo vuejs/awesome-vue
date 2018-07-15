@@ -2347,11 +2347,6 @@ application.  By @Haixing-Hu
       YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
     </a>
    </li>
-   <li>
-    <a href="https://myanpwel.com">
-      Myanpwel - The website of event ticketing platform.
-    </a>
-   </li>
   </ul>
  </li>
  <li>
