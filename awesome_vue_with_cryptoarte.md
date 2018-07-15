@@ -2347,6 +2347,11 @@ application.  By @Haixing-Hu
       YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
     </a>
    </li>
+   <li>
+    <a href="https://www.cryptoarte.io/">
+     CryptoArte.io - An Ethereum art collection, non-fungible token, and Dapp.
+    </a>
+   </li>   
   </ul>
  </li>
  <li>
