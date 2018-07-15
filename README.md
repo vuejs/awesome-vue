@@ -963,6 +963,7 @@ Tooltips / popovers
 - [vue-gallery-slideshow](https://github.com/KitchenStories/vue-gallery-slideshow) - Responsive gallery component for VueJS
 - [vue-a11y-dialog](https://github.com/morkro/vue-a11y-dialog) - A Vue.js component wrapper for the accessible dialog [`a11y-dialog`](https://github.com/edenspiekermann/a11y-dialog).
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
+- [v-gallery](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
 
 ### Parallax
 
