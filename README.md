@@ -1946,6 +1946,7 @@ the amazing Vue.js.
  - [vuex-lite](https://github.com/rayraegah/vuex-lite) - A 1KB Vuex with just state and mutations.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
+ - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
 
 #### Redux
 
