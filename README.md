@@ -981,6 +981,7 @@ Tooltips / popovers
  - [mdi-vue](https://github.com/therufa/mdi-vue) - Material Design Icon components for Vuejs
  - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
  - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)
+ - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs
 
 ### Menu
 
