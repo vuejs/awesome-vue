@@ -76,6 +76,7 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
+    - [Ncform](#Ncform)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1489,6 +1490,9 @@ Tooltips / popovers
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
+### Ncform
+
+- [Ncform](https://github.com/vipshop/ncform) - A nice configuration form development method
 
 ## UI Layout
 
