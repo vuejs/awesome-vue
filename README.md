@@ -775,6 +775,7 @@
   - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
   - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA) 
   - [Regex Fiddler](https://regexfiddler.com/)
+  - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design 
 
 ### Interactive Experiences
 
