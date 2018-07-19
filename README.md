@@ -2146,6 +2146,7 @@ Payment utilities.
  - [vue-web3](https://github.com/morrislaptop/vue-web3) - Web3 blockchain bindings for Vue.js (inspired by Vuefire and Drizzle)
   - [sbt-vuefy](https://github.com/GIVESocialMovement/sbt-vuefy) - Vue.js integration for Playframework
   - [loopback-vue-starter](https://github.com/ivandov/loopback-vue-starter) - LoopBack and Vue starter template with easy plugin management through `vue-cli` and `vue ui`.
+  - [vue.py](https://stefanhoelzl.github.io/vue.py/) - Write Vue.js Components in Python
 
 ###### Google Analytics
 
