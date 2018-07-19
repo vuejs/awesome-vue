@@ -775,6 +775,8 @@
   - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
   - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA) 
   - [Regex Fiddler](https://regexfiddler.com/)
+  - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform. 
+  - [CryptoArte](https://www.cryptoarte.io) - An Ethereum art collection, non-fungible token, and Dapp.
   - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design 
 
 ### Interactive Experiences
@@ -1040,6 +1042,8 @@ Tooltips / popovers
  - [d3vue](https://github.com/ignoreintuition/d3vue) - A D3 Plugin for Creating Reactive Data Visualizations in VueJS
  - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
  - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
+ - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
+
 
 ### Time
 
