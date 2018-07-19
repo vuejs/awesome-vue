@@ -777,6 +777,7 @@
   - [Regex Fiddler](https://regexfiddler.com/)
   - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform. 
   - [CryptoArte](https://www.cryptoarte.io) - An Ethereum art collection, non-fungible token, and Dapp.
+  - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design 
 
 ### Interactive Experiences
 
