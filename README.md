@@ -1671,6 +1671,7 @@ Tooltips / popovers
  - [VueResizeSensor](https://github.com/SeregPie/VueResizeSensor) - A container that supports resize event.
  - [vue-breakpoint-component](https://github.com/adi518/vue-breakpoint-component) - A render-less component for
 composing CSS breakpoint state.
+ - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
 ### Form
 
  - [vue-formly](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
