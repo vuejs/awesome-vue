@@ -824,6 +824,7 @@
  - [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
  - Adobe
  - IBM
+ - [Cotabox](https://cotabox.com.br)
 
 ### A11y
 
