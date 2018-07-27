@@ -1082,6 +1082,7 @@ Tooltips / popovers
  - [vue2-slot-calendar](https://github.com/icai/vue2-calendar) - A vue 2 calendar, datepicker component which supported lunar or date event, bootstrap style.
  - [quasar-calendar](https://github.com/stormseed/quasar-calendar) - A vue.js calendar using the Quasar framework that implements monthly, multi-day and agenda views.
  - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
+ - [vue-pikaday](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday](https://github.com/dbushell/Pikaday) datepicker
 
 ### Map
 
