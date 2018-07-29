@@ -775,11 +775,11 @@
   - [IDDEF](https://www.iddef.org/) ☪️ The Federation of the Associations that Value Humanity's webpage, CMS, CRM and Donation and all e-commerce pages are designed with Vue.js, Vuex and pure JavaScript 🙏
   - [Configuration File Management](http://www.configapp.com/) - A simple way to manage your configuration files
   - [Roast](https://roastandbrew.coffee/) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
-  - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA) 
+  - [YBR](https://yangonbusreport.org) - Centralized YBS Public eComplaint Management System. (Full SPA)
   - [Regex Fiddler](https://regexfiddler.com/)
-  - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform. 
+  - [Myanpwel](https://myanpwel.com) - The website of event ticketing platform.
   - [CryptoArte](https://www.cryptoarte.io) - An Ethereum art collection, non-fungible token, and Dapp.
-  - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design 
+  - [Muuviez](https://muuviez.com) - A movie discovery and tracking website with stylish design
   - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
   - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
 
@@ -1108,6 +1108,7 @@ Tooltips / popovers
  - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
  - [vue-plyr](https://github.com/redxtech/vue-plyr) - A set of Vue components for the plyr video & audio player.
  - [v-playback](https://github.com/TerryZ/v-playback) - A Vue2 plugin to make video play easier.
+ - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
 
 ### Infinite Scroll
 
@@ -1291,7 +1292,7 @@ Tooltips / popovers
 - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
 - [VCalendar](https://vcalendar.io/) Very customizable and powerfull calendar/datepicker component with many features and good docummentation.
-- [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection 
+- [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
  - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
 
 #### Select
