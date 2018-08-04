@@ -1913,6 +1913,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vuex-api](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
  - [zipkin-instrumentation-vue-resource](https://github.com/elgris/zipkin-instrumentation-vue-resource) - An interceptor for [vue-resource](https://github.com/pagekit/vue-resource) that instruments outgoing HTTP requests with [Zipkin](https://github.com/openzipkin/zipkin)
  - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
+ - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 
 ### i18n
 
