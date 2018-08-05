@@ -785,6 +785,7 @@
   - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
   - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
   - [Akunyi](https://akunyi.com) - Charity Website
+  - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
   
 ### Interactive Experiences
 
