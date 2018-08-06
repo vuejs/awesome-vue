@@ -785,8 +785,9 @@
   - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
   - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
   - [Akunyi](https://akunyi.com) - Charity Website
+  - [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - Motivational website based on the story that Mark Ruffalo failed at several hundred auditions before finding success.
   - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
-  
+
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
@@ -1570,7 +1571,7 @@ Tooltips / popovers
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
  - [vuesax](https://github.com/lusaxweb/vuesax) - Frontend vue Components for Vue.js.
  - [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
- - [vue-antd-ui](https://github.com/vueComponent/ant-design) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
+ - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 2.5.0
  - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
  - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 
@@ -1720,6 +1721,7 @@ composing CSS breakpoint state.
  - [vue-scrollto](https://github.com/rigor789/vue-scrollTo) - Adds a directive that listens for click events and scrolls to elements.
 - [vue-next-level-scroll](https://github.com/Developmint/vue-next-level-scroll) - A component based and SSR ready approach to smooth scrolling using the modern Scroll behavior API
 - [vue-scroll-sync](https://github.com/metawin-m/vue-scroll-sync) - A component that syncronize containers scroll positions
+- [v-scroll-lock](https://github.com/phegman/v-scroll-lock) - A Vue.js directive for body scroll locking without breaking scrolling of a target element
 
 *Virtual scrollbar*
 
@@ -2397,6 +2399,7 @@ Payment utilities.
  - [rapydml_cmp](https://github.com/valq7711/rapydml_cmp) - Vue-component pythonic generator, built on top of RapydML & RapydScript.
  - [vue-authoring-template](https://github.com/DrSensor/vue-authoring-template) - Template for authoring also publishing Vue component and their use case in story-scenario (storybook) format in easy way.
  - [vue-component-boilerplate](https://github.com/codetheorist/vue-component-boilerplate) - Template for generating the boilerplate code for a VueJS components, with build scripts and testing pre-installed.
+ - [vue-generate-component-typescript](https://github.com/Kamar-Meddah/vue-generate-component-typescript) - A typescript code generator for vue, it can generate components, directives, filters.
 
 ## Runtime
 
