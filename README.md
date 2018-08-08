@@ -1489,6 +1489,10 @@ Tooltips / popovers
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 
+### Skeleton
+
+- [tb-skeleton](https://github.com/anthinkingcoder/tb-skeleton) - A vue component about toy bricks of skeleton
+
 
 ## UI Layout
 
