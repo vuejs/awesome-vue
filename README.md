@@ -906,6 +906,7 @@
  - [vue-izitoast](https://github.com/arthurvasconcelos/vue-izitoast) - A Vue.js 2 wrapper around IziToast.
  - [vue-toastr-2](https://github.com/saivarunk/vue-toastr-2) - Simple toast notifications for Vue.js built on [toastr](https://github.com/CodeSeven/toastr)
  - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
+ - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
 
 
 ### Loader
@@ -1631,6 +1632,8 @@ Tooltips / popovers
   - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x
   - [d2admin](https://github.com/FairyEver/d2admin-vue-element) - An elegant backstage template build by vue
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Boostrap 4 [Online Demo](http://rest-admin.genyii.com)
+  - [vue-element-admin-tpl](https://github.com/mengdu/vue-element-admin-tpl) - An admin platform template based on Element UI 2.x
+
 
 ### Server-side rendering
 
