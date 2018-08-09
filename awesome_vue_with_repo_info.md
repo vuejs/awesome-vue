@@ -2002,10 +2002,19 @@ application.  By @Haixing-Hu
      &#9733 5, pushed 7 days ago
     </sup>
    </li>
+    <li>
+    <a href="https://github.com/PxyUp/vue-not-visible">
+     vue-not-visible
+    </a>
+    Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints. By
+    <a href="https://github.com/PxyUp">
+     @PxyUp
+    </a>
+    <sup>
+     &#9733 5, pushed 1 days ago
+    </sup>
+   </li>
   </ul>
-  <sup>
-   &#9733 72, pushed 326 days ago
-  </sup>
  </li>
  <li>
   <h4>
