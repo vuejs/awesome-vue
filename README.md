@@ -1485,6 +1485,7 @@ Tooltips / popovers
  - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
  - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
  - [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
+ - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
 
 #### Wizard
 
