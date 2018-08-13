@@ -1002,6 +1002,7 @@ Tooltips / popovers
  - [g-icon](https://github.com/nash403/g-icon) - Simple icon component for your svg icons (compatible with Font Awesome-like font toolkits)
  - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs
  - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
+ - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont componenet for vue.
 
 ### Menu
 
