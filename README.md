@@ -791,6 +791,7 @@
   - [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - Motivational website based on the story that Mark Ruffalo failed at several hundred auditions before finding success.
   - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
   - [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
+  - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
 
 ### Interactive Experiences
 
