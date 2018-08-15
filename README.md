@@ -76,6 +76,7 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
+    - [Minus Plus Input](#minus-plus-input)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1020,6 +1021,10 @@ Tooltips / popovers
  - [vue-bulma-accordion](https://github.com/Lunrtick/vue-bulma-accordion) - Simple, easily configurable accordion or collapsible styled with Bulma custom or built in icons available
  - [v-selectmenu](https://github.com/TerryZ/v-selectmenu) - A simple, easier and highly customized menu solution for Vue2.
 
+### Minus Plus Input
+
+ - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
+
 ### Carousel
 
  - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
@@ -1491,6 +1496,7 @@ Tooltips / popovers
  - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
  - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
  - [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
+ - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
 
 #### Wizard
 
@@ -1574,7 +1580,7 @@ Tooltips / popovers
  - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2.
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
- - [Zircle UI](https://zircleui.github.io/zircleUI/) - A lightweight front-end library for developing zoomable user interfaces.
+ - [zircle-ui](https://zircleui.github.io/docs/) - A frontend library to develop zoomable user interfaces.
  - [vue-mdc-adapter](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
  - [PrimeVue](https://github.com/primefaces/primevue) - A Vue.js 2.0 UI Component library for Web
