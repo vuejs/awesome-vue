@@ -1008,7 +1008,7 @@ Tooltips / popovers
  - [vue-simple-line-icons](https://github.com/nkoik/vue-simple-line-icons) - Simple Line Icons component for Vuejs
  - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
  - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.
- - [md-svg-vue](https://github.com/IPRIT/md-svg-vue "md-svg-vue on GitHub") - Material Design Icons by Google for Vue.js & Nuxt.js (server side support (with caching), inline svg rendering, official icon names)
+ - [md-svg-vue](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server side support (with caching), inline svg rendering, official icon names)
 
 ### Menu
 
