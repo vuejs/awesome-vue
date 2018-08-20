@@ -91,7 +91,7 @@
     - [Responsive Design](#responsive-design)
     - [Form](#form-1)
       - [Validation](#validation)
-    - [Resize](#resize)  
+    - [Resize](#resize)
     - [Scroll](#scroll)
     - [Routing](#routing)
     - [Lazy Load](#lazy-load)
@@ -1830,7 +1830,7 @@ composing CSS breakpoint state.
  - [animated-number-vue](https://github.com/Leocardoso94/animated-number-vue) Super easy way to animate numbers.
  - [vue-typed-js](https://github.com/Orlandster1998/vue-typed-js) Typed.js integration to easily create typying animations.
  - [vue-parent-change-transition](https://github.com/inamori/vue-parent-change-transition) Enable a child components to animate when it changes the parent.
- - [vue-smooth-height](https://github.com/guanzo/vue-smooth-height) Transition an elements height in response to data changes.
+ - [vue-smooth-reflow](https://github.com/guanzo/vue-smooth-reflow) Transition an elements reflow in response to data changes.
  - [VueTween](https://github.com/SeregPie/VueTween) Allows components to tween their properties.
  - [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
  - [vue-animejs](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
