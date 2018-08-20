@@ -885,6 +885,7 @@
  - [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
  - [el-data-table](https://github.com/FEMessage/el-data-table) - base on element-ui, makes crud easily
  - [DevExtreme Vue Grid](https://devexpress.github.io/devextreme-reactive/vue/grid/) - High-performance plugin-based Vue data grid for Bootstrap.
+ - [Syncfusion Data Grid for Vue](https://www.syncfusion.com/products/vue/datagrid) - Displays and manipulates tabular data with features such as paging, sorting, filtering, editing, and grouping.
 
 ### Notification
 
