@@ -1739,6 +1739,7 @@ composing CSS breakpoint state.
 
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
+  - [vue-resize-on-event](https://github.com/venkatperi/vue-resize-on-event) - Vue directive for resizing a component (e.g. `textarea`) when a given event fires (e.g. `input`).
 
 ### Scroll
 
