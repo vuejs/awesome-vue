@@ -505,7 +505,7 @@
 - [Vuex Quick Start Guide](https://www.amazon.com/dp/1788999932) by Andrea Koutifaris, Packt. (April 2018)
 - [Full-Stack Web Development with Vue.js and Node](https://www.amazon.com/Full-Stack-Web-Development-Vue-js-Node/dp/1788831144) by Aneeta Sharma, Packt. (May 2018)
 - [The Vue Handbook](https://vuehandbook.com) by Flavio Copes. (July 2018)
-
+- [ASP.NET Core 2 and Vue.js](https://www.amazon.com/dp/1788839463) by Stuart Ratcliffe, Packt. (July 2018)
 
 # Projects Using Vue.js
 
@@ -633,6 +633,7 @@
 - [Bael Blog Template](https://bael-theme.jake101.com/) -  A static generated blog template that uses Netlify CMS for the backend and Netlify for hosting. Features a brutalist aesthetic, fuzzy search, serverless email signup, and more.
 - [Buefy Shop](https://buefy-shop.now.sh/) Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
 - [sysmon](https://github.com/Lt0/sysmon) A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
+- [eth-vue](https://github.com/DOkwufulueze/eth-vue) A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
 
 ### Commercial Products
 
@@ -795,6 +796,7 @@
   - [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
   - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
   - [WITHIN](https://www.with.in/) - Extraordinary stories in Virtual Reality.
+  - [plottr.io](https://plottr.io/) - Plan your running and cycling routes
   - [beCamp](https://be.camp) - A community-organized tech conference in Charlottesville, VA. Website code is open-source.
 
 ### Interactive Experiences
@@ -1031,6 +1033,7 @@ Tooltips / popovers
 ### Minus Plus Input
 
  - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
+ - [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus) - Integer input with increment and decrement buttons for vue 2.
 
 ### Carousel
 
@@ -1074,6 +1077,7 @@ Tooltips / popovers
  - [vue2-frappe](https://github.com/JustSteveKing/vue2-frappe) - A simple wrapper around Frappe Charts for VueJS
  - [vue-google-charts](https://github.com/devstark-com/vue-google-charts) - Reactive Vue.js wrapper for Google Charts lib
  - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
+ - [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js
 
 
 ### Time
@@ -1283,10 +1287,6 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
-#### Editable
-
-- [vue-xeditable](https://github.com/Kar-Wai-Wong/vue-xeditable) - Better editable Component in Vue Edit.
-
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
@@ -1376,6 +1376,7 @@ Tooltips / popovers
  - [vue-infinite-autocomplete](https://github.com/Attrash-Islam/vue-infinite-autocomplete) - Vue infinite-autocomplete wrapper for Vue.js 2.*
  - [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) - Simple yet feature-rich autocomplete component for Vue.js
  - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
+ - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
 
 #### Type Select
 
@@ -1563,6 +1564,7 @@ Tooltips / popovers
  - [simple-grid](https://github.com/anthinkingcoder/simple-grid) - Vue component for grid layout,support flex.
  - [vue-container-component](https://github.com/kavalcante/vue-container-component) - Simple container component inspired on Bootstrap Container
  - [vue-colcade](https://github.com/alexiscolin/vue-colcade) - A small wrapper for integrating Colcade grid layout to Vuejs.
+
 
 
 
@@ -2054,7 +2056,7 @@ the amazing Vue.js.
  - [vuex-search](https://github.com/AlbertLucianto/vuex-search) - Vuex binding for client-side search with indexers and Web Workers.
  - [vuex-dry](https://github.com/eunjae-lee/vuex-dry) - helps keep your vuex codes DRY.
  - [vuex-pathify](https://davestewart.github.io/vuex-pathify/#/) - provides a unified path syntax to Vuex stores (such as `foo/bar@a.b.c`)
-
+ - [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - Simplify vuex loading state management
 ###### Sync Between Tabs
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
