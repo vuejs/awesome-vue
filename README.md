@@ -795,6 +795,7 @@
   - [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
   - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
   - [WITHIN](https://www.with.in/) - Extraordinary stories in Virtual Reality.
+  - [beCamp](https://be.camp) - A community-organized tech conference in Charlottesville, VA. Website code is open-source.
 
 ### Interactive Experiences
 
