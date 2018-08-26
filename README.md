@@ -795,6 +795,7 @@
   - [Ruster社区](https://forum.ruster.xyz/) - Rust fullstack community forum for CN.
   - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
   - [WITHIN](https://www.with.in/) - Extraordinary stories in Virtual Reality.
+  - [plottr.io](https://plottr.io/) - Plan your running and cycling routes
 
 ### Interactive Experiences
 
@@ -1375,6 +1376,7 @@ Tooltips / popovers
  - [vue-infinite-autocomplete](https://github.com/Attrash-Islam/vue-infinite-autocomplete) - Vue infinite-autocomplete wrapper for Vue.js 2.*
  - [vue-simple-suggest](https://github.com/KazanExpress/vue-simple-suggest) - Simple yet feature-rich autocomplete component for Vue.js
  - [v-suggest](https://github.com/TerryZ/v-suggest) - A Vue2 plugin for input content suggestions, support keyboard to quick pick.
+ - [vue-bootstrap-typeahead](https://github.com/alexurquhart/vue-bootstrap-typeahead) - An typeahead/autocomplete component for Vue2 using Bootstrap 4 CSS.
 
 #### Type Select
 
