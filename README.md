@@ -633,6 +633,7 @@
 - [Bael Blog Template](https://bael-theme.jake101.com/) -  A static generated blog template that uses Netlify CMS for the backend and Netlify for hosting. Features a brutalist aesthetic, fuzzy search, serverless email signup, and more.
 - [Buefy Shop](https://buefy-shop.now.sh/) Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
 - [sysmon](https://github.com/Lt0/sysmon) A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
+- [eth-vue](https://github.com/DOkwufulueze/eth-vue) A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
 
 ### Commercial Products
 
