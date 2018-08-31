@@ -1035,6 +1035,7 @@ Tooltips / popovers
 
  - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
  - [vue-integer-plusminus](https://github.com/Keiwen/vue-integer-plusminus) - Integer input with increment and decrement buttons for vue 2.
+ - [vue-numeric-input](https://github.com/JayeshLab/vue-numeric-input) - Number input component with controls.
 
 ### Carousel
 
