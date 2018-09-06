@@ -1588,6 +1588,7 @@ Tooltips / popovers
 
 *Set of components + responsive layout system*
 
+ - [Vuikit](https://vuikit.js.org) - A responsive Vue UI library based on the front-end framework UIkit.
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps (that look native on Android and iOS) and Electron apps using same code, with VueJs 2.
  - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
@@ -1630,7 +1631,6 @@ Tooltips / popovers
  - [vue-mdc](https://github.com/posva/vue-mdc) - Material Components Web for Vue.js.
  - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
- - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
  - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
