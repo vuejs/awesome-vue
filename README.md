@@ -801,6 +801,7 @@
   - [plottr.io](https://plottr.io/) - Plan your running and cycling routes
   - [beCamp](https://be.camp) - A community-organized tech conference in Charlottesville, VA. Website code is open-source.
   - [Trustpilot](https://www.trustpilot.com) - a free and open to all review platform.
+  - [Lagom](https://lagom.rsstudio.net/) - Simple, intuitive and fully responsive WHMCS theme
 
 ### Interactive Experiences
 
