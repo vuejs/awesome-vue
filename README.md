@@ -487,7 +487,7 @@
 - [Vue + TypeScript Cookbook](https://github.com/ffxsam/vue-typescript-cookbook/blob/master/README.md) - A small cookbook covering some less-than-obvious solutions for people getting started with Vue + TypeScript
 - [Vuejs Examples](https://vuejsexamples.com/)
 - [ASP.NET Core Vue Starter CLI 3.0](https://github.com/SoftwareAteliers/asp-net-core-vue-starter) A Vue starter template using Vue CLI 3.0 with custom configuration (default TypeScript, Vue, Router, Vuex, Vuetify) integrated with ASP.&#8203;NET Core by [@SoftwareAteliers](https://github.com/SoftwareAteliers) (September 2018)
-- [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud)A Soundcloud client built with `Vue.js 2`, by [Soroush Chehresa](https://github.com/soroushchehresa)
+- [**vue-soundcloud**](https://github.com/soroushchehresa/vue-soundcloud) A Soundcloud client built with Vue.js 2, by [Soroush Chehresa](https://github.com/soroushchehresa)
 
 ### Books
 
