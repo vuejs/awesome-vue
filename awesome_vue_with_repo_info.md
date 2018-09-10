@@ -830,6 +830,18 @@
      &#9733 15, pushed 3 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/SasanFarrokh/vue-chimera">
+     vue-chimera
+    </a>
+    - A full-featured RESTful resource based client, campatible with Nuxtjs and server side fetching.
+    <a href="https://github.com/SasanFarrokh">
+     @SasanFarrokh
+    </a>
+    <sup>
+     &#9733 15, pushed 4 days ago
+    </sup>
+   </li>
   </ul>
   <sup>
    &#9733 1143, pushed 34 days ago
@@ -2002,10 +2014,19 @@ application.  By @Haixing-Hu
      &#9733 5, pushed 7 days ago
     </sup>
    </li>
+    <li>
+    <a href="https://github.com/PxyUp/vue-not-visible">
+     vue-not-visible
+    </a>
+    Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints. By
+    <a href="https://github.com/PxyUp">
+     @PxyUp
+    </a>
+    <sup>
+     &#9733 5, pushed 1 days ago
+    </sup>
+   </li>
   </ul>
-  <sup>
-   &#9733 72, pushed 326 days ago
-  </sup>
  </li>
  <li>
   <h4>
