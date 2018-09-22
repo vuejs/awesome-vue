@@ -1583,7 +1583,7 @@ Tooltips / popovers
  - [simple-grid](https://github.com/anthinkingcoder/simple-grid) - Vue component for grid layout,support flex.
  - [vue-container-component](https://github.com/kavalcante/vue-container-component) - Simple container component inspired on Bootstrap Container
  - [vue-colcade](https://github.com/alexiscolin/vue-colcade) - A small wrapper for integrating Colcade grid layout to Vuejs.
-
+ - [vue-ads-layout](https://github.com/arnedesmedt/vue-ads-layout) - A small library of Vue components to quickly generate a responsive webapplication layout with toolbar, left/right drawers and a footer. All components can be positioned fixed or relative.
 
 
 
