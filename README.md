@@ -2340,6 +2340,7 @@ Payment utilities.
 #### Vim
 
  - [Vim Vue](https://github.com/posva/vim-vue) - Syntax Highlight for Vue.js components.
+ - [vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files.
 
 #### Visual Studio Code
 
