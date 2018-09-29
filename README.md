@@ -130,6 +130,7 @@
       - [Stripe](#stripe)
       - [Plaid](#plaid)
   - [Integrations](#integrations)
+    - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
@@ -2237,6 +2238,9 @@ Payment utilities.
   - [vue-facebook-login-component](https://github.com/adi518/vue-facebook-login-component) - A fully customizable component for integrating Facebook login.
   - [vue-programmatic-invisible-google-recaptcha](https://github.com/promosis/vue-programmatic-invisible-google-recaptcha) - A simple invisible Google reCAPTCHA component focused solely on programmatic invocation.
   - [vbuild](https://github.com/manatlan/vbuild) - Its main purpose is to let you use components (.vue files) in your vuejs app, without a full nodejs stack. Just use python2 or python3. BTW, it provides a method to minimize your js scripts (es2015 compliant).
+
+### Vue CLI 3 Plugins
+ - [vue-cli-plugin-cordova](https://github.com/m0dch3n/vue-cli-plugin-cordova) - Vue CLI 3 Plugin to add Cordova easily to your project
 
 ###### Google Analytics
 
