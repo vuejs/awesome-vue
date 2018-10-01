@@ -1,0 +1,11 @@
+instrumentation:
+    default-excludes: false
+    include-all-sources: true
+    excludes:
+        - '**/test/**'
+        - '**/coverage/**'
+        - '**/example/**'
+        - '**/test.js'
+        - '**/node_modules/istanbul/**'
+        - '**/node_modules/tape/**'
+        - '**/node_modules/uber-standard/**'

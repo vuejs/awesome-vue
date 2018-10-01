@@ -1,0 +1,2 @@
+Copyright (c) <%- year %> <%- author %>
+All rights reserved.

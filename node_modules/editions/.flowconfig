@@ -1,0 +1,16 @@
+# 2018 January 24
+# https://github.com/bevry/base
+[ignore]
+.*/docs/.*
+.*/es2015/.*
+.*/test/.*
+.*/node_modules/documentation/.*
+.*/node_modules/projectz/.*
+
+[options]
+module.ignore_non_literal_requires=true
+esproposal.class_static_fields=enable
+esproposal.class_instance_fields=enable
+
+[version]
+>=0.23 <1
