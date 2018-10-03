@@ -1744,6 +1744,7 @@ Tooltips / popovers
  - [vue-breakpoint-component](https://github.com/adi518/vue-breakpoint-component) - A render-less component for
 composing CSS breakpoint state.
  - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
+ - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
 ### Form
 
  - [vue-formly](https://github.com/formly-js/vue-formly) - JavaScript powered forms for Vue.js.
