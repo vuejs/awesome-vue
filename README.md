@@ -234,6 +234,7 @@
 - [Animating VueJS with Sarah Drasner(Software Engineering Daily 01-12-2017)](https://softwareengineeringdaily.com/2017/12/01/animating-vuejs-with-sarah-drasner/)
 - [Views on Vue (weekly podcast on Vue started 03-06-2018)](https://devchat.tv/views-on-vue)
 - [The Official Vue.js News Podcast](https://news.vuejs.org/)
+- [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
 
 ### Youtube Channels
  - [VueNYC](https://www.youtube.com/vuenyc)
