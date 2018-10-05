@@ -1634,6 +1634,7 @@ Tooltips / popovers
  - [BalmUI](https://material.balmjs.com/) - Next Generation Material UI for Vue.js
  - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
  - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
+ - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Based on the latest Bootstrap 4 and Vue 2.5.7
 
 ### Mobile
 
