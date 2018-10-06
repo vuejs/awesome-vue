@@ -818,6 +818,7 @@
   - [MIT](https://www.mit.edu/) - Official Website of Massachusetts Institute of Technology.
   - [Elvenar](https://en.elvenar.com/) - Elvenar is a browser based fantasy city builder game.
   - [Beacon](https://beaconapp.in) - :blue_heart: A service that allows you to share your content across multiple websites.
+  - [Artfinder](https://www.artfinder.com/) - Artfinder is a website for buying & selling art paintings.
 
 ### Interactive Experiences
 
