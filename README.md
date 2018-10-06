@@ -645,6 +645,7 @@
 - [Saleina CMS](https://github.com/saleina/SaleinaCMS) A static site content management system built with vue using git as a backend.
 - [Vuido](https://github.com/mimecorg/vuido) A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
 - [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube Video/Audio/Subtitle Downloader + Cutter
+- [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) Vue + Pug + Stylus boilerplate 💚 🐶 🖌
 
 ### Commercial Products
 
