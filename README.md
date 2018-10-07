@@ -951,7 +951,7 @@
  - [vue-wait](https://github.com/f/vue-wait) - Complex Loader Management for Vue/Vuex and Nuxt applications.
  - [vue-spinner-component](https://sergeyloysha.github.io/vue-spinner-component/) - Customizable, lightweight spinner for Vue.js.
  - [vue-progress-path](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
- - [vue-blockui](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similiar to jquery blockUI, can be used for loading screen.
+ - [vue-blockui](https://github.com/realdah/vue-blockui) - BlockUI for vue 2, similar to jquery blockUI, can be used for loading screen.
  - [epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with vue.js integration.
  - [svg-progress-bar](https://github.com/chenxuan0000/svg-progress-bar) - A simple,progress bar for Vue.js.
  - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Tiny full screen loading indicator
@@ -1129,7 +1129,7 @@ Tooltips / popovers
  - [vue-calendar-picker](https://github.com/FranckFreiburger/vue-calendar-picker) - Lightweight calendar component for events display, period selection and date picker.
  - [vue-lunar-calendar](https://github.com/KimWooHyun/vue-lunar-calendar) - A vue component for lunar calendar. Uses Moment.js for date operations.
  - [vue-simple-calendar](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar compenent; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
- - [vue2-calendar](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at beeing flexibile and lightweight.
+ - [vue2-calendar](https://github.com/Trekels/vue2-calendar) - A simple full calendar component aimed at being flexibile and lightweight.
  - [vue-jlunar-datepicker](https://github.com/tuhe32/vue-jLunar-datePicker) - A Chinese lunar datepicker component with festivals and solar terms.
  - [vue-full-calendar](https://github.com/CroudSupport/vue-fullcalendar) - A complete [fullcalendar.io](https://fullcalendar.io) wrapper for both Vue 1 and 2
  - [v-calendar](https://github.com/nathanreyes/v-calendar) - Animated calendar/datepicker that displays regions, indicators and day popovers for simple & recurring dates.
@@ -1351,7 +1351,7 @@ Tooltips / popovers
 - [vue-datepicker-local](https://github.com/weifeiyue/vue-datepicker-local) - A Beautiful Datepicker Component For Vue2.
 - [vue-airbnb-style-datepicker](https://github.com/MikaelEdebro/vue-airbnb-style-datepicker) - A Vue datepicker with a similar look and functionality as the popular AirBnb datepicker. Lightweight, configurable and good browser support!
 - [vue-persian-datetime-picker](https://github.com/talkhabi/vue-persian-datetime-picker) Persian material datepicker. Supports datetime, date, time, year, month.
-- [VCalendar](https://vcalendar.io/) Very customizable and powerfull calendar/datepicker component with many features and good docummentation.
+- [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good docummentation.
 - [@owumaro/vue-date-range-picker](https://github.com/Owumaro/vue-date-range-picker) - A vue component using Bootstrap 4 styles for date range selection
  - [vue-datepicker-mobile](https://github.com/ikarosu/vue-datepicker-mobile) - A mobile friendly datepicker for vue2. :cn: select one day or range of date and custom it that you wish.
  - [vue-draggable-cal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped.
@@ -1590,7 +1590,7 @@ Tooltips / popovers
  - [vue-inview](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
  - [dnd-grid](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
  - [vue-extend-layout](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
- - [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free
+ - [vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependency free
  - [vue-fullpage.js](https://github.com/alvarotrigo/vue-fullpage.js) - Official fullPage.js component for Vue.js.
  - [vue-virtual-collection](https://github.com/starkwang/vue-virtual-collection) - Vue component for efficiently rendering large collection data.
  - [autoresponsive-vue](https://github.com/xudafeng/autoresponsive-vue) - Auto responsive grid layout library for Vue.
@@ -2107,7 +2107,7 @@ the amazing Vue.js.
  - [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - Simplify vuex loading state management
 ###### Sync Between Tabs
 
- - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistance and synchronization between tabs/windows.
+ - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistence and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
 
 ### GraphQL
