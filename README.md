@@ -824,6 +824,7 @@
   - [Beacon](https://beaconapp.in) - :blue_heart: A service that allows you to share your content across multiple websites.
   - [Artfinder](https://www.artfinder.com/) - Artfinder is a website for buying & selling art paintings.
   - [Rolodromo](https://rolodromo.com) - A spanish website dedicated to tabletop RPG.
+  - [GitHubExplorer](https://kiinlam.github.io/GitHubExplorer/) - Pure static page webapp for exploring GitHub. Using `Vuejs` and `GitHub GraphQL API v4`.
 
 ### Interactive Experiences
 
