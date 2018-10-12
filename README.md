@@ -1026,6 +1026,7 @@ Tooltips / popovers
 - [vue-slideout-panel](https://github.com/officert/vue-slideout-panel) - Stackable panel component for VueJS
 - [v-gallery](https://github.com/TerryZ/v-gallery) - A Vue2 plugin for images show in `gallery` or `carousel`
 - [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
+- [vue-my-photos](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 
 ### Parallax
 
