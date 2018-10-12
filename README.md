@@ -920,6 +920,8 @@
  - [Syncfusion Data Grid for Vue](https://github.com/syncfusion/ej2-vue-grids) - Displays and manipulates tabular data with features such as paging, sorting, filtering, editing, and grouping.
  - [@marketconnect/vue-pivot-table](https://github.com/MarketConnect/vue-pivot-table) - A vue component for pivot table
  - [vue-teible](https://github.com/hiendv/teible) - Lightweight and flexible table component for the web :zap:
+ - [vue-jqxgrid](https://github.com/jqwidgets/vue/tree/master/grid) - Vue data grid with filtering, sorting, editing, grouping, data export and other features.
+ - [vue-jqxpivotgrid](https://github.com/jqwidgets/vue/tree/master/pivotgrid) - Vue pivot data grid with pivot designer, drill through cells, pivot functions.
 
 ### Notification
 
@@ -1112,6 +1114,7 @@ Tooltips / popovers
  - [vue-graph](https://github.com/juijs/vue-graph) - Data visualization library for dashboard implementation in Vue.js
  - [vue.d3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) - Reactive sunburst component based on D3.js
  - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - A customizable component for adding D3 charts that binds to your components data.
+ - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.
 
 
 ### Time
@@ -1148,6 +1151,7 @@ Tooltips / popovers
  - [vue2-datepicker](https://github.com/mengxiong10/vue2-datepicker) - A beautiful datepicker / datetimepicker component for Vue2
  - [vue-pikaday](https://github.com/enrian/vue-pikaday) - VueJS wrapper component for [Pikaday](https://github.com/dbushell/Pikaday) datepicker
   - [vue-tuicalendar](https://github.com/lkmadushan/vue-tuicalendar) - VueJS wrapper component for [tui.calendar](https://github.com/nhnent/tui.calendar) calendar
+  - [vue-jqxscheduler](https://github.com/jqwidgets/vue/tree/master/scheduler) - VueJS Scheduler component.
 
 ### Map
 
