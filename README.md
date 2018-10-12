@@ -1448,6 +1448,7 @@ Tooltips / popovers
  - [vue-enhanced-check](https://github.com/Keiwen/vue-enhancedCheck) - Vue component to redesign/labelize checkbox/radio, including toggle/switch button.
  - [pretty-checkbox-vue](https://github.com/hamed-ehtesham/pretty-checkbox-vue) - Implementation of [pretty checkbox 3](https://lokesh-coder.github.io/pretty-checkbox/)(A pure CSS library to beautify checkbox and radio buttons) components for Vue.js 2.2+.
   - [vue2-collapse](https://github.com/roszpun/vue-collapse/) - Vue Collapse is a flexible content toggling plugin for the accordion lists or any other conditional content rendering.
+  - [vue-badger-accordion](https://github.com/vanderb/vue-badger-accordion) - A wrapping Component for Badger Accordion for Vue.js 2.0+
 
 #### Masked Input
 
