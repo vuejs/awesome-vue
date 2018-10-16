@@ -128,6 +128,7 @@
     - [Web Sockets](#web-sockets)
     - [Payment](#payment)
       - [Stripe](#stripe)
+      - [Paypal](#paypal)
       - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
@@ -2226,6 +2227,9 @@ Payment utilities.
 
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) A simple vue plugin for Stripe checkout.
 - [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) Vue wrapper for jquery.payment by Stripe.
+
+###### Paypal
+- [vue-paypal-checkout](https://github.com/khoanguyen96/vue-paypal-checkout) A simple Vue.js wrapper component for paypal-checkout.
 
 ###### Plaid
 - [vue-plaid-link](https://github.com/roundupapp/vue-plaid-link) Easy to use Vue component for Plaid Link.
