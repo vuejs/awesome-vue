@@ -1327,6 +1327,7 @@ Tooltips / popovers
  - [vue-highlight-words](https://github.com/Astray-git/vue-highlight-words) - Vue component to highlight words within a larger body of text. Ported from [react-highlight-words](https://github.com/bvaughn/react-highlight-words)
  - [vue-tags-ball](https://github.com/yanthems/vue-tags-ball) - Create a beautiful and spherical tag with this plugin
  - [vue-rippler](https://github.com/spemer/vue-rippler) - Simple Vue.js plugin for custom ripple effect
+ - [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
 
 ### Tabs
 
