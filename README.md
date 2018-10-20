@@ -1057,6 +1057,7 @@ Tooltips / popovers
  - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
  - [vicon](https://github.com/Lt0/vicon) - Vicon is an simple iconfont component for vue.
  - [md-svg-vue](https://github.com/IPRIT/md-svg-vue) - Material Design Icons by Google for Vue.js & Nuxt.js (server side support (with caching), inline svg rendering, official icon names)
+ - [vue-lang-code-flags](https://github.com/qWici/vue-lang-code-flags) - Vue component which shows the flag of the country from which the language comes from
 
 ### Menu
 
