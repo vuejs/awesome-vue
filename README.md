@@ -1698,6 +1698,7 @@ Tooltips / popovers
  - [vue-atlas](https://github.com/nvms/vue-atlas) - A library of beautiful Vue components.
  - [DevExtreme Vue Components](https://github.com/DevExpress/devextreme-vue) - 65+ responsive and feature-complete Vue UI components with customizable Material Design and Bootstrap compliant themes.
  - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.
+ - [vue-uix](https://github.com/juijs/vue-uix) - UI collection for web page implementation in Vue.js
 
 ### Mobile
 
