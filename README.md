@@ -1598,6 +1598,7 @@ Tooltips / popovers
 ### Tour
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
+- [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
 
 
 ## UI Layout
