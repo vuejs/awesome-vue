@@ -1545,6 +1545,7 @@ Tooltips / popovers
  - [@hscmap/vue-menu](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
  - [vue-context](https://github.com/rawilk/vue-context) - A simple but flexible context menu for vue js.
  - [vue-simple-context-menu](https://github.com/johndatserakis/vue-simple-context-menu) - Simple context-menu component built for Vue. Works well with both left and right clicks.
+ - [vue-context-menu-popup](https://github.com/Johnathan/vue-context-menu-popup) - Context Menu popup for Vue 2. Works on right click or can be triggered programatically.
 
 #### Miscellaneous
 
