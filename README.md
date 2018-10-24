@@ -835,6 +835,7 @@
   - [Rolodromo](https://rolodromo.com) - A spanish website dedicated to tabletop RPG.
   - [GitHubExplorer](https://kiinlam.github.io/GitHubExplorer/) - Pure static page webapp for exploring GitHub. Using `Vuejs` and `GitHub GraphQL API v4`.
   - [Keynote](https://github.com/znck/keynote) - Present with Vue.
+  - [HappyPlants](https://github.com/morkro/happy-plants) - A progressive web app for organising your plants 🌱.
 
 ### Interactive Experiences
 
