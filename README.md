@@ -80,7 +80,6 @@
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
-    - [Mobile Development](#mobile-development)
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
     - [Admin Template](#admin-template)
@@ -1673,12 +1672,6 @@ Tooltips / popovers
  - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
  - [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.
 
-### Mobile Development
-
-*Native Mobile Development frameworks*
-
-- [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
-
 ### Mobile
 
 *UI frameworks for mobile*
@@ -1688,6 +1681,7 @@ Tooltips / popovers
  - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
  - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
  - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
+- [Vue Native](https://vue-native.io/) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 
 ### Component Collections
 
