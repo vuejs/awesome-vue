@@ -1789,7 +1789,7 @@ Tooltips / popovers
  - [vue-edge-check](https://github.com/gu-fan/vue-edge-check/) – Check browser edge to prevent transition effect triggered oddly when swipe edge with `vue-router`
  - [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) – A simple and tiny directive to observe changes in DOM use MutationObserver API
  - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
-
+ - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
 
 ### Responsive Design
 
