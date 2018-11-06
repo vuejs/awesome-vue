@@ -1944,7 +1944,7 @@ composing CSS breakpoint state.
  - [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) Like jQuery's `slideUp` / `slideDown`, but for Vue!
  - [vue-animejs](https://github.com/BenAHammond/vue-anime) Simple `anime.js` directives for Vue.
  - [Eagle.js](https://github.com/zulko/eagle.js/) Eagle.js is a web-based slideshow framework for Vue.js.
- - [vue-pose](https://github.com/zulko/eagle.js/) Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
+ - [vue-pose](https://popmotion.io/pose/) Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
 
 ### Meta Tags
 
@@ -1953,7 +1953,7 @@ composing CSS breakpoint state.
  - [vue-head](https://github.com/ktquez/vue-head) - Manage the meta information of the head tag, a simple and easy way.
  - [vue-meta](https://github.com/declandewet/vue-meta) - Manage page meta info in Vue 2.0 components. SSR + Streaming supported.
  - [vue-headful](https://github.com/troxler/vue-headful) - Set document `<title>` and meta tags from within your views.
- - [vue-simple-headful](https://popmotion.io/pose/) - Easily set meta-tags with vue.js - a simpler `vue-headful` alternative with TypeScript support.
+ - [vue-simple-headful](https://github.com/VeryWow/vue-simple-headful) - Easily set meta-tags with vue.js - a simpler `vue-headful` alternative with TypeScript support.
 
 ### Portal
 
