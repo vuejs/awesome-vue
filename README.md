@@ -185,6 +185,7 @@
 - [Vue News](https://vuenews.io) - Social website focusing on the latest Vue.js news and information.
 - [Vue Curated Resources](https://hackr.io/tutorials/learn-vue-js) - Recommended Vue.js courses and tutorials.
 - [BuiltForVue](https://builtforvue.com) - NPM Mirror of all Vue.js components and packages.
+- [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 
 
 ### Job Portal
@@ -385,6 +386,14 @@
 - [Firebase Measuring Vue SSR Performance with Nuxt.js (Server-side Rendering with JavaScript Frameworks)](https://www.youtube.com/watch?v=Y5XX2lruhxs)
 - [Creating an interactive map with D3 and Vue](https://dev.to/denisinvader/creating-an-interactive-map-with-d3-and-vue-4158) (October 2018)
 - [The guide to write universal, SSR-ready Vue components](https://blog.lichter.io/posts/the-guide-to-write-universal-ssr-ready-vue-compon)
+- [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) by [Vue School](https://vueschool.io)
+- [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone) by [Vue School](https://vueschool.io)
+- [Vue.js Form Validation](https://vueschool.io/courses/vuejs-form-validation) by [Vue School](https://vueschool.io)
+- [The Vue.js Master Class](https://vueschool.io/courses/the-vuejs-master-class) by [Vue School](https://vueschool.io)
+- [Vue.js Firebase Realtime Database](https://vueschool.io/courses/vuejs-firebase-realtime-database) by [Vue School](https://vueschool.io)
+- [Vue.js Firebase Authentication](https://vueschool.io/courses/vuejs-firebase-authentication) by [Vue School](https://vueschool.io)
+- [Dynamic Forms with Vue.js](https://vueschool.io/courses/dynamic-forms-vuejs) by [Vue School](https://vueschool.io)
+- [Custom Vue.js Directives](https://vueschool.io/courses/custom-vuejs-directives) by [Vue School](https://vueschool.io)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -659,6 +668,7 @@
 - [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) Vue + Pug + Stylus boilerplate 💚 🐶 🖌
 - [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
 - [Epiboard](https://github.com/Alexays/Epiboard) A new tab page extension with material design and useful features :new: :tada:
+- [Vuemmerce](https://github.com/ivanlori/Vuemmerce) Free ecommerce template built with Vue.js and Bulma framework :new:
 - [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) Layered architecture ASP.NET Core API and Vuejs client application startup template
 
 ### Commercial Products
@@ -1781,7 +1791,7 @@ Tooltips / popovers
  - [vue-edge-check](https://github.com/gu-fan/vue-edge-check/) – Check browser edge to prevent transition effect triggered oddly when swipe edge with `vue-router`
  - [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) – A simple and tiny directive to observe changes in DOM use MutationObserver API
  - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
-
+ - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
 
 ### Responsive Design
 
