@@ -1146,6 +1146,7 @@ Tooltips / popovers
  - [vue-jqxchart](https://github.com/jqwidgets/vue/tree/master/chart) - Charting component with Pie, Bubble, Donut, Line, Bar, Column, Area, Waterfall, Polar & Spider series.
  - [toast-ui.vue-chart](https://github.com/nhnent/toast-ui.vue-chart) - Vue Wrapper for [TOAST UI Chart](http://ui.toast.com/tui-chart/).
  - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
+ - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.
 
 
 ### Time
