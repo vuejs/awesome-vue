@@ -653,7 +653,7 @@
 - [Chattier](https://github.com/raniesantos/chattier) - SPA social network built with Laravel 5.6, Vue.js 2, and Bulma (Buefy components + Bulmaswatch themes). Also uses JWT authentication.
 - [chrome-ribbon-reminder](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 - [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
-- [Laravel Genealogy](https://github.com/laravel-genealogy/genealogy) - Genealogy / family tree management system using Laravel 5.6, Vue.js 2 and various components. Work in progress.
+- [Modular Genealogy](https://github.com/modularsoftware/genealogy) - Genealogy / family tree management system using Laravel 5.7, Vue.js 2.5 and various components. Work in progress.
 - [Minimal Notes](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 - [Roast](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 - [Stack Edit](https://github.com/benweet/stackedit/) - In-browser Markdown editor
