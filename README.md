@@ -850,6 +850,8 @@
   - [Keynote](https://github.com/znck/keynote) - Present with Vue.
   - [HappyPlants](https://github.com/morkro/happy-plants) - A progressive web app for organising your plants 🌱.
   - [Pocket Lists](https://pocketlists.com) - World's friendliest to-do list app.
+  - [Padlet](https://padlet.com) - Collaborative bulletin boards
+  - [Glovo](https://glovoapp.com/en/) - On-demand delivery
   - [MySigMail](https://mysigmail.com/create) - MySigMail is a free, in browser, email signature generator without creating account
 
 ### Interactive Experiences
@@ -1355,6 +1357,7 @@ Tooltips / popovers
  - [vue-tags-ball](https://github.com/yanthems/vue-tags-ball) - Create a beautiful and spherical tag with this plugin
  - [vue-rippler](https://github.com/spemer/vue-rippler) - Simple Vue.js plugin for custom ripple effect
  - [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
+ - [basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - Easy to use Vue.js chat
 
 ### Tabs
 
