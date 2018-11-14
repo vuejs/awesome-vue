@@ -394,6 +394,8 @@
 - [Vue.js Firebase Authentication](https://vueschool.io/courses/vuejs-firebase-authentication) by [Vue School](https://vueschool.io)
 - [Dynamic Forms with Vue.js](https://vueschool.io/courses/dynamic-forms-vuejs) by [Vue School](https://vueschool.io)
 - [Custom Vue.js Directives](https://vueschool.io/courses/custom-vuejs-directives) by [Vue School](https://vueschool.io)
+- [Vue.js Application Development Essentials](https://www.packtpub.com/application-development/vuejs-application-development-essentials-video) by Bartłomiej Potaczek, Packt. (October 2018)
+
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
