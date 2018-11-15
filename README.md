@@ -394,6 +394,7 @@
 - [Vue.js Firebase Authentication](https://vueschool.io/courses/vuejs-firebase-authentication) by [Vue School](https://vueschool.io)
 - [Dynamic Forms with Vue.js](https://vueschool.io/courses/dynamic-forms-vuejs) by [Vue School](https://vueschool.io)
 - [Custom Vue.js Directives](https://vueschool.io/courses/custom-vuejs-directives) by [Vue School](https://vueschool.io)
+- [Vue.js Application Development Essentials](https://www.packtpub.com/application-development/vuejs-application-development-essentials-video) by Bartłomiej Potaczek, Packt. (October 2018)
 - [Troubleshooting Vue.js](https://www.packtpub.com/application-development/troubleshooting-vuejs-video) by Christian Hur, Packt. (October 2018)
 - [Nuxt.js - Vue.js on Steroids](https://www.packtpub.com/application-development/nuxtjs-vuejs-steroids-video) by Maximilian Schwarzmüller, Packt. (October 2018)
 
@@ -535,6 +536,8 @@
 - [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) by Caio Incau, Casa do Código. (September 2017)
 - [Getting to Know Vue.js](https://www.apress.com/us/book/9781484237809) by Brett Nelson, Apress. (August 2018)
 - [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
+- [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
+- [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
 
 # Projects Using Vue.js
 
@@ -1259,6 +1262,7 @@ Tooltips / popovers
  - [vue-draggable-nested-tree](https://github.com/phphe/vue-draggable-nested-tree) - Customizable draggable tree view component for Vuejs2 [@phphe](https://github.com/phphe)
  - [vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
  - [vue-jstree](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2 with beautiful icons and drag&drop
+ - [vue-vtree](https://github.com/XAHTEP26/vue-vtree) - Universal and flexible tree component for Vue.js
 
 
 ### Social Sharing
@@ -1360,6 +1364,7 @@ Tooltips / popovers
  - [vue-rippler](https://github.com/spemer/vue-rippler) - Simple Vue.js plugin for custom ripple effect
  - [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
  - [basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - Easy to use Vue.js chat
+ - [vue-resize-text](https://github.com/JayeshLab/vue-resize-text) - A vue directive which automatically resize font size based on element width.
 
 ### Tabs
 
