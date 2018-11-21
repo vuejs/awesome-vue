@@ -1725,7 +1725,6 @@ Tooltips / popovers
 
 *Set of components without layout system*
 
- - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
  - [vue-mdc](https://github.com/posva/vue-mdc) - Material Components Web for Vue.js.
  - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
@@ -1746,6 +1745,7 @@ Tooltips / popovers
  - [jqwidgets](https://www.jqwidgets.com/vue/) - 70+ Vue.js 2.0 UI Components with Material Design themes.
  - [vue-uix](https://github.com/juijs/vue-uix) - UI collection for web page implementation in Vue.js
  - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - A Minimalist Dark Design System for Vue.js 🎨
+ - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
 
 ### Mobile
 
