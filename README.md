@@ -1368,6 +1368,7 @@ Tooltips / popovers
  - [vue-contacts](https://github.com/chiaweilee/vue-contacts) - Mobile contacts component for Vue
  - [basic-vue-chat](https://github.com/jmaczan/basic-vue-chat) - Easy to use Vue.js chat
  - [vue-resize-text](https://github.com/JayeshLab/vue-resize-text) - A vue directive which automatically resize font size based on element width.
+ - [vue-github-profile](https://github.com/GabrielBibiano/vue-github-profile) - A vue component to view the profile and repos of determined user
 
 ### Tabs
 
