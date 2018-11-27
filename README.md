@@ -400,6 +400,11 @@
 - [Building an Electron File Explorer with Quasar (and Vue)](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) by [@hawkeye64](https://github.com/hawkeye64). (November 2018)
 - [Build Web Apps with Vue JS 2 & Firebase](https://www.udemy.com/build-web-apps-with-vuejs-firebase/learn/v4/overview) on [Udemy](https://www.udemy.com/) by [the Net Ninja](https://www.thenetninja.co.uk/)
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview) on [Udemy](https://www.udemy.com/) by Maximilian Schwarzmüller
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 1)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-1/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 2)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-2/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 3)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-3/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
+- [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 4)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-4/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
+- [Adding Internationalization to a Vue Application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
 
 ### Examples
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
