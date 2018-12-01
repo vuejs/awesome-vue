@@ -33,12 +33,13 @@
     - [Table](#table)
     - [Notification](#notification)
     - [Loader](#loader)
-    - [Progress Bar](#progress-bar)
+      - [Progress Bar](#progress-bar)
     - [Tooltip](#tooltip)
     - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
     - [Menu](#menu)
+    - [Minus Plus Input](#minus-plus-input)
     - [Carousel](#carousel)
     - [Charts](#charts)
     - [Time](#time)
@@ -57,6 +58,7 @@
     - [Tabs](#tabs)
     - [Form](#form)
       - [Picker](#picker)
+      - [Generator](#generator)
         - [Date Picker](#date-picker)
       - [Select](#select)
       - [Slider](#slider)
@@ -68,15 +70,16 @@
       - [Masked Input](#masked-input)
       - [Rich Text Editing](#rich-text-editing)
       - [Image Manipulation](#image-manipulation)
+      - [Video Manipulation](#video-manipulation)
       - [File Upload](#file-upload)
       - [Context Menu](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
+      - [Wizard](#wizard)
       - [CSV](#csv)
       - [Comment System](#comment-system)
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
-    - [Minus Plus Input](#minus-plus-input)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -103,7 +106,8 @@
     - [SVG](#svg)
     - [Miscellaneous](#miscellaneous-2)
     - [WebGL](#webgl)
-    - [Page Visibility](#page-visibility)
+    - [Fullscreen](#fullscreen)
+    - [Page visibility](#page-visibility)
     - [Printing](#printing)
   - [Utilities](#utilities)
     - [Typescript](#typescript)
@@ -114,7 +118,9 @@
     - [State Management](#state-management)
       - [Redux](#redux)
       - [Mobx](#mobx)
+      - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
+          - [Sync Between Tabs](#sync-between-tabs)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -127,19 +133,23 @@
     - [Migration](#migration)
     - [Web Sockets](#web-sockets)
     - [Payment](#payment)
-      - [Stripe](#stripe)
-      - [Paypal](#paypal)
-      - [Plaid](#plaid)
+        - [Stripe](#stripe)
+        - [Paypal](#paypal)
+        - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
+        - [Google Analytics](#google-analytics)
+        - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
     - [Test](#test)
+          - [Browser-less require](#browser-less-require)
     - [Source Code Editing](#source-code-editing)
       - [Atom](#atom)
       - [Sublime Text](#sublime-text)
       - [Vim](#vim)
+      - [Visual Studio Code](#visual-studio-code)
       - [Visual Studio](#visual-studio)
       - [Brackets](#brackets)
       - [Intellij](#intellij)
@@ -1582,7 +1592,7 @@ Tooltips / popovers
  - [img-Vuer](https://github.com/ssshooter/img-vuer) - An easy-to-use image viewer base on Vue.js for mobile.
  - [vue-image-loader](https://github.com/kevindesousa/vue-image-loader) - A vue loader/progressive image plugin like Medium.
  - [vue-load-image](https://github.com/john015/vue-load-image) - display loader during image loading, as well as by display alternate content when the image fails to load.
- 
+
 #### Video Manipulation
 
 - [vue-playlist](https://github.com/MishaPetrov/vue-playlist) - A lightweight vue (2.0) component with no dependancies that offers truly seamless html5 video playback. The one and only working solution for seamless video play done with vanilla JS. It takes an array of videos and stitches them together into a single video.
@@ -1747,6 +1757,13 @@ Tooltips / popovers
  - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
  - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
 
+*Set of components for mobile*
+
+ - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
+ - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
+ - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
+ - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
+
 ### Component Collections
 
 *Set of components without layout system*
@@ -1773,15 +1790,6 @@ Tooltips / popovers
  - [vuedarkmode](https://github.com/LeCoupa/vuedarkmode) - A Minimalist Dark Design System for Vue.js 🎨
  - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
  - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
-
-### Mobile
-
-*Set of components for mobile*
-
- - [mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
- - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
- - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
- - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 
 ### Admin Template
 
