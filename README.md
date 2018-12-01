@@ -2001,6 +2001,7 @@ composing CSS breakpoint state.
  - [Eagle.js](https://github.com/zulko/eagle.js/) Eagle.js is a web-based slideshow framework for Vue.js.
  - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
  - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
+ - [femtoTween](https://github.com/pearofducks/femtoTween) A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
 
 ### Meta Tags
 
