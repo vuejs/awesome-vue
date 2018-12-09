@@ -1144,7 +1144,7 @@ Tooltips / popovers
 
 ### Carousel
 
- - [vue-easy-slider](https://github.com/shhdgit/vue-easy-slider) - Slider Component of Vue.js.
+ - [vue-easy-slide](https://github.com/shhdgit/vue-easy-slide) - Slide Component of Vue.js.
  - [vue-l-carousel](https://github.com/lsycxyj/vue-l-carousel) - A responsive carousel(namely slider or swiper) component for Vue.js v2.x+.
  - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper(slide) component for Vue.js(1.x ~ 2.x).
  - [vue-lory](https://github.com/vue-bulma/lory) - Vue Slider Component based on lory.
