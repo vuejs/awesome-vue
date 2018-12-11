@@ -2015,6 +2015,7 @@ composing CSS breakpoint state.
  - [vue-pose](https://github.com/Popmotion/popmotion/tree/master/packages/vue-pose) Pose for Vue is a declarative motion system that combines the simplicity of CSS transitions with the power and flexibility of JavaScript.
  - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
  - [femtoTween](https://github.com/pearofducks/femtoTween) A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
+ - [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
 
 ### Meta Tags
 
