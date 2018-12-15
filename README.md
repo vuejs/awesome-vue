@@ -1824,6 +1824,7 @@ Tooltips / popovers
 
  - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
  - [Peco](https://github.com/egojump/peco) - A static website generator for humans.
+ - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 
 ### Other
 
