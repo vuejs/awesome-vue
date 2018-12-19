@@ -1423,6 +1423,8 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
+- [form-create](https://github.com/xaboy/form-create) -- Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
