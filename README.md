@@ -570,6 +570,7 @@
 ### Open Source
  - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
  - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
+ - [Vue Ecomm-Store Templet](https://github.com/rash0/Vue-Ecom) - An e-commerce templet build with vue/vuex/vue-router and bootstrap4.
  - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
  - [Raven Reader](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader made using atom electron and vue.js.
  - [Gokotta](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
