@@ -706,6 +706,8 @@
 - [Statusfy](https://github.com/bazzite/statusfy): Statusfy is a Status Page System, easy to use and completely Open Source.
 - [DynamoDb-GUI-Client](https://github.com/Arattian/DynamoDb-GUI-Client): Cross-platform GUI client for DynamoDb
 - [RosterWebApp](https://github.com/SnakeyHips/RosterWebApp) Open source rostering web application which allows the rostering of employees/teams to work sessions and other features.
+- [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
+- [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
 
 ### Commercial Products
 
@@ -890,6 +892,8 @@
   - [MySigMail](https://mysigmail.com/create) - MySigMail is a free, in browser, email signature generator without creating account
   - [Wordguru](https://wordguru.netguru.com) - A simple verbal game where you split into teams and try to guess as many keywords as you can.
   - [ApiFlash](https://apiflash.com) - A Chrome based screenshot API built on top of AWS Lambda for Developers
+  - [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
+  - [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
 
 ### Interactive Experiences
 
