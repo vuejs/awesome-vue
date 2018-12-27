@@ -1410,7 +1410,7 @@ Tooltips / popovers
  - [vue-resize-text](https://github.com/JayeshLab/vue-resize-text) - A vue directive which automatically resize font size based on element width.
  - [vue-github-profile](https://github.com/GabrielBibiano/vue-github-profile) - A vue component to view the profile and repos of determined user
  - [vue-niege](https://github.com/P3trur0/vue-niege) - 🎄 🎅 Single File Vue component to add a snow storm through a canvas.
- - [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - star star star star star  A highly dynamic vue stars rating component, similar to google play stars rating
+ - [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ A highly dynamic vue stars rating component, similar to google play stars rating ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
 
 ### Tabs
 
