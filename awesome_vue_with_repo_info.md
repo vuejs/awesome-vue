@@ -830,6 +830,18 @@
      &#9733 15, pushed 3 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/SasanFarrokh/vue-chimera">
+     vue-chimera
+    </a>
+    - A full-featured RESTful resource based client, campatible with Nuxtjs and server side fetching.
+    <a href="https://github.com/SasanFarrokh">
+     @SasanFarrokh
+    </a>
+    <sup>
+     &#9733 15, pushed 4 days ago
+    </sup>
+   </li>
   </ul>
   <sup>
    &#9733 1143, pushed 34 days ago
