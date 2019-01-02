@@ -2477,6 +2477,7 @@ Payment utilities.
  - [Vue Performance Devtool](https://github.com/vue-perf-devtool/vue-perf-devtool) - Vue Performance Devtool is a browser extension for inspecting the performance of Vue Components
  - [VueSource](https://github.com/davestewart/vue-source) - Global Vue mixin which identifies components in source code by adding HTML comments
  - [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
+ - [bruit-io](https://github.com/Moventes/bruit.io) - Collect feedbacks with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
 
 ### Docs
 
