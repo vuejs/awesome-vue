@@ -1419,6 +1419,7 @@ Tooltips / popovers
  - [vue-github-profile](https://github.com/GabrielBibiano/vue-github-profile) - A vue component to view the profile and repos of determined user
  - [vue-niege](https://github.com/P3trur0/vue-niege) - 🎄 🎅 Single File Vue component to add a snow storm through a canvas.
  - [vue-dynamic-star-rating](https://github.com/JonathanDn/vue-stars-rating) - A highly dynamic vue stars rating component, like google play rating ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+ - [vue-katex](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
 
 ### Tabs
 
