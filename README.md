@@ -506,7 +506,7 @@
 - [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
 - [vuex-examples](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
 - [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
-- [vuejs-sqljs-boilerplate](https://github.com/skysign/public/tree/master/vue.js/boilerplate/vuejs-sqljs-boilerplate) - This is a boilerplate to use both Vue.js and sql.js together
+- [vuejs-sqljs-boilerplate](https://github.com/skysign/vuejs-sqljs-boilerplate) - This is a boilerplate to use both Vue.js and sql.js together
 - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue by [OXOYO](https://github.com/OXOYO)
 - [vuejs-music-player](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
 - [Vue.js Best Practices Example Project](https://github.com/sarneeh/vuejs-example-stock-trader) - A best practices example project using Vue.js + Vue Router + Vuex + Vuelidate
@@ -1610,7 +1610,7 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
- 
+
 #### Image Manipulation
 
 *Edit images*
