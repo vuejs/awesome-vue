@@ -1552,6 +1552,7 @@ Tooltips / popovers
 
  - [vue-color](https://github.com/xiaokaike/vue-color) - Vue Color Pickers for Sketch, Photoshop, Chrome & more.
  - [vue-swatches](https://github.com/saintplay/vue-swatches) - Help the user picking beautiful colors!
+ - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
 
 #### Switch
 
@@ -1610,7 +1611,7 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
- 
+
 #### Image Manipulation
 
 *Edit images*
