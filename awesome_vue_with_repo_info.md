@@ -2369,7 +2369,7 @@ application.  By @Haixing-Hu
     </a>
    </li>
    <li>
-    <a href="https://tapestridesigner.com.com/">
+    <a href="https://tapestridesigner.com/">
      Tapestri Designer by Mission Bio
     </a>
    </li>
