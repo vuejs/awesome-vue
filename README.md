@@ -2272,6 +2272,7 @@ the amazing Vue.js.
  - [vuex-loading](https://github.com/anthinkingcoder/vuex-loading) - Simplify vuex loading state management
  - [vuex-module-builder](https://github.com/oncebot/vuex-module-builder) - Vuex module builder is a wrapper for writing vuex stores efficiently with some common methods built-in.
  - [vuex-pagination](https://github.com/cyon/vuex-pagination) - Easily work with paginated resources in your Vue/Vuex application. Works well with most of the Vue pagination components.
+ - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
 
 ###### Sync Between Tabs
 
