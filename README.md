@@ -885,6 +885,7 @@
   - [ApiFlash](https://apiflash.com) - A Chrome based screenshot API built on top of AWS Lambda for Developers
   - [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
   - [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
+  - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
 
 ### Interactive Experiences
 
