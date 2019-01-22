@@ -1472,6 +1472,7 @@ Tooltips / popovers
 - [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 - [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
+- [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x. :new:
 
 #### Select
 
@@ -1607,7 +1608,7 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
- 
+
 #### Image Manipulation
 
 *Edit images*
