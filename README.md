@@ -1846,8 +1846,8 @@ Tooltips / popovers
 ### Server-side rendering
 
  - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
- - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
+ - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
 
 ### Static website generator
 
