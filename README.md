@@ -2320,6 +2320,7 @@ the amazing Vue.js.
  - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
  - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
  - [vert](https://github.com/LancerComet/Vert-Core) - Library to build Vue applications in OOP.
+ - [vue-slot-checker](https://github.com/mya-ake/vue-slot-checker) - Provide the function to check slot like checking props.
 
 ### CSS
 
