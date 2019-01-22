@@ -893,6 +893,7 @@
   - [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
   - [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
   - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
+  - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
 
 ### Interactive Experiences
 
