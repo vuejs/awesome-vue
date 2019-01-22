@@ -2257,6 +2257,7 @@ the amazing Vue.js.
  - [vue-facebook-account-kit](https://github.com/biessek/vue-facebook-account-kit) - Simple vue wrapper to the fb account kit library.
  - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
  - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
+ - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
 
 #### Vuex Utilities
 
