@@ -1954,6 +1954,7 @@ composing CSS breakpoint state.
 
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
+ - [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
 
 ### Scroll
 
