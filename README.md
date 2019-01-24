@@ -1443,6 +1443,10 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
+#### Phone Number Input Formatter
+
+ - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number :fire:
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
