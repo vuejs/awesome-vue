@@ -1445,7 +1445,7 @@ Tooltips / popovers
 
 #### Phone Number Input Formatter
 
- - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number :fire:
+ - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
 
 #### Picker
 
