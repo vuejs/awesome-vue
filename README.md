@@ -58,6 +58,7 @@
     - [Miscellaneous](#miscellaneous)
     - [Tabs](#tabs)
     - [Form](#form)
+      - [Phone Number Input](#phone-number-input-formatter)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
