@@ -530,6 +530,7 @@
 - [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Multi-page ASP.NET Core Vue, Typescript, Vuex, Vue router, Bulma, Sass and Jest application. Template/starting point on how to use Vue.js as a multi page(multiple mini spa's) application in .NET Core MVC.
 - [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
 - [**Vue websockets example**](https://github.com/latovicalmin/vuejs-websockets-example) - A basic example of Websockets usage with Vue.js 2 + Node project for full working example.
+- [vue-todo-list](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate 
 
 ### Books
 
@@ -694,7 +695,7 @@
 - [Vuido](https://github.com/mimecorg/vuido) A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
 - [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube Video/Audio/Subtitle Downloader + Cutter
 - [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) Vue + Pug + Stylus boilerplate 💚 🐶 🖌
-- [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
+- [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
 - [Epiboard](https://github.com/Alexays/Epiboard) A new tab page extension with material design and useful features :new: :tada:
 - [zhudyos/duic](https://github.com/zhudyos/duic) Distributed configuration center :new:
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) Free ecommerce template built with Vue.js and Bulma framework :new:
