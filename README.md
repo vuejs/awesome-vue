@@ -1430,6 +1430,7 @@ Tooltips / popovers
  - [vue-katex](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
  - [vue-canvas-identify](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
  - [vue-canvas-material](https://github.com/loo41/vuc) - Vue canvas component for [vuc-material](http://vuc.tianchenyong.top/#/materia)
+ - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 
 ### Tabs
 
