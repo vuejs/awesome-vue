@@ -896,6 +896,7 @@
   - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
   - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
   - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
+  - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 
 ### Interactive Experiences
 
