@@ -1455,6 +1455,7 @@ Tooltips / popovers
  - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
  - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
+ - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
 
 ##### Date Picker
 
@@ -1856,6 +1857,7 @@ Tooltips / popovers
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Bootstrap 4 [Online Demo](http://rest-admin.genyii.com)
   - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
   - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
+  - [element-admin](https://github.com/codetrial/element-admin) - A dead simple but powerful vue admin with Vue CLI 3 and element-ui.
 
 ### Server-side rendering
 
