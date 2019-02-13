@@ -1034,6 +1034,7 @@
  - [vue-snack](https://github.com/zerodois/vue-snack) - A Vue.JS plugin for Snackbars based on Google Material.
  - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
  - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
+ - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
 
 
 ### Loader
