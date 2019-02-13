@@ -1449,6 +1449,7 @@ Tooltips / popovers
  - [vue-baberrage](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js😎
  - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
  - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
+ - [vue-ribbon](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
 
 ### Tabs
 
