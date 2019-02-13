@@ -896,6 +896,7 @@
   - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
   - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
   - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
+  - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
 
 ### Interactive Experiences
 
