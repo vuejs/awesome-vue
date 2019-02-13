@@ -58,6 +58,7 @@
     - [Miscellaneous](#miscellaneous)
     - [Tabs](#tabs)
     - [Form](#form)
+      - [Phone Number Input](#phone-number-input-formatter)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
@@ -530,6 +531,8 @@
 - [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Multi-page ASP.NET Core Vue, Typescript, Vuex, Vue router, Bulma, Sass and Jest application. Template/starting point on how to use Vue.js as a multi page(multiple mini spa's) application in .NET Core MVC.
 - [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
 - [**Vue websockets example**](https://github.com/latovicalmin/vuejs-websockets-example) - A basic example of Websockets usage with Vue.js 2 + Node project for full working example.
+- [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
+- [vue-todo-list](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate 
 
 ### Books
 
@@ -694,7 +697,7 @@
 - [Vuido](https://github.com/mimecorg/vuido) A framework for creating native desktop applications. It can run on Windows, OS X and Linux, using native GUI components.
 - [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube Video/Audio/Subtitle Downloader + Cutter
 - [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) Vue + Pug + Stylus boilerplate 💚 🐶 🖌
-- [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
+- [Crypto News](https://github.com/Bartozzz/crypto-news) allows you to convert cryptocurrencies, view latest news and exchange rates for each ICO – all the data from the world of cryptocurrencies in one place.
 - [Epiboard](https://github.com/Alexays/Epiboard) A new tab page extension with material design and useful features :new: :tada:
 - [zhudyos/duic](https://github.com/zhudyos/duic) Distributed configuration center :new:
 - [Vuemmerce](https://github.com/ivanlori/Vuemmerce) Free ecommerce template built with Vue.js and Bulma framework :new:
@@ -896,6 +899,7 @@
   - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
   - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
   - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
+  - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
 
 ### Interactive Experiences
 
@@ -1430,8 +1434,9 @@ Tooltips / popovers
  - [vue-katex](https://github.com/lucpotage/vue-katex) - Simple plugin for math typsetting using KaTeX in Vue.js
  - [vue-canvas-identify](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
  - [vue-canvas-material](https://github.com/loo41/vuc) - Vue canvas component for [vuc-material](http://vuc.tianchenyong.top/#/materia)
-  - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
-
+ - [vue-baberrage](https://github.com/superhos/vue-baberrage) - A simple Barrage plugin Base on Vue.js😎
+ - [vue-terminal-ui](https://github.com/shershen08/vue-terminal-ui) - 🖥Terminal UI emulator Vue: custom and basic commands
+ 
 ### Tabs
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
@@ -1444,6 +1449,10 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
+#### Phone Number Input Formatter
+
+ - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
@@ -1455,6 +1464,7 @@ Tooltips / popovers
  - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
  - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
+ - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
 
 ##### Date Picker
 
@@ -1484,7 +1494,8 @@ Tooltips / popovers
 - [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 - [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
-- [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x. :new:
+- [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
+- [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 #### Select
 
@@ -1564,6 +1575,7 @@ Tooltips / popovers
  - [vue-color](https://github.com/xiaokaike/vue-color) - Vue Color Pickers for Sketch, Photoshop, Chrome & more.
  - [vue-swatches](https://github.com/saintplay/vue-swatches) - Help the user picking beautiful colors!
  - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
+ - [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) - Vue Color Picker component designed for humans!
 
 #### Switch
 
@@ -1856,6 +1868,7 @@ Tooltips / popovers
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Bootstrap 4 [Online Demo](http://rest-admin.genyii.com)
   - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
   - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
+  - [element-admin](https://github.com/codetrial/element-admin) - A dead simple but powerful vue admin with Vue CLI 3 and element-ui.
 
 ### Server-side rendering
 
