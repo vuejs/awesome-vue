@@ -906,6 +906,7 @@
   - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
   - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
   - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
+  - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
 
 ### Interactive Experiences
 
