@@ -58,6 +58,7 @@
     - [Miscellaneous](#miscellaneous)
     - [Tabs](#tabs)
     - [Form](#form)
+      - [Phone Number Input](#phone-number-input-formatter)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
@@ -530,6 +531,7 @@
 - [**Multi-page ASP.NET Core Vue with TypeScript**](https://github.com/danijelh/aspnetcore-vue-typescript-template) - Multi-page ASP.NET Core Vue, Typescript, Vuex, Vue router, Bulma, Sass and Jest application. Template/starting point on how to use Vue.js as a multi page(multiple mini spa's) application in .NET Core MVC.
 - [**CION** - Design system boilerplate for Vue.js](https://github.com/visualjerk/vue-cion-design-system) - A design system build primarily for Vue.js applications. It utilizes design tokens, a living styleguide with integrated code playgrounds and reusable components for common UI tasks.
 - [**Vue websockets example**](https://github.com/latovicalmin/vuejs-websockets-example) - A basic example of Websockets usage with Vue.js 2 + Node project for full working example.
+- [**Vue(2.0) + Node.js: A blog**](https://github.com/FatDong1/vue-blog) by @FatDong1
 - [vue-todo-list](https://github.com/alexander-elgin/vue-todo-list) ToDo List sample app based on Vue + Vuex + Vuetify + Vee-Validate 
 
 ### Books
@@ -897,6 +899,7 @@
   - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
   - [Careup](https://careup.mx) - Business management tool for dentists 🦷.
   - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
+  - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
 
 ### Interactive Experiences
 
@@ -1444,6 +1447,10 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
+#### Phone Number Input Formatter
+
+ - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
+
 #### Picker
 
  - [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
@@ -1455,6 +1462,7 @@ Tooltips / popovers
  - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
  - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
+ - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
 
 ##### Date Picker
 
@@ -1484,7 +1492,8 @@ Tooltips / popovers
 - [vue-vanilla-datetime-picker](https://github.com/Shchepotin/vue-vanilla-datetime-picker) - Datetime picker for Vue.
 - [vue2-daterange-picker](https://github.com/Innologica/vue2-daterange-picker/blob/master/README.md) - Vue2 date range picker based on bootstrap-daterangepicker (no jQuery dependency)
 - [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
-- [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x. :new:
+- [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
+- [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
 
 #### Select
 
@@ -1856,6 +1865,7 @@ Tooltips / popovers
   - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Bootstrap 4 [Online Demo](http://rest-admin.genyii.com)
   - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
   - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
+  - [element-admin](https://github.com/codetrial/element-admin) - A dead simple but powerful vue admin with Vue CLI 3 and element-ui.
 
 ### Server-side rendering
 
