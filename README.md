@@ -1224,6 +1224,7 @@ Tooltips / popovers
  - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
  - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.
  - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
+ - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
 
 
 ### Time
