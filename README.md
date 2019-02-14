@@ -10,18 +10,18 @@
 > A curated list of awesome things related to Vue.js
 
 - [Resources](#resources)
-    - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
-    - [Job Portal](#job-portal)
-    - [Community](#community)
-    - [Conferences](#conferences)
-    - [Podcasts](#podcasts)
-    - [Youtube Channels](#youtube-channels)
-    - [Official Examples](#official-examples)
-    - [Tutorials](#tutorials)
-    - [Examples](#examples)
-    - [Books](#books)
-    - [Blog Posts](#blog-posts)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+  - [Job Portal](#job-portal)
+  - [Community](#community)
+  - [Conferences](#conferences)
+  - [Podcasts](#podcasts)
+  - [Youtube Channels](#youtube-channels)
+  - [Official Examples](#official-examples)
+  - [Tutorials](#tutorials)
+  - [Examples](#examples)
+  - [Books](#books)
+  - [Blog Posts](#blog-posts)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
   - [Commercial Products](#commercial-products)
@@ -122,7 +122,7 @@
       - [Mobx](#mobx)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
-          - [Sync Between Tabs](#sync-between-tabs)
+        - [Sync Between Tabs](#sync-between-tabs)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -135,13 +135,13 @@
     - [Migration](#migration)
     - [Web Sockets](#web-sockets)
     - [Payment](#payment)
-        - [Stripe](#stripe)
-        - [Paypal](#paypal)
-        - [Plaid](#plaid)
+          - [Stripe](#stripe)
+          - [Paypal](#paypal)
+          - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
-        - [Google Analytics](#google-analytics)
-        - [Yandex Metrika](#yandex-metrika)
+          - [Google Analytics](#google-analytics)
+          - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
@@ -2661,6 +2661,7 @@ Payment utilities.
  - [Huncwot](https://github.com/zaiste/huncwot) - Vue.js boilerplate with Node.js for building modern JavaScript applications with « batteries included » approach.
  - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge vue template focused on code quality and developer happiness. Featuring: nuxt, flow, and jest.
  - [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) - 🛠 A simple template for building and publishing Vue component/library as a opensource.
+ - [Awesome Vue Boilerplate](https://github.com/NarHakobyan/awesome-vue-boilerplate) - 😍 Awesome Vue, 🥰 Vuex, Vuex-pathify, element-ui, tailwindcss
 
 ### Client
 
