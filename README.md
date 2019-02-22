@@ -907,6 +907,8 @@
   - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
   - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
   - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
+  - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs
+and everything else, all in one place.
 
 ### Interactive Experiences
 
