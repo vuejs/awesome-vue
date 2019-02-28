@@ -79,10 +79,10 @@
       - [Wizard](#wizard)
       - [CSV](#csv)
       - [Comment System](#comment-system)
+      - [Ncform](#ncform)
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
-    - [Ncform](#ncform)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -1740,6 +1740,9 @@ Tooltips / popovers
 
 - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
+#### Ncform
+
+- [ncform](https://github.com/ncform/ncform) - a nice way to develop form
 
 ### Canvas
 
@@ -1759,10 +1762,6 @@ Tooltips / popovers
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
-
-### Ncform
-
-- [Ncform](https://github.com/ncform/ncform) - a nice way to develop form
 
 
 ## UI Layout
