@@ -1742,7 +1742,7 @@ Tooltips / popovers
 
 #### Ncform
 
-- [ncform](https://github.com/ncform/ncform) - a nice way to develop form
+- [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
 
 ### Canvas
 
