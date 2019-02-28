@@ -79,7 +79,6 @@
       - [Wizard](#wizard)
       - [CSV](#csv)
       - [Comment System](#comment-system)
-      - [Ncform](#ncform)
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
@@ -1740,10 +1739,6 @@ Tooltips / popovers
 
 - [vue-comment-grid](https://github.com/TugayYaldiz/vue-comment-grid) - 💬 Responsive Vue.js comment system plugin that built with CSS Grid and Firebase REST API + Authentication.
 
-#### Ncform
-
-- [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
-
 ### Canvas
 
  - [vue-easeljs](http://github.com/dankuck/vue-easeljs) - Data-driven control over an HTML5 canvas element.
@@ -1969,6 +1964,7 @@ composing CSS breakpoint state.
  - [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
  - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
+ - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
 
 #### Validation
 
