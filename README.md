@@ -1480,6 +1480,7 @@ Tooltips / popovers
  - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
  - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
+ - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
 
 ##### Date Picker
 
