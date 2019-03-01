@@ -414,6 +414,7 @@
 - [Practical Projects with Vue JS 2](https://www.packtpub.com/web-development/practical-projects-vue-js-2-video) by Jack Herrington, Packt. (December 2018)
 - [Vue.js 기초 다지기 (Video)](https://lessipe.com/course/15) on [Lessipe](https://www.lessipe.com/) by [Lessipe](https://lessipe.com/)
 - [Full Stack Web Development with Vue.js and Node.js](https://www.packtpub.com/web-development/full-stack-web-development-vuejs-and-nodejs-video) by Haider Rehman, Packt. (January 2019)
+- [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 
 ### Examples
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
@@ -566,6 +567,7 @@
 - [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
 - [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
 - [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
+- [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
 
 # Projects Using Vue.js
 
@@ -717,6 +719,8 @@
 - [Vue Org Chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 - [Beep](https://github.com/ModusCreateOrg/beep) - Account Security Scanner built with Vue.js and Ionic 4
 - [Vue CRUD](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
+- [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – A modern admin dashboard powered by Vue, Sass, Firestore, and Netlify.
+- [MToDo](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -732,6 +736,7 @@
  - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
  - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
  - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
+ - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban 
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
@@ -907,6 +912,7 @@
   - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
   - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
   - [Map Marker Generator](https://map-marker-generator.firebaseapp.com/) - A Free Online Tool To Generate Custom Map Icons On The Fly
+  - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
 
 ### Interactive Experiences
 
@@ -1121,6 +1127,7 @@ Tooltips / popovers
 - [vue2-image-loader](https://github.com/leepyng/vue2-image-loader) - A image lazyLoad loader component for vue2
 - [vue-my-photos](https://github.com/am283721/vue-my-photos) - A simple dependency-free image lightbox component with filtering capabilities
 - [vue-img-orientation-changer](https://github.com/nikli2009/vue-img-orientation-changer) - A Vue.js `directive` that automatically adjust your `img` to correct `orientation`.
+- [vue-topmodal](https://github.com/adileo/vue-topmodal) - A fully customisable, easy to use, Vue.js modal component. (Responsive, Stackable, Scrollable, Animated)
 - [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customisable vue modal component .
 
 ### Parallax
@@ -1227,6 +1234,7 @@ Tooltips / popovers
  - [vue-doughnut-chart](https://github.com/mazipan/vue-doughnut-chart) - Doughnut chart component for Vue.js.
  - [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts.
  - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
+ - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
 
 
 ### Time
@@ -1788,7 +1796,7 @@ Tooltips / popovers
  - [vue-colcade](https://github.com/alexiscolin/vue-colcade) - A small wrapper for integrating Colcade grid layout to Vuejs.
  - [vue-ads-layout](https://github.com/arnedesmedt/vue-ads-layout) - A small library of Vue components to quickly generate a responsive web application layout with toolbar, left/right drawers and a footer. All components can be positioned fixed or relative.
  - [vue-magic-grid](https://github.com/imlinus/Vue-Magic-Grid) - A tiny port of Magic Grid for Vue.js 2.
- - [vue-magic-grid](https://github.com/venkatperi/vue-splitter-pane) - A Vuejs component which renders two slots in a adjustable split arrangement (vetical or horizontal).
+ - [vue-splitter-pane](https://github.com/venkatperi/vue-splitter-pane) - A Vuejs component which renders two slots in a adjustable split arrangement (vetical or horizontal).
  - [splitpanes](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
 
 
@@ -1828,7 +1836,8 @@ Tooltips / popovers
  - [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
  - [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.
  - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
-
+ - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
+ - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
 
 ### Mobile
 
@@ -1987,6 +1996,7 @@ composing CSS breakpoint state.
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
  - [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
+ - [vue-responsive-text](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
 
 ### Scroll
 
@@ -2095,6 +2105,8 @@ composing CSS breakpoint state.
  - [vue-slide-up-down-component](https://github.com/k-okina/vue-slide-up-down-component) It is a simple interface but realizes very flexible and powerful slide animation, for Vue!
  - [femtoTween](https://github.com/pearofducks/femtoTween) A minimalistic (zero-dep, less than 1k) tweening library with first-class Vue support
  - [vue-sequential-entrance](https://github.com/deivthings/vue-sequential-entrance) Plugin for creating elegant sequential animation entrances with a list of elements of your page. Zero effort. Simple and lightweight
+ - [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) Super lightweight way to add CSS animations to elements as they scroll into view.
+ - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
 
 ### Meta Tags
 
@@ -2187,6 +2199,8 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vue-mixin-decorator](https://github.com/justrhysism/vue-mixin-decorator) - Typescript decorator for strongly typed Mixins.
  - [vue-ts-component-generator](https://github.com/frogbob/vue-ts-component-generator) - A simple cli tool for generating vue typescript components.
  - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local stoarge in decorator format
+ - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - Typescript/ES7 Decorators to make Vuex modules a breeze
+ - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
 
 ### HTTP Requests
 
@@ -2278,6 +2292,7 @@ the amazing Vue.js.
  - [Vuenut](https://lusaxweb.github.io/vuenut.org/) - is a component to develop faster and more fluently.
  - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
  - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
+ - [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
 
 #### Redux
 
@@ -2299,6 +2314,7 @@ the amazing Vue.js.
  - [casl-vue](https://github.com/stalniy/casl/tree/master/packages/casl-vue) - Restricts what resources a given user is allowed to access
  - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
  - [vue-auth](https://github.com/websanova/vue-auth) - A simple light-weight authentication library for Vue.js
+ - [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript
 
 #### Vuex Utilities
 
