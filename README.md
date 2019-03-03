@@ -1976,6 +1976,7 @@ composing CSS breakpoint state.
  - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
+ - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - Based on Vue, a form designer developed by ElementUI, a tool to improve the efficiency of form development, freeing developers from boring form code writing.
 
 #### Validation
 
