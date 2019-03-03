@@ -1490,7 +1490,8 @@ Tooltips / popovers
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
  - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
-
+ - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making) - Based on Vue, a form designer developed by ElementUI, a tool to improve the efficiency of form development, freeing developers from boring form code writing.
+ 
 ##### Date Picker
 
 *Date / datetime / time Picker*
