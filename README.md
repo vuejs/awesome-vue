@@ -1838,6 +1838,7 @@ Tooltips / popovers
  - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
  - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
  - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
+ - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
 
 ### Mobile
 
