@@ -253,6 +253,7 @@
 - [The Official Vue.js News Podcast](https://news.vuejs.org/)
 - [Vue podcast list via The QIT Tech Podcast Indexer](https://qit.cloud/search/vue)
 - [DNE 138 - Vale a pena VueJS? (01-05-2018)](https://devnaestrada.com.br/2018/01/05/vale-pena-vuejs.html)
+- [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 
 ### Youtube Channels
  - [VueNYC](https://www.youtube.com/vuenyc)
