@@ -2381,6 +2381,7 @@ the amazing Vue.js.
  - [vue-mods-names](https://github.com/RGRU/vue-mods-names) - Adding modificators to class names for all components in app.
  - [vue-styler](https://github.com/mrtone/vue-styler) - Simple, performant styler for vue.
  - [vue-css-modules](https://github.com/fjc0k/vue-css-modules) - Seamless mapping of class names to CSS Modules inside of Vue components.
+  - [fela-vue](https://github.com/houd1ni/fela-vue) - CSS-IN-JS mixin for Vue designed for flexibility yet team-oriented.
 
 ### Asset Management
 
