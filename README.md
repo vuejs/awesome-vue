@@ -1710,7 +1710,6 @@ Tooltips / popovers
 
 #### Miscellaneous
 
- - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
  - [vue-gmaps](https://github.com/ridermansb/vue-gmaps) - Search places and address using Google Maps API.
  - [vuep](https://github.com/QingWei-Li/vuep) - A component for rendering Vue components with live editor and preview.
  - [vue-places](https://github.com/Gomah/vue-places) - Places component is based on places.js for Vue 2.x. Turn any input into an address autocomplete.
@@ -1735,6 +1734,7 @@ Tooltips / popovers
  - [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
  - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
  - [vue-long-click](https://github.com/ittus/vue-long-click) - Long click (long press) directive library for vue, support mobile and desktop.
+ - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
 
 #### Wizard
 
