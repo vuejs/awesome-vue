@@ -269,7 +269,6 @@
 ### Tutorials
 
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
-- [What's New in Vue.js 1.0](http://www.sitepoint.com/whats-new-in-vue-js-1-0/) on Sitepoint
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
 - [Vue.js Tutorial](http://vegibit.com/vue-js-tutorial/) on Vegibit
@@ -721,6 +720,7 @@
 - [Vue CRUD](https://github.com/szczepanmasny/vue-crud) - Vue.js based REST-ful CRUD system. Vue CRUD allows you to easily create fast applications such as CMS or CRM.
 - [Vue HQ Admin Dashboard](https://vue-hq.netlify.com/) – A modern admin dashboard powered by Vue, Sass, Firestore, and Netlify.
 - [MToDo](https://github.com/satriaajiputra/mtodo) - Mini To Do Lists with simple auth built with Vue.js and JSON Server as data mock. Great as reference for anyone that finding reference about real world Vue.js
+- [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1135,7 +1135,7 @@ Tooltips / popovers
  - [vue-parallax](https://github.com/vue-comps/vue-parallax) - Scrolls an image slower than the window to create a neat optical effect.
  - [vue-parallaxy](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
  - [vue-mouse-parallax](https://github.com/Aminerman/vue-mouse-parallax) - A simple to use Mouse Parallax Component - Made with Vue.js
- - [vie-parallax-js](https://github.com/jsnanigans/vue-parallax-js) - Tiny vue component that adds a directive for parallax effect on elements.
+ - [vue-parallax-js](https://github.com/jsnanigans/vue-parallax-js) - Tiny vue component that adds a directive for parallax effect on elements.
 
 ### Icons
 
@@ -1865,7 +1865,6 @@ Tooltips / popovers
  - [vue-admin](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
  - [vuikit](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
  - [uiv](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
- - [yuche/vue-strap](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
  - [jsmod-vue-pc](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
  - [guilhermewaess/SemVue](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
@@ -2346,6 +2345,7 @@ the amazing Vue.js.
  - [vuex-module-builder](https://github.com/oncebot/vuex-module-builder) - Vuex module builder is a wrapper for writing vuex stores efficiently with some common methods built-in.
  - [vuex-pagination](https://github.com/cyon/vuex-pagination) - Easily work with paginated resources in your Vue/Vuex application. Works well with most of the Vue pagination components.
  - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
+ - [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
 
 ###### Sync Between Tabs
 
@@ -2425,6 +2425,7 @@ the amazing Vue.js.
 - [vue-messenger](https://github.com/fjc0k/vue-messenger) - A series of useful enhancements to Vue component props: Transform, Enum-type, Numeric-type, Two-way data bindings.
 - [vue-uuid-v4](https://github.com/estudioliver/vue-uuid.git) - Plugin Vue2 to easy get UUIDv4
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
+- [vue-direction](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 
 ### Web Workers
@@ -2606,7 +2607,6 @@ Payment utilities.
 
  - [language-vue@atom.io](https://github.com/hedefalk/atom-vue) - Vue component file syntax for Atom.
  - [language-vue-component@atom.io](https://github.com/CYBAI/language-vue-component) - Adds syntax highlighting to Vue Component files in Atom.
- - [vue-autocomplete@atom.io](https://github.com/ealves-pt/atom-vue-autocomplete) - Vue.js 1.0+ autocomplete for Atom.
  - [vue-snippets@atom.io](https://github.com/ealves-pt/atom-vue-snippets) - Atom snippets for Vue component files.
  - [vue-autocompile@atom.io](https://github.com/paulpflug/vue-autocompile) - Auto compile vue file on save.
  - [lint-sass-vue@atom.io](https://github.com/fsblemos/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files.
