@@ -1644,6 +1644,7 @@ Tooltips / popovers
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 - [vue-canvas-input](https://github.com/loo41/vuc) - Vue canvas component for [vuc-input](http://vuc.tianchenyong.top/#/identify)
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+- [vue-thumb](https://github.com/kaankilic/vue-thumb) - An Upload field mask of an Image for Vue 2
 
 #### Rich Text Editing
 
