@@ -1336,6 +1336,7 @@ Tooltips / popovers
 
 ### PDF
 
+ - [pdfvuer](https://github.com/arkokoley/pdfvuer) - A PDF viewer for Vue using Mozilla's PDF.js with text support. [Demo](https://blog.koley.in/pdfvuer/)
  - [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - A pdf viewer based on mozilla's PDF.js
 
 ### Tree
