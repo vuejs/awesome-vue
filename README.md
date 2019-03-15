@@ -1465,6 +1465,7 @@ Tooltips / popovers
  - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
  - [vue-ribbon](https://github.com/P3trur0/vue-ribbon) - Vue component for GitHub ribbons
  - [avatio-avatar](https://github.com/trunda/avatio-avatar) - Vue component for illustrated avatars - used by [Avatio](https://avatio.cool)
+ - [vue-jazzicon](https://github.com/man15h/vue-jazzicon) - A dead-simple Jazzicon component for Vue.
  
 ### Tabs
 
