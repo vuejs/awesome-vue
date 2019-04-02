@@ -10,25 +10,25 @@
 > A curated list of awesome things related to Vue.js
 
 - [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
-  - [Job Portal](#job-portal)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Podcasts](#podcasts)
-  - [Youtube Channels](#youtube-channels)
-  - [Official Examples](#official-examples)
-  - [Tutorials](#tutorials)
-  - [Examples](#examples)
-  - [Books](#books)
-  - [Blog Posts](#blog-posts)
+    - [Official Resources](#official-resources)
+    - [External Resources](#external-resources)
+    - [Job Portal](#job-portal)
+    - [Community](#community)
+    - [Conferences](#conferences)
+    - [Podcasts](#podcasts)
+    - [Youtube Channels](#youtube-channels)
+    - [Official Examples](#official-examples)
+    - [Tutorials](#tutorials)
+    - [Examples](#examples)
+    - [Books](#books)
+    - [Blog Posts](#blog-posts)
 - [Projects Using Vue.js](#projects-using-vuejs)
-  - [Open Source](#open-source)
-  - [Commercial Products](#commercial-products)
-  - [Apps/Websites](#appswebsites)
-  - [Interactive Experiences](#interactive-experiences)
-  - [Enterprise Usage](#enterprise-usage)
-  - [A11y](#a11y)
+    - [Open Source](#open-source)
+    - [Commercial Products](#commercial-products)
+    - [Apps/Websites](#appswebsites)
+    - [Interactive Experiences](#interactive-experiences)
+    - [Enterprise Usage](#enterprise-usage)
+    - [A11y](#a11y)
 - [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
     - [Table](#table)
@@ -58,7 +58,7 @@
     - [Miscellaneous](#miscellaneous)
     - [Tabs](#tabs)
     - [Form](#form)
-      - [Phone Number Input](#phone-number-input-formatter)
+      - [Phone Number Input Formatter](#phone-number-input-formatter)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
@@ -122,7 +122,7 @@
       - [Mobx](#mobx)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
-        - [Sync Between Tabs](#sync-between-tabs)
+          - [Sync Between Tabs](#sync-between-tabs)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -268,7 +268,7 @@
 - [**Vue.js 2.0 HackerNews Clone**](https://github.com/vuejs/vue-hackernews-2.0)
 
 ### Tutorials
-
+- [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 - [Vue.js screencasts](https://laracasts.com/series/learn-vue-2-step-by-step) on Laracasts
 - [Vuejs 2 Authentication Tutorial](https://auth0.com/blog/vuejs2-authentication-tutorial/) on Auth0 blog
 - [Create a GitHub File Explorer Using Vue.js](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) on Scotch.io
@@ -417,6 +417,7 @@
 - [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 
 ### Examples
+- [Realtime chat App with Vue and Hasura ](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
@@ -565,6 +566,7 @@
 - [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
 
 ### Blog Posts
+- [Realtime chat App with Vue and Hasura ](https://dev.to/hasurahq/realtime-chat-app-with-vue-and-hasura-202h)
 - [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
 - [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
 - [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
