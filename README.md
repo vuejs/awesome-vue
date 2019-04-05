@@ -417,6 +417,7 @@
 - [Vue for Designers](https://designcode.io/vue) by Design+Code (February 2019)
 
 ### Examples
+- [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
@@ -745,6 +746,7 @@
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
   - [Laracasts](https://laracasts.com)
+  - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
   - [esa.io](https://esa.io/)
   - [稀土掘金](http://gold.xitu.io)
   - [Prague Airport](http://www.prague-airport.com/)
