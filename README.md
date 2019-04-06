@@ -917,6 +917,7 @@
   - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
   - [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
   - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
+  - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
 
 ### Interactive Experiences
 
