@@ -1356,7 +1356,7 @@ Tooltips / popovers
  - [vuejs-tree](https://github.com/scalia/vuejs-tree) - A highly customizable VueJs tree viewer
  - [vue-jstree](https://github.com/zdy1988/vue-jstree) - A Tree Plugin For Vue2 with beautiful icons and drag&drop
  - [vue-vtree](https://github.com/XAHTEP26/vue-vtree) - Universal and flexible tree component for Vue.js
-
+ - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure
 
 ### Social Sharing
 
