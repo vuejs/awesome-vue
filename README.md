@@ -205,7 +205,7 @@
 ### Job Portal
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
-- [Vue.js Interview Quesions](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
+- [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 
 ### Community
 
