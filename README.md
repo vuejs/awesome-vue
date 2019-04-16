@@ -1512,7 +1512,7 @@ Tooltips / popovers
 
 #### Generator
 
- - [vue-json-schema](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
+ - [FormSchema Native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
  - [vue-awesome-form](https://github.com/fightingm/vue-awesome-form) - A vue.js component just like json-editor
  - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
  - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
