@@ -229,6 +229,7 @@
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
 - [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
 - [VueJS Vix - Meetup Page [Portuguese]](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
 
 ### Conferences
 
