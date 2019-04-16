@@ -922,6 +922,7 @@
   - [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
   - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
   - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces. 
+  - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
 
 ### Interactive Experiences
 
