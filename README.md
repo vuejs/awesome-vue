@@ -1244,6 +1244,7 @@ Tooltips / popovers
  - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
  - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
  - [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components
+ - [vgauge](https://github.com/amroessam/vgauge) - A Vue Wrapper to GaugeJS - Create beautiful gauges
 
 ### Time
 
