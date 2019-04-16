@@ -2104,6 +2104,7 @@ composing CSS breakpoint state.
  - [pimg](https://github.com/ooade/pimg) - A Simple Progressive Image Component used for lazy loading images.
  - [vue-tiny-lazyload-img](https://github.com/mazipan/vue-tiny-lazyload-img) - A small size Vue.js v.2+ directive for lazy loading images
  - [vue-lazy-youtube-video](https://github.com/3vilArthas/vue-lazy-youtube-video) - A simple Vue.js component for lazy loading YouTube videos.
+ - [lazyload-vue](https://github.com/Kazap/lazyload-vue)- Vue Plugin for vanilla-lazyload.
 
 ### Pagination
 
