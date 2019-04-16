@@ -2634,6 +2634,7 @@ Payment utilities.
  - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Official utilities for testing Vue components.
  - [vue-test-actions](https://github.com/biigpongsatorn/vue-test-actions) - Unit testing Vuex actions with Jest mocks.
  - [jest-vue-matcher](https://github.com/14nrv/jest-vue-matcher) - Additional jest matchers for vue
+ - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
 
 ###### Browser-less require
 
