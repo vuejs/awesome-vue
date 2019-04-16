@@ -40,6 +40,7 @@
     - [Parallax](#parallax)
     - [Icons](#icons)
     - [Menu](#menu)
+    
     - [Minus Plus Input](#minus-plus-input)
     - [Carousel](#carousel)
     - [Charts](#charts)
@@ -227,6 +228,9 @@
 - [VueJS Indonesia - Telegram Group [Indonesian]](https://t.me/vuejsid)
 - [VueJS Hong Kong - Facebook group](https://www.facebook.com/groups/887185518120024)
 - [VueJS Arab - Telegram Group](https://t.me/vuejsarab)
+- [VueJS Vix - Telegram Group [Portuguese]](https://t.me/vuejsvix)
+- [VueJS Vix - Meetup Page [Portuguese]](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+- [VueJS Norway - Meetup](https://www.meetup.com/VueJS-Oslo/)
 - [VueJS Israel 🇮🇱 - Facebook Page](https://www.facebook.com/officalVuejsIsrael/)
 
 ### Conferences
@@ -918,6 +922,8 @@
   - [Monocle Reader](https://monoclereader.com/) - Follow feeds, Twitter, YouTube, Blogs and everything else, all in one place.
   - [前站导航](https://www.frontendjs.com/) - 前端社区、文档收录.
   - [Geenes](https://geenes.app) - Generate and apply color palettes to your UI, then export it to sketch or code.
+  - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces. 
+  - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
 
 ### Interactive Experiences
 
@@ -1086,6 +1092,7 @@
  - [vue-simple-progress](https://github.com/dzwillia/vue-simple-progress) - A simple, flexible progress bar for Vue.js
  - [vue-component-loading](https://github.com/val-bubbleflat/vue-component-loading) - Manage a loading state inside each component and display the global loading state with a progressbar.
  - [vue-scroll-progress](https://github.com/spemer/vue-scroll-progress) - Simple Vue.js plugin for page scroll progress bar
+ - [vue-read-progress](https://github.com/ajerez/vue-read-progress) - Customizable progress bar at the top of the page that shows the scroll progress
 
 ### Tooltip
 
@@ -1242,6 +1249,8 @@ Tooltips / popovers
  - [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
  - [vue-trend-chart](https://github.com/dmtrbrl/vue-trend-chart) - Simple trend charts for Vue.js
  - [vueplotlib](https://github.com/keller-mark/vueplotlib) - Declarative, interactive, linked plot components
+ - [vgauge](https://github.com/amroessam/vgauge) - A Vue Wrapper to GaugeJS - Create beautiful gauges
+ - [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) - Wrappper for [plotly.js](https://plot.ly/javascript/) declarative charting library that ships with 20 chart types, including 3D charts, statistical graphs, and SVG maps. 
 
 ### Time
 
@@ -1749,6 +1758,7 @@ Tooltips / popovers
  - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
  - [vue-long-click](https://github.com/ittus/vue-long-click) - Long click (long press) directive library for vue, support mobile and desktop.
  - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
+ - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
 
 #### Wizard
 
@@ -2155,6 +2165,7 @@ composing CSS breakpoint state.
  - [vue-numeral-filter](https://github.com/lloydjatkinson/vue-numeral-filter) - A collection of filters that allows Numeral.js to be used inline in the template section of a component.
  - [vue-filter-date-format](https://github.com/eduardnikolenko/vue-filter-date-format) - Simple datetime filter for Vue 2.
  - [vue-filter-pluralize](https://github.com/eduardnikolenko/vue-filter-pluralize) - Simple pluralize filter for Vue 2.
+ - [vue-filter-date-parse](https://github.com/eduardnikolenko/vue-filter-date-parse) - Simple parsing datetime filter for Vue 2.
 
 ### SVG
 
@@ -2243,6 +2254,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
  - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
  - [vue-google-api](https://github.com/vertcitron/vue-google-api) - A wrapper for easy integration of the Google's APIs client in any vue.js 2 project, based on promises, with built-in Oauth2 "Sign In with Google" facilities.
+ - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.$apis.apiName()).
 
 ### i18n
 
@@ -2368,6 +2380,7 @@ the amazing Vue.js.
  - [vuex-pagination](https://github.com/cyon/vuex-pagination) - Easily work with paginated resources in your Vue/Vuex application. Works well with most of the Vue pagination components.
  - [vuex-easy-firestore](https://mesqueeb.github.io/vuex-easy-firestore/) - Easy coupling of Firebase Cloud Firestore and Vuex. 2-way sync with 0 boilerplate!
  - [vuex-listener](https://github.com/TimurKiyivinski/vuex-listener) - A global Vuex action and mutation listener plugin
+ - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records. 
 
 ###### Sync Between Tabs
 
@@ -2711,6 +2724,7 @@ Payment utilities.
  - [vue-lib-template](https://github.com/biigpongsatorn/vue-lib-template) - 🛠 A simple template for building and publishing Vue component/library as a opensource.
  - [Awesome Vue Boilerplate](https://github.com/NarHakobyan/awesome-vue-boilerplate) - 😍 Awesome Vue, 🥰 Vuex, Vuex-pathify, element-ui, tailwindcss
  - [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
+ - [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly. 
 
 ### Client
 
