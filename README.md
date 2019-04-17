@@ -2730,7 +2730,6 @@ Payment utilities.
  - [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
  - [vue-ts-amd](https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (RequireJS) and Typescript.
  - [**vue-2-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
-  - [**vue-auth-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
  - [layout](https://github.com/ktquez/layout) - A full-featured Webpack + Vue Extend layout
  - [layout-simple](https://github.com/ktquez/layout-simple) - A simple Webpack + Vue Extend layout
  - [vue-cli-template-library](https://github.com/julon/vue-cli-template-library) - Template for developing open-source vue.js libraries with Rollup + Jest + Babel + Storybook + TravisCI + SemanticRelease.
@@ -2738,6 +2737,7 @@ Payment utilities.
  - [vue-webpack-chrome-extension-template](https://github.com/ALiangLiang/vue-webpack-chrome-extension-template) - Template for quick creation of Chrome extension on Vuejs hot reloading when developing.
  - [buildless-vue](https://github.com/Botre/buildless-vue) - Quickly use Vue without a build step.
  - [vue-component-template](https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (with docs/demo site).
+ - [**vue-auth-boilerplate**](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 
 ### Universal
 
