@@ -509,7 +509,9 @@
 - [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
 - [vue2.0-demos](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
 - [conway](https://github.com/edge/conway) Conway's Game of Life in Vue.
+- [Vue.js [ONE] client](https://github.com/jasscia/one) - [ONE] client written with Vue2.5
 - [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
+- [Vuex Easy Access](https://github.com/mesqueeb/vuex-easy-access) - Unified syntax for accessing your Vuex store through simple set() and get() functions + auto generate mutations
 - [vuex-examples](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
 - [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 - [vuejs-sqljs-boilerplate](https://github.com/skysign/vuejs-sqljs-boilerplate) - This is a boilerplate to use both Vue.js and sql.js together
