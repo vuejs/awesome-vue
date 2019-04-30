@@ -217,6 +217,7 @@
 - [vueslack - 2300+ registered users worldwide](https://vueslack.slack.com/)
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
+- [VueJS Russia + Belarus E-Commerce - Telegram Group[Russian + English]](https://t.me/vue_commerce)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 - [VueJS Spanish - Slack Group](https://slack.vue-es.org/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
