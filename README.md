@@ -930,6 +930,7 @@
   - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces. 
   - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
   - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
+  - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
 
 ### Interactive Experiences
 
