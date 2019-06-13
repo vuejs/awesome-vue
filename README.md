@@ -2002,6 +2002,7 @@ Tooltips / popovers
  - [vue-mutation-observer](https://github.com/PNKBizz/vue-mutation-observer) – A simple and tiny directive to observe changes in DOM use MutationObserver API
  - [vue-scroll-show](https://github.com/AlekseyPleshkov/vue-scroll-show) – Showing the element if the user reached it after scroll
  - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
+ - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - 👀 Declaratively trigger methods when scrolled into view
 
 ### Responsive Design
 
