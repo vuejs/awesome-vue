@@ -1496,6 +1496,7 @@ Tooltips / popovers
  - [vue-star-rating](https://github.com/craigh411/vue-star-rating) - A simple, highly customisable star rating component ⭐️ ⭐️ ⭐️
 - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header)
  - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
+ - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons)A bursting particles effects buttons component.
 
 ### Tabs
 
