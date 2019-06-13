@@ -2345,6 +2345,7 @@ the amazing Vue.js.
  - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
  - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
  - [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
+ - [vuex-up](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
 
 #### Redux
 
