@@ -1559,6 +1559,7 @@ Tooltips / popovers
 - [vue-timeselector](https://github.com/alexiscolin/vue-timeselector) - Fully and simply customizable powerful time picker component for Vue.js.
 - [vue-date-picker](https://github.com/8788/vue-date-picker) - Lightweight datepicker component for Vue 2.x.
 - [vue-ctk-date-time-picker](https://github.com/chronotruck/vue-ctk-date-time-picker) - A beautiful VueJS component to pick date & time (with range mode) :new:
+- [simple-vue2-datetimepicker](https://github.com/jamespjarvis/simple-vue2-datetimepicker) - A simple, easy to use vue.js component for date and time picking. :new:
 
 #### Select
 
