@@ -2068,6 +2068,7 @@ composing CSS breakpoint state.
 - [vue2-perfect-scrollbar](https://github.com/mercs600/vue2-perfect-scrollbar) - PerfectScrollbar minimalistic wrapper
 - [vue-scroll-to](https://github.com/KevinHoughton/vue-scroll-to) - Adds a directive that listens for click events and scrolls to elements.
 - [vue-scroll-progressbar](https://github.com/guillaumebriday/vue-scroll-progressbar) - A customizable component that indicates the scroll relative position in a progressbar.
+- [vue-backtotop](https://github.com/caiofsouza/vue-backtotop) - A Back-to-top component for Vue.js, which scroll page to the top when clicked.
 
 *Virtual scrollbar*
 
