@@ -930,6 +930,7 @@
   - [Blurrish](http://blurrish.cognitusapps.com/) - Encrypted Morning Pages journal for Mac/Windows, built with Vue and Electron. Blurs as you write so you can journal in public workspaces. 
   - [ExifShot](https://exifshot.com/) - What and how on photography, beautifully.
   - [Studolog](https://studolog.com/) - Online file sharing platform for students, including tester and reviews. Currently in Czech 🇨🇿 only.
+  - [sum.cumo](https://www.sumcumo.com/) – Digital business models (with Vue as a tech stack centerpiece).
 
 ### Interactive Experiences
 
@@ -1495,6 +1496,7 @@ Tooltips / popovers
  - [vue-star-rating](https://github.com/craigh411/vue-star-rating) - A simple, highly customisable star rating component ⭐️ ⭐️ ⭐️
 - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header)
  - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
+ - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons)A bursting particles effects buttons component.
 
 ### Tabs
 
@@ -1839,8 +1841,7 @@ Tooltips / popovers
  - [vue-splitter-pane](https://github.com/venkatperi/vue-splitter-pane) - A Vuejs component which renders two slots in a adjustable split arrangement (vetical or horizontal).
  - [splitpanes](https://github.com/antoniandre/splitpanes) - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
  - [vue-mock-layout](https://github.com/promosis/vue-mock-layout) - Easily mock the layout of your Vue apps.
-
-
+ - [vue-simple-drawer](https://github.com/dreambo8563/vue-simple-drawer) - A tiny drawer panel with bounced animation, nest supported and theme customized. directions: left/right/up/down
 
 
 
@@ -1880,6 +1881,7 @@ Tooltips / popovers
  - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
  - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
  - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+ - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
 
 ### Mobile
 
@@ -1947,7 +1949,8 @@ Tooltips / popovers
 ### Static website generator
 
  - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
- - [Peco](https://github.com/egojump/peco) - A static website generator for humans.
+ - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
+ - [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
  - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 
 ### Other
@@ -2346,6 +2349,7 @@ the amazing Vue.js.
  - [vue-shared](https://github.com/raizam/vue-shared) - A light and simple alternative to vuex
  - [vuex-module-generator](https://github.com/abdullah/vuex-module-generator) - It allows you to create a vuex module easily.
  - [vuex-declaration](https://github.com/kbdsbx/vuex-declaration) - Declare state like props, make state inject to vuex dynamically when component created.
+ - [vuex-up](https://github.com/Hokid/vuex-up) - Brings mixing and services injector features to module vuex.
  - [effector](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
 
 #### Redux
