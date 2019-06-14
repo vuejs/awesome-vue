@@ -1943,6 +1943,7 @@ Tooltips / popovers
  - [Kendo UI for Vue](https://www.telerik.com/kendo-vue-ui/components/) – Over 70 UI components, including a Grid, built for business applications. Fully responsive with support for several Design Languages including Material Design and Bootstrap.
  - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
  - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
+ - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework. 
 
 ### Admin Template
 
