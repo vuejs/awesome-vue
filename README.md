@@ -2380,6 +2380,7 @@ the amazing Vue.js.
     - [redux-store-mixin](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
     - [vue-redux-prepare-props](https://github.com/kolesoffac/vue-redux-prepare-props) - Helper for use props of *Redux* with *Vue.js* using *Vuex* and *Vuedeux*
  - [vuejs-redux](https://github.com/titouancreach/vuejs-redux) - High order component facilities for Vue and Redux.
+ - [vuex-coolstory](https://github.com/niklv/vuex-coolstory) - Plugin for vuex to run redux-saga.
 
 #### Mobx
 
