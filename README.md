@@ -1067,7 +1067,7 @@
  - [vue-m-message](https://github.com/mengdu/m-message) - A message plugin for vue.
  - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
  - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
-
+ - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
 
 ### Loader
 
