@@ -1534,6 +1534,7 @@ Tooltips / popovers
  - [form-create](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
  - [element-form-builder](https://github.com/codetrial/element-form-builder) - Build element-ui forms with JSON Schema.
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
+ - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
 
 ##### Date Picker
 
