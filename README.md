@@ -1231,6 +1231,7 @@ Tooltips / popovers
  - [vueper-slides](https://github.com/antoniandre/vueper-slides) - A touch ready and responsive slideshow / carousel for Vue JS.
  - [vue-canvas-carousel](https://github.com/loo41/vuc) - Vue canvas component for [vuc-carousel](http://vuc.tianchenyong.top/#/carousel)
  - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue
+ - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
 
 
 ### Charts
