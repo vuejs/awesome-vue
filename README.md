@@ -2328,6 +2328,7 @@ the amazing Vue.js.
  - [vue-t9n](https://github.com/Ni55aN/vue-t9n) - Simplest way to translate your applications
  - [vue-simple-inline-translation](https://github.com/alidrus/vue-simple-inline-translation) - A Vue component that simplifies the way text is translated: by translating it inline.
  - [vue-i18n-extract](https://github.com/pixari/vue-i18n-extract) - Manage vue-i18n localization with static analysis. Make reports about missing and unused i18n entries.
+ - [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences. 
 
 ### Custom Events
 
