@@ -745,6 +745,7 @@
 - [FireX Proxy](https://github.com/Orogenesis/FireX-Proxy) - FireX Proxy is the user's trusted Chrome and Firefox browser extension that allows you to unblock any website and browse the web privately and securely. 🛡
 - [VueSolitaire](https://github.com/silent-lad/VueSolitaire) - Solitaire (spider,klondike) imlemented in Vue.js.
 - [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
+- [QMK Configurator](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -946,6 +947,7 @@
   - [Gamebrary](https://github.com/romancm/gamebrary) - Open source tool to organize video game collections.
   - [Guds](https://www.guds.shop/) - Compare prices across supermarkets. Only available in México 🇲🇽.
   - [Premium Poker Tools](https://premiumpokertools.com/) - What poker players use to study.
+  - [QMK Configurator](https://config.qmk.fm/) - Configure, Build, and Download Custom QMK Firmware from your browser.
 
 ### Interactive Experiences
 
