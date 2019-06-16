@@ -2681,7 +2681,6 @@ Payment utilities.
 
 ### Test
 
- - [avoriaz](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.
  - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
  - [vuenit](https://github.com/jackmellis/vuenit) - Utilities for testing Vue components and directives.
  - [vue-unit](https://github.com/wrseward/vue-unit) - A library for Vue.js that makes it easier to create and unit test components.
@@ -2690,6 +2689,8 @@ Payment utilities.
  - [vue-test-actions](https://github.com/biigpongsatorn/vue-test-actions) - Unit testing Vuex actions with Jest mocks.
  - [jest-vue-matcher](https://github.com/14nrv/jest-vue-matcher) - Additional jest matchers for vue
  - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
+ - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
+ 
 
 ###### Browser-less require
 
