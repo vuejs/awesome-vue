@@ -1243,7 +1243,7 @@ Tooltips / popovers
  - [vue-canvas-carousel](https://github.com/loo41/vuc) - Vue canvas component for [vuc-carousel](http://vuc.tianchenyong.top/#/carousel)
  - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue
  - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
-
+ - [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) - Animated slides in a fragmented look
 
 ### Charts
 
