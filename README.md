@@ -1248,6 +1248,7 @@ Tooltips / popovers
  - [Hooper](https://github.com/baianat/hooper) - Customizable accessible carousel slider optimized for Vue
  - [Lingallery](https://github.com/ChristophAnastasiades/Lingallery) - Simple image gallery component for Vue which displays a large image with thumbnails below
  - [vue-piece-slider](https://github.com/dreambo8563/vue-piece-slider) - Animated slides in a fragmented look
+ - [vue2-photo-carousel](https://github.com/leepyng/vue2-photo-carousel) - A photo carousel component for Vue2
 
 ### Charts
 
