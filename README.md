@@ -1552,6 +1552,7 @@ Tooltips / popovers
   - [vue2-collapse](https://github.com/roszpun/vue-collapse/) - Vue Collapse is a flexible content toggling plugin for the accordion lists or any other conditional content rendering.
   - [vue-badger-accordion](https://github.com/vanderb/vue-badger-accordion) - A wrapping Component for Badger Accordion for Vue.js 2.0+
   - [vue-loading-checkbox](https://github.com/Carrene/vue-loading-checkbox) - A highly customizable Vue.js checkbox UI component with loading state
+  - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 
 #### Masked Input
 
