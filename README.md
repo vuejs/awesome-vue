@@ -1345,6 +1345,7 @@ Tooltips / popovers
  - [vue-googlemaps](https://github.com/Akryum/vue-googlemaps) - Vue 2.x components to integrate Google Maps.
  - [vue-static-map](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
  - [vue-mapbox](https://github.com/soal/vue-mapbox) - Vue 2.x wrapper around Mapbox GL JS library that provides vueish-way to interact with the map.
+ - [vue-amap](https://github.com/ElemeFE/vue-amap) - Vue 2.x component for Gaode Maps.
 
 ### Audio / Video
 
