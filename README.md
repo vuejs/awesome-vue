@@ -1536,6 +1536,7 @@ Tooltips / popovers
  - [vue-tabs-component](https://github.com/spatie/vue-tabs-component) - An easy way to display tabs with Vue.
  - [vue-k-tabs](https://github.com/kevindesousa/vue-k-tabs) - A simple tabs components with Gitlab design.
  - [vue-tabs-with-active-line](https://github.com/karambafe/vue-tabs-with-active-line) - Simple Vue 2 component, that allows you to make tabs with moving bottom line
+ - [vue-tabs-chrome](https://github.com/viewweiwu/vue-tabs-chrome) - A Vue component for Chrome-like tabs.
 
 ### Form
 
