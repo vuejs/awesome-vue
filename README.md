@@ -1528,6 +1528,7 @@ Tooltips / popovers
  - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
  - [vue-particle-effect-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons)A bursting particles effects buttons component.
  - [vue-insomnia](https://github.com/gorbypark/vue-insomnia) - Prevent display screen from sleeping (wake lock).
+ - [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) - A car license plate number keyboard for VueJS 2.x.(车牌号输入键盘，支持新能源车牌🚗🚗🚗)
 
 ### Tabs
 
