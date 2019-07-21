@@ -2102,6 +2102,7 @@ composing CSS breakpoint state.
  - [vue-form-send](https://github.com/AlekseyPleshkov/vue-form-send) - A Vue.js directive for sending data from form and primitive validation
  - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
  - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
+ - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
 
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
