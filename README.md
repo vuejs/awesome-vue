@@ -556,6 +556,7 @@
 - [ Personal Website that use Vue, Vuex and Vue-Router ](https://github.com/MuratcanSenturk/MuratcanSenturk.github.io) - A simple website example that made with vue, vuex and vue-router by [Muratcan Şentürk](https://github.com/MuratcanSenturk)
 - [Client-Side Vue.js](https://github.com/Trifectuh/Client-Side-Vue) - [Demo](https://client-side-vue.herokuapp.com) - Vue.js client-side for tiny, quick-loading, node.js-less Single Page Apps by [Justin Wash](https://github.com/Trifectuh)
 - [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)
+- [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 
 ### Books
 
