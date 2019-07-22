@@ -2547,6 +2547,7 @@ the amazing Vue.js.
  - [vue-pesdk](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js wrapper for the PhotoEditorSDK
  - [vue-resolve](https://github.com/javisperez/vue-resolve)
  Resolve routes data before entering / rendering the component for that route.
+ - [vue-page-stack](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
 
 ### Miscellaneous
 - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
