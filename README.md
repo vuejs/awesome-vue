@@ -962,6 +962,7 @@
   - [QMK Configurator](https://config.qmk.fm/) - Configure, Build, and Download Custom QMK Firmware from your browser.
   - [Worksome](https://www.worksome.com/) - Marketplace/platform for qualified it professionals and freelancers and companies looking to hire them.
   - [Translator-vuejs](https://manuel-suarez-abascal.github.io/translator-vuejs/) - Translation App built with Vuejs, Yandex API & ResponsiveVoice.js API.
+  - [Big Timer](https://www.bigtimer.net/) - Fullscreen countdown timer for workshops, meetings and presentations. Big Timer helps workshop facilitators, meeting chairs, design sprinters, presenters and aspiring game show hosts stick to their program.
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
 
 ### Interactive Experiences
