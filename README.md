@@ -756,6 +756,7 @@
 - [Eplee](https://github.com/Janglee123/eplee) Sweet, simple epub reader made with Vue.js and Electron.js.
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
 - [Daily](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
+- [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
