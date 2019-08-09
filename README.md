@@ -1071,7 +1071,7 @@
  - [vue-jd-table](https://github.com/jamesdruhan/vue-jd-table) - Advanced and flexible data table component for Vue 2. Feature Rich: search, filtering, exporting, pagination (traditional and virtual scroll) and so much more!
  - [vue-grd](https://github.com/1000ch/vue-grd) - Simple, Light-weight and Flexible Vue.js component for grid layout.
  - [iview-table-page](https://github.com/MengFangui/iview-table-page) - Combines Table and Page components of iview UI together. Based on Vue 2.x. And Hear are some examples to use iview-table-page.
- 
+
 ### Notification
 
 *Toaster / snackbar — Notify the user with a modeless temporary little popup*
@@ -1100,6 +1100,7 @@
  - [vue-notification-bell](https://github.com/Carrene/vue-notification-bell) - A Vue UI component for showing notifications.
  - [v-tostini](https://github.com/marverix/v-tostini) - Really plain toast notifications mechanism for Vue.js 2.x. No CSS included.
  - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
+ - [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:
 
 ### Loader
 
@@ -1773,7 +1774,7 @@ Tooltips / popovers
  - [vue-croppie](https://github.com/jofftiquez/vue-croppie) - Yet another image cropper
  - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) - 💇 A simple and elegant mobile image crop upload component for Vue 2.x.
  - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
- 
+
 *Display images*
 
  - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) - A vue (2.0) plugin that offers a reusable directive to get images from Cloudinary (https://cloudinary.com) with dynamic manipulation (resizing/cropping/effects/watermarking/scaling/formatting) and optimization (webp/png/auto quality/auto retina).
@@ -2452,7 +2453,7 @@ the amazing Vue.js.
  - [vue-auth-plugin](https://github.com/d0whc3r/vue-auth-plugin) - A simple authentication and authorization library for Vue.js using typescript
  - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - A simple Vue plugin to include a Google sign-in button into your web app
  - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
-  
+
 #### Vuex Utilities
 
  - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage.
@@ -2741,7 +2742,7 @@ Payment utilities.
  - [jest-vue-matcher](https://github.com/14nrv/jest-vue-matcher) - Additional jest matchers for vue
  - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
  - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
- 
+
 
 ###### Browser-less require
 
