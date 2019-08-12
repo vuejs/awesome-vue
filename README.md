@@ -757,6 +757,7 @@
 - [vue-realworld-example-app](https://github.com/gothinkster/vue-realworld-example-app) - Exemplary fullstack Medium.com clone
 - [Daily](https://github.com/dailynowco/daily) - Curated dev news delivered to your new tab 👩🏽‍💻
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+- [ETCD Manager](https://github.com/gtamas/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -775,7 +776,6 @@
  - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
  - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
  - [Commandeer](https://getcommandeer.com) - Could Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
- - [ETCD Manager](https://github.com/gtamas/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI aoo based on Electron and VueJS.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
