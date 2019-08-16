@@ -691,7 +691,7 @@
 - [TimeMark](https://github.com/MarsZone/TimeMark) - A Time manager which will can record your time and some more function will be developed.
 - [Laravel Enso](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 - [Code Notes](https://github.com/lauthieb/code-notes) - A simple code snippet manager for developers built with Electron & Vue.js.
-- [Pomotroid](https://github.com/Splode/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
+- [Pomotroid (Updated!)](https://github.com/karimdaghari/pomotroid) - Simple, visually-pleasing and customizable Pomodoro timer.
 - [XMR Miner](https://github.com/bradoyler/xmr-miner) - Cryptocurrency (XMR) mining app, built with Vue.js and visualized with D3
 - [XMR Paper](https://github.com/bradoyler/xmr-paper) - Monero wallet generator, built with Vue.js
 - [JoyProxy](https://github.com/sh0cked/joy-proxy) - Chrome extension for handling proxy settings
