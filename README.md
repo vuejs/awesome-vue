@@ -1011,6 +1011,7 @@
  - Adobe
  - IBM
  - [Cotabox](https://cotabox.com.br)
+ - [Carrefour](https://www.carrefour.fr)
 
 ### A11y
 
