@@ -1191,6 +1191,7 @@ Tooltips / popovers
 - [vue-topmodal](https://github.com/adileo/vue-topmodal) - A fully customisable, easy to use, Vue.js modal component. (Responsive, Stackable, Scrollable, Animated)
 - [vue-modal 🖼](https://github.com/MelMacaluso/vue-modal) - Feed your objects array for multiple switchable modal content or quickly inline your content. A fully customisable vue modal component .
 - [@innologica/vue-stackable-modal](https://github.com/Innologica/vue-stackable-modal) - Library for modal dialogs which can be stacked. Fully customizable and very easy to use.
+- [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 
 ### Parallax
 
