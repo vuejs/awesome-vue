@@ -1551,6 +1551,7 @@ Tooltips / popovers
  - [vue-insomnia](https://github.com/gorbypark/vue-insomnia) - Prevent display screen from sleeping (wake lock).
  - [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) - A car license plate number keyboard for VueJS 2.x.(车牌号输入键盘，支持新能源车牌🚗🚗🚗)
  - [vue-dataflow-editor](https://github.com/krthr/vue-dataflow-editor) - Vue2 dataflow graph editor
+ - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.
 
 ### Tabs
 
