@@ -1378,6 +1378,7 @@ Tooltips / popovers
 ### Audio / Video
 
  - [Vue-APlayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-config music player for Vue 2.x.
+ - [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x.
  - [vue-audio](https://github.com/shershen08/vuejs-sound-player) - audio-tag wrapper; sound player component for Vue 2.x
  - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
  - [vue-canvasvideo](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
