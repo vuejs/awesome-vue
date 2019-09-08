@@ -2396,6 +2396,7 @@ the amazing Vue.js.
  - [vue-bus](https://github.com/fffixed/vue-bus) - Tiny simple central event bus plugin for Vue.js 2.
  - [vue-simple-events](https://github.com/VeryWow/vue-simple-events) - Yet another event management plugin, but WITHOUT Vue instance
  - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and $emit to Vue.js 2.
+ - [vue-emit](https://github.com/denisinvader/vue-emit) - A helper function to emit events from functional components.
 
 ### Persistence
 
