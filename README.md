@@ -2022,6 +2022,8 @@ Tooltips / popovers
  - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
+ - [Factor Platform](https://factor.dev) - Extension driven platform designed for Front-End Developers [Github](https://github.com/fiction-com/factor)
+
 
 ### Static website generator
 
