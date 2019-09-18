@@ -1379,8 +1379,6 @@ Tooltips / popovers
  - [v-playback](https://github.com/TerryZ/v-playback) - A Vue2 plugin to make video play easier.
  - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
  - [vue-video-section](https://github.com/johndatserakis/vue-video-section) - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.
- - [vue-video-hero](https://github.com/kdaghari/vue-video-hero) - A responsive video section with content overlay, all with sensible defaults (YouTube only)
-
 
 ### Infinite Scroll
 
