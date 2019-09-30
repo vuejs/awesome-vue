@@ -2295,6 +2295,7 @@ composing CSS breakpoint state.
  - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
  - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
  - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
+ - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - Create animated custom cursor effects for interactive elements like navigations, galleries and carousels.
 
 ### WebGL
 
@@ -2305,6 +2306,7 @@ composing CSS breakpoint state.
 - [vue-vr](https://github.com/imudin/vue-vr) - A framework for building VR applications with Vue
 based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.io/Panolens/), inspired by [react-vr](https://github.com/facebook/react-vr)
 - [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
+- [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) - Interactive "fake" 3D effect for images with depth maps and plain WebGL.
 
 ### Fullscreen
 
