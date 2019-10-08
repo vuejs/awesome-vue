@@ -559,6 +559,8 @@
 - [Large scale Vue.js application boilerplate + Vuex](https://github.com/arunredhu/vuejs_boilerplate)
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
+- [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
+
 
 ### Books
 
