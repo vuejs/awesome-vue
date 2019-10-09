@@ -236,6 +236,7 @@
 - [VueJS Finland - Meetup](https://www.meetup.com/vuejs-finland/)
 - [VueJS Finland - Facebook Page](https://www.facebook.com/vuejsfinland/)
 - [Hablemos de Vue.js - Telegram Group [Castellano]](https://t.me/vuejsEs)
+- [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
 
 ### Conferences
 
