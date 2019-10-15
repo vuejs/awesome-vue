@@ -780,6 +780,7 @@
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
 
 ### Apps/Websites
+  - [awesometechstack.com](https://www.awesometechstack.com) - Identify with Awesome Tech Stack technologies used on any website or web-app
   - [Laravel Spark](https://spark.laravel.com/)
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
