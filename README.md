@@ -780,7 +780,6 @@
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
 
 ### Apps/Websites
-  - [awesometechstack.com](https://www.awesometechstack.com) - Identify with Awesome Tech Stack technologies used on any website or web-app
   - [Laravel Spark](https://spark.laravel.com/)
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
@@ -971,7 +970,8 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download. 
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-
+  - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
+  
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
