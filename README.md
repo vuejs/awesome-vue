@@ -2017,6 +2017,7 @@ Tooltips / popovers
   - [Shards Dashboard Lite Vue](https://github.com/DesignRevision/shards-dashboard-vue) - ✨ Modern admin template featuring dozens of custom components and templates.
   - [Vue Material Admin](https://github.com/tookit/vue-material-admin) - A vue material design admin template
   - [element-admin](https://github.com/codetrial/element-admin) - A dead simple but powerful vue admin with Vue CLI 3 and element-ui.
+  - [marc-scaffolding](https://github.com/novrain/marc-scaffloding) - A Javascript full stack modular development scaffolding base on Vue and koa.
 
 ### Server-side rendering
 
