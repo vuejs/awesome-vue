@@ -53,6 +53,7 @@
     - [Markdown](#markdown)
     - [PDF](#pdf)
     - [Tree](#tree)
+    - [Graph](#graph)
     - [Social Sharing](#social-sharing)
     - [QR Code](#qr-code)
     - [Search](#search)
@@ -1434,6 +1435,9 @@ Tooltips / popovers
  - [vue-vtree](https://github.com/XAHTEP26/vue-vtree) - Universal and flexible tree component for Vue.js
  - [vue-json-component](https://github.com/tylerkrupicka/vue-json-component) - JSON tree view with no dependencies, TypeScript support, and easy customization.
  - [vue-tree-list](https://github.com/ParadeTo/vue-tree-list) - A vue component for tree structure
+
+### Graph
+ - [vue-pipeline](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin.
 
 ### Social Sharing
 
