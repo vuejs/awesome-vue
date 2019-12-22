@@ -2683,6 +2683,7 @@ Payment utilities.
  - [vue-ua](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
  - [vue-analytics](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
  - [vue-gtm](https://github.com/mib200/vue-gtm) - Vue plugin for Google Tag Manager
+ - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) -  Global Site Tag plugin for Vue
 
 ###### Yandex Metrika
  - [vue-ya-metrica](https://github.com/shershen08/vue-ya-metrica) - Vue plugin for Yandex.Metrica
