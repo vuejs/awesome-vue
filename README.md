@@ -778,6 +778,7 @@
  - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
  - [Commandeer](https://getcommandeer.com) - Could Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
+ - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
