@@ -1769,6 +1769,7 @@ Tooltips / popovers
  - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
  - [yimo-vue-editor](https://github.com/yimogit/yimo-vue-editor) - A wangEditor2 component for Vue2.
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
+ - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG editor based on tiptap and uses Element's components For Vue2.
 
 #### Image Manipulation
 
