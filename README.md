@@ -2242,6 +2242,7 @@ composing CSS breakpoint state.
  - [vue-animate-scroll](https://github.com/mike-prince/vue-animate-scroll) Super lightweight way to add CSS animations to elements as they scroll into view.
  - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
  - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) Easy route / page transitions for Vue.js
+ - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) A set of components to create interactive animations
 
 ### Meta Tags
 
