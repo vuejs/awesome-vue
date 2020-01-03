@@ -2326,7 +2326,8 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 *Utilities not directly related to the UI*
  - [vue-underscore](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
  - [vue-lazy-calc](https://github.com/dreambo8563/vue-lazy-calc) - A simple calculation plugin in lazy && chaining way with strong typed.
-
+ - [vueuse](https://github.com/antfu/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+ 
 ### Typescript
 
  - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
