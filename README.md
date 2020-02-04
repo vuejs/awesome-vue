@@ -2005,6 +2005,7 @@ Tooltips / popovers
  - [Vuent](https://github.com/arturmiz/vuent) - Vue.js components implementing Microsoft Fluent Design
  - [bpit/vue](https://github.com/dreambo8563/bpit-vue) - Vue components lib which is focused on effects
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework. 
+ - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 
 ### Admin Template
 
