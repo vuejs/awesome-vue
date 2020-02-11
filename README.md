@@ -2851,6 +2851,7 @@ Payment utilities.
  - [Mevn-CLI](https://github.com/madlabsinc/mevn-cli) - Light speed setup for MEVN stack based apps.
  - [vue-cli-template-registry](https://github.com/eliranmal/vue-cli-template-registry) - A solution for installing vue-cli custom templates hosted on private/enterprise repositories.
  - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) -  An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+ - [vuejs-wordpress-plugin-starter](https://github.com/EvanAgee/vuejs-wordpress-plugin-starter - A barebones WordPress plugin with webpack and Vue already setup and ready to go.
 
 ### Client
 
