@@ -343,6 +343,8 @@
 - [Getting Started with Vue JS 2 (Video)](https://www.packtpub.com/web-development/getting-started-vue-js-2-video) by Sachin Bhatnagar, Packt. (January 2018)
 - [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b) by Hassan Djirdeh, [@djirdehh](https://twitter.com/djirdehh)
 - [Let’s Build a Custom Vue.js Router](https://hackernoon.com/lets-build-a-custom-vue-js-router-7de634be87c4) by Hassan Djirdeh, [@djirdehh](https://twitter.com/djirdehh)
+- [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
+- [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
 
 
 ### Examples
@@ -706,6 +708,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
   - [9GAG](https://9gag.com) - Popular online platform and social media website
   - [CryptoVue](https://www.cryptovue.com/) - Real-time cryptocurrency dashboard
+  - [TutorialEdge](https://tutorialedge.net/course/vuejs/) - Free programming tutorial site
   - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
 
 ### Interactive Experiences
