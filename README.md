@@ -2502,6 +2502,7 @@ the amazing Vue.js.
 
  - [vuex-basement](https://github.com/RashadSaleh/vuex-basement) - Vuex state persistence and synchronization between tabs/windows.
  - [vuex-shared-mutations](https://github.com/xanf/vuex-shared-mutations) - Share vuex mutations between tabs/windows.
+ - [vuex-multi-tab-state](https://github.com/gabrielmbmb/vuex-multi-tab-state) - Share and synchronize status between multiple tabs  with this plugin for Vuex.
 
 ### GraphQL
 
