@@ -654,7 +654,7 @@
 - [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements  VueJS (v2.x) on AdminLTE.
 - [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
 - [Explore-Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
-- [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) - Open Source Admin Template powered by Vue.js
+- [CoreUI Vue Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) - Open Source Admin Template powered by Vue.js
 - [ChuckNorris](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 - [LeafPlayer](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
 - [JSON Editor](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
