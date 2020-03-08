@@ -1920,6 +1920,7 @@ Tooltips / popovers
  - [vue-mock-layout](https://github.com/promosis/vue-mock-layout) - Easily mock the layout of your Vue apps.
  - [vue-simple-drawer](https://github.com/dreambo8563/vue-simple-drawer) - A tiny drawer panel with bounced animation, nest supported and theme customized. directions: left/right/up/down
  - [vue-grd](https://github.com/1000ch/vue-grd) - Simple, Light-weight and Flexible Vue.js component for grid layout.
+ - [vue-colrow](https://vue-colrow.phphe.com) - Smarter layout components: Row, Col. Based on css flexbox. Responsive layout. Support SSR, use fixed, percentage and grow width together. Suitable for form layout, cards list. 5 KB gzipped.
 
 
 
