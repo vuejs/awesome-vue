@@ -2092,6 +2092,7 @@ composing CSS breakpoint state.
  - [fine-mq](https://github.com/nash403/fine-mq) - A fine API to manage media queries in JS with ease and first-class integration with VueJS as a plugin.
  - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
  - [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
+ - [vue-colrow](https://vue-colrow.phphe.com) - Smarter layout components: Row, Col. Based on css flexbox. Responsive layout. Support SSR, use fixed, percentage and grow width together. Suitable for form layout, cards list. 5 KB gzipped.
 
 ### Form
 
