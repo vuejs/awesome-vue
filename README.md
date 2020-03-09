@@ -38,7 +38,6 @@ Crowdsourced packages and libraries collections for Vue. Find the right librarie
 
 - [Vue packages](https://awesomejs.dev/for/vue/)
 - [Vue CLI packages](https://awesomejs.dev/for/vue-cli/)
-- [Vue packages](https://awesomejs.dev/for/vue/)
 - [Nuxt packages](https://awesomejs.dev/for/nuxt/)
 - [Vuepress packages](https://awesomejs.dev/for/vuepress/)
 - [Gridsome packages](https://awesomejs.dev/for/gridsome/)
