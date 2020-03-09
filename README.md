@@ -9,6 +9,8 @@
 
 # [Vue Community Guide](https://vue-community.org/)
 
+[![Vue Community screenshot](./VueCommunity.png)](https://vue-community.org/)
+
 Find resources about the Vue community, learning and the ecosystem.
 
 - [Meetups & Events](https://vue-community.org/guide/community/meetups.html)
@@ -30,7 +32,16 @@ Find resources about the Vue community, learning and the ecosystem.
 
 # [AwesomeJS Vue](https://awesomejs.dev/for/vue/)
 
+[![AwesomeJS screenshot](./VueAwesomeJS.png)](https://awesomejs.dev/for/vue/)
+
 Crowdsourced packages and libraries collections for Vue. Find the right libraries or components for your project!
+
+- [Vue packages](https://awesomejs.dev/for/vue/)
+- [Vue CLI packages](https://awesomejs.dev/for/vue-cli/)
+- [Vue packages](https://awesomejs.dev/for/vue/)
+- [Nuxt packages](https://awesomejs.dev/for/nuxt/)
+- [Vuepress packages](https://awesomejs.dev/for/vuepress/)
+- [Gridsome packages](https://awesomejs.dev/for/gridsome/)
 
 <br/>
 <br/>
