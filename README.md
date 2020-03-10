@@ -2815,6 +2815,7 @@ Payment utilities.
 #### Visual Studio Code
 
  - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
+ - [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 
 #### Visual Studio
 
