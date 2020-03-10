@@ -1589,6 +1589,7 @@ Tooltips / popovers
 #### Phone Number Input Formatter
 
  - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
+ - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
 
 #### Picker
 
