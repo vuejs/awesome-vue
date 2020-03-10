@@ -240,7 +240,6 @@
 - [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
 
-
 ### Conferences
 
 - [VueConf](http://conf.vuejs.org)
