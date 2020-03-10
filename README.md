@@ -764,7 +764,7 @@
 - [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 - [Vue Crypto Dashboard](https://github.com/JayeshLab/vue-crypto-dashboard) - Cryptocurrency Dashboard made with Vue.js
 - [ETCD Manager](https://github.com/icellmobilsoft/etcdmanager) - A modern, efficient and free multi-platform ETCD GUI app based on Electron and VueJS.
-
+- [Idea Re-Vue](https://github.com/MuhaddiMu/Idea-ReVue) - Social Ideation Platform to Create, Manage and Brainstorm Ideas in a fun, visual way. Built on the top of VueJS and Vuetify using Firebsae as a backend
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
  - [Collate Notes](http://www.collatenotes.com/)
