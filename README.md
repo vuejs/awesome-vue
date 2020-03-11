@@ -2900,6 +2900,9 @@ Payment utilities.
  - [vue-cli-template-registry](https://github.com/eliranmal/vue-cli-template-registry) - A solution for installing vue-cli custom templates hosted on private/enterprise repositories.
  - [Vuejs Firebase CRUD Starter with Auth](https://github.com/Timtech4u/vuejs-firebase-cruder)
  - [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) -  An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+ - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) -  Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
+
+
 
 ### Client
 
