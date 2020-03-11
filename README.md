@@ -997,6 +997,7 @@
  - [Subtletab - Browser Extension](https://subtletab.com)
  - [web-riimote](https://web-riimote.herokuapp.com) - Turn your smartphone into a 3D controller ([source code](https://github.com/konaraddio/web-riimote))
  - [CSS ColorVars](https://csscolorvars.github.io/) - Interactive tool code generation ([source code](https://github.com/CSSColorVars/csscolorvars))
+
 ### Enterprise Usage
 
  - Alibaba
@@ -1027,6 +1028,7 @@
  - [Cotabox](https://cotabox.com.br)
  - [Aromajoin](https://aromajoin.com) - Develop the finest digital scent products based on the harmony of hardware, software and material technology.
  - [Carrefour](https://www.carrefour.fr)
+ - [Staples Canada](https://www.staples.ca/)
 
 ### A11y
 
