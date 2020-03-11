@@ -2099,6 +2099,7 @@ Tooltips / popovers
  - [vue-tabevents](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
  - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - 👀 Declaratively trigger methods when scrolled into view
  - [v-click-outside-x](https://github.com/Xotic750/v-click-outside-x) - Vue V2 directive to react on click, touch, pointer or multiple events outside an element.
+ - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications.
  
 ### Responsive Design
 
