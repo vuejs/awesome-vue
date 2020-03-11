@@ -977,6 +977,7 @@
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
   - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there. 
+  - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
 
 ### Interactive Experiences
 
