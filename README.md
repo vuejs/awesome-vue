@@ -1262,6 +1262,7 @@ Tooltips / popovers
  - [@innologica/vue-dropdown-menu](https://github.com/Innologica/vue-dropdown-menu) - Dropdown menu component for Vue. Any element can be dropdown trigger and anything can be dropded down content.
  - [vue-menu-aim](https://github.com/Dimon24021993/vue-menu-aim) - Menu triangle select, aka Amazon
  - [vue-stripe-menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe
+ - [vue-burger-button](https://github.com/VitorLuizC/vue-burger-button) - A pretty simple Vue functional component for menu burger buttons.
 
 ### Minus Plus Input
 
@@ -2162,6 +2163,7 @@ composing CSS breakpoint state.
  - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
  - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
  - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
+ - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulate your forms and handle their states and validations.
 
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
@@ -2287,6 +2289,7 @@ composing CSS breakpoint state.
  - [vue-svg-transition](https://github.com/kai-oswald/vue-svg-transition) Create 2-state, SVG-powered transitions
  - [vue-page-transition](https://github.com/Orlandster/vue-page-transition) Easy route / page transitions for Vue.js
  - [Vuenime](https://github.com/denisinvader/vuenime) A flexible Vue wrapper for Animejs
+ - [vue-flipper](https://github.com/VitorLuizC/vue-flipper) - A component to flip children with a nice transition.
 
 ### Meta Tags
 
@@ -2372,6 +2375,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 *Utilities not directly related to the UI*
  - [vue-underscore](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
  - [vue-lazy-calc](https://github.com/dreambo8563/vue-lazy-calc) - A simple calculation plugin in lazy && chaining way with strong typed.
+ - [vue-loadable](https://github.com/VitorLuizC/vue-loadable) - A plugin to improve loading state control with pretty simple methods, decorators and helpers.
 
 ### Typescript
 
@@ -2635,6 +2639,7 @@ the amazing Vue.js.
 - [vue-direction](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
 - [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - ⭐️  Lightweight DI for vue components️ ❤️
+- [vue-uuid](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
