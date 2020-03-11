@@ -2356,7 +2356,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 ### Printing
 
-- [vue-html-to-paper](https://mycure-inc.github.io/vue-html-to-paper/) - Vue mixin for paper printing html elements to paper.
+- [vue-html-to-paper](https://github.com/mycurelabs/vue-html-to-paper) - Vue mixin for paper printing html elements to paper.
 
 
 ## Utilities
