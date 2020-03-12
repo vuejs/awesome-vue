@@ -1839,6 +1839,7 @@ Tooltips / popovers
  - [vue-mathlive](https://github.com/arnog/vue-mathlive) A MathLive math editor (mathfield) for Vue.hjs
  - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) Next generation block styled editor. for Vue.js
  - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
+ - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 
 #### Image Manipulation
 
