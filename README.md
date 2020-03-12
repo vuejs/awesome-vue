@@ -1998,7 +1998,7 @@ Tooltips / popovers
  - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
  - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
  - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
- - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+ 
  - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
  - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
  - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
@@ -2020,7 +2020,8 @@ Tooltips / popovers
  - [vant](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
  - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
  - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
-
+ - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+ 
 ### Component Collections
 
 *Set of components without layout system*
