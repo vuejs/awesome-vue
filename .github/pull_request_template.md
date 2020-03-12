@@ -13,6 +13,7 @@
 
 > 👉  _Put an `x` in the boxes that apply._
 
+- [ ] Title as described
 - [ ] Make sure you put things in the right category!
 - [ ] Always add your items to the end of a list
 
