@@ -250,6 +250,7 @@
 - [Vue.js London](http://vuejs.london)
 - [VueConf US](http://vueconf.us)
 - [VueConf Toronto](https://vuetoronto.com)
+- [Vue.js Amsterdam](https://vuejs.amsterdam)
 
 ### Podcasts
 
