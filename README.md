@@ -1486,6 +1486,7 @@ Tooltips / popovers
  - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
  - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
  - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
+ - [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) - A Vue component for searching with suggestions
 
 ### Miscellaneous
 
