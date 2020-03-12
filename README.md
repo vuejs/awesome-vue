@@ -1727,7 +1727,6 @@ Tooltips / popovers
  - [vue-drag-it-dude](https://github.com/Esvalirion/vue-drag-it-dude) - Vue2 component, that allows you to drag object wherever you want.
  - [vue-draggable](https://github.com/Vivify-Ideas/vue-draggable) - Vue Drag and Drop library without any dependency. Simple and easy to use.
  - [vue-nestable](https://github.com/rhwilr/vue-nestable) - A simple drag & drop hierarchical list made as a vue component.
- - [he-tree-vue](https://he-tree-vue.phphe.com) - A draggable sortable vue tree component, with dragging placeholder, types definition. 14 KB gzipped.
  - [vue-tinder](https://github.com/shanlh/vue-tinder) - Have your own Tinder and TanTan.
 
 
@@ -2165,7 +2164,6 @@ composing CSS breakpoint state.
  - [vue-responsive-components](https://github.com/Kelin2025/vue-responsive-components) - Create responsive components with `ResizeObserver`.
  - [vue-screen-size](https://github.com/promosis/vue-screen-size) - Get easy and reactive access to the width and height of your screen.
  - [vue-provide-responsive](https://github.com/CyberAP/vue-provide-responsive) - Breakpoint-based responsive helpers using Provide\Inject with SSR support
- - [vue-colrow](https://vue-colrow.phphe.com) - Responsive grid layout components: Row, Col. Based on css flexbox. Support SSR, fixed or fraction width, auto grow Col.
  - [vue-container-query-2](https://github.com/Mehdi-Hp/vue-container-query-2#readme) - Smart vue plugin for working with css container query.
 
 ### Form
