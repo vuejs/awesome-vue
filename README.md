@@ -1124,6 +1124,7 @@
  - [vue-toast-notification](https://github.com/ankurk91/vue-toast-notification) - Yet another Vue.js Toast notification plugin.
  - [VueToastify](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
  - [vue-toastification](https://github.com/Maronato/vue-toastification) - Light, easy and beautiful toasts for Vue
+ - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
 
 ### Loader
 
