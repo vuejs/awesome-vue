@@ -2208,7 +2208,6 @@ composing CSS breakpoint state.
  - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server side validation in mind
  - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
  - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
- - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - Vue form authoring solution which includes comprehensive front-end validation functionality and a simple API for custom front-end validation rules.
  - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulate your forms and handle their states and validations.
  - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - Vue form authoring solution which includes comprehensive front-end validation functionality and a simple API for custom front-end validation rules.
 
