@@ -1560,6 +1560,12 @@
      &#9733 33, pushed 14 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/bovas85/nuxt-headless">
+     Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
+    </a>
+    by @bovas85 / @moustacheDsign
+   </li>
   </ul>
   <sup>
    &#9733 16, pushed 52 days ago
