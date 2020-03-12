@@ -988,10 +988,10 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download.
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
   - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there. 
   - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
   - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor.
+  - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
 
 ### Interactive Experiences
 
