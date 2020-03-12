@@ -2732,6 +2732,7 @@ Payment utilities.
  - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Vue.js integration for Ionic v4
  - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - Vue.js integration for 0xcert Framework - an open-source library that provides tools for building powerful decentralized applications
  - [vue-zdog](https://github.com/AlexandreBonaventure/vue-zdog) Vue wrapper for zDog - a minimalist 3D engine for the browser
+  - [vue-unleash](https://github.com/crishellco/vue-unleash) A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 
 
 ### Vue CLI 3 Plugins
