@@ -1064,7 +1064,7 @@
 ### A11y
 
 - [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-- [vue-skip-to](https://github.com/vue-11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
+- [vue-skip-to](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [vue-announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 - [eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
