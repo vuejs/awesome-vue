@@ -22,6 +22,7 @@
   - [Examples](#examples)
   - [Books](#books)
   - [Blog Posts](#blog-posts)
+  - [Documentaries](#documentaries)
   - [Courses](#courses)
 - [Projects Using Vue.js](#projects-using-vuejs)
   - [Open Source](#open-source)
@@ -616,6 +617,11 @@
 
 - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
 - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
+
+### Documentaries
+
+- [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
+
 
 # Projects Using Vue.js
 
