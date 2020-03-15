@@ -789,7 +789,7 @@
 - [VueFront](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 - [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.  
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
-- [super.ba](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js and node.
+- [super.ba](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -806,10 +806,10 @@
  - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
  - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
  - [Agiloo](https://www.agiloo.com) - Project Management app for Scrum and Kanban
- - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
  - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
- - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB nodes into one cluster within a control panel.
+ - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB 
+ s into one cluster within a control panel.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
