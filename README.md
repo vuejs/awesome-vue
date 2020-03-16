@@ -570,6 +570,7 @@
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
+- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators), [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
 
 ### Books
 
@@ -789,6 +790,7 @@
 - [VueFront](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 - [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.  
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+- [Pychat](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1007,8 +1009,8 @@
   - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
   - [RSVP Keeper](https://www.rsvpkeeper.com/) - Online reservations made easy. Get your event up and running in no time. Made with Vue and Go.
   - [PNGK](https://pngk.org/) - Official website for a consultancy company working to find solutions for humanitarian, human rights and other like minded organizations.
+  - [BMWUSA Vehicle Configurator](https://www.bmwusa.com/build-your-own.html) - Vehicle Configurator for BMWUSA
   - [mumbasket](https://www.mumbasket.com/) - an ecommerce website with laravel and vuejs
-
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
@@ -1451,6 +1453,7 @@ Tooltips / popovers
  - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component  contains timeline bar line for Vue 2.x
  - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions. 
  - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
+ - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement.
 
 ### Infinite Scroll
 
@@ -1720,7 +1723,7 @@ Tooltips / popovers
  - [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.
  - [@myena/advanced-select](https://github.com/myENA/advanced-select) - Single/Multiple Select component with search, controls for (de)select all and a Bootstrap 3 theme
  - [@alfsnd/vue-bootstrap-select](https://github.com/Sandalf/vue-bootstrap-select) - Vue version of [bootstrap-select](https://github.com/snapappointments/bootstrap-select/).
- - [vue-wheel-select] (https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.
+ - [@SamuelTrottier/vue-wheel-select](https://github.com/SamuelTrottier/vue-wheel-select) - A simple scrolling select component.
  - [vue-search-select](https://github.com/moreta/vue-search-select) - Searchable select components and semantic-ui's dropdown compatible.
  - [vue-gridmultiselect](https://github.com/ProticM/vue-gridmultiselect) - Simple multi-select component with items displayed in a table like UI
  - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
@@ -1734,6 +1737,7 @@ Tooltips / popovers
  - [vue-knob-control](https://github.com/kramer99/vue-knob-control) - A rotary knob control for Vue.js
  - [iv-slider](https://github.com/lycHub/v-slider) - Slider component for vue2.x.
  - [vue-histogram-slider](https://github.com/oguzhaninan/vue-histogram-slider) - Range slider with histogram for Vue.js
+ - [xns-seek-bar](https://github.com/xinnks/xns-seek-bar) - A seekable progress plugin for Vue 2.x.
 
 #### Drag and Drop
 
@@ -2139,6 +2143,7 @@ Tooltips / popovers
 - [Basys](https://github.com/basys/basys) Toolbox for building full-stack Vue.js apps
 - [CabloyJS](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 - [vue-service-model](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
+- [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 
 
@@ -2175,6 +2180,8 @@ Tooltips / popovers
  - [vue-visibility-trigger](https://github.com/shwilliam/vue-visibility-trigger) - 👀 Declaratively trigger methods when scrolled into view
  - [v-click-outside-x](https://github.com/Xotic750/v-click-outside-x) - Vue V2 directive to react on click, touch, pointer or multiple events outside an element.
  - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications.
+ - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - 👻 Component to declaratively interface window/document in your Vue template
+
  
 ### Responsive Design
 
@@ -2711,6 +2718,8 @@ the amazing Vue.js.
 - [stfalcon-vue-di](https://github.com/stfalcon-studio/stfalcon-vue-di) - ⭐️  Lightweight DI for vue components️ ❤️
 - [vue-uuid](https://github.com/VitorLuizC/vue-uuid) - Adds UUID to Vue instance.
 - [vue-injector](https://github.com/Scandltd/vue-injector) - Dependency injection for Vue 2.x
+- [vue-subslot](https://github.com/privatenumber/vue-subslot) - 💍 Vue component to pick 'n choose what you want from a slot
+
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
