@@ -628,6 +628,7 @@
 
 ### Open Source
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
+- [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [Raven Reader](https://github.com/mrgodhani/raven-reader) - Simple RSS Reader made using atom electron and vue.js.
