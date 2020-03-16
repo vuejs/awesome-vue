@@ -570,6 +570,7 @@
 - [Snake game on Vue.js without Canvas](https://github.com/Seokky/vue-snake-game)
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
+- [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators), [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
 
 ### Books
 
@@ -789,6 +790,7 @@
 - [VueFront](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
 - [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.  
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+- [Pychat](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
