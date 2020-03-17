@@ -788,7 +788,7 @@
 - [Vue Expenses](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 - [Akaunting](https://github.com/akaunting/akaunting) - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 - [VueFront](https://github.com/vuefront/vuefront) - CMS Agnostic PWA & SPA. Modernize your Wordpress websites in less than 5 min
-- [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.  
+- [Mockup-server](https://github.com/joon610/mockup-server) - Mockup-server is easily create server from local directory.
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 - [Pychat](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 - [super.ba](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
@@ -1004,7 +1004,7 @@
   - [Wirenook](https://wirenook.com/) - Free online app for building responsive website wireframes. Hi- and Lo- Fidelity, project sharing and svg download.
   - [Kvalitetskontroll](https://www.kvalitetskontroll.no/) - Norwegian management system tailored for the construction industry.
   - [Poolside FM](https://poolside.fm/) - A retro-style music player
-  - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there. 
+  - [Inoreader.com](https://inoreader.com/) - One of the biggest RSS readers and news aggregators out there.
   - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer
   - [massCode](https://github.com/antonreshetov/massCode) - An open source code snippets manager for developers. Build with Electron, Vue and Monaco editor.
   - [ClipLeap](https://www.clipleap.com/) - Platform for posting and sharing moments in long videos.
@@ -1279,7 +1279,7 @@ Tooltips / popovers
  - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
- 
+
 ### Menu
 
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
@@ -1423,7 +1423,7 @@ Tooltips / popovers
  - [vue-draggableCal](https://github.com/liloow/vue-draggableCal) - Not your ordinary datepicker. A Vuejs draggable date selector with a fresh responsive design, mobile ready and 0 dependencies, 17kb gzipped
  - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) -  A full year (12 months on a page) calendar for Vue2. Uses dayjs.
  - [vuelendar](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
- - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue 
+ - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
 
 ### Map
 
@@ -1452,7 +1452,7 @@ Tooltips / popovers
  - [vue-audio-recorder](https://github.com/grishkovelli/vue-audio-recorder) - Audio recorder for Vue.js. It allows to create, play, download and store records on a server
  - [vue-video-section](https://github.com/johndatserakis/vue-video-section) - A simple video header/section component for Vue. Good for video backgrounds and overlaying content on them.
  - [vue-waveform](https://github.com/chenqiaoen521/vue-waveform) -It is use canvas waveform audio player wavesurfer component  contains timeline bar line for Vue 2.x
- - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions. 
+ - [vue-responsive-video-background-player](https://github.com/avidofood/vue-responsive-video-background-player) - Play your own videos in background responsively in different resolutions.
  - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
  - [xns-audio-player-simple](https://github.com/xinnks/xns-audio-player-simple) - A light and customizable Vue 2.x audio player powered HTMLAudioElement.
  - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
@@ -1673,7 +1673,7 @@ Tooltips / popovers
  - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
  - [vue-ele-form](https://github.com/dream2023/vue-ele-form) - Vue DataForm, based on element-ui
  - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input
- 
+
 ##### Date Picker
 
 *Date / datetime / time Picker*
@@ -1943,8 +1943,8 @@ Tooltips / popovers
  - [vue-long-click](https://github.com/ittus/vue-long-click) - Long click (long press) directive library for vue, support mobile and desktop.
  - [vue-ui-predicate](https://github.com/FGRibreau/ui-predicate/tree/master/packages/ui-predicate-vue) - A rules editor, generic filtering UI, predicates component for Vue JS.
  - [vue-mobile-detection](https://github.com/ajerez/vue-mobile-detection) - Vue.js prototype function `this.$isMobile()` that returns a Boolean value depending on whether or not the user is browsing with a mobile.
- - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`. 
- - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component. 
+ - [vue-input-contenteditable](https://github.com/Cobertos/vue-input-contenteditable) - A Vue component wrapper for `contenteditable` with all the features you normally expect. Make beautiful inputs without the restrictions of `input[type='text']`.
+ - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component.
  - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
  - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
 
@@ -2053,7 +2053,7 @@ Tooltips / popovers
  - [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
  - [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
  - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
- 
+
  - [Inkline](https://github.com/inkline/inkline/) - Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications.
  - [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
  - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
@@ -2077,7 +2077,7 @@ Tooltips / popovers
  - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
  - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
  - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
- 
+
 ### Component Collections
 
 *Set of components without layout system*
@@ -2128,7 +2128,7 @@ Tooltips / popovers
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
  - [Factor Platform](https://github.com/fiction-com/factor) - An extension-driven VueJS platform ([Factor.dev &rarr; Docs](https://factor.dev))
- 
+
 ### Static website generator
 
  - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
@@ -2183,7 +2183,7 @@ Tooltips / popovers
  - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications.
  - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - 👻 Component to declaratively interface window/document in your Vue template
 
- 
+
 ### Responsive Design
 
  - [vue-viewports](https://github.com/scaccogatto/vue-viewports) - Define your custom viewports and use them in your components.
@@ -2737,7 +2737,7 @@ the amazing Vue.js.
 
 ### Migration
 
- - [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration. 
+ - [vue-backbone](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
  - [vue2-migration-helper](https://github.com/mubaidr/vue2-migration-helper) - Transforms Vue.js SFCs to composition api syntax.
 
 ### Web Sockets
@@ -2755,14 +2755,14 @@ Payment utilities.
 
 ###### Stripe
 
-- [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) A simple vue plugin for Stripe checkout.
-- [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) Vue wrapper for jquery.payment by Stripe.
+- [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+- [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
 
 ###### Paypal
-- [vue-paypal-checkout](https://github.com/khoanguyen96/vue-paypal-checkout) A simple Vue.js wrapper component for paypal-checkout.
+- [vue-paypal-checkout](https://github.com/khoanguyen96/vue-paypal-checkout) - A simple Vue.js wrapper component for paypal-checkout.
 
 ###### Plaid
-- [vue-plaid-link](https://github.com/roundupapp/vue-plaid-link) Easy to use Vue component for Plaid Link.
+- [vue-plaid-link](https://github.com/roundupapp/vue-plaid-link) - Easy to use Vue component for Plaid Link.
 
 ## Integrations
 
@@ -2808,8 +2808,8 @@ Payment utilities.
  - [vue-nocaptcha](https://github.com/chiaweilee/vue-nocaptcha) - Aliyun noCAPTCHA component for Vue.js
  - [ionic-vue](https://github.com/ModusCreateOrg/ionic-vue) - Vue.js integration for Ionic v4
  - [vue-0xcert](https://github.com/0xcert/framework/tree/master/packages/0xcert-vue-plugin) - Vue.js integration for 0xcert Framework - an open-source library that provides tools for building powerful decentralized applications
- - [vue-zdog](https://github.com/AlexandreBonaventure/vue-zdog) Vue wrapper for zDog - a minimalist 3D engine for the browser
-  - [vue-unleash](https://github.com/crishellco/vue-unleash) A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
+ - [vue-zdog](https://github.com/AlexandreBonaventure/vue-zdog) - Vue wrapper for zDog - a minimalist 3D engine for the browser
+  - [vue-unleash](https://github.com/crishellco/vue-unleash) - A Vue plugin for the [Unleash](https://unleash.github.io/) open-source feature flag platform
 
 
 ### Vue CLI 3 Plugins
@@ -3041,7 +3041,7 @@ Payment utilities.
  - [neutrino-preset-vue-static](https://github.com/shyiko/neutrino-preset-vue-static) - A minimalistic starter kit for building static sites using Vue.js.
  - [Vueniverse](https://github.com/rlindskog/vueniverse) - A fully featured, universal Vue template for user-based applications, powered by Nuxt.js and Express.
  - [vue-preload](https://github.com/shershen08/vue-preload) - A plugin Vue for adding `<link rel="preload"` capabilities
- - [Vue.js/Nuxt.js full featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
+ - [Vue.js/Nuxt.js full featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
 ### Server
 
