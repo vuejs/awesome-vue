@@ -2857,16 +2857,17 @@ Payment utilities.
 
 ### Test
 
- - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Official utilities for testing Vue components.
- - [jest-serializer-vue-tjw](https://github.com/tjw-lint/jest-serializer-vue-tjw) - Improved formatting of Jest Snapshots
+ - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
+ - [vuenit](https://github.com/jackmellis/vuenit) - Utilities for testing Vue components and directives.
+ - [vue-unit](https://github.com/wrseward/vue-unit) - A library for Vue.js that makes it easier to create and unit test components.
  - [vue-a2b](https://github.com/fromAtoB/vue-a2b) - A library for Split Testing with Vue.js (A/B Testing). Highly configurable and tiny (1.2k gzipped).
+ - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Official utilities for testing Vue components.
  - [vue-test-actions](https://github.com/biigpongsatorn/vue-test-actions) - Unit testing Vuex actions with Jest mocks.
  - [jest-vue-matcher](https://github.com/14nrv/jest-vue-matcher) - Additional jest matchers for vue
  - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
- - [vuenit](https://github.com/jackmellis/vuenit) - Utilities for testing Vue components and directives.
- - [vue-unit](https://github.com/wrseward/vue-unit) - A library for Vue.js that makes it easier to create and unit test components.
  - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
- - [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
+ - [jest-serializer-vue-tjw](https://github.com/tjw-lint/jest-serializer-vue-tjw) - Improved formatting of Jest Snapshots
+
 
 ###### Browser-less require
 
