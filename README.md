@@ -126,7 +126,7 @@
       - [Mobx](#mobx)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
-          - [Sync Between Tabs](#sync-between-tabs)
+        - [Sync Between Tabs](#sync-between-tabs)
     - [GraphQL](#graphql)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
