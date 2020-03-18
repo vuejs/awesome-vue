@@ -976,7 +976,7 @@
   - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
   - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
   - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
-  - [Todo DEV](https://todoteam-3263d.web.app/) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
+  - [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
 
 ### Interactive Experiences
 
