@@ -975,6 +975,7 @@
   - [Fanmio](https://fanmio.com) - Meet your favorites celebrities through personal video experiences on Fanmio
   - [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern)
   - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
+  - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
 
 ### Interactive Experiences
 
