@@ -979,6 +979,7 @@
   - [AtomicWallet](https://atomicwallet.io) - Multi-asset cryptocurrency wallet. Desktop and [mobile](https://play.google.com/store/apps/details?id=io.atomicwallet) apps both were built with Vue.
   - [Helpninja](https://dashboard.helpninja.com/) - Simple & fast help desk
   - [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
+  - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 
 ### Interactive Experiences
 
