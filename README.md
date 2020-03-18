@@ -63,6 +63,7 @@
     - [Tabs](#tabs)
     - [Form](#form)
       - [Phone Number Input Formatter](#phone-number-input-formatter)
+      - [Pincode Input](#pincode-input)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
@@ -1617,6 +1618,10 @@ Tooltips / popovers
 
  - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
  - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
+
+#### Pincode Input
+
+ - [vue-pincode-input](https://github.com/Seokky/vue-pincode-input) - Smart pincode input component
 
 #### Picker
 
