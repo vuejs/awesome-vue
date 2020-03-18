@@ -785,6 +785,7 @@
  - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
  - [SA Email Builder](https://app.emailbuilder.top) - Email template builder responsive made with VueJS and Quasar Framework
  - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB nodes into one cluster within a control panel.
+ - [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
