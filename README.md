@@ -1633,6 +1633,7 @@ Tooltips / popovers
  - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort.
  - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
  - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering.
+ - [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) - A meeting selector inspired by doctolib, fast and fully custom made with Typescript.
 
 ### Tabs
 
