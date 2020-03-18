@@ -236,6 +236,7 @@
 - [VueBLR - Meetup](https://www.meetup.com/vue-bangalore/)
 - [VueBLR - WhatsApp Group](http://bit.ly/vueblr-whatsapp)
 - [VueBLR - Facebook Group](https://www.facebook.com/groups/vue.blr/)
+- [VueJS USA - Meetups](https://events.vuejs.org/meetups/#united-states)
 
 ### Conferences
 
