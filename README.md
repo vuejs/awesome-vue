@@ -1576,6 +1576,7 @@ Tooltips / popovers
  - [vue-phone-number-input](https://github.com/LouisMazel/vue-phone-number-input) - A beautiful input to format & valid phone number with country code :fire:
 
 #### Pincode Input
+
  - [vue-pincode-input](https://github.com/Seokky/vue-pincode-input) - Smart pincode input component
 
 #### Picker
