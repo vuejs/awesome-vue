@@ -1341,6 +1341,7 @@ Tooltips / popovers
  - [vue-netflix-slider](https://github.com/fanyeh/vue-slider) - A Netflix like slider.
  - [vue-pswipe](https://github.com/GuoQichen/vue-pswipe) - Easy to use, no need to set the size, support rotation, photoswipe based vue swipe plugin
  - [vue-cat-carousel](https://github.com/hanssagita/vue-cat-carousel) - Lightweight, simple and customizable for Vue Js
+ - [egjs-flicking](https://github.com/naver/egjs-flicking/tree/master/packages/vue-flicking) - It's reliable, flexible and extendable carousel for Vue.js 2.
 
 ### Charts
 
@@ -1469,6 +1470,10 @@ Tooltips / popovers
  - [vue-infinite-list](https://github.com/legeneek/vue-infinite-list) - An infinite list mixin can recycle dom for Vue.js 2
  - [vue-infinite-slide-bar](https://github.com/biigpongsatorn/vue-infinite-slide-bar) - ∞ Infinite slide bar component.
  - [vue-virtual-infinite-scroll](https://github.com/zuolei828/vue-virtual-infinite-scroll) - A vue2 component based on Iscroll, supports big data list with high performance scroll, infinite load and pull refresh.
+ - [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
+
+
+
 
 ### Pull-to-refresh
  - [vue-pull-refresh](https://github.com/lakb248/vue-pull-refresh) - A pull to refresh component for Vue.js 2.0.
