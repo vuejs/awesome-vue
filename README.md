@@ -418,6 +418,11 @@
 - [Building a Simple Pre-Rendered Web App Using Vue + Nuxt](https://mtlynch.io/simple-vue-pre-rendered/) by Michael Lynch
 - [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 - [Frontend and Fullstack VENM-stack coding tutorials by RabbitWerks JavaScript](https://www.youtube.com/c/rabbitwerksjavascript)
+- [Nordschool Vue Tutorials](https://nordschool.com/tag/vue) by [Nordschool](https://nordschool.com/)
+- [Vue Props Validation - Best Practices](https://nordschool.com/vue-props/) by [Nordschool](https://nordschool.com/)
+- [Vue Router - The Complete Guide](https://nordschool.com/vue-router/) by [Nordschool](https://nordschool.com/)
+- [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/) by [Nordschool](https://nordschool.com/)
+- [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/) by [Nordschool](https://nordschool.com/)
 
 ### Examples
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
