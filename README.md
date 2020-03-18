@@ -1635,7 +1635,6 @@ Tooltips / popovers
  - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
  - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering.
  - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.  
-
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
 
 ### Tabs
