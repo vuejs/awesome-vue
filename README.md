@@ -2593,7 +2593,8 @@ the amazing Vue.js.
  - [vue-google-signin-button](https://github.com/phanan/vue-google-signin-button) - A simple Vue plugin to include a Google sign-in button into your web app
  - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
  - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
-
+ - [vue-msal](https://github.com/mvertopoulos/vue-msal) - Vue plugin for using Microsoft Authentication Library (MSAL)
+  
 #### Vuex Utilities
 
  - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage.
