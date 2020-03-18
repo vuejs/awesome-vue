@@ -170,7 +170,6 @@
 
 # Resources
 
-
 ### Official Resources
 
 - [Official Guide](http://vuejs.org/guide/)
@@ -193,7 +192,6 @@
 - [Vue School](https://vueschool.io) - Learn Vue.js from video courses by core members and industry experts
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org). A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
-
 
 ### Job Portal
 
@@ -2021,7 +2019,7 @@ Tooltips / popovers
  - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
  - [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
  - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
- - [Servue](https://futureaus.github.io/servue/)
+ - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 
 ### Other
 
