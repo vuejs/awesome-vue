@@ -2271,7 +2271,6 @@ composing CSS breakpoint state.
 
 ### Miscellaneous
 
- - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
  - [vue-resource-progressbar-interceptor](https://github.com/staskjs/vue-resource-progressbar-interceptor) - Interceptor that ties a progressbar to all requests, that it is clear that something is loading.
  - [vue-images-loaded](https://github.com/David-Desmaisons/Vue.ImagesLoaded) - Vue.js 2.0 directive to detect images loading.
  - [vue-visible](https://github.com/javisperez/vue-visible) - A v-visible directive for VueJS (2.x), like v-show but for visibility.
@@ -2286,6 +2285,7 @@ composing CSS breakpoint state.
  - [vue-lifecycle](https://github.com/FL3NKEY/vue-lifecycle) - A Vue.js lifecycle directives.
  - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
  - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
+  - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
 
 ### WebGL
 
