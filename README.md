@@ -2376,6 +2376,7 @@ composing CSS breakpoint state.
  - [vue-aspect-ratio](https://github.com/3vilArthas/v-aspect-ratio) - Aspect ratio directive for vue.
  - [@kooljay82/vue-m-camera](https://github.com/kooljay82/vue-m-camera) - To avoid changing orientation of photo automatically which taken via camera of user's device.
  - [v-ripple-directive](https://github.com/andrewvasilchuk/v-ripple-directive) - Vue.js directive for ripple effect.
+ - [vue-material-design-ripple](https://github.com/partyka1/vue-material-design-ripple) - Add material design ripple to any element. Use any ripple color you want. No performance issues. Mobile friendly. No dependencies. It just works.
 
 ### WebGL
 
