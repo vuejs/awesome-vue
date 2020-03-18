@@ -60,6 +60,7 @@
     - [Tabs](#tabs)
     - [Form](#form)
       - [Phone Number Input](#phone-number-input-formatter)
+      - [Pincode Input](#pincode-input)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
