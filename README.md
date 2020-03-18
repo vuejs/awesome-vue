@@ -546,6 +546,7 @@
 - [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators), [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
+- [TO](https://github.com/snturk/to) - A social media app that allows you post just texts.
 
 ### Books
 
