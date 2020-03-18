@@ -253,6 +253,7 @@
 - [JavaScript Air 016 (03-30-2016)](https://javascriptair.com/episodes/2016-03-30/)
 - [Codecasts #2 - Falando Sobre Vuejs e Web Components (2016-08-19) [pt-BR]](https://soundcloud.com/codecasts/2-falando-sobre-vuejs-e-web-components)
 - [Full Stack Radio #50 (09-21-2016)](http://www.fullstackradio.com/50)
+- [和 Vue.js 框架的作者聊聊前端框架开发背后的故事 [zh-CN]](https://teahour.fm/78)
 - [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
 - [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 - [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
@@ -797,6 +798,8 @@
   - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
   - [Reddit News](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
+  - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
+  - [vNotes](https://github.com/IgorHalfeld/v-notes) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
   - [Dermail](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail system written in node.js.
   - [octimine](https://www.octimine.com/) - A patent search engine.
@@ -907,6 +910,7 @@
   - [NAGA VIRTUAL](https://nagavirtual.com) - NAGA VIRTUAL is the first independent virtual goods market.
   - [Scroll.in](https://scroll.in) - Scroll.in is an independent news, information, and entertainment venture.
   - [Akunyi](https://akunyi.com) - Charity Website
+  - [What Would Mark Ruffalo Do?](https://www.whatwouldmarkruffalodo.com/) - Motivational website based on the story that Mark Ruffalo failed at several hundred auditions before finding success.
   - [Brandy](https://getbrandy.io) - brand assets manager for your menu bar.
   - [NBC Sports](https://www.nbcsports.com/) - NBC Sports is a sports news website.
   - [WITHIN](https://www.with.in/) - Extraordinary stories in Virtual Reality.
