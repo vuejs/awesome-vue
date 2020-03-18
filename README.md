@@ -172,10 +172,7 @@
     - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
 
-
-
 # Resources
-
 
 ### Official Resources
 
@@ -2112,6 +2109,7 @@ Tooltips / popovers
  - [Peco](https://github.com/egojump/peco) - A static website generator for humans. **UNMAINTAINED**
  - [Saber](https://github.com/egoist/saber) - A static website generator for building blazing fast websites with Vue.js.
  - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
+ - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 
 ### Other
 
