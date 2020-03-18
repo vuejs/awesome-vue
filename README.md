@@ -1627,8 +1627,6 @@ Tooltips / popovers
  - [vue-insomnia](https://github.com/gorbypark/vue-insomnia) - Prevent display screen from sleeping (wake lock).
  - [vue-car-plate-keyboard](https://github.com/yimocanxue/vue-car-plate-keyboard) - A car license plate number keyboard for VueJS 2.x.(车牌号输入键盘，支持新能源车牌🚗🚗🚗)
  - [vue-dataflow-editor](https://github.com/krthr/vue-dataflow-editor) - Vue2 dataflow graph editor
- - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.
- – [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
  - [vue-twemoji-picker](https://github.com/kevinfaguiar/vue-twemoji-picker) - A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.
  - [vuejs-avataaars](https://github.com/orgordin/vuejs-avataaars) - Simple avatar generator Vue component for avataaars.
  - [vue-moveable](https://github.com/probil/vue-moveable) - A Vue Component that creates Moveable, Draggable, Resizable, Scalable, Rotatable, Warpable and more.
@@ -1636,6 +1634,8 @@ Tooltips / popovers
  - [vue-aspect-ratio](https://github.com/albertodeago/vue-aspect-ratio) - A tiny component to handle aspect ratios with no effort.
  - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
  - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering.
+ - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.
+ – [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
 
 ### Tabs
 
