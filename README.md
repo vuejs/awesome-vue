@@ -420,7 +420,6 @@
 - [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp)
 
 ### Examples
-- [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
 - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
@@ -546,6 +545,7 @@
 - [Build a Vue chat app with CometChat](https://github.com/yemiwebby/vue-group-chat-app)
 - [A one-on-one chat app in Vue with CometChat](https://github.com/cometchat-pro-tutorials/vue-cometchat-one-on-one-chat)
 - [Vue webpack typescript](https://github.com/akoidan/vue-webpack-typescript) Boilerplate with sass/ts/sfc linters. Full typesafety including vuex and nice looking vue component with [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators), [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
+- [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
 
 ### Books
 
