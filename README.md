@@ -1615,6 +1615,7 @@ Tooltips / popovers
  - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.  
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
  - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels.
+ - [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines.
 
 ### Tabs
 
