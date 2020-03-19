@@ -151,7 +151,7 @@
     - [Inspect](#inspect)
     - [Docs](#docs)
     - [Test](#test)
-          - [Browser-less require](#browser-less-require)
+    - [Browser-less require](#browser-less-require)
     - [Source Code Editing](#source-code-editing)
       - [Atom](#atom)
       - [Sublime Text](#sublime-text)
@@ -2889,6 +2889,7 @@ Payment utilities.
  - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
  - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
  - [jest-serializer-vue-tjw](https://github.com/tjw-lint/jest-serializer-vue-tjw) - Improved formatting of Jest Snapshots
+ - [vuex-test-utils](https://github.com/Incognitus-Io/vuex-test-utils) - Unit testing Vux with chai.
 
 ###### Browser-less require
 
