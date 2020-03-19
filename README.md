@@ -2749,10 +2749,10 @@ Payment utilities.
  - [vue-a2b](https://github.com/fromAtoB/vue-a2b) - A library for Split Testing with Vue.js. Highly configurable and tiny (1.2k gzipped).
  - [vue-test-utils](https://github.com/vuejs/vue-test-utils) - Official utilities for testing Vue components.
  - [vue-test-actions](https://github.com/biigpongsatorn/vue-test-actions) - Unit testing Vuex actions with Jest mocks.
- - [vuex-test-utils](https://github.com/Incognitus-Io/vuex-test-utils) - Unit testing Vux with chai.
  - [jest-vue-matcher](https://github.com/14nrv/jest-vue-matcher) - Additional jest matchers for vue
  - [vue-hubble](https://github.com/crishellco/vue-hubble) - A better way to select elements for UI testing in Vue.
  - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
+ - [vuex-test-utils](https://github.com/Incognitus-Io/vuex-test-utils) - Unit testing Vux with chai.
  
 
 ###### Browser-less require
