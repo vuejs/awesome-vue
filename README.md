@@ -425,6 +425,9 @@
 - [Vue Router - The Complete Guide](https://nordschool.com/vue-router/) by [Nordschool](https://nordschool.com/)
 - [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/) by [Nordschool](https://nordschool.com/)
 - [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/) by [Nordschool](https://nordschool.com/)
+- [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
+- [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
+
 
 ### Examples
 
