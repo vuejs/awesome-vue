@@ -2619,6 +2619,7 @@ the amazing Vue.js.
  - [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot) - 💾 A State Snapshot plugin on Actions/Mutations for Vuex3.1+.
  - [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback) - Vuex module factory and Vue components for Loopback.
  - [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot) - A Vuex plugin to take state snapshot on mutation.
+ - [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state). 
 
 ###### Sync Between Tabs
 
