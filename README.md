@@ -1614,6 +1614,7 @@ Tooltips / popovers
  - [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) - A meeting selector inspired by doctolib, fast and fully custom made with Typescript.
  - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.  
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
+ - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels.
 
 ### Tabs
 
