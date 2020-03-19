@@ -1,3 +1,8 @@
+### General
+> ✏️ Mark the necessary items without changing the structure of the PR template.
+
+- [ ] Pull request template structure not broken
+
 ### `Type`
 
 > ℹ️  What types of changes does your code introduce?
