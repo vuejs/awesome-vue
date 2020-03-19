@@ -783,6 +783,7 @@
 - [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
 - [Readnavi](https://github.com/somphongph/readnavi) - Template Book tracking and review 
 - [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator 
+- [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
