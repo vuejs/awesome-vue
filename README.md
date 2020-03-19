@@ -1942,6 +1942,7 @@ Tooltips / popovers
  - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component.
  - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
  - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
+ - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content. 
 
 #### Wizard
 
