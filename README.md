@@ -2091,6 +2091,7 @@ Tooltips / popovers
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.
  - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
  - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
+ - [DataV](http://datav.jiaminghi.com) - Vue large screen data display component library.
 
 ### Admin Template
 
