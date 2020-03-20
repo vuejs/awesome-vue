@@ -2145,6 +2145,7 @@ Tooltips / popovers
  - [Ream](https://github.com/ream/ream) - A minimalistic framework for building server-rendered and static websites.
  - [Universal vue](https://github.com/universal-vue/uvue) - Vue CLI plugin to create universal Vue applications with ease
  - [Factor Platform](https://github.com/fiction-com/factor) - An extension-driven VueJS platform ([Factor.dev &rarr; Docs](https://factor.dev))
+ - [Vapper](https://github.com/shuidi-fed/vapper) - A Vue-based server-side rendering framework.
 
 ### Static website generator
 
