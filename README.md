@@ -1001,6 +1001,7 @@
   - [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
   - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
   - [Vue Spotify](https://github.com/gk4m/vue-spotify) - Spotify client built with vue.js / vuex
+  - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
 
 ### Interactive Experiences
 
