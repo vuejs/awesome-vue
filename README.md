@@ -1419,6 +1419,7 @@ Tooltips / popovers
  - [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) -  A full year (12 months on a page) calendar for Vue2. Uses dayjs.
  - [vuelendar](https://github.com/codesthq/vuelendar) - Simple and clean calendar written in VueJS
  - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - Datepicker component for Vue
+ - [vue-date-tools](https://github.com/misterfresh/vue-date-tools/) - Most lightweight VueJS Date picker & Daterange picker using date-fns and no other dependencies
 
 ### Map
 
