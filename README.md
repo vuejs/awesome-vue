@@ -1013,7 +1013,6 @@
  - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
  - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 
-
 ### Enterprise Usage
 
  - Alibaba
@@ -1046,6 +1045,7 @@
  - [Carrefour](https://www.carrefour.fr)
  - [Staples Canada](https://www.staples.ca/)
  - [Blibli](https://www.blibli.com)
+ - [Manduka](https://www.manduka.com/)
 
 ### A11y
 
