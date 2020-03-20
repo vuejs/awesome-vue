@@ -1004,6 +1004,7 @@
   - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
   - [Vue Spotify](https://github.com/gk4m/vue-spotify) - Spotify client built with vue.js / vuex
   - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
+  - [Best-movies.watch](https://best-movies.watch/) - A website which allows to watch movies online for free without sign up
 
 ### Interactive Experiences
 
