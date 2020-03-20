@@ -1040,7 +1040,6 @@
  - [vuetable-2](https://github.com/ratiw/vuetable-2) - Data table simplify.
  - [vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components.
  - [vue-datasource](https://github.com/coderdiaz/vue-datasource) - A vue.js server side component to create dynamic tables.
- - [fancy-grid-vue](https://fancygrid.com) - Vue adaptor for FancyGrid.
  - [ag-grid-vue](https://github.com/ag-grid/ag-grid/tree/master/packages/ag-grid-vue) - Vue adaptor for ag-Grid.
  - [vue-data-tables](https://github.com/njleonzhang/vue-data-tables) - Vue2.0 DataTables, based on element-ui.
  - [vue-floatThead](https://github.com/tmlee/vue-floatThead) - Vue 2.0 component for floatThead, a floating & sticky table header plugin.
@@ -1079,6 +1078,7 @@
  - [vue-jd-table](https://github.com/jamesdruhan/vue-jd-table) - Advanced and flexible data table component for Vue 2. Feature Rich: search, filtering, exporting, pagination (traditional and virtual scroll) and so much more!
  - [vue-grd](https://github.com/1000ch/vue-grd) - Simple, Light-weight and Flexible Vue.js component for grid layout.
  - [iview-table-page](https://github.com/MengFangui/iview-table-page) - Combines Table and Page components of iview UI together. Based on Vue 2.x. And Hear are some examples to use iview-table-page.
+ - [fancy-grid-vue](https://fancygrid.com) - Vue adaptor for FancyGrid.
  
 ### Notification
 
