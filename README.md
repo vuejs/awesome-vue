@@ -812,6 +812,7 @@
  - [Mongster](https://github.com/mallgroup/mal-mongster) - Connect your Mongo DB nodes into one cluster within a control panel.
  - [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave.
  - [Time Door](https://timedoor.io) - A time series analysis API
+ - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)
