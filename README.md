@@ -796,6 +796,8 @@
 - [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator 
 - [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 - [CodeceptJS UI](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
+- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
+- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
