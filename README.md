@@ -1652,7 +1652,6 @@ Tooltips / popovers
  - [Laraform](https://github.com/laraform/laraform) - Advanced form builder for Vue.js with Laravel support
  - [vue-ele-form](https://github.com/dream2023/vue-ele-form) - Vue DataForm, based on element-ui
  - [vue-otp-2](https://github.com/tonghoai/vue-otp-2) - Vue OTP input 2, A Vue component for OTP input
- - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - Vue form authoring solution which supports generating forms from JSON schema
  
 ##### Date Picker
 
@@ -2188,7 +2187,7 @@ composing CSS breakpoint state.
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
  - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) -  vue.js component plug-in to make Form tag compatible with ajax request
- - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue.
+ - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more.
 
 #### Validation
 
@@ -2209,7 +2208,6 @@ composing CSS breakpoint state.
  - [vue-final-validate](https://phphe.github.io/vue-final-validate/) - Vue validation solution from my development experience, support nested, async.
  - [vform](https://github.com/cretueusebiu/vform) - A simple way to handle Laravel back-end validation in Vue.
  - [vue-form-container](https://github.com/VitorLuizC/vue-form-container) - A `Provider Component` that encapsulate your forms and handle their states and validations.
- - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - Vue form authoring solution which includes comprehensive front-end validation functionality and a simple API for custom front-end validation rules.
 
 ### Resize
  - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
