@@ -561,6 +561,7 @@
 - [Laravel + Nuxt.js boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 - [Add Push Notifications to Your Vue Chat App Using CometChat and Firebase](https://www.cometchat.com/tutorials/vue-chat-push-notifications/)
 - [TO](https://github.com/snturk/to) - A social media app that allows you post just texts.
+- [All-About-Me](https://github.com/ooxxro/all-about-me) - A Social Media Web App built with Vue, Firebase (Firestore/Auth/Storage), Element-UI, Disqus, Vuex, Vue-Router, and Sass. Supports image uploading, profile editing, add/remove friends, and comments.
 
 ### Books
 
