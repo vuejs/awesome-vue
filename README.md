@@ -2242,6 +2242,7 @@ composing CSS breakpoint state.
  - [vue-form-components](https://github.com/antonreshetov/vue-form-components) - Clean & minimal vue form elements with validation
  - [ncform](https://github.com/ncform/ncform) - a very nice configuration generation way to develop form
  - [v-ajax-form](https://github.com/hosokawat/v-ajax-form) -  vue.js component plug-in to make Form tag compatible with ajax request
+ - [Vue Formulate](https://github.com/wearebraid/vue-formulate) - The easiest way to build forms with Vue. Validation, error handling, form generation, comprehensive documentation, and more.
 
 #### Validation
 
