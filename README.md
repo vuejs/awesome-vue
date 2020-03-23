@@ -2050,6 +2050,7 @@ Tooltips / popovers
  - [vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) - Smart widget is a flexible and extensible content container component for Vue.js 2.x.
  - [vue-colrow](https://github.com/phphe/vue-colrow) - Responsive grid layout components: Row, Col. Based on css flexbox. Support SSR, fixed or fraction width, auto grow Col.
  - [vue-diagonal](https://github.com/albertodeago/vue-diagonal) - Simple and light-weight component to create diagonal elements.
+ - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript. 
 
 ## Frameworks
 
