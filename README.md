@@ -2378,6 +2378,7 @@ composing CSS breakpoint state.
  - [Vuenime](https://github.com/denisinvader/vuenime) A flexible Vue wrapper for Animejs
  - [vue-flipper](https://github.com/VitorLuizC/vue-flipper) - A component to flip children with a nice transition.
  - [v-number](https://github.com/maxflex/v-number/) Animated number transition library for Vue.js
+ - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) A set of components to create interactive animations
 
 ### Meta Tags
 
