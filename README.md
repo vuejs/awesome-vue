@@ -2330,7 +2330,6 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
 
 ### Typescript
 
- - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files.
  - [vue-typed](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
  - [vue-typescript](https://github.com/itsFrank/vue-typescript) - Typescript decorators to make vue feel more typescripty.
  - [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue.js and Property Decorator.
@@ -2342,6 +2341,7 @@ based on [threejs](https://threejs.org/) and [Panolens](https://pchen66.github.i
  - [vue-local-storage-decorator](https://github.com/vip30/vue-local-storage-decorator) - Persist data by using local stoarge in decorator format
  - [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - Typescript/ES7 Decorators to make Vuex modules a breeze
  - [vuex-class-modules](https://github.com/gertqin/vuex-class-modules) - Introduce a simple type-safe class style syntax for your vuex modules, inspired by vue-class-component.
+ - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files.
 
 ### HTTP Requests
 
