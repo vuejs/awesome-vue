@@ -1250,6 +1250,7 @@ Tooltips / popovers
 - [vue-modality](https://github.com/ovictorpereira/vue-modality) - A really nice Vue.js modal component
 - [vue-tinybox](https://github.com/NickKaramoff/vue-tinybox) - a tiny (only 2.5 KB minzipped) and slick lightbox gallery. Optimized for both desktop and mobile.
 - [vue-accessible-modal](https://github.com/andrewvasilchuk/vue-accessible-modal) - A Vue.js accessible modal wrapper over your components.
+- [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 
 ### Parallax
 
