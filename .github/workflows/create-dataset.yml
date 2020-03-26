@@ -14,7 +14,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
       - name: Awesome readme to data
-        uses: Scrum/awesome-readme-to-data-action@v0.0.11
+        uses: Scrum/awesome-readme-to-data-action@v0.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files and Push changes
