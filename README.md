@@ -1661,6 +1661,7 @@ Tooltips / popovers
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
  - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels.
  - [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines.
+  - [vue-cosha](https://github.com/kn0wn/vue-cosha) - An easy vue directive that places a colourful shadow behind any image
 
 ### Tabs
 
