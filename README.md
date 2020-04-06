@@ -794,8 +794,8 @@
 - [Pychat](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 - [super.ba](https://github.com/aarsla/super.ba) - RSS News aggregator built with Vue.js, Ant Design of Vue (antdv) and NodeJS.
 - [Rapido](https://framagit.org/InfoLibre/rapido) - Rapido is software to make a website. Rapido is fast, easy to use and respectful of your privacy.
-- [Readnavi](https://github.com/somphongph/readnavi) - Template Book tracking and review 
-- [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator 
+- [Readnavi](https://github.com/somphongph/readnavi) - Template Book tracking and review
+- [miniPress](https://christiankienle.github.io/minipress/) - Yet another static site generator
 - [Zeithub](https://github.com/m0g/zeithub) - Open source time tracking, invoicing & expenses management for freelancers
 - [CodeceptJS UI](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
 - [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
@@ -1285,7 +1285,7 @@ Tooltips / popovers
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
  - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
- 
+
 #### Menu
 
  - [vue-accordion](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
@@ -1657,10 +1657,11 @@ Tooltips / popovers
  - [vuerd](https://github.com/vuerd/vuerd) - Database modeling ERD Editor tool
  - [query-builder-vue](https://github.com/rtucek/vue-query-builder) - A query-builder library for building complex and nested queries with draggable re-ordering.
  - [vue-meeting-selector](https://github.com/IneoO/vue-meeting-selector) - A meeting selector inspired by doctolib, fast and fully custom made with Typescript.
- - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.  
+ - [cool-emoji-picker](https://github.com/kevinfaguiar/cool-emoji-picker) - A fast plug-n-play [Tw]emoji Picker (+textarea for Twemoji rendering) component for Vue.
  - [vue-web-cam](https://github.com/VinceG/vue-web-cam) - Webcam component for VueJs.
  - [vue-cursor-fx](https://github.com/LuXDAmore/vue-cursor-fx) - An animated custom cursor effects for interactive elements like navigation, galleries and carousels.
  - [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines.
+ - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) - :star2: A Lightweight and customizable package of Emoji Picker in Vue using emojis natives (unicode).
 
 #### Tabs
 
@@ -1908,7 +1909,7 @@ Tooltips / popovers
  - [vue-slim-cropper](https://github.com/wannaxiao/vue-slim-cropper) - 💇 A simple and elegant mobile image crop upload component for Vue 2.x.
  - [vue-advanced-cropper](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
  - [vue-anka-cropper](https://github.com/e-anka/vue-anka-cropper) - image cropper and uploader, rectangular and circular crop, customizable css
- 
+
 *Display images*
 
  - [vue-cloudinary](https://github.com/diegopamio/vue-cloudinary) - A vue (2.0) plugin that offers a reusable directive to get images from Cloudinary (https://cloudinary.com) with dynamic manipulation (resizing/cropping/effects/watermarking/scaling/formatting) and optimization (webp/png/auto quality/auto retina).
@@ -1981,7 +1982,7 @@ Tooltips / popovers
  - [@utlime/vue-zoom](https://github.com/utlime/vue-zoom) - A Vue zoom component.
  - [vue-credit-card](https://github.com/fracto-team/vue-credit-card) - A Vue Component for Credit Card Input & Masking & Preview
  - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
- - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content. 
+ - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content.
  - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions.
 
 ##### Wizard
@@ -2056,7 +2057,7 @@ Tooltips / popovers
  - [vue-smart-widget](https://github.com/xiaoluoboding/vue-smart-widget) - Smart widget is a flexible and extensible content container component for Vue.js 2.x.
  - [vue-colrow](https://github.com/phphe/vue-colrow) - Responsive grid layout components: Row, Col. Based on css flexbox. Support SSR, fixed or fraction width, auto grow Col.
  - [vue-diagonal](https://github.com/albertodeago/vue-diagonal) - Simple and light-weight component to create diagonal elements.
- - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript. 
+ - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript.
 
 ### Frameworks
 
@@ -2145,7 +2146,7 @@ Tooltips / popovers
  - [vue-tailwind](https://github.com/alfonsobries/vue-tailwind) - Vue components with customizable classes ready for TailwindCSS, but compatible with any framework.
  - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
  - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
- - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins. 
+ - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
 
 #### Admin Template
 
@@ -2670,7 +2671,7 @@ the amazing Vue.js.
  - [Vuex Stateshot](https://github.com/xiaoluoboding/vuex-stateshot) - 💾 A State Snapshot plugin on Actions/Mutations for Vuex3.1+.
  - [vuex-loopback](https://github.com/mikeevstropov/vuex-loopback) - Vuex module factory and Vue components for Loopback.
  - [vuex-state-snapshot](https://github.com/dezull/vuex-state-snapshot) - A Vuex plugin to take state snapshot on mutation.
- - [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state). 
+ - [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state).
  - [vuex-factories](https://github.com/Goldziher/vuex-factories) - Factory functions to generate vuex actions and mutations.
 
 ###### Sync Between Tabs
