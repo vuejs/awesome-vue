@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
+- [Awesome Vue.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuejs-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -139,13 +140,13 @@
     - [Migration](#migration)
     - [Web Sockets](#web-sockets)
     - [Payment](#payment)
-          - [Stripe](#stripe)
-          - [Paypal](#paypal)
-          - [Plaid](#plaid)
+      - [Stripe](#stripe)
+      - [Paypal](#paypal)
+      - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
-          - [Google Analytics](#google-analytics)
-          - [Yandex Metrika](#yandex-metrika)
+      - [Google Analytics](#google-analytics)
+      - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
@@ -2100,7 +2101,8 @@ Tooltips / popovers
  - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
  - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
  - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
-
+ - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.
+  
 #### Mobile
 
 *UI frameworks for mobile*
