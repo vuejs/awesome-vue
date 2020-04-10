@@ -1478,6 +1478,7 @@ Tooltips / popovers
  - [vue-core-video-player](https://github.com/core-player/vue-core-video-player) - A Lightweight Video Player For Vue.js
  - [vue-player](https://github.com/algoz098/vue-player) - A simple html5 video player with img placeholder for Vue 2.x.
  - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul.
+ - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
 
 #### Infinite Scroll
 
