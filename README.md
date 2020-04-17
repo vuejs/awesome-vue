@@ -1409,13 +1409,13 @@ Tooltips / popovers
  - [vue-moment-lib](https://github.com/julon/vue-moment-lib) - A simple Vue.js 2.0 MomentJS library (filters & globals) using the same momentjs API.
  - [vuejs-countdown](https://github.com/getanwar/vuejs-countdown) - A simple countdown timer component for vue js 2.0
  - [vue2-flip-countdown](https://github.com/philipjkim/vue2-flip-countdown) - A countdown timer with flip effect for Vue 2.x
- - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
  - [timeline-vuejs](https://github.com/pablosirera/timeline-vuejs) - A minimalist timeline for Vue
  - [vue-awesome-countdown](https://github.com/mlinquan/vue-awesome-countdown) - Countdown plug-in with high performance and high accuracy for Vue 2.5.0+. Official site: [https://vac.js.org](https://vac.js.org)
  - [vue-clock2](https://github.com/bestvist/vue-clock2) - Display clock component for Vue.
  - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
  - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️A digital clock simulation build on Vue.
  - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
+ - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
 
 #### Calendar
 
