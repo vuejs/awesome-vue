@@ -570,6 +570,7 @@
 - [Vue Voyagers 👽 Space Travel](https://neodigm.github.io/vue_voyagers/) - A Vue.js Gamified example SPA that consumes a REST API. It presents infographics via D3.js, animation, and web audio.
 - [TodoMVC Vue 3 Composition API](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
 - [TodoMVC Vue](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
+- [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 
 ### Books
 
