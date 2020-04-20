@@ -437,6 +437,10 @@
 - [Fragments in Vue JS](https://blog.logrocket.com/fragments-in-vue-js/) by [Viclotana](https://twitter.com/viclotana) (December 2019)
 - [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
 - [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [Sharing and re-using Vue Mixins in the cloud with Bit.dev](https://blog.bitsrc.io/sharing-and-reusing-vue-mixins-in-the-cloud-with-bit-dev-830104a48d0b) by [Viclotana](https://twitter.com/viclotana) (May 2019)
+- [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) by [Viclotana](https://twitter.com/viclotana) (June 2019)
+- [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) by [Viclotana](https://twitter.com/viclotana) (June 2019)
+
 
 ### Examples
 
