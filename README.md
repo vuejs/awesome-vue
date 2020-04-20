@@ -433,6 +433,8 @@
 - [Vue.js 2 Academy: Learn Vue Step by Step [Video]](https://www.packtpub.com/web-development/vue-js-2-academy-learn-vue-step-by-step-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15754) by Chris Dixon (October 2019)
 - [Blazing-Fast Vue and GraphQL with Gridsome [Video]](https://www.packtpub.com/in/web-development/blazing-fast-vue-and-graphql-with-gridsome-video?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachV15688) by Reed Barger, Packt
 - [Build Your First Vue.js App in About 30 Minutes](https://raddevon.com/articles/build-your-first-vue-js-app/) by Rad Devon (Video, February 2020)
+- [How to make your components dynamic in Vue JS](https://blog.logrocket.com/how-to-make-your-components-dynamic-in-vue-js/) by [Viclotana](https://twitter.com/viclotana) (September 2019)
+- [Fragments in Vue JS](https://blog.logrocket.com/fragments-in-vue-js/) by [Viclotana](https://twitter.com/viclotana) (December 2019)
 - [Build a movie search app using the Vue Composition API](https://dev.to/blacksonic/build-a-movie-search-app-using-the-vue-composition-api-5218)
 - [Vue Testing Crash Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
 
@@ -811,6 +813,7 @@
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 - [Veniqa](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue. 
 - [tato music player](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify. 
+- [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ### Commercial Products
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
@@ -1402,6 +1405,7 @@ Tooltips / popovers
  - [f2-vue](https://github.com/justice47/f2-vue) - Vue wrapper of f2 - elegant, interactive and flexible mobile chart library
  - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) - Vue component made by ZingChart with 35+ chart types.
  - [jscharting-vue](https://github.com/jscharting/jscharting-vue) - Vue chart component offering a complete set of chart types and engaging data visualizations with [JSCharting](https://jscharting.com/).
+ - [flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & Flowchart designer component for Vue.js.
 
 #### Time
 
@@ -1420,6 +1424,7 @@ Tooltips / popovers
  - [vuemodoro](https://github.com/P3trur0/vuemodoro) - Pomodoro timer as single file Vue component.
  - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️A digital clock simulation build on Vue.
  - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
+ - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
 
 #### Calendar
 
