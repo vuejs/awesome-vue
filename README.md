@@ -816,8 +816,8 @@
 - [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 - [Marked.cc](https://github.com/msjaber/marked.cc) - 📝 Create and share beautiful images of your notes and prose.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
-- [Veniqa](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue. 
-- [tato music player](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify. 
+- [Veniqa](https://github.com/Viveckh/Veniqa) - An E-commerce solution with a shopping client and admin panel written in Vue.
+- [tato music player](https://github.com/tatoMa/neteast-cloud-music-player) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 - [Sheiley Shop](https://github.com/itsalb3rt/sheiley_shop_app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 
 ### Commercial Products
@@ -1035,7 +1035,7 @@
   - [Tune.pk](https://tune.pk/) - Tune.pk is one of the largest video sharing website with content from all over the world.
   - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
   - [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
-  - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify. 
+  - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
 
 ### Interactive Experiences
 
@@ -2096,6 +2096,7 @@ Tooltips / popovers
  - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.
  - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
  - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
+ - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.
  - [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
  - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
  - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
@@ -2103,7 +2104,6 @@ Tooltips / popovers
  - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
  - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
  - [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
- - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://getbootstrap.com/) grid and components for Vue.js 2.
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
  - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
