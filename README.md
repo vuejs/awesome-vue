@@ -1432,7 +1432,7 @@ Tooltips / popovers
  - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️A digital clock simulation build on Vue.
  - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
  - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
- - [vue-moment](https://github.com/scottie34/simple-vue-timeline) - Handy Moment.js filters for your Vue.js project.
+ - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project.
 
 #### Calendar
 
