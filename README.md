@@ -1219,6 +1219,7 @@
  - [vue-scroll-progress](https://github.com/spemer/vue-scroll-progress) - Simple Vue.js plugin for page scroll progress bar
  - [vue-read-progress](https://github.com/ajerez/vue-read-progress) - Customizable progress bar at the top of the page that shows the scroll progress
  - [easy-circular-progress](https://github.com/dreambo8563/easy-circular-progress) - Easy circular progress component with counting effect
+ - [vue-twitter-counter](https://github.com/LucasLeandro1204/vue-twitter-counter) - Counter component inspired in Twitter with Vue
 
 #### Tooltip
 
@@ -1431,6 +1432,7 @@ Tooltips / popovers
  - [digital-clock-vue](https://github.com/zkerhcy/digital-clock-vue) - ️A digital clock simulation build on Vue.
  - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
  - [simple-vue-timeline](https://github.com/scottie34/simple-vue-timeline) - A simple but customizable and reactive timeline vue component
+ - [vue-moment](https://github.com/brockpetrie/vue-moment) - Handy Moment.js filters for your Vue.js project.
 
 #### Calendar
 
@@ -1562,6 +1564,7 @@ Tooltips / popovers
  - [vue-twitter](https://github.com/chiaweilee/vue-twitter) - A Vue.js component for embed twitter widgets (e.g timeline, buttons)
  - [vue-share-buttons](https://github.com/Alexandrshy/vue-share-buttons) - Vue.js component for placing buttons in your project using which you can share anything
  - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
+ - [vuesocial](https://github.com/growthbunker/vuesocial) - 🧞‍♀️🧞‍♂️ One easy-to-use button component for Vue.js with 65+ social networks.
 
 #### QR Code
 
