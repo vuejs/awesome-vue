@@ -840,6 +840,7 @@
  - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
 
 ### Apps/Websites
+  - [CoronApp](https://corona.bayukurnia.xyz/) - Covid-19 realtime portal website build on Vue.js
   - [Laravel Spark](https://spark.laravel.com/)
   - [Vice Video](https://video.vice.com/)
   - [Formlets](https://www.formlets.com)
