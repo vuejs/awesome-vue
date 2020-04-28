@@ -41,6 +41,7 @@
     - [Overlay](#overlay)
     - [Parallax](#parallax)
     - [Icons](#icons)
+    - [Marquee](#marquee)
     - [Menu](#menu)
     - [Minus Plus Input](#minus-plus-input)
     - [Carousel](#carousel)
@@ -78,7 +79,8 @@
       - [Image Manipulation](#image-manipulation)
       - [Video Manipulation](#video-manipulation)
       - [File Upload](#file-upload)
-      - [Context Menu](#context-menu)
+      - [Context 
+      ](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
       - [Wizard](#wizard)
       - [CSV](#csv)
@@ -1309,6 +1311,9 @@ Tooltips / popovers
  - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
  - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
  - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
+
+#### Marquee
+- [vue-dynamic-marquee](https://yishaiberg.github.io/dynamic-marquee-playground/) - Marquee component, fully responsive to changes on the fly.
 
 #### Menu
 
