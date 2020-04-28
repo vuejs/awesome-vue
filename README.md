@@ -1036,6 +1036,7 @@
   - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
   - [Keep Formula](https://keepformula.com/) - Keep Formula is a simple app to make your calculations easier.
   - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
+  - [Chatterboxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 
 ### Interactive Experiences
 
