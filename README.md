@@ -1312,7 +1312,7 @@ Tooltips / popovers
  - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
 
 #### Marquee
-- [vue-dynamic-marquee](https://yishaiberg.github.io/dynamic-marquee-playground/) - Marquee component, fully responsive to changes on the fly.
+- [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
 
 #### Menu
 
