@@ -79,7 +79,7 @@
       - [Image Manipulation](#image-manipulation)
       - [Video Manipulation](#video-manipulation)
       - [File Upload](#file-upload)
-      - [Context](#context-menu)
+      - [Context Menu](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
       - [Wizard](#wizard)
       - [CSV](#csv)
