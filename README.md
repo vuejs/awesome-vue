@@ -1856,7 +1856,7 @@ Tooltips / popovers
  - [v-image](https://github.com/vinayakkulkarni/v-image) :camera: Tiny little component for input type=file (< 1kb, gzipped)
  - [@voerro/vue-tagsinput](https://github.com/AlexMordred/vue-tagsinput) A simple tags input Vue.js 2 component with typeahead/autocomplete
  - [vue-tag-selector](https://github.com/tomquinonero/vue-tag-selector) - Tag-like input. Light, customizable and handles REGEX validation!
-
+ - [vue-input-text-to-tags](https://github.com/leepyng/vue-input-text-to-tags) - A input component that can create tags for the result display
 
 ##### Color Picker
 
