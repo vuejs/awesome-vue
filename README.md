@@ -2647,6 +2647,7 @@ the amazing Vue.js.
  - [effector](https://github.com/zerobias/effector) — Fast and powerful reactive state manager. Effector lets you write simple, fast and type safe code and manage reactive state with ease.
  - [nano-state-vue](https://gitlab.com/sophosoft/nano-state-vue) - Efficient, effective, and extensible state management: less is more
  - [universal-model-vue](https://github.com/universal-model/universal-model-vue) - Unified state management for Vue (and also for Angular/React/Svelte)
+ - [vue-states](https://github.com/sumcumo/vue-states) - State management system for Vue with same API as Vue components
 
 ##### Redux
 
