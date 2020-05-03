@@ -1279,6 +1279,7 @@ Tooltips / popovers
 - [vuetify-dialog](https://github.com/yariksav/vuetify-dialog) - Dialogs easy to use with Vuetify.
 - [vue-hawesome-modal](https://github.com/behawesometw/vue-hawesome-modal) - A Vue promisify modal component plugin based on Vuetify with Vuex.
 - [xmodal-vue](https://github.com/XeniacDev/xmodal) - 🚀 A simplistic and easy to use wrapper around your components that will help you create custom and dynamic modals, from your components.
+- [@kouts/vue-modal](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
 
 #### Parallax
 
