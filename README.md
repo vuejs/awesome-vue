@@ -2096,6 +2096,8 @@ Tooltips / popovers
  - [vue-colrow](https://github.com/phphe/vue-colrow) - Responsive grid layout components: Row, Col. Based on css flexbox. Support SSR, fixed or fraction width, auto grow Col.
  - [vue-diagonal](https://github.com/albertodeago/vue-diagonal) - Simple and light-weight component to create diagonal elements.
  - [vue-responsive-dash](https://github.com/bensladden/vue-responsive-dash) - A Responsive, Draggable & Resizable Dashboard (grid) made with vue and typescript.
+ - [vue-masonry-wall](https://github.com/fuxingloh/vue-masonry-wall) - A pure vue responsive masonry layout without direct dom manipulation, ssr friendly and lazy loading.
+ - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
 
 ### Frameworks
 
