@@ -1700,7 +1700,8 @@ Tooltips / popovers
  - [vuetimeline](https://github.com/growthbunker/vuetimeline) - One easy-to-use component to build beautiful responsive timelines.
  - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) - :star2: A Lightweight and customizable package of Emoji Picker in Vue using emojis natives (unicode).
  - [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) - Deck of flashcards with spaced-repetition via localStorage :bulb:
-
+ - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for vue js :bulb:
+ 
 #### Tabs
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
