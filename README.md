@@ -610,6 +610,7 @@
 - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 - [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
 - [Vue.js](https://www.amazon.com/Vue-js-Actionable-Chris-Minnick/dp/1951959019) by Chris Minnick and Nat Dunn, Webucator (February, 2020)
+- [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) by Cédric Exbrayat (English and French versions) (May, 2020)
 
 ### Blog Posts
 
@@ -634,6 +635,7 @@
 
 - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
 - [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/) - Learn how to build more accessible routing, state management, form validation and internationalization libraries from the ground up!
+- [Become a Ninja with Vue 3](https://vue-exercises.ninja-squad.com) - This course teaches how to build a complete application with Vue 3, step by step, using Vue CLI, TypeScript and the Composition API. Each exercise comes with instructions and tests to check 100% of your code.
 
 ### Documentaries
 
@@ -1701,7 +1703,7 @@ Tooltips / popovers
  - [v-emoji-picker](https://github.com/joaoeudes7/v-emoji-picker) - :star2: A Lightweight and customizable package of Emoji Picker in Vue using emojis natives (unicode).
  - [learnawesome-flashcard](https://github.com/learn-awesome/flashcard) - Deck of flashcards with spaced-repetition via localStorage :bulb:
  - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for vue js :bulb:
- 
+
 #### Tabs
 
  - [vue-tabs](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
