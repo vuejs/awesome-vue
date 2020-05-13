@@ -1210,6 +1210,7 @@
  - [vue-loading-button](https://github.com/shwilliam/vue-loading-button) - 👇 Straightforward button with slideout loading indicator
  - [vue-loading](https://github.com/HELMAB/vue-loading) - 🔄 Block page while requesting API
  - [vue-preloaders](https://github.com/igaloly/vue-preloaders) - Attach your preloader at any time, to any element easily and quickly
+ - [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 
 ##### Progress Bar
 
