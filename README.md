@@ -1042,6 +1042,7 @@
   - [tato music player](https://neteast.netlify.com/) - A mobile first, handwritten, responsive web app for music fans written in Vue and Vuetify.
   - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
   - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
+  - [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
 
 ### Interactive Experiences
 
