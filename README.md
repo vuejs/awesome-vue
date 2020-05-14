@@ -579,6 +579,7 @@
 - [TodoMVC Vue 3 Composition API](https://github.com/blacksonic/todomvc-vue-composition-api) - A complete TodoMVC implementation in Vue 3 Composition API with components, store, unit e2e tests and linting.
 - [TodoMVC Vue](https://github.com/blacksonic/todomvc-vue) - A complete TodoMVC implementation in Vue 2 with components, store, unit e2e tests and linting.
 - [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
+- [Nuxt with JWT authentication via OTP](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - A Nuxt.js boilerplate with basic register and OTP-enabled login functions.
 
 ### Books
 
