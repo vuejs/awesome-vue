@@ -2148,6 +2148,7 @@ Tooltips / popovers
  - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
  - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
  - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.
+ - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.
 
 #### Mobile
 
