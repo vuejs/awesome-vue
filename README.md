@@ -444,6 +444,7 @@
 - [Using Watchers in Vue JS](https://blog.bitsrc.io/introducing-watchers-in-vue-js-d3efd4f4e726) by [Viclotana](https://twitter.com/viclotana) (June 2019)
 - [Understanding Filters in Vue JS](https://blog.bitsrc.io/understanding-filters-in-vue-js-7a53b1521dce) by [Viclotana](https://twitter.com/viclotana) (June 2019)
 - [Form Validation In VueJS Using Yup](https://vijitail.dev/blog/form-validation-in-vue-using-yup) by [Vijit Ail](https://vijitail.dev/) (May 2020)
+- [Use Vue.js to Rewrite React's Official Tutorial Tic Tac Toe](https://chanvinxiao.com/blog/vuejs-tic-tac-toe/) By [Chanvin Xiao](https://github.com/vinzid)
 
 ### Examples
 
