@@ -871,7 +871,6 @@
 - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
 - [Jobinja](https://jobinja.ir) - A Job Board and career platform operating in Iran.
 - [滚蛋吧！莆田系](https://putianxi.github.io/) - Show all Putian hospital information
-- [The Spice House](https://www.thespicehouse.com) - Ecommerce website for high quality spices. Checkout, cart, the product detail page, and search are built using Vue. Checkout is a single page app written with Vue & Vuex.
 - [Livestorm](http://livestorm.co) - Webinar / Live events app.
 - [Holden](https://www.holden.com.au)
 - [Global-Exam](https://global-exam.com) - Online Training for Language Proficiency Tests
