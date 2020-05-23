@@ -1888,6 +1888,7 @@ _Let the user select a tag / something while typing_
 
 _Switch / on/off toggle / checkbox_
 
+- [vue-toggles](https://github.com/jllagerberg/vue-toggles) - A very customizable and beautiful toggle component
 - [vue-switches](https://github.com/drewjbartlett/vue-switches) - An on/off switch component for Vue.js with theme support.
 - [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - Vue.js 2.0+ toggle / switch button - simple, pretty, customizable.
 - [vue-checkbox-radio](https://github.com/mariomka/vue-checkbox-radio) - A Vue component to easily styling checkbox and radio inputs.
