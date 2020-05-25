@@ -2320,6 +2320,18 @@ application.  By @Haixing-Hu
     A tool to report water dam level using the U.S. Geological Survey database.
    </li>
    <li>
+    <a href="https://olaolu.dev/">
+     Portfolio Site
+    </a>
+    by Olaolu Olawuyi
+   </li>
+   <li>
+    <a href="https://david-aji.com/">
+     Portfolio Site
+    </a>
+    by David Aji
+   </li>
+   <li>
     <a href="http://clem.travelmap.fr">
      TravelMap
     </a>
