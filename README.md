@@ -859,8 +859,6 @@
 - [稀土掘金](http://gold.xitu.io)
 - [Prague Airport](http://www.prague-airport.com/)
 - [Portfolio Site](http://corentinbac.com/)
-- [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
-- [Portfolio Site](https://david-aji.com/) David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [Statamic](https://statamic.com)
 - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
 - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
@@ -1051,6 +1049,8 @@
 - [ChatterBoxes](https://chatterboxes.netlify.com/) - For quick secret chat sessions
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 - [CMD Generators 命令行生成器](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh. 命令行参数多不熟悉? 点点按钮就能生成啦!
+- [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
+- [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 
 ### Interactive Experiences
 
