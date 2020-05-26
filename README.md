@@ -1902,7 +1902,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-rocker-switch](https://github.com/DannyFeliz/vue-rocker-switch) - A customizable rocker switch component for Vue.js.
 - [vue-toggle-btn](https://github.com/JonathanDn/vue-toggle-btn) - A Highly Customizable, easy-to-use elegant toggle/switch button component
 - [vue-tristate-checkbox](https://github.com/hartwork/vue-tristate-checkbox) - Cycling tristate checkbox that supports form submission
-- [vue-toggles](https://github.com/jllagerberg/vue-toggles) - A very customizable and beautiful toggle component
+- [vue-toggles](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ##### Masked Input
 
