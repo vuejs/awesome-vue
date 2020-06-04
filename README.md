@@ -3122,7 +3122,6 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 
 _Render Vue application in the browser only_
 
-- [Vue Effector Boilerplate](https://github.com/ilajosmanov/vue-effector-starter.git) - VueJS + Effector State Manager boilerplate.
 - [Vue Plugin Boilerplate](https://github.com/kazupon/vue-plugin-boilerplate) - Boilerplate for Vue.js plugin.
 - [Bourgeon](https://github.com/rayfranco/bourgeon) - Bourgeon is an opinionated-featured VueJS 2.0 setup for Webpack.
 - [VuePack](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
@@ -3147,6 +3146,7 @@ _Render Vue application in the browser only_
 - [vue-component-template](https://github.com/IneoO/vue-component-template) - Webpack setup for building & publishing a Vue component/library (with docs/demo site).
 - [**vue-auth-boilerplate**](https://github.com/VPetar/vue-auth-boilerplate) - Vue SPA boilerplate with Router/Vuex/CLI3 and auth functions (cool looking register and login). Works with minimal setup out of the box with [**laravel-api-boilerplate-jwt**](https://github.com/VPetar/laravel-api-boilerplate-jwt).
 - [**vue-atomic-design**](https://github.com/alexander-elgin/vue-atomic-design) - Vue front-end boilerplate based on atomic design methodology.
+- [Vue Effector Boilerplate](https://github.com/ilajosmanov/vue-effector-starter.git) - VueJS + Effector State Manager boilerplate.
 
 #### Universal
 
