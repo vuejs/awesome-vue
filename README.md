@@ -198,6 +198,7 @@
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org). A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
 - [Vue.js DEV Community](https://dev.to/t/vue) - Official tag for the Vue.js JavaScript Framework on DEV.to
+- [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.  
 
 ### Job Portal
 
