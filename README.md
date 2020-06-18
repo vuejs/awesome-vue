@@ -1202,6 +1202,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [@smartweb/vue-flash-message](https://github.com/smwbtech/vue-flash-message) - The component to display single flash message or multiple flash messages to user
 - [vue-notification](https://github.com/mathieustan/vue-notification) - A clean & nice notification system with Material Design style with a queue :new:
 - [Breadstick](https://github.com/codebender828/breadstick) - 🚀 A simple and flexible positioning, stacking and dismissal API for your custom Vue notifications.
+- [vue-notification-system](https://www.npmjs.com/package/vue-notification-system) - A complete real-time notification system for Vue apps
 
 #### Loader
 
