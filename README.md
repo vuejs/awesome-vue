@@ -833,6 +833,7 @@
 - [Afterman](https://github.com/itsalb3rt/afterman) - 🌕 Create beutiful docs in markdown and HTML from postman collection. Using Quasar Framework
 - [Greenpress Admin Panel](https://github.com/greenpress/admin-panel) - The Admin panel of Greenpress, a fully-operative open-source for creating blogs and content websites.
 - [Greenpress Blog-Front](https://github.com/greenpress/blog-front) - The frontend application service of Greenpress, a fully-operative open-source for creating blogs and content websites.
+- [Movie Paradise](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 
 ### Commercial Products
 
