@@ -198,7 +198,7 @@
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs.
 - [Vuelibs](https://vuelibs.org). A minimalistic list of Vue.js libraries and components based on the awesome-vue repo.
 - [Vue.js DEV Community](https://dev.to/t/vue) - Official tag for the Vue.js JavaScript Framework on DEV.to
-- [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.  
+- [Vue.js Online Courses Directory](https://classpert.com/vuejs) - Vue.js courses from top e-learning platforms curated by Classpert, a online course search engine.
 
 ### Job Portal
 
@@ -1366,7 +1366,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [@satmaxt/sidebar-menu-drawer](https://github.com/satriaajiputra/sidebar-menu-drawer) - A simple interactive sidebar menu drawer and easy to implement
 - [vue-file-toolbar-menu](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 
-
 #### Minus Plus Input
 
 - [minus-plus-input](https://github.com/manju16832003/v-minusplusinput) - A number input with plus minus; included for Vue.js v1 and v2.
@@ -1734,6 +1733,7 @@ _Display non-editable events in a Calendar_
 - [vue-portfolio-viewer](https://github.com/MelihAltintas/vue-portfolio-viewer.git) - Scroll animated portfolio viewer component for vue js :bulb:
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
+- [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 
 #### Tabs
 
