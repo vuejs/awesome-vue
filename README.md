@@ -1171,6 +1171,7 @@ _Tables / data grids_
 - [iview-table-page](https://github.com/MengFangui/iview-table-page) - Combines Table and Page components of iview UI together. Based on Vue 2.x. And Hear are some examples to use iview-table-page.
 - [fancy-grid-vue](https://github.com/FancyGrid/FancyGrid) - Vue adaptor for FancyGrid.
 - [vue-table-dynamic](https://github.com/TheoXiong/vue-table-dynamic) - A dynamic table with sorting, filtering, editing, pagination, multiple select, etc.
+- [vue-quintable](https://github.com/Quintetio/vue-quintable) - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x 
 
 #### Notification
 
