@@ -1728,6 +1728,7 @@ _Display non-editable events in a Calendar_
 - [vue-text-middle-ellipsis](https://github.com/Tardigrada777/vue-text-middle-ellipsis) - A simple vue-directive(2+) that clamps the content in the middle of the element if the content inside is too long.
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
+- [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
 
 #### Tabs
 
