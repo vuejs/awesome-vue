@@ -2433,6 +2433,7 @@ _Seamless scrolling_
 - [vue-lazy-youtube-video](https://github.com/3vilArthas/vue-lazy-youtube-video) - A simple Vue.js component for lazy loading YouTube videos.
 - [lazyload-vue](https://github.com/Kazap/lazyload-vue)- Vue Plugin for vanilla-lazyload.
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
+- [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
 
 #### Pagination
 
