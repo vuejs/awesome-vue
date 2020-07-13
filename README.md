@@ -1058,6 +1058,7 @@
 - [Portfolio Site](https://david-aji.com/) - David Aji aka Ajiva is a Front End Developer with experience using frameworks like Vue and React to build "class" web apps.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
 - [linksift.com](https://linksift.com) - LinkSift lets you explore what a website links to.
+- [postmake.io](https://postmake.io) - A curated directory of 300+ tools and resources used by companies and startups all over the web. Built using Vue.js and Nuxt.
 
 ### Interactive Experiences
 
