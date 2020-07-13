@@ -852,6 +852,7 @@
 - [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave.
 - [Time Door](https://timedoor.io) - A time series analysis API
 - [vREST NG](https://ng.vrest.io) - An enterprise application for Automated API Testing, built with VueJS and Element UI.
+- [ScaleChamp](https://www.scalechamp.com) - multi-cloud managed databases provider with Hetzner, AWS, Linode, IBM, Azure, Scaleway, Alibaba Cloud, DigitalOcean, GCP and UpCloud support
 
 ### Apps/Websites
 
