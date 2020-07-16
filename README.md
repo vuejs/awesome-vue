@@ -1060,6 +1060,7 @@
 - [linksift.com](https://linksift.com) - LinkSift lets you explore what a website links to.
 - [postmake.io](https://postmake.io) - A curated directory of 300+ tools and resources used by companies and startups all over the web. Built using Vue.js and Nuxt.
 - [screenshotapi.net](https://screenshotapi.net) - A website screenshot API, capture pixel-perfect website screenshots.
+- [FontGet](https://www.fontget.com/) - Download Free Fonts.
 
 ### Interactive Experiences
 
