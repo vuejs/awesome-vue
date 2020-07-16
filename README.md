@@ -856,6 +856,7 @@
 
 ### Apps/Websites
 
+- [FontGet](https://www.fontget.com/)
 - [Laravel Spark](https://spark.laravel.com/)
 - [Vice Video](https://video.vice.com/)
 - [Formlets](https://www.formlets.com)
