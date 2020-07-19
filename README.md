@@ -450,6 +450,7 @@
 
 ### Examples
 
+- [Persian Help Desk](https://github.com/AIKICo/Aiki-HelpDesk) by @MohMehrnia
 - [Node Webkit + Vue example](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
 - [Vue Samples](https://github.com/superlloyd/VueSamples) by @superlloyd
 - [HackerNews clone with vue.js + vue-router](https://github.com/kazupon/vue-router-hackernews) by @kazupon
