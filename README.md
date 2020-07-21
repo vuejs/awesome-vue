@@ -2063,6 +2063,7 @@ _Display images_
 - [vue-autosizer](https://github.com/hfalucas/vue-autosizer) - A light replacement for built-in `<textarea>` and `<input>` elements allowing them to automatically stretch to fit the content.
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions.
 - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
+- [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 
 ##### Wizard
 
