@@ -1,1 +1,0 @@
-Youtube clone with Vue and Vuex using the Youtube API.
