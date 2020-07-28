@@ -1,7 +1,7 @@
 ### `General`
 > ✏️ Mark the necessary items without changing the structure of the PR template.
 
-- [ ] Pull request template structure not broken
+- [ ] Pull request template structure not broke.
 
 ### `Type`
 
@@ -9,7 +9,7 @@
 
 > 👉 _Put an `x` in the boxes that apply_
 
-- [ ] Fix
+- [ ] Fi.
 - [ ] Feature 
 
 ### `Checklist`
@@ -18,18 +18,18 @@
 
 > 👉  _Put an `x` in the boxes that apply._
 
-- [ ] Title as described
+- [ ] Title as describe.
 - [ ] Make sure you put things in the right category!
-- [ ] Always add your items to the end of a list
+- [ ] Always add your items to the end of a lis.
 
 #### `Open Source`
 
-- [ ] Link description does not contain a link to an author / third-party resource
-- [ ] The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section
+- [ ] Link description does not contain a link to an author / third-party resourc.
+- [ ] The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING sectio.
 - [ ] The documentation is in English.
 - [ ] The project is active and maintained.
 - [ ] The project accepts contributions.
-- [ ] Not a commercial product
+- [ ] Not a commercial produc.
 
 #### `Apps/Websites`
 

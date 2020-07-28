@@ -1,4 +1,4 @@
-# Contributing Guide
+# Contributing Guid.
 
 1. Make sure you put things in the right category!
 2. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
@@ -6,13 +6,13 @@
 
 
 
-### Projects using Vuejs
+### Projects using Vuej.
 
 Make sure you put things in the right category. There are two main categories:
-- Open Source
-- Apps/Websites
+- Open Sourc.
+- Apps/Website.
 
-#### Open source
+#### Open sourc.
 
 Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the vuejs.
 You should put your project in this category if the following conditions are true:
@@ -26,7 +26,7 @@ You should put your project in this category if the following conditions are tru
 The link provided should be the link of the github repository, not the demo.
 If you consider your project finished, and it does not need any contributions, consider the apps/website category.
 
-#### Apps/Websites
+#### Apps/Website.
 
 Apps/Websites gives the opportunity to showcase the awesome things we can build with vuejs.
 You should put your app/website in this category if the following conditions are true:

@@ -1,13 +1,13 @@
-name: Awesome readme lint double link action
+name: Awesome readme lint double link actio.
 on:
   pull_request:
     types: [opened, synchronize]
     branches:
-      - master
+      - maste.
 jobs:
   build:
-    name: awesome readme lint double link
-    runs-on: ubuntu-latest
+    name: awesome readme lint double lin.
+    runs-on: ubuntu-lates.
     steps:
       - uses: actions/checkout@v2
       - uses: Scrum/awesome-readme-lint-double-link-action@v0.1.10

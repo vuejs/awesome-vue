@@ -1,8 +1,8 @@
-# These are supported funding model platforms
+# These are supported funding model platform.
 
 github: [yyx990803, posva]
-patreon: evanyou
-open_collective: vuejs
-ko_fi: # Replace with a single Ko-fi username
-tidelift: npm/vue
+patreon: evanyo.
+open_collective: vuej.
+ko_fi: # Replace with a single Ko-fi usernam.
+tidelift: npm/vu.
 custom: # Replace with a single custom sponsorship URL
