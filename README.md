@@ -1646,6 +1646,7 @@ _Display non-editable events in a Calendar_
 - [v-clipboard](https://github.com/euvl/v-clipboard) - Simple, tiny and easy to use directive to save your models to clipboard (less than 2kb minified, no dependencies)
 - [vue-invisible-recaptcha](https://github.com/MicroDroid/vue-invisible-recaptcha) - Super easy integration for Google's Invisible reCAPTCHA
 - [vue-embed](https://github.com/Gomah/vue-embed) - Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown.
+- [Particles.vue](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) - Vue.js component for particles background, based on tsParticles
 - [vue-particles](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds
 - [vue-uniq-ids](https://github.com/termosa/vue-uniq-ids) - Vue.js 2.x plugin that helps to use id-related attributes with no side-effect
 - [vue-multivue](https://github.com/drewjbartlett/vue-multivue) - Use multiple vue apps of the same class on the same page.
