@@ -1744,6 +1744,7 @@ _Display non-editable events in a Calendar_
 - [vuesence-book](https://github.com/altrusl/vuesence-book) - Documentation/help system component.
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
+- [Particles.vue](https://github.com/matteobruni/tsparticles/blob/master/components/vue/README.md) - Vue.js component for particles background, based on tsParticles
 
 #### Tabs
 
