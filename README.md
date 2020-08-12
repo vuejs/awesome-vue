@@ -2503,6 +2503,7 @@ _Seamless scrolling_
 - [vue-flipper](https://github.com/VitorLuizC/vue-flipper) - A component to flip children with a nice transition.
 - [v-number](https://github.com/maxflex/v-number/) Animated number transition library for Vue.js
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) A set of components to create interactive animations
+- [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 
 #### Meta Tags
 
