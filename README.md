@@ -585,6 +585,7 @@
 - [Movie search app with Composition API](https://github.com/blacksonic/movie-search-vue) - A movie search app implemented in Vue 2 with the Composition API plugin
 - [Nuxt with JWT authentication via OTP](https://github.com/reiallenramos/nuxtjs-otp-boilerplate) - A Nuxt.js boilerplate with basic register and OTP-enabled login functions.
 - [vuetify-i18n-boilerplate](https://github.com/Morgbn/vuetify-i18n-boilerplate) - [Demo](https://morgbn.github.io/vuetify-i18n-boilerplate) - A boilerplate to quickly start a Vue project using Vuetify, Vue-i18n, Vuex and Vue-router
+- [Google Keep Clone with Vue + Firestore](https://github.com/sorxrob/vue-keep) - Google Keep clone with Vue and Firestore written in TypeScript.
 
 ### Books
 
