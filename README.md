@@ -2676,6 +2676,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-option-events](https://github.com/Cweili/vue-option-events) - Bring Vue.js 1 events option and \$emit to Vue.js 2.
 - [vue-emit](https://github.com/denisinvader/vue-emit) - A helper function to emit events from functional components.
 - [vue-plugin-events](https://github.com/nolde/vue-plugin-events) - Simple global event bus for Vue.js applications with automatic subscription control.
+- [vue3-custom-hooks](https://github.com/PoluosmakAndrew/vue3-custom-hooks) - Build custom hooks for Vue.js 3 Composition API.
 
 #### Persistence
 
