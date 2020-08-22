@@ -3053,6 +3053,7 @@ _Create documentation_
 - [vue-patterns](https://github.com/learn-vuejs/vue-patterns) - Useful Vue patterns, techniques, tips and tricks and helpful curated links.
 - [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [vue-dotmd-loader](https://github.com/mengdu/vue-dotmd-loader) - A webpack loader for loader markdown file transform to vue file.
+- [vue-tut](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
 
 #### Test
 
