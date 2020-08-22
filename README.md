@@ -2991,6 +2991,7 @@ _Integrate with services or other frameworks_
 - [vue-cli-plugin-element](https://github.com/codetrial/vue-cli-plugin-element) - Vue CLI 3 Plugin to build an enterprise application with element-ui in seconds
 - [vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Vue CLI 3 Plugin for Electron with no required configuration that uses Electron Builder.
 - [vue-cli-plugin-codeceptjs-puppeteer](https://github.com/codecept-js/vue-cli-plugin-codeceptjs-puppeteer) - installs CodeceptJS & Puppeteer for supercharged end 2 end testing 🙋
+- [vue-cli-plugin-kami](https://github.com/KamiMeow/vue-cli-plugin-kami) - Vue CLI 3 Plugin with work-made architecture for quickly start your app
 
 ##### Google Analytics
 
