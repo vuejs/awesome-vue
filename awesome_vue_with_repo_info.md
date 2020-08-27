@@ -2314,12 +2314,6 @@ application.  By @Haixing-Hu
     </a>
    </li>
    <li>
-    <a href="https://devsnap.me">
-     DevSnap.me
-    </a>
-    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
-   </li>
-   <li>
     <a href="http://embalses.azurewebsites.net/">
      Embalses!
     </a>
@@ -2391,6 +2385,12 @@ application.  By @Haixing-Hu
     <a href="https://yangonbusreport.org">
       YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
     </a>
+   </li>
+   <li>
+    <a href="https://devsnap.me">
+     DevSnap.me
+    </a>
+    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
    </li>
   </ul>
  </li>
