@@ -466,6 +466,7 @@
 - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
 - [**vue-zhihu-daily**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
 - [**VueChess**](https://github.com/gustaYo/vue-chess) - Multiplayer online chess game
+- [**TicTacToe**](https://canersevince.github.io/Vue-Next-TicTacToe-Game/) - Simple Tic Tac Toe game with vue.
 - [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) - Vue client for `Ngexplorer`
 - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa)
