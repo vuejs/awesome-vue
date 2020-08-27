@@ -866,6 +866,7 @@
 - [Prague Airport](http://www.prague-airport.com/)
 - [Portfolio Site](http://corentinbac.com/)
 - [Statamic](https://statamic.com)
+- [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
 - [Embalses!](http://embalses.azurewebsites.net/) - A tool to report water dam level using the U.S. Geological Survey database.
 - [TravelMap](http://clem.travelmap.fr) - A simple way for travelers to create a blog based on a Map.
 - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
