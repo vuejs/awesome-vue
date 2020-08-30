@@ -2196,6 +2196,7 @@ _Set of components + responsive layout system_
 - [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.
 - [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.
 - [vue-canvas](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
+- [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 
 #### Mobile
 
