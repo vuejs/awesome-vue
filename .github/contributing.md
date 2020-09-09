@@ -16,10 +16,12 @@ Make sure you put things in the right category. There are two main categories:
 
 Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the vuejs.
 You should put your project in this category if the following conditions are true:
+- The description for the link should not contain links to the author and third-party resources - this should be in the documentation (README)
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
 - The documentation is in English.
 - The project is active and maintained.
 - The project accepts contributions.
+- Not a commercial product.
 
 The link provided should be the link of the github repository, not the demo.
 If you consider your project finished, and it does not need any contributions, consider the apps/website category.
@@ -32,3 +34,4 @@ You should put your app/website in this category if the following conditions are
 - The website is using vuejs intensively. It should detect vue with [vue-devtools](https://github.com/vuejs/vue-devtools).
 - If you cannot detect vue with `vue-devtools` due to work at non public pages (e.g. for enterprise website), you can send Pull Request with screenshot that detected it.
 - The website is original and not too simple. For that reason, blogs and simple landing pages are rejected.
+- A commercial product using Vue, provided that guests could reasonably check out how Vue was used (i.e. A headless CMS which uses Vue for the Admin/editor Area and offers a free tier).
