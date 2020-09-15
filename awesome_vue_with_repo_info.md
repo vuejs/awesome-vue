@@ -1,6 +1,6 @@
 <p align="center">
  <br>
-  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" width="400">
+  <img alt="awesome" src="./assets/logo.svg" width="400">
    <br>
     <br>
     </br>
@@ -830,6 +830,18 @@
      &#9733 15, pushed 3 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/SasanFarrokh/vue-chimera">
+     vue-chimera
+    </a>
+    - A full-featured RESTful resource based client, campatible with Nuxtjs and server side fetching.
+    <a href="https://github.com/SasanFarrokh">
+     @SasanFarrokh
+    </a>
+    <sup>
+     &#9733 15, pushed 4 days ago
+    </sup>
+   </li>
   </ul>
   <sup>
    &#9733 1143, pushed 34 days ago
@@ -1548,6 +1560,12 @@
      &#9733 33, pushed 14 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/bovas85/nuxt-headless">
+     Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
+    </a>
+    by @bovas85 / @moustacheDsign
+   </li>
   </ul>
   <sup>
    &#9733 16, pushed 52 days ago
@@ -1635,6 +1653,12 @@
      Vue-Django
     </a>
     - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
+   </li>
+   <li>
+    <a href="https://github.com/cstrap/python-vuejs">
+      python-vuejs
+    </a>
+    - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a vue-cli wrapper.
    </li>
   </ul>
  </li>
@@ -1996,10 +2020,19 @@ application.  By @Haixing-Hu
      &#9733 5, pushed 7 days ago
     </sup>
    </li>
+    <li>
+    <a href="https://github.com/PxyUp/vue-not-visible">
+     vue-not-visible
+    </a>
+    Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints. By
+    <a href="https://github.com/PxyUp">
+     @PxyUp
+    </a>
+    <sup>
+     &#9733 5, pushed 1 days ago
+    </sup>
+   </li>
   </ul>
-  <sup>
-   &#9733 72, pushed 326 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -2287,6 +2320,18 @@ application.  By @Haixing-Hu
     A tool to report water dam level using the U.S. Geological Survey database.
    </li>
    <li>
+    <a href="https://olaolu.dev/">
+     Portfolio Site
+    </a>
+    by Olaolu Olawuyi
+   </li>
+   <li>
+    <a href="https://david-aji.com/">
+     Portfolio Site
+    </a>
+    by David Aji
+   </li>
+   <li>
     <a href="http://clem.travelmap.fr">
      TravelMap
     </a>
@@ -2335,6 +2380,17 @@ application.  By @Haixing-Hu
     <a href="https://12bay.vn">
       12BAY.VN - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
     </a>
+   </li>
+   <li>
+    <a href="https://yangonbusreport.org">
+      YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
+    </a>
+   </li>
+   <li>
+    <a href="https://devsnap.me">
+     DevSnap.me
+    </a>
+    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
    </li>
   </ul>
  </li>
