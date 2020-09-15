@@ -1969,6 +1969,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-the-mask](https://github.com/vuejs-tips/vue-the-mask) - Tiny (<2k gzipped) and dependency free mask input for Vue.js
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-restricted-input](https://github.com/Scrum/vue-restricted-input) - Input mask library for vue.js based on [restricted-input](https://github.com/braintree/restricted-input)
+- [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but activelly mantained and with lots of improvements after there.
 
 ##### Rich Text Editing
 
