@@ -2662,6 +2662,7 @@ _Retrieve data over HTTP_
 - [vue-api-query](https://github.com/robsontenorio/vue-api-query) - Elegant and simple way to build requests for REST API.
 - [vue-chimera](https://github.com/SasanFarrokh/vue-chimera) - A full-featured RESTful resource based client, compatible with Nuxt.js and allows server side fetch.
 - [vue-apis](https://github.com/ChangedenCZD/vue-apis) - A vue plug-in integrated with axios that chain-builds API instances. Available from the context of a vue instance (eg: this.\$apis.apiName()).
+- [rexios](https://github.com/Scrum/rexios) - Utils normalize url, data, params for axios when using rest api request.
 
 #### i18n
 
