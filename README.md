@@ -3007,6 +3007,7 @@ _Integrate with services or other frameworks_
 - [vue-zeye-client](https://github.com/zeye-ru/vue-zeye-client) - A Vue plugin for simple use of the [Zeye-server](https://github.com/zeye-ru/zeye-server) open-source mediasoup WebRTC SFU server
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
+- [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 
 #### Vue CLI 3 Plugins
 
