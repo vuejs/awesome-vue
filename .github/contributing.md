@@ -16,6 +16,7 @@ Make sure you put things in the right category. There are two main categories:
 
 Open Source section gives the possibility for developers to contribute and be a part of an opensource project using their knowledge of the vuejs.
 You should put your project in this category if the following conditions are true:
+- The description for the link should not contain links to the author and third-party resources - this should be in the documentation (README)
 - The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section.
 - The documentation is in English.
 - The project is active and maintained.

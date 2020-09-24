@@ -2320,6 +2320,18 @@ application.  By @Haixing-Hu
     A tool to report water dam level using the U.S. Geological Survey database.
    </li>
    <li>
+    <a href="https://olaolu.dev/">
+     Portfolio Site
+    </a>
+    by Olaolu Olawuyi
+   </li>
+   <li>
+    <a href="https://david-aji.com/">
+     Portfolio Site
+    </a>
+    by David Aji
+   </li>
+   <li>
     <a href="http://clem.travelmap.fr">
      TravelMap
     </a>
@@ -2373,6 +2385,12 @@ application.  By @Haixing-Hu
     <a href="https://yangonbusreport.org">
       YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
     </a>
+   </li>
+   <li>
+    <a href="https://devsnap.me">
+     DevSnap.me
+    </a>
+    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
    </li>
   </ul>
  </li>
