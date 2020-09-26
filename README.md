@@ -2270,7 +2270,7 @@ _Set of components without layout system_
 #### Admin Template
 
 _Set of admin template_
-
+- [✨vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful) - Excellent Vue admin framework [Online Demo](https://chu1204505056.gitee.io/vue-admin-beautiful/#/index)
 - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x [Online Demo](https://tonyluo.github.io/iview-vue-admin)
 - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x [Online Demo](https://panjiachen.github.io/vue-element-admin/#/dashboard)
