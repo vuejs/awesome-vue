@@ -1067,7 +1067,7 @@
 - [National Institutes of Health (NIH): FEVS Survey Results](https://hr.nih.gov/workforce/fevs/2019-fevs-survey-results) - National Institutes of Health (NIH) data visualization of Federal Viewpoints Survey (FEVS) survey results.
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean. It's built with Vue, Vuex, Vuetify, Nuxt and Firebase.
 - [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me".Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
-- [Rekodi Meetings](https://rekodi.netlify.app/) - 'Rekodi' is a Swahili word meaning Record.One of the biggest struggles people have with note-taking is keeping their notes organized in a way that they can actually find and revisit in a valuable way later.Rekodi is a CRUD based app that solves this challenge
+- [Rekodi Meetings](https://rekodi.netlify.app/) - 'Rekodi' is a Swahili word meaning Record.One of the biggest struggles people have with note-taking is keeping their notes organized in a way that they can actually find and revisit in a valuable way later.Rekodi is a CRUD based app that solves this challenge.
 
 
 ### Interactive Experiences
