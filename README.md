@@ -1063,6 +1063,8 @@
 - [FontGet](https://www.fontget.com/) - Download Free Fonts.
 - [Travel_Smart](https://travelsmart.netlify.app/) - A tour-based web app that uses Vue + Vue Router + Vuex.
 - [Nipashe](https://nipashe.netlify.app/) -"Nipashe" is a Swahili word that means "Inform me".Nipashe is a web app built in Vue + Vuex(state management) + Vue-Router(navigation) that gives a tally/statistics on the current COVID19 infections across the world based on the WHO
+- [Rekodi Meetings](https://rekodi.netlify.app/) - 'Rekodi' is a Swahili word meaning Record.One of the biggest struggles people have with note-taking is keeping their notes organized in a way that they can actually find and revisit in a valuable way later.Rekodi is a CRUD based app that solves this challenge
+
 
 ### Interactive Experiences
 
