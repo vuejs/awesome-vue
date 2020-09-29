@@ -610,7 +610,7 @@
 - [Vue: Build & Deploy](https://leanpub.com/vue-book) by Daniel Schmitz, Leanpub. (September 2018)
 - [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/application-development/building-applications-spring-5-and-vuejs-2) by James J. Ye, Packt. (October 2018)
 - [Vue.js Quick Start Guide](https://www.packtpub.com/application-development/vuejs-quick-start-guide) by Ajdin Imsirovic, Packt. (October 2018)
-- [Vue.js Component Patterns Course](https://fdietz.github.io/vue-component-patterns-course.html) by Frederik Dietz (April 2019)
+- [Vue.js Component Patterns Course](https://fdietz.de/pages/vue-component-patterns-course/) by Frederik Dietz (April 2019)
 - [Vue.js: Understanding its Tools and Ecosystem](https://www.packtpub.com/business-other/vue-js-understanding-its-tools-and-ecosystem?utm_source=vue.js.org&utm_medium=referral&utm_campaign=OutreachB15894fivedollar) by Dave Berning (November 2019)
 - [Building Forms with Vue.js](https://www.packtpub.com/business-other/building-forms-with-vue-js?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachB15411) by Marina Mosti (October 2019)
 - [Testing Vue.js Components with Jest](https://www.packtpub.com/programming/testing-vue-js-components-with-jest?utm_source=vue.js.org&utm_medium=refferal&utm_campaign=OutreachB15653) by Alex Jover Morales, Packt (October 2019)
@@ -772,7 +772,7 @@
 - [Roast](https://github.com/serversideup/roastandbrew) an app built to help coffee enthusiasts find their next cup of coffee while learning about Laravel + Vue.js.
 - [Stack Edit](https://github.com/benweet/stackedit/) - In-browser Markdown editor
 - [Bael Blog Template](https://bael-theme.jake101.com/) - A static generated blog template that uses Netlify CMS for the backend and Netlify for hosting. Features a brutalist aesthetic, fuzzy search, serverless email signup, and more.
-- [Buefy Shop](https://buefy-shop.now.sh/) Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
+- [Buefy Shop](https://github.com/14nrv/buefy-shop) Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
 - [sysmon](https://github.com/Lt0/sysmon) A B/S mode system monitor for Linux. You can remotely watch the usage of your system resources via web browser everywhere.
 - [eth-vue](https://github.com/DOkwufulueze/eth-vue) A Truffle Box that provides everything you need to quickly build Ethereum dApps that have authentication features with Vue.js, including configuration for easy deployment to the Ropsten Network. It's also Gravatar-enabled.
 - [Nippon-color](https://github.com/ssshooter/nippon-color) Inspired by nipponcolors dot com. This is a nippon-color PWA build with vue-cli 3.
@@ -985,7 +985,6 @@
 - [Trustpilot](https://www.trustpilot.com) - a free and open to all review platform.
 - [Lagom](https://lagom.rsstudio.net/) - Simple, intuitive and fully responsive WHMCS theme
 - [ScoutMyTrip - Roadtrip Planner](https://scoutmytrip.com/roadtrip-planner/start) - Road trip planning app for India which helps travelers to build their itinerary, discover points of interest, find hotels, gas stations, food joints etc along the route.
-- [Podflix](https://podflix.app/) - Podcast app.
 - [GamersClub](https://gamersclub.com.br/?lang=english) - Biggest company of eSport community development in Brazil
 - [MIT](https://www.mit.edu/) - Official Website of Massachusetts Institute of Technology.
 - [Elvenar](https://en.elvenar.com/) - Elvenar is a browser based fantasy city builder game.
@@ -1004,7 +1003,6 @@
 - [Kitty Ipsum](https://kitty-ipsum.com) - Generate lorem ipsum composed of "meow" in different languages.
 - [Git Superstar](https://git-superstar.firebaseapp.com) - Count your git stars and top repositories.
 - [DECS](https://app.decs.xyz/) - The decentralised all-in-one workspace to manage code snippets and to protect sensitive data.
-- [Careup](https://careup.mx) - Business management tool for dentists 🦷.
 - [Asciiur](https://www.asciiur.com) - Internet's ascii art collection
 - [Tapestri Designer](https://tapestridesigner.com) - Free tool to design PCR primers for genome sequencing experiments (NGS)
 - [Remote-Access-SSH](https://github.com/mritunjaygoutam12/Remote-host) - Web based remote host access with node-ssh
