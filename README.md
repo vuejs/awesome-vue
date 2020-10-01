@@ -2886,7 +2886,6 @@ _Utilities for building / compiling / bundling / loading assets_
 
 #### Miscellaneous
 
-- [vue-container](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
 - [vue-super](https://github.com/rpkilby/vue-super) - A simple plugin to call methods on parent components.
 - [@skyrpex/props-to-local](https://github.com/skyrpex/props-to-local) - Vue mixin that maps props to local data.
 - [vue-inject](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
