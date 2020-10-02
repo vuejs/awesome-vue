@@ -1753,6 +1753,8 @@ _Display non-editable events in a Calendar_
 - [vue-turnjs](https://github.com/Reidond/vue-turnjs) - A component libary to add book experience to your app.
 - [vuesence-sliding-header](https://github.com/altrusl/vuesence-sliding-header) - Sliding header(s) for top navigation bar(s).
 - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+- [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
+- [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
 
 #### Tabs
 
