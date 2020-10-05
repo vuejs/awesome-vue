@@ -144,7 +144,7 @@
       - [Paypal](#paypal)
       - [Plaid](#plaid)
   - [Integrations](#integrations)
-    - [Vue CLI 3 Plugins](#vue-cli-3-plugins)
+    - [Vue CLI Plugins](#vue-cli-plugins)
       - [Google Analytics](#google-analytics)
       - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
