@@ -3271,6 +3271,7 @@ _Scaffold parts of the app_
 #### Command Line / Terminal
 
 - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
+- [@sherlog/cli](https://github.com/sherl0g/cli) - In-Memory observability tool for service logs
 
 ### Prerendering
 
