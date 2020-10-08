@@ -3011,6 +3011,7 @@ _Integrate with services or other frameworks_
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
+- [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 
 #### Vue CLI Plugins
 
