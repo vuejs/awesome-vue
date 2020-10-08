@@ -3009,6 +3009,7 @@ _Integrate with services or other frameworks_
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
+- [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
 
 #### Vue CLI Plugins
 
@@ -3271,7 +3272,6 @@ _Scaffold parts of the app_
 #### Command Line / Terminal
 
 - [blessed-vue](https://github.com/lyonlai/blessed-vue) - A VueJS runtime to let you write command line UI in Vue Edit
-- [@sherlog/cli](https://github.com/sherl0g/cli) - In-Memory observability tool for service logs
 
 ### Prerendering
 
