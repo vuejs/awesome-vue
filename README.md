@@ -1621,6 +1621,7 @@ _Display non-editable events in a Calendar_
 #### Graph
 
 - [vue-pipeline](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin.
+- [vnodes](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 
 #### Social Sharing
 
