@@ -2318,6 +2318,8 @@ _Set of admin template_
 - [vue-service-model](https://github.com/freakzlike/vue-service-model) - Vue.js library for handling REST service requests with caching, aggregation and model definitions.
 - [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 - [V-Craft](https://github.com/yoychen/v-craft) - A toolset for building extensible page builders with Vue.js.
+- [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
+- [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 
 ### UI Utilities
 
