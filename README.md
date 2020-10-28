@@ -2291,6 +2291,7 @@ _Set of admin template_
 - [dashboard](https://github.com/zce/dashboard) - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
 - [vue-admin-next](https://github.com/openfext/vue-admin-next) - Professional enterprise application with Multi-Module Design, Vue Composition API and Friendly User Interface. [Online Demo](https://openfext.github.io/vue-admin-next/#/table/basic/query)
 - [vue-pro-sidebar](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your prefered colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
+- [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 
 #### Server-side rendering
 
