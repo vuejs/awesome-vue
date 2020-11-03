@@ -839,6 +839,7 @@
 - [Movie Paradise](https://github.com/wwwenjie/Movie-Paradise) - A responsive movie preview web app built by Vue and Vuetify
 - [Pathfinding Visualizer ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) - A visualizer for pathfinding algorithms in 3D with maze generation and first-person view
 - [Agile Visitors](https://github.com/itsalb3rt/agile-visitors) - Application for registering employee entries with the possibility of generating reports, validating and storing users with minimal effort.
+- [Pexelry](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautifull photos and pictures.
 
 ### Commercial Products
 
