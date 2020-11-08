@@ -2662,6 +2662,7 @@ _Utilities not directly related to the UI_
 - [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
 - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files.
 - [@icare-jp/vue-props-type](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
+- [j-vue](https://github.com/LongTengDao/j-vue/) - Class-API
 
 #### HTTP Requests
 
@@ -2872,7 +2873,7 @@ _Improve readability of code_
 - [vue-css-modules](https://github.com/fjc0k/vue-css-modules) - Seamless mapping of class names to CSS Modules inside of Vue components.
 - [vue-simple-bem](https://github.com/mlturner88/vue-simple-bem) - Directive with succint syntax for adding BEM class names to elements.
 - [fela-vue](https://github.com/houd1ni/fela-vue) - CSS-IN-JS mixin for Vue designed for flexibility yet team-oriented.
-- [j-vue](https://github.com/LongTengDao/j-vue/)
+- [j-vue](https://github.com/LongTengDao/j-vue/) - Scoped CSS
 - [vue-spinners-css](https://github.com/JoshK2/vue-spinners-css) - Collection of pure CSS vue spinners components, css spinners for ajax or loading animation based on loading.io.
 - [vue-css-doodle](https://github.com/LuXDAmore/vue-css-doodle) - Porting of css-doodle, a web component for drawing patterns with CSS.
 
