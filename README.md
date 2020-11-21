@@ -2458,6 +2458,7 @@ _Seamless scrolling_
 - [vue-pilot](https://github.com/jiangfengming/vue-pilot) - A Trie-based vue router with the ability of managing history.state.
 - [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) - Vue.js language routing with (optional) URL localization.
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
+- [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 
 #### Lazy Load
 
