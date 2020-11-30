@@ -2750,6 +2750,7 @@ _LocalStorage etc._
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed.
+- [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 #### State Management
 
