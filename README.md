@@ -1579,6 +1579,7 @@ _Display non-editable events in a Calendar_
 - [vue-audio-better](https://github.com/forijk/vue-audio-better) - Easy to create custom audio player components for Vue 2.x. A progress bar with soul.
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
+- [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
 
 #### Infinite Scroll
 
@@ -2240,7 +2241,7 @@ _Set of components + responsive layout system_
 - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
 - [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)
-- [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui 
+- [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
 
 #### Mobile
 
