@@ -2386,6 +2386,12 @@ application.  By @Haixing-Hu
       YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
     </a>
    </li>
+   <li>
+    <a href="https://devsnap.me">
+     DevSnap.me
+    </a>
+    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
+   </li>
   </ul>
  </li>
  <li>

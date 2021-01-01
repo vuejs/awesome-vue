@@ -24,6 +24,7 @@
 
 #### `Open Source`
 
+- [ ] Link description does not contain a link to an author / third-party resource
 - [ ] The documentation (README) contains a description of the project, illustration of the project with a demo or screenshots and a CONTRIBUTING section
 - [ ] The documentation is in English.
 - [ ] The project is active and maintained.
