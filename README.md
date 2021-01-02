@@ -143,7 +143,6 @@
       - [Stripe](#stripe)
       - [Paypal](#paypal)
       - [Plaid](#plaid)
-    - [Vuex Overlay Tools](#vuex-overlay-tools)
   - [Integrations](#integrations)
     - [Vue CLI Plugins](#vue-cli-plugins)
       - [Google Analytics](#google-analytics)
