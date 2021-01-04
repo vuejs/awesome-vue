@@ -597,8 +597,6 @@
 - [vue-stack-cesium](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development starter using Vue, Vuex and Tailwind CSS
 - [Peer to Peer game of telephone](https://github.com/ably-labs/depict-it) - A party game for 4 to 8 players (ideally!) where you mutate a phrase through drawings and captions, to make up funny scenarios with your friends. The project is an example of how to build a Peer-to-Peer game with Vue.
-- [Realtime quiz framework](https://github.com/ably-labs/realtime-quiz-framework) - Build your own quiz game to play with friends using this framework built with Vue JS and [Ably Realtime](https://www.ably.io/).
-
 ### Books
 
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
