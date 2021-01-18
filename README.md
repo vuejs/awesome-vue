@@ -2087,6 +2087,7 @@ _Display images_
 - [vue-filepond](https://github.com/pqina/vue-filepond) - A Vue.js component for FilePond - a file upload library that can upload anything you throw at it.
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin to make files upload simple and easier, you can drag files or select file in dialog to upload
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
+- [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
 
 ##### Context Menu
 
