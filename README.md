@@ -2946,6 +2946,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-registrar](https://github.com/AmirrezaNasiri/vue-registrar) - ☘️ A package that dynamically registers your components and vuex modules - Makes your code a lot readable!
 - [vue-automatic-import-loader](https://github.com/hunterliu1003/vue-automatic-import-loader) - webpack loader that auto import your Vue single file components by using a match function.
 - [vue-aimg-loader](https://github.com/chenxinan/vue-aimg-loader) - A easy way to use image in Vue template without wirte css.
+- [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 #### Page Navigation
 
