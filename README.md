@@ -855,6 +855,7 @@
 - [Pexelry](https://github.com/Junior-Developer/Pexelry) - Application that leverages the pexels api to enable you find beautifull photos and pictures.
 - [karrot-frontend](https://github.com/yunity/karrot-frontend) - Web application for organization of foodsaving groups worldwide.
 - [Realtime quiz framework](https://github.com/ably-labs/realtime-quiz-framework) - A starter kit built with NodeJS, VueJS and Ably providing the scalable base networking framework to host a live quiz
+- [LogChimp](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ### Commercial Products
 
