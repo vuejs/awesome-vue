@@ -2276,6 +2276,8 @@ _Set of components + responsive layout system_
 
 _UI frameworks for mobile_
 
+- [Ionic](https://github.com/ionic-team/ionic-framework) -  Mobile app development framework
+- [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 - [Framework7-Vue](https://github.com/framework7io/framework7) - Build full-featured iOS & Android apps using Framework7 & Vue.
 - [vux](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
 - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
