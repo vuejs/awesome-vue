@@ -2282,6 +2282,9 @@ _UI frameworks for mobile_
 - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
 - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
+- [Ionic](https://github.com/ionic-team/ionic-framework) -  Mobile app development framework
+- [Native script](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
+- [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
 _Set of components for mobile_
 
