@@ -2700,6 +2700,7 @@ _Utilities not directly related to the UI_
 - [vesselize](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js.
 - [vue-context-composition](https://github.com/AlbertBrand/vue-context-composition) - share state created with the composition API between components, similar to `useContext` from React Hooks
 - [vuex-overlay-tools](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
+- [vuse-rx](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 
 #### Typescript
 
