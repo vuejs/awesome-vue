@@ -2275,6 +2275,7 @@ _Set of components + responsive layout system_
 - [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
 - [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on boostrap v5
 - [Qui](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
+- [Mijin](https://lecoueyl.github.io/mijin.web) - Responsive Tailwind CSS UI components, without dependencies
 
 
 #### Mobile
