@@ -1563,6 +1563,7 @@ _Display non-editable events in a Calendar_
 - [vue-spring-calendar](https://github.com/boussadjra/vue-spring-calendar) - It's a Vue based component which provides the functionality of a full-calendar that shows daily events. the [`demo`](https://boussadjra.github.io/vue-spring-calendar/).
 - [vue-jquery-calendar](https://github.com/Parthfaladu/vue-jquery-calendar) - VueJS light weight wrapper component for [jquery ui datepicker](https://jqueryui.com/datepicker)
 - [vue-schedule-board](https://github.com/jinfang134/vue-schedule-board) - A easy-to-use component to show somebody's schedule list to help interview arrangement or visit arrangement.
+- [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses [calendar.js](https://github.com/jjonline/calendar.js) for date operations.
 
 #### Map
 
