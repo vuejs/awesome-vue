@@ -1809,6 +1809,7 @@ _Display non-editable events in a Calendar_
 - [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2, that also works on touch devices.
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
+- [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 
 #### Tabs
 
