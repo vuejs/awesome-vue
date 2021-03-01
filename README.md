@@ -1606,6 +1606,7 @@ _Display non-editable events in a Calendar_
 - [vue-sounds](https://github.com/redcodemohammed/vue-sounds) - Easy to add sounds to your components.
 - [vue-soundcloud-player](https://github.com/matswainson/vue-soundcloud-player) - A custom Soundcloud player supporting single tracks & playlists
 - [vue-use-sound](https://github.com/Tahul/vue-use-sound) - A Vue Hook for playing sound effects.
+- [vue-flv-player](https://github.com/wangdaodao/vue-flv-player) - A Vue 2.x video player component based on flv.js.
 
 #### Infinite Scroll
 
