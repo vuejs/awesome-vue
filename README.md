@@ -2159,6 +2159,7 @@ _Display images_
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions.
 - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 - [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
+- [vue-diagram-editor](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ##### Wizard
 
