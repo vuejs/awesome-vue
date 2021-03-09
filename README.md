@@ -2145,7 +2145,6 @@ _Display images_
 - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
 - [vue-confirmation-button](https://github.com/imRohan/vue-confirmation-button) - Customizable confirmation button that requires users to read messages before performing an action
 - [vue-poll](https://github.com/ppietris/vue-poll) - A Vue.js component for voting
-- [vue-diagram-editor](https://vue-diagram-editor.js.org) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 - [vue-diagrams](https://github.com/gwenaelp/vue-diagrams) - Diagram component for vue.js, inspired by react-diagrams
 - [vue-easy-polls](https://github.com/updivision/vue-easy-polls) - A Vue.js component for creating polls, voting and showing results. It’s easy to implement and easy to customize.
 - [vue-m-button](https://github.com/mengdu/m-button) - A beautiful button component for vue.
@@ -2160,6 +2159,7 @@ _Display images_
 - [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard) - A fantastic credit card form with smooth and sweet micro-interactions.
 - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 - [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
+- [vue-diagram-editor](https://vue-diagram-editor.js.org) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
 
 ##### Wizard
 
