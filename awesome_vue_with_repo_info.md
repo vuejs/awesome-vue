@@ -323,6 +323,26 @@
   on Vegibit
  </li>
  <li>
+  <a href="https://www.youtube.com/watch?v=LF4dLOEUdJk&list=LL&index=8">
+   Deploy a Vue App to Firebase Hosting in four easy steps
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&list=LL&index=11">
+   Node js Express js Firebase with Firestore -| Full Crud Restful Services
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=LnRCX074VfA&list=LL&index=4&t=104s">
+   Vue 3 with Electron - Building a desktop applications with Vue and Electron
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=BPyniDJ5QOQ&list=LL&index=6">
+   Build a Music app using VueJS
+  </a>
+ </li>
+ <li>
   <a href="http://skyronic.com/2015/12/28/vue-project-scratch/">
    Vue.js build set-up from scratch with webpack, vue-loader and hot reload
   </a>
@@ -330,6 +350,11 @@
  <li>
   <a href="http://skyronic.com/2016/01/03/vuex-basics-tutorial/">
    Vuex basics: Tutorial and explanation
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=oxUyIzDbZts&list=LL&index=2">
+   Learn Vuex in 15 minutes - Program With Erik
   </a>
  </li>
  <li>
