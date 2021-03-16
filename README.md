@@ -452,7 +452,7 @@
 - [MDN - Vue tutorials](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks#Vue_tutorials)
 - [Learn Vue 3 for Beginners - Full 2020 Tutorial Course](https://www.youtube.com/watch?v=ZqgiuPt5QZo&ab_channel=TheEarthisSquare) on Youtube
 - [Vue 3 Composition Api Introduction - Full Tutorial](https://www.youtube.com/watch?v=bwItFdPt-6M)
-- [Building a VueJS chat app with realtime storage of messages in Airtable](https://www.ably.io/blog/airtable-database-realtime-messages) by Srushtika Neelakantam (December 2020)
+- [Building a VueJS chat app with realtime storage of messages in Airtable](https://ably.com/blog/airtable-database-realtime-messages) by Srushtika Neelakantam (December 2020)
 - [Building a realtime quiz with VueJS using a starter kit](https://github.com/ably-labs/realtime-quiz-framework/blob/main/TUTORIAL.md) by Srushtika Neelakantam (October 2020)
 - [Make an Heart clicker with vue.js and firebase](https://dev.to/venatus/tutorial-make-an-heart-clicker-with-vue-js-and-firebase-3npe)
 - [Building an E-Commerce app with Vue.js, Vuex & Axios](https://codesource.io/building-an-e-commerce-app-with-vue-js-vuex-axios/) by Deven Rathore ( November 2020)
