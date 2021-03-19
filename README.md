@@ -3110,6 +3110,7 @@ _Integrate with services or other frameworks_
 - [Vuecket](https://github.com/OrienteerBAP/vuecket) - WebFramework where power of Vue.JS married with magic of [Apache Wicket](https://wicket.apache.org/)
 - [vue-ld](https://github.com/dashhudson/vue-ld) - Vue LaunchDarkly plugin and routing utilities
 - [Prisma](https://github.com/sherl0g/prisma) - Logs visualization client for @sherlog/cli
+- [vuetube](https://github.com/webistomin/vuetube) - 🚀 A fast, lightweight, lazyload vue component acting as a thin layer over the YouTube Iframe Player API which renders fast
 
 #### Vue CLI Plugins
 
