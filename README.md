@@ -2872,6 +2872,7 @@ _LocalStorage etc._
 - [vue-facebook-signin-button](https://github.com/phanan/vue-facebook-signin-button) - A simple plugin to include a custom Facebook sign-in button into your web app
 - [vue-auth-href](https://github.com/nachodd/vue-auth-href) - A VueJS directive for downloading files that are under a protected route schema
 - [vue-msal](https://github.com/mvertopoulos/vue-msal) - Vue plugin for using Microsoft Authentication Library (MSAL)
+- [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 ##### Vuex Utilities
 
@@ -2989,6 +2990,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-resolve](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
 - [vue-page-stack](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
+- [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 #### Miscellaneous
 
