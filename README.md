@@ -2990,7 +2990,6 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-resolve](https://github.com/javisperez/vue-resolve)
   Resolve routes data before entering / rendering the component for that route.
 - [vue-page-stack](https://github.com/hezhongfeng/vue-page-stack) - Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
-- [vue-simple-acl](https://github.com/victorybiz/vue-simple-acl) - A simple unopinionated Vue plugin for managing user roles and permissions, access-control list (ACL) and role-based access control (RBAC).
 
 #### Miscellaneous
 
