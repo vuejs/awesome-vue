@@ -706,8 +706,6 @@
 - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
 - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
 - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
-- [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
-- [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
 - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
 - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
 - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
