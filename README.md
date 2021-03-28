@@ -3051,6 +3051,7 @@ Payment utilities.
 ##### Stripe
 
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
+- [vue-stripe-elements](https://github.com/ectoflow/vue-stripe-elements) - Vue component collection for Stripe.js
 - [vue-stripe-payment](https://github.com/samturrell/vue-stripe-payment) - Vue wrapper for jquery.payment by Stripe.
 
 ##### Paypal
