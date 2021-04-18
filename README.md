@@ -1470,6 +1470,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuerollr](https://github.com/japick/vuerollr) - Mouseover gallery plugin for Vue.js. Supports image and video.
 - [vue-splide](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
 - [swiper](https://github.com/nolimits4web/swiper) - Swiper 6 added official support for Vue.js (only 3.x).
+- [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, supprot vue 2 and vue 3.
 
 #### Charts
 
