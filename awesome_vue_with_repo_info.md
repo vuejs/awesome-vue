@@ -1,6 +1,6 @@
 <p align="center">
  <br>
-  <img alt="awesome" src="https://rawgit.com/vuejs/awesome-vue/master/logo.svg" width="400">
+  <img alt="awesome" src="./assets/logo.svg" width="400">
    <br>
     <br>
     </br>
@@ -323,6 +323,26 @@
   on Vegibit
  </li>
  <li>
+  <a href="https://www.youtube.com/watch?v=LF4dLOEUdJk&list=LL&index=8">
+   Deploy a Vue App to Firebase Hosting in four easy steps
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=Ld4OGwpQ2Yk&list=LL&index=11">
+   Node js Express js Firebase with Firestore -| Full Crud Restful Services
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=LnRCX074VfA&list=LL&index=4&t=104s">
+   Vue 3 with Electron - Building a desktop applications with Vue and Electron
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=BPyniDJ5QOQ&list=LL&index=6">
+   Build a Music app using VueJS
+  </a>
+ </li>
+ <li>
   <a href="http://skyronic.com/2015/12/28/vue-project-scratch/">
    Vue.js build set-up from scratch with webpack, vue-loader and hot reload
   </a>
@@ -330,6 +350,11 @@
  <li>
   <a href="http://skyronic.com/2016/01/03/vuex-basics-tutorial/">
    Vuex basics: Tutorial and explanation
+  </a>
+ </li>
+ <li>
+  <a href="https://www.youtube.com/watch?v=oxUyIzDbZts&list=LL&index=2">
+   Learn Vuex in 15 minutes - Program With Erik
   </a>
  </li>
  <li>
@@ -828,6 +853,18 @@
     </a>
     <sup>
      &#9733 15, pushed 3 days ago
+    </sup>
+   </li>
+   <li>
+    <a href="https://github.com/SasanFarrokh/vue-chimera">
+     vue-chimera
+    </a>
+    - A full-featured RESTful resource based client, campatible with Nuxtjs and server side fetching.
+    <a href="https://github.com/SasanFarrokh">
+     @SasanFarrokh
+    </a>
+    <sup>
+     &#9733 15, pushed 4 days ago
     </sup>
    </li>
   </ul>
@@ -1548,6 +1585,12 @@
      &#9733 33, pushed 14 days ago
     </sup>
    </li>
+   <li>
+    <a href="https://github.com/bovas85/nuxt-headless">
+     Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
+    </a>
+    by @bovas85 / @moustacheDsign
+   </li>
   </ul>
   <sup>
    &#9733 16, pushed 52 days ago
@@ -2002,10 +2045,19 @@ application.  By @Haixing-Hu
      &#9733 5, pushed 7 days ago
     </sup>
    </li>
+    <li>
+    <a href="https://github.com/PxyUp/vue-not-visible">
+     vue-not-visible
+    </a>
+    Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints. By
+    <a href="https://github.com/PxyUp">
+     @PxyUp
+    </a>
+    <sup>
+     &#9733 5, pushed 1 days ago
+    </sup>
+   </li>
   </ul>
-  <sup>
-   &#9733 72, pushed 326 days ago
-  </sup>
  </li>
  <li>
   <h4>
@@ -2293,6 +2345,18 @@ application.  By @Haixing-Hu
     A tool to report water dam level using the U.S. Geological Survey database.
    </li>
    <li>
+    <a href="https://olaolu.dev/">
+     Portfolio Site
+    </a>
+    by Olaolu Olawuyi
+   </li>
+   <li>
+    <a href="https://david-aji.com/">
+     Portfolio Site
+    </a>
+    by David Aji
+   </li>
+   <li>
     <a href="http://clem.travelmap.fr">
      TravelMap
     </a>
@@ -2341,6 +2405,17 @@ application.  By @Haixing-Hu
     <a href="https://12bay.vn">
       12BAY.VN - Applications online flight bookings. Ứng dụng săn vé may bay siêu rẻ.
     </a>
+   </li>
+   <li>
+    <a href="https://yangonbusreport.org">
+      YBR - Centralized YBS Public eComplaint Management System. (Full SPA)
+    </a>
+   </li>
+   <li>
+    <a href="https://devsnap.me">
+     DevSnap.me
+    </a>
+    A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
    </li>
   </ul>
  </li>
