@@ -2475,7 +2475,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [laravel-vue-validator](https://github.com/val-bubbleflat/laravel-vue-validator) - Display errors from laravel validation rules
 - [vue-daval](https://github.com/deulos/vue-daval) - Super vue data validator. Easiness, simplicity, accurate.
 - [willvalidate](https://github.com/gustavoSoriano/willvalidate) - Validation Forms for Vue.js.
-- [vue-m-validator](https://github.com/silksofthesoul/vue-m-validator) - Model data validation library, for VueJs.
 - [vue-isyourpasswordsafe](https://github.com/Pitu/vue-isyourpasswordsafe) - A small utility written in Vue that checks if the given password has been leaked against the Have I Been Pwned API.
 - [vue-form-send](https://github.com/AlekseyPleshkov/vue-form-send) - A Vue.js directive for sending data from form and primitive validation
 - [FormVuelar](https://github.com/janiskelemen/formvuelar) - Vue form components with server-side validation in mind
