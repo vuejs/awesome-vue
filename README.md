@@ -139,6 +139,7 @@
     - [JSX](#jsx)
     - [Migration](#migration)
     - [Web Sockets](#web-sockets)
+    - [Server-Sent Events](#server-sent-events)
     - [Payment](#payment)
       - [Stripe](#stripe)
       - [Paypal](#paypal)
@@ -3057,6 +3058,10 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-native-websocket](https://github.com/nathantsoi/vue-native-websocket) - Native websocket implementation for Vuejs 2 and Vuex
 - [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
 - [vue-phoenix](https://github.com/vip30/vue-phoenix) - Elixir Phoenix Web Socket implmentation for vuejs. Also provides typescript decorator for better use.
+
+#### Server-Sent Events
+
+- [vue-sse](https://github.com/tserkov/vue-sse) - A Vue plugin for using Server-Sent Events (EventSource).
 
 #### Payment
 
