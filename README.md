@@ -2732,6 +2732,7 @@ _Utilities not directly related to the UI_
 - [vuex-overlay-tools](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
 - [vuse-rx](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
+- [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 #### Typescript
 
