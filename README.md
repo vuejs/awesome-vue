@@ -2801,6 +2801,7 @@ _Internationalization / L10n / localization / translation_
 - [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences.
 - [v-intl](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations.
+- [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
 
 #### Custom Events
 
