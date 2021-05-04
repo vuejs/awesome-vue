@@ -610,7 +610,6 @@
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 - [Vue Todo PWA](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
 - [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
-- [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 ### Books
 
@@ -3322,6 +3321,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
 - [janak](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
+- [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 #### Client
 
