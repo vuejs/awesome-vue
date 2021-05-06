@@ -609,6 +609,8 @@
 - [Vuetify Swipeout](https://github.com/davidgaroro/vuetify-swipeout) - A swipe out example built with Vue 2 + Vuetify + Swiper.
 - [Vuetify Todo PWA](https://github.com/davidgaroro/vuetify-todo-pwa) - A simple Todo PWA built with Vue 2 + Vuex + Vuetify.
 - [Vue Todo PWA](https://github.com/davidgaroro/vue-todo-pwa) - A simple Todo PWA built with Vue 3 + Vuex + Bootstrap 5.
+- [Vue simulating](https://github.com/GoodManWEN/GoodManWEN.github.io) - A website simulating linux system's GUI, using theme of Deepin distro. Using vue + tailwindcss + animate.css.
+- [Vue Word Game](https://github.com/debadeepsen/vuewordgame) - A simple Hangman-like word guessing game, built with Vue 2.
 - [Coinchartsvue](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 
 ### Books
@@ -1476,6 +1478,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-splide](https://github.com/Splidejs/vue-splide) - Splide is a free lightweight but powerful slider and carousel, written in pure JavaScript without any dependencies. It supports a thumbnail slider, nested slide.
 - [swiper](https://github.com/nolimits4web/swiper) - Swiper 6 added official support for Vue.js (only 3.x).
 - [vue-split-carousel](https://github.com/Aaron00101010/vue-split-carousel) - A carousel component meanwhile display several carousel item, supprot vue 2 and vue 3.
+- [vue-concise-carousel](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 
 #### Charts
 
@@ -1829,6 +1832,7 @@ _Display non-editable events in a Calendar_
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customisable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 - [vue-visual-filter](https://github.com/obadakhalili/vue-visual-filter) - 🕵️‍♂️ An unopinionated advanced visual filtering component for Vue 2 and 3.
+- [vue-easter-egg-trigger](https://github.com/webdevnerdstuff/vue-easter-egg-trigger) - This packages makes it nice and easy to add Easter Egg triggers to your Vue site.
 
 #### Tabs
 
@@ -2575,6 +2579,7 @@ _Seamless scrolling_
 - [vue-lazy-loading](https://github.com/tolking/vue-lazy-loading) - A vue plugin to better supporting native lazy-loading for image and iframe.
 - [v-lazy-component](https://github.com/RadKod/v-lazy-component) - Vue component render when visible. Uses Intersection Observer API.
 - [vue-lazy](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
+- [vue3-lazyload](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 #### Pagination
 
@@ -2732,6 +2737,7 @@ _Utilities not directly related to the UI_
 - [vuex-overlay-tools](https://github.com/Mirazex/vuex-overlay) - 🛠 A Vue 3 plugin for monitoring Vuex store (time-travel is also supported)
 - [vuse-rx](https://github.com/Raiondesu/vuse-rx) - Complete first-class rxjs support for Vue 3
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
+- [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 
 #### Typescript
 
@@ -2800,6 +2806,7 @@ _Internationalization / L10n / localization / translation_
 - [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) - VSCode extension for better Vue-i18n experiences.
 - [v-intl](https://github.com/vinayakkulkarni/v-intl) - Global Intl wrapper for your awesome Vue 3 app 🔉
 - [excel-vue-i18n](https://github.com/grafikri/excel-vue-i18n) - A plugin transforms excel file to i18n json format for translations.
+- [vue-i18n-lite](https://github.com/FrontLabsOfficial/vue-i18n-lite) - A super lightweight and minimal plugin that introduces internationalization into your Vue.js app with a simple API.
 
 #### Custom Events
 
@@ -3318,6 +3325,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
 - [janak](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
+- [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 
 #### Client
 
