@@ -2631,6 +2631,7 @@ _Seamless scrolling_
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) A set of components to create interactive animations
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in ~400 bytes of JavaScript.
+- [transx](https://github.com/tnfe/transx) A small and exquisite Vue component switching animation library, support 20 kinds of animation switching mode.
 
 #### Meta Tags
 
