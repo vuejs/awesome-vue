@@ -2057,7 +2057,6 @@ _Switch / on/off toggle / checkbox_
 
 ##### Rich Text Editing
 
-- [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue2.
 - [vue-mobiledoc-editor](https://github.com/alidcastano/vue-mobiledoc-editor) - A mobiledoc editor component toolkit for Vuejs.
 - [vue2-medium-editor](https://github.com/FranzSkuffka/vue-medium-editor) - A MediumEditor component for Vue 2.
@@ -2082,6 +2081,7 @@ _Switch / on/off toggle / checkbox_
 - [element-tiptap](https://github.com/Leecason/element-tiptap) A WYSIWYG rich-text editor using tiptap and Element UI for Vue.js
 - [@mycure/vue-wysiwyg](https://github.com/mycurelabs/vue-wysiwyg) - 34Kb lightweight wysiwyg editor with NO 3rd party plugin.
 - [ckeditor4-vue](https://github.com/ckeditor/ckeditor4-vue) - An official CKEditor 4 rich text editor component for Vue.js.
+- [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor.
 
 ##### Image Manipulation
 
