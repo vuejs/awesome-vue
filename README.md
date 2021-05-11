@@ -1104,7 +1104,7 @@
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
 - [Scraperbox](https://scraperbox.com) - Undetectable web scraping API. Built with Laravel and Vue.
-- [My Simple Wishlist](https://productstories.pro/my-simple-wishlist/) - browser extension to save products into personal wishlists across the different online stores without any registration, coupons, and other hustle | Made with Vue + Vuex + Vuetify
+- [My Simple Wishlist](https://productstories.pro/my-simple-wishlist/) - a browser extension to save products into personal wishlists across the different online stores without any registration, coupons, and other hustle | Made with Vue + Vuex + Vuetify
 
 ### Interactive Experiences
 
