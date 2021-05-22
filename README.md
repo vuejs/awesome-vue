@@ -870,6 +870,7 @@
 - [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 - [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 - [Bagisto](https://github.com/bagisto/bagisto) -  A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+- [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 
 ### Commercial Products
 
