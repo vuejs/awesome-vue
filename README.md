@@ -871,6 +871,7 @@
 - [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 - [Bagisto](https://github.com/bagisto/bagisto) -  A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 - [Samaya](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
+- [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 
 ### Commercial Products
 
