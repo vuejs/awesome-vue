@@ -2718,7 +2718,7 @@ _Move a DOM node to a target DOM node_
 
 #### Fullscreen
 
-- [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
+- [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
 
 #### Page visibility
 
