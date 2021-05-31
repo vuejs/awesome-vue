@@ -87,6 +87,7 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
+    - [Data Masking](#data-masking)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -2219,6 +2220,10 @@ _Display images_
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+
+#### Data Masking
+
+- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
 
 ### UI Layout
 
