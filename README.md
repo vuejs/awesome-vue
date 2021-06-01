@@ -9,7 +9,6 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Awesome Vue.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuejs-)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
