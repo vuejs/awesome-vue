@@ -1415,7 +1415,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons.
 - [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
-- [vue-feather](https://fengyuanchen.github.io/vue-feather) - Feather icons component for Vue 3.
+- [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 
 #### Marquee
 
