@@ -463,6 +463,7 @@
 - [Vue.js Debugging: A Guide to Fixing Your Frontend](https://snipcart.com/blog/vuejs-debugging) - Learn the basics of Vue.js debugging. This guide will walk you through a tutorial on how to fix your application's frontend.
 - [Help you learn more efficiently vue3 source code - mini-vue](https://github.com/cuixiaorui/mini-vue) by cuixiaorui
 - [Vue.js SPA: Build a Powerful E-Commerce App](https://snipcart.com/blog/building-a-vuejs-spa)
+- [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
 
 ### Examples
 
