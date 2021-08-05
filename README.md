@@ -252,7 +252,7 @@
 - [VueJS Uzbekistan - Telegram Group [Uzbek]](https://t.me/vuejsuzbekcommunity)
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
-- [Vue Turkey - Kommunity Page](https://kommunity.com/vue-turkiye)
+- [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
 
 
 ### Conferences
