@@ -1507,7 +1507,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
-- [hchs-vue-charts](https://github.com/hchstera/vue-charts) - Based on Vue2.0 wrapper for ChartJs.
 - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
 - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
