@@ -1427,6 +1427,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
+- [eos-icons-vue](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 
 #### Marquee
 
