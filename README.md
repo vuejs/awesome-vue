@@ -2415,6 +2415,7 @@ _Set of admin template_
 - [vue-pro-sidebar](https://github.com/boussadjra/vue-pro-sidebar) : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your prefered colors. [Live demo](http://boussadjra.github.io/vue-pro-sidebar)
 - [Stellar Admin Boilerplate](https://github.com/BootstrapDash/stellar-admin-vue-free) Boilerplate Admin template created using Bootstrap-Vue.[Live demo](https://www.bootstrapdash.com/demo/stellar-vue-free/preview/demo_1/)
 - [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+- [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
 
 #### Server-side rendering
 
