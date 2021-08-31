@@ -1950,6 +1950,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [@alireza-ab/vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select persian date. **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
 - [vue-easy-range-date-picker](https://github.com/HC200ok/vue-easy-range-date-picker) - A simple and easy VueJS (2.x) component for date range selection
+- [vue3-date-time-picker](https://github.com/Vuepic/vue3-date-time-picker) - The most complete date picker solution for Vue 3
 
 ##### Select
 
