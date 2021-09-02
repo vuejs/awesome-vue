@@ -439,7 +439,8 @@
 - [Vue Props Validation - Best Practices](https://nordschool.com/vue-props/)
 - [Vue Router - The Complete Guide](https://nordschool.com/vue-router/)
 - [Enable VS Code Debugger for Nuxt & Typescript](https://nordschool.com/enable-vs-code-debugger-for-nuxt-and-typescript/)
-- [Create A Blog With Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
+- [Create A Blog Wi
+- th Gridsome & Vue](https://nordschool.com/create-a-blog-with-gridsome-and-vue/)
 - [Building an Imgur Clone with Vue.js and Serverless](https://tutorialedge.net/projects/building-imgur-clone-vuejs-nodejs/)
 - [Building a HackerNews clone in Vue.js on AWS](https://tutorialedge.net/projects/hacker-news-clone-vuejs/)
 - [Vue.js: Build a Full Stack App with Firebase, Vuex and Router [Video]](https://www.packtpub.com/programming/vue-js-build-a-full-stack-app-with-firebase-vuex-and-router-video?utm_source=Vuejs.org&utm_medium=referral&utm_campaign=OutreachV15745) by Chris Dixon (October 2019)
@@ -525,6 +526,8 @@
 - [**Douban**](https://github.com/jeneser/douban) Awesome douban Example created with **Vue2.x** + **Vuex** + **Vue-router** + **vue-resource**. by [jeneser](https://github.com/jeneser)
 - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) - Integrates Storyblok's Component System, allows to create editable Websites.
 - [Vuexpresso](https://github.com/Ethaan/vuexpresso) - A boilerplate using VueX, Vue-Router, Vue-Apollo, webpack, GraphQL, Apollo-client, express and mongo
+- [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router. by [ted2xmen](https://github.com/ted2xmen)
+- [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Wave UI + Vuex and Router. by [ted2xmen](https://github.com/ted2xmen)
 - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
 - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
 - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
