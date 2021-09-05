@@ -2399,6 +2399,7 @@ _Set of components without layout system_
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
+- [element-pro-components](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 #### Admin Template
 
