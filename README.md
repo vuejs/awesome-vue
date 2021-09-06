@@ -621,8 +621,8 @@
 - [Vue 3 Shopping Cart](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 - [vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 - [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例.
-- [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router. by [ted2xmen](https://github.com/ted2xmen)
-- [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Wave UI + Vuex and Router. by [ted2xmen](https://github.com/ted2xmen)
+- [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
+- [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 
 ### Books
 
