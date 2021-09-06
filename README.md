@@ -888,6 +888,7 @@
 - [Aimeos](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
+- [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
 
 ### Commercial Products
 
@@ -2402,6 +2403,7 @@ _Set of components without layout system_
 - [Equal UI](https://github.com/quatrochan/Equal) - Vue UI kit based on TypeScript 🧬
 - [slim-ui](https://github.com/mevinoth/slim-ui) - Minimal UI components based on Vue.js
 - [Vue Component Development Kit](https://github.com/christiankienle/cdk) - Unstyled, highly tested and flexible Vue components/mixins/plugins.
+- [element-pro-components](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 #### Admin Template
 
@@ -3235,6 +3237,7 @@ _Integrate with services or other frameworks_
 - [vue-codemods](https://github.com/SergioCrisostomo/vue-codemods) - Collection of codemod scripts that help update and refactor Vue and JavaScript files.
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
+- [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 
 #### Inspect
 
