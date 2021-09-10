@@ -125,6 +125,7 @@
     - [State Management](#state-management)
       - [Redux](#redux)
       - [Mobx](#mobx)
+      - [Pinia](#pinia)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
         - [Sync Between Tabs](#sync-between-tabs)
@@ -2940,6 +2941,12 @@ _LocalStorage etc._
 - [movue](https://github.com/nighca/movue) - Mobx integration for Vue.js.
 - [vue-mobx](https://github.com/dwqs/vue-mobx) - Mobx binding for Vuejs 2.x.
 - [mobx-vue-lite](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
+
+##### Pinia
+
+- [pinia-shared-state](https://github.com/wobsoriano/pinia-shared-state) - A lightweight plugin to sync your pinia state across browser tabs.
+- [pinia-undo](https://github.com/wobsoriano/pinia-undo) - Undo/Redo plugin for pinia.
+- [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 
 ##### Authentication/Authorization
 
