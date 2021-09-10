@@ -2241,6 +2241,7 @@ _Display images_
 - [vue-rough](https://github.com/dneustadt/vue-rough) - Components for Rough.js, a graphics library that lets you draw in a sketchy, hand-drawn-like, style.
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 - [vue-signature](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
+- [v-perfect-signature](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
 
 
 #### Link Preview
