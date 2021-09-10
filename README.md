@@ -2211,6 +2211,7 @@ _Display images_
 - [vue-paycard](https://github.com/guastallaigor/vue-paycard) - Credit card component made with Vue.js.
 - [vue-list-picker](https://github.com/guastallaigor/vue-list-picker) - Just a simple list picker component made with Vue.js.
 - [vue-diagram-editor](https://github.com/max-kut/vue-diagram-editor) - Highly customizable diagram editor with slot-based nodes (vue^2.6)
+- [v-use-places-autocomplete](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
 
 ##### Wizard
 
