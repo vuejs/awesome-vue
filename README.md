@@ -2927,6 +2927,7 @@ _LocalStorage etc._
 - [vue-object-state](https://github.com/crashkonijn/vue-object-state) - Simple object/dto/model state tracking
 - [vue-datatable-url-sync](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 - [vue-path-store](https://github.com/kouts/vue-path-store) - Simple state management that uses the dot notation path syntax, also comes with Vuex and Pinia plugins.
+- [pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 
 ##### Redux
 
