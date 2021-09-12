@@ -890,6 +890,7 @@
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 - [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
+- [vue-flow-design-center](https://github.com/givingwu/flow-design-center) - A simple approval flow chart drawing program
 
 ### Commercial Products
 
@@ -1245,6 +1246,7 @@ _Tables / data grids_
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+- [vue-virtualized-table](https://github.com/givingwu/vue-virtualized-table) - A Virtualized Table component based on Vue.js, it was inspired from rc-table and ant-table, API design is 60%+ consistent.
 
 #### Notification
 
