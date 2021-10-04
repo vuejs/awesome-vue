@@ -2170,6 +2170,7 @@ _Display images_
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin to make files upload simple and easier, you can drag files or select file in dialog to upload
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 - [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
+- [vue-dropify](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs 
 
 ##### Context Menu
 
