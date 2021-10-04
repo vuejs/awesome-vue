@@ -1351,6 +1351,7 @@ Tooltips / popovers
 - [vue-tooltipster](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component. Support html content, hover and hover+click events.
 - [k-pop](https://github.com/ChristianKienle/k-pop) - Simple popover component based on [popper.js](https://popper.js.org/). Highly customizable. Comes with themes. Supports custom triggers and can listen to any event.
 - [@adamdehaven/vue-custom-tooltip](https://github.com/adamdehaven/vue-custom-tooltip) - Vue 2 & 3 :tada: customizable, reactive, and reusable tooltip component that supports plugin options, props, and multiple use-cases. Also works with SSR (e.g. VuePress, Nuxt) and includes TypeScript types. (Vue 3 is available on `next` branch/npm tag)
+- [vue-use-popperjs](https://github.com/iendeavor/vue-use-popperjs) - Vue 2 & 3 popper hook powered by @popperjs
 
 #### Overlay
 
