@@ -705,7 +705,6 @@
 - [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
 - [EME](https://github.com/egoist/eme) - An Elegant Markdown Editor.
 - [Github-explorer](https://github.com/SidKwok/github-explorer) - A spa which can help you check your github in a better way.
-- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - An Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
 - [Hotel](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
 - [Surfbird](https://github.com/surfbirdapp/surfbird) - A Twitter client written with modern web technologies.
 - [Approach0](https://github.com/approach0/search-engine) - A math-aware search engine.
@@ -887,6 +886,7 @@
 - [Aimeos](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 - [XIV ToDo](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
+- [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - An Open-source & easy to use Vuetify Vuejs Laravel Admin Template.
 
 ### Commercial Products
 
