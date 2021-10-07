@@ -2467,6 +2467,7 @@ _Set of admin template_
 - [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 - [vue-notion](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 - [Fes.js](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
+- [petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement. 
 
 ### UI Utilities
 
