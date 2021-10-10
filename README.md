@@ -2058,6 +2058,7 @@ _Let the user select a tag / something while typing_
 - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
 - [vue-color-picker-board](https://github.com/shlomnissan/vue-color-picker-board) - Vue Color Picker component designed for humans!
 - [verte](https://github.com/baianat/verte) - A Complete Vue.js Color Picker Component.
+- [vue-color-input](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 
 ##### Switch
 
