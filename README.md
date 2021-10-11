@@ -1444,6 +1444,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 #### Marquee
 
 - [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
+- [vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 #### Menu
 
