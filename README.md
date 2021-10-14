@@ -253,6 +253,7 @@
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
+- [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
 
 ### Conferences
