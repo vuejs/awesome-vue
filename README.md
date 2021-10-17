@@ -253,6 +253,7 @@
 - [VueJS Turkey - Telegram Group](https://t.me/vuejsTR)
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
+- [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 
 
 ### Conferences
@@ -1444,6 +1445,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 #### Marquee
 
 - [vue-dynamic-marquee](https://github.com/YishaiBerg/vue-dynamic-marquee) - Marquee component, fully responsive to changes on the fly.
+- [vue3-marquee](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 #### Menu
 
@@ -2311,6 +2313,7 @@ _Layout for the overall / main view_
 - [vue-horizontal-list](https://github.com/fuxingloh/vue-horizontal-list) - A pure vue responsive horizontal list layout with ssr support, mobile and touch friendly.
 - [vue-layout-system](https://github.com/leeboyin/vue-layout-system) - Vue components that solve daily layout problems.
 - [simple-vue-grid](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
+- [iron-grid-system](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
 
 ### Frameworks
 
@@ -3406,7 +3409,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [janak](https://github.com/vinayakkulkarni/janak) - Build your Vue 3 apps in a breeze 🌬
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 - [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
-
+- [vuejs-vuetify-structured-template boilerplate](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 #### Client
 
 _Render Vue application in the browser only_
