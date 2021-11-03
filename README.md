@@ -8,6 +8,7 @@
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
+
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -207,7 +208,6 @@
 - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
 - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
 
-
 ### Job Portal
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
@@ -254,7 +254,6 @@
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
-
 
 ### Conferences
 
@@ -624,11 +623,11 @@
 - [Coinchartsvue](https://github.com/okandas/coinchartsvue) - Coinchartsvue is a cryptocurrency price chart based off Coinbase's original price chart.
 - [Vue 3 Shopping Cart](https://github.com/wobsoriano/vue-cart) - A Shopping cart example using Vue 3, Vite, [daisyUI](https://daisyui.com/) and [Pinia](https://pinia.esm.dev/).
 - [vuemoji-picker](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
-- [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天App 示例.
+- [Maxim Web Chat](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
 - [vue-cli-3-tailwind-axios-starter](https://github.com/Ted2xmen/vue-cli-3-tailwind-axios-starter) - A boilerplate using Tailwind, Axios-ready, Vuex and Router
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 - [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
-- [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts` 
+- [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
 
 ### Books
 
@@ -887,7 +886,7 @@
 - [Trooveo](https://github.com/joek85/trooveo) - Search, listen to YouTube videos (Audio Only), No YouTube Api.
 - [Yacht](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 - [Antares SQL](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
-- [Bagisto](https://github.com/bagisto/bagisto) -  A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+- [Bagisto](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 - [Samaya](https://github.com/bibhuticoder/samaya) - Friendly personal dashboard on Chrome's new tab; featuring Nepali calendar, daily Nepali quotes & Nepali wallpapers.
 - [Mythic table](https://gitlab.com/mythicteam/mythictable/) - A Free and Open Source virtual table top for playing Role Playing Games.
 - [GrandNode 2.0](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
@@ -896,7 +895,7 @@
 - [QuickTok](https://github.com/statickidz/quicktok) - TikTok popular trends viewer.
 - [Interface X](https://github.com/empathyco/x) - UI Search&Discovery components to rapidly build beautiful search experiences
 - [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
-- [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum. 
+- [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
 
 ### Commercial Products
 
@@ -921,7 +920,6 @@
 - [NxShell](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
-
 
 ### Apps/Websites
 
@@ -1422,7 +1420,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 #### Icons
 
 - [vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
-- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
 - [vue-icon-font](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
 - [vue-ionicons](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
 - [vue-ico](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
@@ -1567,6 +1565,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+
 #### Time
 
 _Display time / date / age_
@@ -1590,7 +1589,7 @@ _Display time / date / age_
 - [v-digital-time-picker](https://github.com/runyasak/v-digital-time-picker) - Digital Time Picker for Vuetify.
 - [vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
- 
+
 #### Calendar
 
 _Display non-editable events in a Calendar_
@@ -2182,7 +2181,7 @@ _Display images_
 - [v-uploader](https://github.com/TerryZ/v-uploader) - A Vue2 plugin to make files upload simple and easier, you can drag files or select file in dialog to upload
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 - [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
-- [vue-dropify](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs 
+- [vue-dropify](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
 
 ##### Context Menu
 
@@ -2263,7 +2262,6 @@ _Display images_
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 - [vue-signature](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 - [v-perfect-signature](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
-
 
 #### Link Preview
 
@@ -2374,7 +2372,6 @@ _Set of components + responsive layout system_
 - [Qui-max](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 - [Naive UI](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 
-
 #### Mobile
 
 _UI frameworks for mobile_
@@ -2384,7 +2381,7 @@ _UI frameworks for mobile_
 - [vue-onsenui](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
 - [weex-eros](https://github.com/bmfe/eros-template) - [Chinese] Eros is a app solution based on Weex and Vue, which enables you to use API of Vue, simple and quick development of small and medium app.
-- [Ionic](https://github.com/ionic-team/ionic-framework) -  Mobile app development framework
+- [Ionic](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 - [Native script](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 - [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
 
@@ -2430,6 +2427,8 @@ _Set of components without layout system_
 #### Admin Template
 
 _Set of admin template_
+
+- [Vue Admin Work](https://github.com/qingqingxuan/vue-admin-work) - Vue Admin Work -- Vue is a medium- and back-office fast development framework that includes Vue Admin Work, Vue Admin Work X, and Vue Admin Work P [Online Demo](http://qingqingxuan.gitee.io/vue-admin-work-p)、[Document](http://qingqingxuan.gitee.io/work-p-site)
 
 - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x [Online Demo](https://tonyluo.github.io/iview-vue-admin)
 - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
@@ -2478,7 +2477,7 @@ _Set of admin template_
 - [Figma-Low-Code](https://github.com/KlausSchaefers/figma-low-code) - Turns your Figma design into VUE applications.
 - [vue-notion](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 - [Fes.js](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
-- [petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement. 
+- [petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement.
 
 ### UI Utilities
 
@@ -3419,6 +3418,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-composable-starter](https://github.com/Tahul/vue-composable-starter) - 🪝 Minimalist starting point for your next Vue composable.
 - [Vuetify-tailwind-animate-starter](https://github.com/GoodManWEN/vuetify-tailwind-animate-starter) - A vue-cli starter template for vuetify + tailwindcss + animate.css.
 - [vuejs-vuetify-structured-template boilerplate](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
+
 #### Client
 
 _Render Vue application in the browser only_
