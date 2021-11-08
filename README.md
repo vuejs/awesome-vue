@@ -1053,7 +1053,7 @@
  - [vue-bootstrap4-table](https://github.com/rubanraj54/vue-bootstrap4-table) - An advanced data table based on Vue 2 and Bootstrap 4, which includes Multi column filtering, Multi column sorting, Pagination & Info, Checkbox rows and Highly customizable slot options.
  - [vuejs-smart-table](https://github.com/tochoromero/vuejs-smart-table) - Straight Forward Table Component using the vanilla HTML Table Structure with Sorting, Filtering, Pagination and Selection out of the box.
  - [@myena/vue-table](https://github.com/myENA/vue-table) - Table Components for Client/Server data handling. Filter, sort, paginate, group, expanding details row. Highly customizible via slots for filter, headers, column, pagination, details row.
- - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance vue gantt component, support vue2 & vue3, containing multi-layer expanding, dynamic update data, mergable columns, freely drag the progress bar, multi-layer linkage, multiple date display modes switch, etc.
+ - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 
 ### Notification
 
