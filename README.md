@@ -687,7 +687,7 @@
 - [Vue vs. React – Which Should You Pick For Your Next Web Project?](https://www.ideamotive.co/blog/vue-vs-react?utm_source=github.com&utm_medium=social&utm_campaign=vue-vs-react)
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
-- [VueJS Admin Template Free Download](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
+- [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
 
 ### Courses
 
