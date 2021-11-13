@@ -8,6 +8,7 @@
 ## Awesome Vue.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
+- [Awesome Vue.js ![Awesome](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -899,7 +900,7 @@
 - [Context Note](https://github.com/betterRunner/context-note) - A free open source note-taking 📝 chrome extension: take you notes on the web with their context.
 - [Balancer](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum. 
 - [Materio Free Vuetify VueJS Laravel Admin Template](https://github.com/themeselection/materio-vuetify-vuejs-laravel-admin-template-free) - Open-source & easy to use Vuetify Vuejs Laravel Admin Template with Elegant Design & Unique Layout.
-
+- [NuxTube](https://github.com/joek85/NuxTube) An Open Source YouTube app for privacy, made with NuxtJs.
 ### Commercial Products
 
 - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
