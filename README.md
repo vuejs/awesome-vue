@@ -471,6 +471,8 @@
 - [Learning Vue 3.0](https://github.com/chengpeiquan/learning-vue3)
 - [Vue 3.0 and decentalized app (dApp)](https://github.com/hypescale/moralis-vue-boilerplate)
 - [Vuejs Authentication Tutorial](https://www.loginradius.com/blog/async/implementing-authentication-on-vuejs-using-jwt/) on LoginRadius blog
+- [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
+- [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 
 ### Examples
 
@@ -629,6 +631,7 @@
 - [vue-cli-3-wave-ui-starter](https://github.com/Ted2xmen/vue-cli-3-wave-ui-starter) - A boilerplate using Wave UI + Vuex and Router
 - [CVue-Awesome](https://github.com/coskuncayemre/CVue-Awesome) Auto Resume Builder by [Emre Coşkunçay](https://github.com/coskuncayemre)
 - [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts` 
+- [Customizable Vue video chat app](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 
 ### Books
 
