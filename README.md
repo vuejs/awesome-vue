@@ -1945,7 +1945,7 @@ _Let the user create & edit data_
 - [vue-dynamic-inputs](https://github.com/taverasady/vue-dynamic-inputs) - Create dynamic forms with buefy from json [Online Demo](https://codepen.io/taverasady/pen/LYVzevo)
 - [Vue Flow Form](https://github.com/ditdot-dev/vue-flow-form) - Create conversational conditional-logic forms with Vue.js. [Online Demo](https://www.ditdot.hr/demo/vff/questionnaire/)
 - [vue-dd-form](https://github.com/marekmensa/vue-dd-form) - 📋 Build forms only by describing data nodes - without programming! [Online Demo](https://marekmensa.github.io/vue-dd-form/)
-- [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API built by [Ejiro Asiuwhu](https://linkedin.com/in/ejiro-asiuwhu)
+- [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 
 
 ###### Date Picker
