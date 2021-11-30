@@ -1142,6 +1142,7 @@
 - [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
+- [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
 
 ### Interactive Experiences
 
