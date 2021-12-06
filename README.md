@@ -2931,7 +2931,7 @@ _LocalStorage etc._
 - [vue-universal-cookies](https://github.com/S64/vue-universal-cookies) Isomorphic cookies plugin for Vue.js / Nuxt.js supports Browser, Express, http (node).
 - [vue2-storage](https://github.com/yarkovaleksei/vue2-storage) Browser storage for Vue.js app
 - [vue-warehouse](https://github.com/bazzite/vue-warehouse) A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
-- [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed.
+- [vue-storage-watcher](https://github.com/dreambo8563/vue-storage-watcher) / [Vue 3 version](https://github.com/dreambo8563/next-vue-storage-watcher) - A reactive localStorage/sessionStorage plugin for Vue.js with strong typed for Vue 2 / Vue 3.
 - [vue-use-local-storage](https://github.com/HJ29/vue-use-local-storage) - A composition api to persist and rehydrate reactive data to local storage for vue 3.
 
 #### State Management
