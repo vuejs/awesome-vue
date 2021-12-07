@@ -705,7 +705,6 @@
 ## Projects Using Vue.js
 
 ### Open Source
-
 - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
@@ -1702,7 +1701,7 @@ _Display non-editable events in a Calendar_
 - [vue-quick-loadmore](https://github.com/duyanpeng/vue-quick-loadmore) - A pull-down refresh and pull-up infinite scroll plugin for Vue.
 
 #### Markdown
-
+- [vue-markdown-preview](https://github.com/uivjs/vue-markdown-preview) - Vue component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style.
 - [vue-markdown](https://github.com/miaolz123/vue-markdown) - A Powerful and Highspeed Markdown Parser for Vue.
 - [vue-mavonEditor](https://github.com/hinesboy/mavonEditor) - A markdown editor based on Vue that supports a variety of personalized features.
 - [vue-simple-markdown](https://github.com/Vivify-Ideas/vue-simple-markdown) - A Simple and Highspeed Markdown Parser for Vue.
