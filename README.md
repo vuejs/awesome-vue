@@ -1637,7 +1637,6 @@ _Display non-editable events in a Calendar_
 - [vue-lunar-calendar-pro](https://github.com/wangdaodao/vue-lunar-calendar-pro) - A vue component for lunar calendar. Uses calendar.js for date operations.
 - [vue-sweet-calendar](https://github.com/maryayi/vue-sweet-calendar) - A simple and sweet vue.js calendar
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
-- [vue-datepicker-next](https://github.com/mengxiong10/vue-datepicker-next) - Vue 3.x component for datepicker / timepicker / datetimepicker / calendar
 
 #### Map
 
