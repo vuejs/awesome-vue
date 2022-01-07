@@ -2585,6 +2585,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-input-validator](https://github.com/mediv0/vue-input-validator) - 🛡️ Highly extensible & customizable input validator for Vue 2
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
+- [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 
 #### Resize
 
