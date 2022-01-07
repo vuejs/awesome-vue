@@ -2449,6 +2449,7 @@ _Set of components without layout system_
 
 _Set of admin template_
 
+- [vuetify-admin](https://github.com/okami101/vuetify-admin?utm_source=github.com/vuejs/awesome-vue&utm_campaign=gustavorps) - SPA Admin Framework for Vue.js running on top of REST APIs and built on Vuetify. [:globe_with_meridians: Online Demo](https://va-demo.okami101.io/admin/?utm_source=github.com/vuejs/awesome-vue&utm_campaign=gustavorps) | [:blue_book: Docs](https://www.okami101.io/vuetify-admin/guide?utm_source=github.com/vuejs/awesome-vue&utm_campaign=gustavorps)
 - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x [Online Demo](https://tonyluo.github.io/iview-vue-admin)
 - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x [Online Demo](https://panjiachen.github.io/vue-element-admin/#/dashboard)
