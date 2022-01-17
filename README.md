@@ -2731,6 +2731,7 @@ _Seamless scrolling_
 - [vue-kinesis](https://github.com/Aminerman/vue-kinesis) A set of components to create interactive animations
 - [vue-digital-transform](https://github.com/DakerHub/vue-digital-transform) A vue component for better digital transform animation
 - [vue-typical](https://github.com/Turkyden/vue-typical) 🐡 Vue Animated typing in ~400 bytes of JavaScript.
+- [vue3-lottie](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 #### Meta Tags
 
