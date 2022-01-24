@@ -1743,6 +1743,7 @@ _Display non-editable events in a Calendar_
 - [vue-pipeline](https://github.com/jinfang134/vue-pipeline) - A easy-to-use component to show beautiful responsive pipeline like jenkins blue ocean plugin.
 - [vnodes](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 - [v-network-graph](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
+- [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 
 #### Social Sharing
 
