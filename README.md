@@ -1773,6 +1773,7 @@ _Display non-editable events in a Calendar_
 - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
 - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
 - [vue-search-panel](https://github.com/TheoXiong/vue-search-panel) - A Vue component for searching with suggestions
+- [vue-json-search](https://github.com/Uninen/vue-json-search) - Headless Vue 3.x component for easy and simple json-based search
 
 #### Miscellaneous
 
