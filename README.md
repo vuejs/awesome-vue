@@ -1421,6 +1421,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuesence-modal-window](https://github.com/altrusl/vuesence-modal-window) - Simple Modal window Vue.js component that takes care of overlay, centering, animation, outside click/`Escape` key/`X-mark` closing and allows you to concentrate on its content only.
 - [vue-it-bigger](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 - [v3confirm](https://github.com/malekim/v3confirm) - A plugin dedicated for vue3 to show confirm dialog modal.
+- [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 
 #### Parallax
 
