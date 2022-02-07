@@ -298,12 +298,14 @@
 
 ### Books
 
+- [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) by Cédric Exbrayat (English and French versions) (May, 2020)
 
 ### Blog Posts
 
 
 ### Courses
 
+- [Become a Ninja with Vue 3](https://books.ninja-squad.com/vue) - This course teaches how to build a complete application with Vue 3, step by step, using Vite, TypeScript and the Composition API. Each exercise comes with instructions and tests to check 100% of your code.
 
 ### Documentaries
 
