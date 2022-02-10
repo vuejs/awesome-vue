@@ -2918,6 +2918,7 @@ _Internationalization / L10n / localization / translation_
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 - [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 - [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
+- [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
 
 #### Custom Events
 
