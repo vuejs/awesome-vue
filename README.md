@@ -2923,6 +2923,7 @@ _Internationalization / L10n / localization / translation_
 - [localize-vue-2x](https://github.com/uiwebkit/localize-vue-2x) - Uni Localization Vue 2 integration example. Customizable Language Menu widget built with Web Components.
 - [localize-vue-3x](https://github.com/uiwebkit/localize-vue-3x) - Uni Localization Vue 3 integration example. Customizable Language Menu widget built with Web Components.
 - [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
+- [tolgee/vue](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 #### Custom Events
 
