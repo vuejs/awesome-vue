@@ -2566,5 +2566,4 @@ application.  By @Haixing-Hu
  <a href="https://creativecommons.org/publicdomain/zero/1.0/">
   <img alt="CC0" src="https://i.creativecommons.org/p/zero/1.0/88x31.png"/>
  </a>
-  1234
 </p>
