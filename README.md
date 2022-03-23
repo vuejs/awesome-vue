@@ -1462,6 +1462,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
 - [eos-icons-vue](https://github.com/EOS-uiux-Solutions/eos-icons-vue) - Eos icons npm package for Vue 3, [eos-icons-vue2](https://github.com/EOS-uiux-Solutions/eos-icons-vue2) for Vue 2
 - [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+- [vue-icons](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 #### Marquee
 
