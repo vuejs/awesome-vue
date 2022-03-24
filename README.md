@@ -3017,7 +3017,7 @@ _LocalStorage etc._
 - [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 - [pinia-persistedstate](https://github.com/JD-Wang/pinia-persistedstate) - Persist Vuex state with localStorage, like vuex-persistedstate.
 - [pinia-orm](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
-- [pinia-di](https://github.com/ccqgithub/pinia-di) - DI(dependency-injection) for pinia, use Pinia more flexibly!
+- [pinia-di](https://github.com/ccqgithub/pinia-di) - dependency-injection for pinia.
 
 ##### Authentication/Authorization
 
