@@ -2197,6 +2197,7 @@ _Display images_
 - [vue-cosha](https://github.com/kn0wn/vue-cosha) - 🎨 An easy to use vue directive that places a colourful shadow behind any image
 - [vue-image-kit](https://github.com/guastallaigor/vue-image-kit) - Vue.js Image Kit Component with Lazy Load built in and Responsive Images.
 - [vue-preview-imgs](https://github.com/hzpeng57/vue-preview-imgs) - A picture preview plugin for Vue3
+- [awesome-image](https://github.com/newbeea/awesome-image) - An universal image component for Vue2 / Vue3 / Nuxt with Lazyload / Responsive / Progressive / Auto-WebP / WebGL Filter / WebGL Transition supported.
 
 ##### Video Manipulation
 
