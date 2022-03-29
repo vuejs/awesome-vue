@@ -2485,6 +2485,7 @@ _Set of admin template_
 - [Vue-Admin-Template](https://github.com/Mani1124/vue-admin-template) - A beautiful free vuejs admin template, designed using vuetify and apexcharts. [Live Demo](https://mani1124.github.io)
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+- [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 
 #### Server-side rendering
 
