@@ -1338,6 +1338,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-wait-for](https://github.com/MeForma/vue-wait-for) - A loader manager for Vue.js 3 with reactive method
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 - [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
+- [uspin](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 
 ##### Progress Bar
 
