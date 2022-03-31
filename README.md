@@ -1339,6 +1339,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-content-loader](https://github.com/egoist/vue-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 - [vue3-circle-progress](https://github.com/delowardev/vue3-circle-progress) - Highly customizable Vue.js 3 circular progressbar component.
 - [uspin](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
+- [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 
 ##### Progress Bar
 
