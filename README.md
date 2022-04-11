@@ -2303,6 +2303,7 @@ _Display images_
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
 - [vue-signature](https://github.com/WangShayne/vue-signature) - A electronic signature component for Vue2.x
 - [v-perfect-signature](https://github.com/wobsoriano/v-perfect-signature) - Pressure-sensitive signature drawing for Vue 2 and 3.
+- [vue-drawing-grid](https://github.com/MLongz/VueDrawingGrid) - A simple drawing grid lets you create pixel arts using HTML5 canvas.
 
 
 #### Link Preview
