@@ -206,6 +206,7 @@
 - [Vue.js Workshops](https://public.vuejsworkshops.com) - Learn Vue 2, in browser, by building 3 applications: Landing page, Todos App and Podcasts aggregator.( Vue.js, Vue-Router, Vuex, Vue-Axios, Vue-Apollo )
 - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
 - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
+- [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 
 
 ### Job Portal
@@ -285,6 +286,9 @@
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
+- [¿Qué es Pinia? con @posva](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
+- [Evolución de Vue - Parte I](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
+- [React vs Vue - las comunidades](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
 
 ### Youtube Channels
 
@@ -474,6 +478,7 @@
 - [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 - [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 - [Vue Pwa: Build a Progressive Web Application With Nuxt](https://snipcart.com/blog/vue-pwa-development) on Snipcart
+- [Introducción a Vue](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
 ### Examples
 
