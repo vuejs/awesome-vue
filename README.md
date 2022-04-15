@@ -403,7 +403,7 @@
 - [API Driven Development With Laravel and VueJS (Free Course)](https://serversideup.net/courses/api-driven-development-laravel-vuejs/) on serversideup.net
 - [Managing State in Vue.js](https://medium.com/fullstackio/managing-state-in-vue-js-23a0352b1c87)
 - [Real World Projects with Vue.js](https://www.packtpub.com/web-development/real-world-projects-vuejs-video) by Daniel Khalil, Packt. (August 2018)
-- [Heartbeat (Vue + NW.js Video series)](https://goo.gl/8p3msR) by [@ackzell](https://github.com/ackzell) (2017 - 2018)
+- [Heartbeat (Vue + NW.js Desktop app Video series)](https://goo.gl/8p3msR) by Axel Martínez (2017 - 2020)
 - [Firebase Server-Side Render Vue Apps with Nuxt.js (Server-side Rendering with JavaScript Frameworks)](https://www.youtube.com/watch?v=ZYUWsjUxxUQ)
 - [Firebase Measuring Vue SSR Performance with Nuxt.js (Server-side Rendering with JavaScript Frameworks)](https://www.youtube.com/watch?v=Y5XX2lruhxs)
 - [Creating an interactive map with D3 and Vue](https://dev.to/denisinvader/creating-an-interactive-map-with-d3-and-vue-4158) (October 2018)
@@ -480,7 +480,6 @@
 - [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 - [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 - [Vue Pwa: Build a Progressive Web Application With Nuxt](https://snipcart.com/blog/vue-pwa-development) on Snipcart
-- [Heartbeat: Desktop app with Vue + NW.js](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0) YouTube playlist by Axel Martínez
 - [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 - [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
