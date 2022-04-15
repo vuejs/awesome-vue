@@ -286,9 +286,11 @@
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
-- [¿Qué es Pinia? con @posva](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
-- [Evolución de Vue - Parte I](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
-- [React vs Vue - las comunidades](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
+- [What is Pinia? with @posva (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
+- [Evolution of Vue - Part I (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
+- [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7068499-evolucion-de-vue-parte-ii)
+- [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
+- [React vs Vue - their comunities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
 
 ### Youtube Channels
 
@@ -478,7 +480,9 @@
 - [Add a prebuilt video chat widget to any Vue app with daily-js](https://www.daily.co/blog/build-a-video-chat-app-with-vue-and-daily-prebuilt/) by Jess Mitchell, via Daily (August 2021)
 - [Build a custom video chat app with daily-js and Vue](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/) by Jess Mitchell, via Daily (November 2021)
 - [Vue Pwa: Build a Progressive Web Application With Nuxt](https://snipcart.com/blog/vue-pwa-development) on Snipcart
-- [Introducción a Vue](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
+- [Heartbeat: Desktop app with Vue + NW.js](https://www.youtube.com/playlist?list=PLmJs3lfUmCdT9MyG60Oo6HM7xAn79vwZ0) YouTube playlist by Axel Martínez
+- [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
+- [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 
 ### Examples
 
