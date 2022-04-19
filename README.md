@@ -2067,6 +2067,7 @@ _Date / datetime / time Picker_
 - [vue-drag-n-drop](https://github.com/smaharj1/vue-drag-and-drop-kanban) - A simple kanban board where the items can be dragged and dropped from the list on to the board.
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 - [vue-drag-drop-snap](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
+- [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD vue3 implementation, Use the Composition API for sortable and free draggable.
 
 ##### Autocomplete
 
