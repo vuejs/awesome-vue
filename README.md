@@ -915,6 +915,7 @@
 - [NuxTube](https://github.com/joek85/NuxTube) - YouTube app for privacy, made with NuxtJs.
 - [Dashy](https://github.com/lissy93/dashy) - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 - [NuxtBlog](https://github.com/muhammedmed/nuxt-js-blog) - Blog site made with firebase real-time database
+- [FAIRshare](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 
 ### Commercial Products
 
