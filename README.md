@@ -2692,6 +2692,7 @@ _Seamless scrolling_
 - [vue-lang-router](https://github.com/adbrosaci/vue-lang-router) - Vue.js 2 & 3 language routing with (optional) URL localization.
 - [vue-router-compositions](https://github.com/greenpress/vue-router-compositions) - A util package for Vue-Router and Vue Composition API.
 - [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
+- [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 
 #### Lazy Load
 
