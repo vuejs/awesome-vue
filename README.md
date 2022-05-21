@@ -1924,6 +1924,7 @@ _Display non-editable events in a Calendar_
 - [vue-mathjax](https://github.com/justforuse/vue-mathjax) - A Vue.js Plugin for Mathjax
 - [vue-mathjax-next](https://github.com/justforuse/vue-mathjax-next) - A Vue 3 plugin for Mathjax
 - [vue-connect-wallet](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
+- [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 
 #### Tabs
 
