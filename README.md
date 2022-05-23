@@ -3211,6 +3211,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [jsx-event-modifiers](https://github.com/nickmessing/babel-plugin-jsx-event-modifiers) - A Babel plugin that adds event modifiers similar to Vue templates to JSX.
 - [jsx-v-model](https://github.com/nickmessing/babel-plugin-jsx-v-model) - A Babel plugin that brings `v-model` to JSX.
 - [vue-jsx-sync](https://github.com/njleonzhang/babel-plugin-vue-jsx-sync) - A Babel plugin that brings vue `sync modifier` to JSX.
+- [vue2-jsx-runtime](https://github.com/LancerComet/vue2-jsx-runtime) - A Vue 2 new JSX transform runtime for TSC/SWC. Use Vue 2 JSX with TSC/SWC directly.
 
 #### Migration
 
