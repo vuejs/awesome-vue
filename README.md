@@ -9,6 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
+- [Awesome Vue.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vuejs-)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -1225,6 +1226,7 @@ _Tables / data grids_
 - [vue-datagrid](https://github.com/revolist/vue-datagrid) - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 - [element-ui-sticky-table](https://github.com/iendeavor/element-ui-sticky-table) - Sticky for element-ui table
 - [vue-dataset](https://github.com/kouts/vue-dataset) - A set of Vue.js components to display datasets with filtering, paging, and sorting capabilities!
+- [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 
 #### Notification
 
