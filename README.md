@@ -1620,6 +1620,7 @@ _Display time / date / age_
 - [vue-horizontal-timeline](https://github.com/guastallaigor/vue-horizontal-timeline) - Just a simple horizontal timeline component made with Vue.js.
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 - [vue3-flip-countdown](https://github.com/coskuncayemre/vue3-flip-countdown) Customize Countdown timer with Flip Animation for Vue 3.x
+- [vountdown](https://github.com/logustra/vountdown) - A minimalist countdown component
 
 #### Calendar
 
@@ -1717,6 +1718,7 @@ _Display non-editable events in a Calendar_
 - [vue-virtual-infinite-scroll](https://github.com/zuolei828/vue-virtual-infinite-scroll) - A vue2 component based on Iscroll, supports big data list with high performance scroll, infinite load and pull refresh.
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [@grafikri/vue-infinite-scroll](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
+- [vinscroll](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 
 #### Pull-to-refresh
 
