@@ -1148,6 +1148,7 @@
 - [Pinterest video downloader](https://www.pinterestdownloder.video/) - Tool for Downloading pinterest videos in HD
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
+- [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students. 
 
 ### Interactive Experiences
 
