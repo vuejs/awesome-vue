@@ -1466,7 +1466,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-cryptoicon](https://github.com/man15h/vue-cryptoicon) - Beautiful pixel perfect 400+ cryptocurrency and 10+ Fiat currency icon.
 - [vue-hero-icons](https://github.com/matschik/vue-hero-icons) - A set of high-quality SVG icons, sourced from [@refactoringui/heroicons](https://github.com/refactoringui/heroicons), as Vue functional components.
 - [vue-heroicons](https://github.com/Kholid060/vue-heroicons) - Vue component for 104 premium [Heroicons UI](https://github.com/sschoger/heroicons-ui) svg icons
-- [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons.
+- [vue-tabler-icons](https://github.com/alex-oleshkevich/vue-tabler-icons) - Vue components for [Tabler Icons](https://github.com/tabler/tabler-icons) SVG icons for vue 2 and vue 3.
 - [oh-vue-icons](https://github.com/Renovamen/oh-vue-icons) - A Vue component for including inline SVG icons from different popular iconpacks easily.
 - [vue-feather-icons](https://github.com/egoist/vue-feather-icons) - Simply beautiful open source icons as Vue functional components.
 - [vue-feather](https://github.com/fengyuanchen/vue-feather) - Feather icons component for Vue 3.
@@ -2023,7 +2023,7 @@ _Date / datetime / time Picker_
 ##### Select
 
 - [vue-select](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
-- [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.
+- [vue-multiselect](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue 2 and vue 3.
 - [stf-vue-select](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
 - [vue-select-image](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
 - [@riophae/vue-treeselect](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options support for Vue.js.
@@ -2078,6 +2078,7 @@ _Date / datetime / time Picker_
 - [vue-card-stack](https://github.com/rodleviton/vue-card-stack) - Stackable, swipeable, tweakable Vue card component.
 - [vue-drag-drop-snap](https://github.com/mrfade/vue-drag-drop-snap) - A dependency-free Vue component for drag and drop with snapping.
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
+- [vue3-dropzone](https://github.com/Yaxian/vue3-dropzone) - It's inspired by react-dropzone and implemented with vue3.
 
 ##### Autocomplete
 
