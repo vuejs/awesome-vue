@@ -2622,6 +2622,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [@vuito/vue](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+- [VFM](https://github.com/ccqgithub/vfm) - Vue driven form management tool.
 
 #### Resize
 
