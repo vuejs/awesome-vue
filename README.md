@@ -2505,8 +2505,7 @@ _Set of admin template_
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
-- [Argon Dashboard Vue 3, Element Plus & TailwindCSS 3](https://github.com/ltv/argon-dashboard-vue3) - A simplate dashboard template with VueJS 3, Element Plus & TailwindCSS 3 - Inspired by Creative Tim
-
+- [argon-dashboard-vue3](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 #### Server-side rendering
 
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
