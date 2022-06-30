@@ -2488,7 +2488,6 @@ _Set of admin template_
 
 - [iView Vue Admin](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x [Online Demo](https://tonyluo.github.io/iview-vue-admin)
 - [element Vue Admin](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
-- [Argon Dashboard Vue 3, Element Plus & TailwindCSS 3](https://github.com/ltv/argon-dashboard-vue3) - A simplate dashboard template with VueJS 3, Element Plus & TailwindCSS 3 - Inspired by Creative Tim
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin based on Element UI 2.x [Online Demo](https://panjiachen.github.io/vue-element-admin/#/dashboard)
 - [D2 Admin](https://github.com/d2-projects/d2-admin) - An elegant backstage template build by vue [Online Demo](https://d2admin.fairyever.com)
 - [rest-admin](https://github.com/wxs77577/rest-admin) - Restful Admin Panel Based on Vue and Bootstrap 4 [Online Demo](http://rest-admin.genyii.com)
@@ -2506,6 +2505,7 @@ _Set of admin template_
 - [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 - [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 - [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
+- [Argon Dashboard Vue 3, Element Plus & TailwindCSS 3](https://github.com/ltv/argon-dashboard-vue3) - A simplate dashboard template with VueJS 3, Element Plus & TailwindCSS 3 - Inspired by Creative Tim
 
 #### Server-side rendering
 
