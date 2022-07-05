@@ -2569,6 +2569,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-keypress](https://github.com/lupas/vue-keypress) - Global keypress event handler component for Vue.js applications.
 - [vue-pseudo-window](https://github.com/privatenumber/vue-pseudo-window) - 👻 Component to declaratively interface window/document in your Vue template
 - [v-on-page-video](https://github.com/mahdikhashan/v-on-page-video) - Vue.js directive to change the state of a Video element on visibility change
+- [vue3-click-outside](https://github.com/mahdikhashan/vue3-click-outside) - Directive for Vue 3 to run a method on clicking outside of the binded element
 
 #### Responsive Design
 
