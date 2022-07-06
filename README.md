@@ -1554,7 +1554,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-morris](https://github.com/bbonnin/vue-morris) - VueJS component wrapping Morris.js.
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
 - [vue-echarts](https://github.com/Justineo/vue-echarts) - ECharts component for Vue.js.
-- [vuecharts3](https://github.com/lloydzhou/vuecharts) ECharts component for Vue3
 - [vuetrend](https://github.com/QingWei-Li/vue-trend) - Simple, elegant spark lines for Vue.js.
 - [vue-highcharts](https://github.com/weizhenye/vue-highcharts) - Highcharts component for Vue.
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
@@ -1593,6 +1592,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+- [vuecharts3](https://github.com/lloydzhou/vuecharts) ECharts component for Vue3
 
 #### Time
 
