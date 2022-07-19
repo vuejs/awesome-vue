@@ -1152,6 +1152,7 @@
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [CryptoTracks](https://cryptotracks.io) - Unleash and discover musical creativity on the Ethereum blockchain.
 - [CodeSnippet](https://www.codesnippet.fr) - A collaborative code editor for teachers and students. 
+- [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy.
 
 ### Interactive Experiences
 
