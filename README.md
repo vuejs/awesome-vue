@@ -480,6 +480,8 @@
 - [Meteor + Vue](https://www.youtube.com/playlist?list=PLmJs3lfUmCdS8W27OoWj3uGDP6g4ypNyw) Youtube playlist by Axel Martínez
 - [Introduction to Vue (Spanish)](https://scrimba.com/playlist/pDzVxUd) Scrimba mini-course in Spanish.
 - [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3) - Free course on Vue 3 with intuitive explanations from Vue Mastery
+- [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) par Mickael Baron
+- [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 
 ### Examples
 
