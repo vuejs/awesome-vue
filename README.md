@@ -2635,7 +2635,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-tiny-validate](https://github.com/FrontLabsOfficial/vue-tiny-validate) - Tiny (2.5KB minified) Vue Validate Composition.
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [VFM](https://github.com/ccqgithub/vfm) - Vue driven form management tool.
-- [vue-composition-form](https://github.com/Mini-ghost/vue-composition-form) - Vue Form Validate with Composition API
+- [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 #### Resize
 
