@@ -1206,6 +1206,7 @@
 - [Staples Canada](https://www.staples.ca/)
 - [Blibli](https://www.blibli.com)
 - [Manduka](https://www.manduka.com/)
+- [Upwork](https://www.upwork.com/) - Work Marketplace for freelancers and employers
 
 ### A11y
 
