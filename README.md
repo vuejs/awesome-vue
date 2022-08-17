@@ -174,6 +174,7 @@
   - [Runtime](#runtime)
     - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
+  - [Libraries](#libraries)
 
 <!-- md-parser-start -->
 
@@ -3600,6 +3601,10 @@ _Scaffold parts of the app_
 - [pre-vue](https://github.com/mtlynch/pre-vue) - A boilerplate Vue + Nuxt project that offers built-in support for OpenGraph tags, Google Analytics, a sitemap, and robots.txt.
 - [ssr-vuejs-nodejs](https://github.com/gustavoSoriano/ssr-vuejs-nodejs) - Server-side render vuejs with nodejs without Nuxt.
 - [vue-genesis](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+
+### Libraries
+
+- [Lusift](https://github.com/lusift/lusift) - Javascript library to create product walkthroughs for your web app. Drive users through different features in your product.
   <!-- md-parser-end -->
   <br/>
   <br/>
