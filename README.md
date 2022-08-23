@@ -918,6 +918,7 @@
 - [FAIRshare](https://github.com/fairdataihub/FAIRshare) - Sharing biomedical research data and software according to applicable FAIR guidelines
 - [vue-birthday-reminder](https://github.com/ymzEmre/vue-birthday-reminder) - It is a birthday reminder web application using with Vue3.
 - [AnySniper](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
+- [Snippets.Ninja](https://github.com/dd3v/snippets.ninja) - progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
 ### Commercial Products
 
