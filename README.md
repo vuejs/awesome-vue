@@ -2385,6 +2385,7 @@ _Layout for the overall / main view_
 - [simple-vue-grid](https://github.com/harmyderoman/simple-vue-grid) - Simple grid containers that will help you to build layouts for your app.
 - [iron-grid-system](https://github.com/ilker0/iron-grid-system) - A responsive grid system for Vue 3.x.
 - [vue-re-resizable](https://github.com/tachibana-shin/vue-re-resizable) - Plugin for vue 3 allows resizing components. Rewritten [re-resizable](https://github.com/bokuweb/re-resizable)
+- [vue-console-feed](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 
 ### Frameworks
 
