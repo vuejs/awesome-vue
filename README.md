@@ -642,7 +642,7 @@
 - [Vue 3 TypeScript Library Template](https://github.com/TinkoLiu/vue3-ts-lib-template) A simple but complete library template for Vue 3, supports generating `.vue.d.ts`
 - [Customizable Vue video chat app](https://github.com/daily-demos/vue-call-object) - A Vue video call demo app featuring local device controls and screen sharing.
 - [Vue3-Starter](https://github.com/cerino-ligutom/Vue3-Starter) A boilerplate with an opinion on how to structure your files/folders with a few examples such as **Vue Router** navigation guards, theming with **TailwindCSS**, form validation w/ **Vuelidate**, localization with **Fluent**, etc.
-- [resume-vue](https://resume-vue.vercel.app/) - The free resume generator supports online editing and printing.
+- [resume-vue](https://github.com/Jeffrey-mu/resume-vue)- The free resume generator supports online editing and printing Using Vue3[Online preview](https://resume-vue.vercel.app/) 
 ### Books
 
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
