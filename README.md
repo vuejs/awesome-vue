@@ -1789,6 +1789,7 @@ _Display non-editable events in a Calendar_
 - [vue-share-it](https://github.com/thisDOTname/vue-share-it) - A Vue.js component for sharing links to social networks
 - [vuesocial](https://github.com/growthbunker/vuesocial) - 🧞‍♀️🧞‍♂️ One easy-to-use button component for Vue.js with 65+ social networks.
 - [vue-socials](https://github.com/webistomin/vue-socials) - 💬 Social media share buttons and counts for Vue.js.
+- [vue-share-modal](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
 
 #### QR Code
 
