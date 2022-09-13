@@ -1176,6 +1176,12 @@
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 
+###  font generator for web app
+
+- [font generator](https://thefancytext.com/)
+- [letras bonitas](https://letrasbonitas.pro/)
+- [tipos de letras](https://tipos-de-letras.org/)
+
 ### Enterprise Usage
 
 - Alibaba
