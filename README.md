@@ -3613,6 +3613,13 @@ _Scaffold parts of the app_
   <!-- md-parser-end -->
   <br/>
   <br/>
+  ###  font generator for web app
+
+- [font generator](https://thefancytext.com/)
+- [letras bonitas](https://letrasbonitas.pro/)
+- [tipos de letras](https://tipos-de-letras.org/)
+
+
   <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
