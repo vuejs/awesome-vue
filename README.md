@@ -2920,6 +2920,7 @@ _Utilities not directly related to the UI_
 - [vue-corator](https://github.com/joon610/vue-corator) - Vue typescript decorator utils
 - [vuedts](https://github.com/kahirokunn/vuedts) - Generate TypeScript declaration files for .vue files.
 - [@icare-jp/vue-props-type](https://github.com/icare-jp-oss/vue-props-type) - Helps to define the props type.
+- [vue-facing-decorator](https://github.com/facing-dev/vue-facing-decorator) - Vue 3 typescript class component decorators, like `vue-property-decorator` in Vue 2.
 
 #### HTTP Requests
 
