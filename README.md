@@ -3155,6 +3155,7 @@ _Improve readability of code_
 - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
 - [vert](https://github.com/LancerComet/Vert-Core) - Library to build Vue applications in OOP.
 - [vue-slot-checker](https://github.com/mya-ake/vue-slot-checker) - Provide the function to check slot like checking props.
+- [vue-ts-types](https://github.com/FloEdelmann/vue-ts-types) - Lightweight TypeScript-first Vue prop type definitions.
 
 #### CSS
 
