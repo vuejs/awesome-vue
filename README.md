@@ -255,6 +255,7 @@
 - [Vue Turkey - Twitter Account](https://twitter.com/Vue_Turkey)
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
+- [VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group](https://t.me/joinchat/pqiJOgi8byQ5Y2E0)
 
 ### Conferences
 
