@@ -2057,6 +2057,7 @@ _Date / datetime / time Picker_
 - [vue-select-sides](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
+- [vue-country-code](https://github.com/denfedweb/vue-country-code) - Country Code Select
 
 ##### Slider
 
