@@ -3237,6 +3237,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 - [v-fetch](https://github.com/shaynekasai/v-fetch) - Vue.js directive to make AJAX requests.
 - [vue-use-model-helpers](https://github.com/sergiocarracedo/vue-use-model-helpers) - Helper to map properties to local Ref using Composition API for Vue 2.x and 3
+- [@skirtle/vue-vnode-utils](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
 
 #### Web Workers
 
