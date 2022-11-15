@@ -1942,6 +1942,7 @@ _Display non-editable events in a Calendar_
 - [vue-connect-wallet](https://github.com/neelansh15/vue-connect-wallet) - A Vue plugin for connecting to web3 wallets with a UI button + MetaMask utils
 - [vue-magnifier](https://github.com/WebsiteBeaver/vue-magnifier) - Vue 3 image zoom component.
 - [vue-spruce](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components.
+- [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 
 #### Tabs
 
