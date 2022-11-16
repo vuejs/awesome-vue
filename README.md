@@ -88,6 +88,7 @@
     - [Link Preview](#link-preview)
     - [Tour](#tour)
     - [Data Masking](#data-masking)
+    - [Authentication](#authentication)
   - [UI Layout](#ui-layout)
   - [Frameworks](#frameworks)
     - [Responsive](#responsive)
@@ -2351,6 +2352,10 @@ _Display images_
 #### Data Masking
 
 - [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
+
+#### Authentication
+
+- [vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
 
 ### UI Layout
 
