@@ -947,6 +947,7 @@
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 - [KodaDot](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+[He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 
 ### Apps/Websites
 
