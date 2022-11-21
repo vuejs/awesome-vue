@@ -2350,7 +2350,7 @@ _Display images_
 
 #### Data Masking
 
-- [vue-manual-data-masking](https://github.com/HC200ok/vue-manual-data-masking) - A VueJS (2.x) component for manual data masking
+- [vue2-text-annotation](https://github.com/HC200ok/vue2-text-annotation) - A [Vue 2.x] component for text annotation and manual data masking
 
 ### UI Layout
 
