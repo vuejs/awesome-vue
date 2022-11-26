@@ -1289,6 +1289,7 @@ _Tables / data grids_
 - [jz-gantt](https://github.com/jeremyjone/jz-gantt) - A high-performance Vue gantt component, which includes highly customizable table columns, dynamic update data, freely drag the progress bar, switch header, etc.
 - [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery.
+- [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
 #### Notification
 
