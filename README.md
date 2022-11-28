@@ -1935,7 +1935,7 @@ _Display non-editable events in a Calendar_
 - [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 - [@bananajs/vue3-book-component](https://github.com/bananajs-is-already-taken/vue3-book-component) - Book component for Vue 3. It provides easy, flexible API and great customizability.
 - [@bananajs/vue2-book-component](https://github.com/bananajs-is-already-taken/vue2-book-component) - Book component for Vue 2. It provides easy, flexible API and great customizability.
-- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2, that also works on touch devices.
+- [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 - [vue-show-more-text](https://github.com/limlt/vue-show-more-text) - Vue multiline sentence ellipsis component. The text in the component will be truncated.
 - [vue-copy-to-clipboard](https://github.com/meforma/vue-copy-to-clipboard) - Vue.js 3 plugin to copy text to clipboard (Vue 3)
 - [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
