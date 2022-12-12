@@ -924,6 +924,7 @@
 - [AnySniper](https://github.com/anysniper/Frontend) - Sniping DApp on Decentralized Exchanges. A proven blockchain sniping bot with 500 active users.
 - [Snippets.Ninja](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 - [lishuuro.org](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
+- [Vue E-Store Templet](https://github.com/rash0/Vue-Ecom) - An e-commerce templet build with vue/vuex/vue-router and bootstrap4.
 
 ### Commercial Products
 
