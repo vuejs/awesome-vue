@@ -949,6 +949,7 @@
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
 - [KodaDot](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 - [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
+- [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
 ### Apps/Websites
 
@@ -1166,7 +1167,6 @@
 - [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs 
 - [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 - [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
-- [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
 ### Interactive Experiences
 
