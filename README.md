@@ -1169,6 +1169,7 @@
 - [Cuping Font](https://cupingfont.com/) - Cool font generator made with vuejs 
 - [Slack Vuesualizer](https://slack-vuesualizer.vercel.app) - Display and search through your Slack archive.
 - [findcharitables.org](https://findcharitables.org/) - Website for listing of organizations that need donation
+- [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 
 ### Interactive Experiences
 
