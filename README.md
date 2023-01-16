@@ -926,6 +926,7 @@
 - [Snippets.Ninja](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 - [lishuuro.org](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
 - [ZuiOJ](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
+- [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 
 ### Commercial Products
 
