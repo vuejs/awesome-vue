@@ -1496,6 +1496,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 - [vue-icons](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 - [veemoji](https://github.com/mahdikhashan/veemoji) - Veemoji is a dead simple emoji 🚀 as a component for vue 2
+- [material-icons-vue](https://github.com/vivek1996/vue-material-design-icons) - A fork of [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons) but with latest @mdi/js
 
 #### Marquee
 
