@@ -2565,6 +2565,7 @@ _Set of admin template_
 - [Saber](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js.
 - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
+- [îles](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 #### Other
 
