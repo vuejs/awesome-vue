@@ -1958,6 +1958,7 @@ _Display non-editable events in a Calendar_
 - [vue-spruce](https://github.com/crishellco/vue-spruce) - A collection of useful Vue 2 renderless components.
 - [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
+- [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
 
 #### Tabs
 
