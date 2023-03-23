@@ -257,6 +257,7 @@
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 - [VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group](https://t.me/joinchat/pqiJOgi8byQ5Y2E0)
+- [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 
 ### Conferences
 
