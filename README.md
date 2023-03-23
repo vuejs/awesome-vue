@@ -684,6 +684,7 @@
 - [Vue - The Road To Enterprise](https://theroadtoenterprise.com/?utm_source=github&utm_medium=vue-awesome&utm_campaign=vue_the_road_to_enterprise) Thomas Findlay (January, 2021)
 - [Accessible Vue – Get started with Accessibility in Vue.js!](https://accessible-vue.com) by Marcus Herrmann (March 2021)
 - [Building a Strapi E-Commerce: Nuxt.js Tutorial & Live Demo](https://snipcart.com/blog/strapi-ecommerce-nuxtjs-tutorial) (September 2021)
+- [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) (April 2024)
 
 ### Blog Posts
 
