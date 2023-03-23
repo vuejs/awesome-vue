@@ -707,6 +707,10 @@
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
 - [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
+- [WrapPixel Vue Blogs](https://blog.wrappixel.com/) - Useful Collection of Vue Blogs by WrapPixel.
+- [AdminMart Vue Blogs](https://adminmart.com/blog/) - Useful Vue Blog Posts by AdminMart.
+- [WrapPixel VueJs Admin Template](https://www.wrappixel.com/templates/category/vuejs-templates/) - Useful Collection of Vue Admin Templates by WrapPixel.
+- [AdminMart VueJs Admin Template](https://adminmart.com/templates/vuejs/) - Useful Vue Admin Templates by AdminMart.
 
 ### Courses
 
