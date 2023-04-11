@@ -2892,6 +2892,7 @@ _Move a DOM node to a target DOM node_
 - [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 - [v-visible](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 - [vue-web-otp](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
+- [v-privacy](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content 
 
 #### WebGL
 
