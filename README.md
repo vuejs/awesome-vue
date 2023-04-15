@@ -758,6 +758,7 @@
 - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
 - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
 - [Media Manager](https://github.com/iutbay/mm) - Web File Manager.
+- [VueFinder File Library](https://vuefinder.ozdemir.be) - Web File Manager Library.
 - [dyu/bookmarks](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
 - [JSON Schema Editor](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
 - [npm-stats](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
