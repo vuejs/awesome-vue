@@ -1817,6 +1817,7 @@ _Display non-editable events in a Calendar_
 #### Search
 
 - [vue-fuse](https://github.com/shayneo/vue-fuse) - A lightweight plugin for fuzzy search library, Fuse.js
+- [klevu-vue](https://github.com/klevultd/frontend-sdk/tree/master/examples/vue) - Klevu Discovery Suite example built with Vue 3, Pinia, Vite (server) and tailwindcss (styling) by Klevu
 - [vue-instantsearch](https://community.algolia.com/vue-instantsearch/) - The ultimate toolbox for creating instant-search experiences using [Algolia](https://www.algolia.com/).
 - [vue-innersearch](https://github.com/InnerSearch/vue-innersearch) - A Vue.js wrapper for Elasticsearch
 - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
