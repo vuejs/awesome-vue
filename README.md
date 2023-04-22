@@ -257,6 +257,7 @@
 - [Vue Türkiye - Kommunity Page](https://kommunity.com/vue-turkey)
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 - [VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group](https://t.me/joinchat/pqiJOgi8byQ5Y2E0)
+- [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 
 ### Conferences
 
@@ -927,6 +928,8 @@
 - [lishuuro.org](https://github.com/uros-5/ui-lishuuro) - Small chess variant app that uses Vue3 for UI and Pinia for managing state in app.
 - [ZuiOJ](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 - [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
+- [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
+- [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Commercial Products
 
@@ -1731,6 +1734,7 @@ _Display non-editable events in a Calendar_
 - [control-knob](https://github.com/slipmatio/control-knob) - Rotary control knob component for Vue 3 that behaves like audio app controls.
 - [simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [vue-vision-camera](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
+- [1llest-waveform-vue](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
 
 #### Infinite Scroll
 
@@ -1959,6 +1963,7 @@ _Display non-editable events in a Calendar_
 - [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
 - [vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview) - a vite plugin for code preview, of course you can also use the component separately
 - [vue3-calendar-heatmap](https://github.com/razorness/vue3-calendar-heatmap) - A lightweight calendar heatmap Vue 3 component built on SVG
+- [vue3-code-block](https://github.com/webdevnerdstuff/vue3-code-block) - Vue 3 CodeBlock - Highlight your code with ease using this syntax highlighting component powered by PrismJS or Highlight.js.
 
 #### Tabs
 
@@ -2015,6 +2020,7 @@ _Let the user create & edit data_
 - [vue3-otp-input](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 - [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
 - [IFstruct-parser-vue](https://github.com/iofod/IFstruct-parser/tree/main/temps/web) - Converts [iofod](https://www.iofod.com) edited projects into production-ready Vue projects
+- [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ###### Date Picker
 
@@ -2416,6 +2422,7 @@ _Layout for the overall / main view_
 - [vue-re-resizable](https://github.com/tachibana-shin/vue-re-resizable) - Plugin for vue 3 allows resizing components. Rewritten [re-resizable](https://github.com/bokuweb/re-resizable)
 - [vue-console-feed](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 - [vue-typed-virtual-list](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - [Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
+- [fit-screen](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
 
 ### Frameworks
 
@@ -2475,6 +2482,7 @@ _Set of components + responsive layout system_
 - [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications.
+- [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 
 #### Mobile
 
@@ -2568,6 +2576,7 @@ _Set of admin template_
 - [Saber](https://github.com/saberland/saber) - A static website generator for building blazing fast websites with Vue.js.
 - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
+- [îles](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 
 #### Other
 
@@ -2886,6 +2895,7 @@ _Move a DOM node to a target DOM node_
 - [vue-styled-shadows](https://github.com/juliandreas/vue-styled-shadows) - Component based styled shadow patterns for images.
 - [v-visible](https://github.com/andrewvasilchuk/v-visible) - Vue.js directive for setting visibility of an element.
 - [vue-web-otp](https://github.com/mrbilit/vue-web-otp) - Vue.js component to work with browser's WebOTP API to receive OTPs over SMS
+- [v-privacy](https://github.com/fchancel/v-privacy) - Vue3 plugin that allows to manage the privacy of an HTML element by blurring its content 
 
 #### WebGL
 
@@ -3414,7 +3424,7 @@ _Integrate with services or other frameworks_
 - [codesandbox](https://codesandbox.io/s/vue-vue) - An online IDE and prototyping tool for rapid Vue development.
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 - [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
-- [vue-unicorn-log](https://github.com/webdevnerdstuff/vue-unicorn-log) - A magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible.
+- [vue-unicorn-log](https://github.com/webdevnerdstuff/vue-unicorn-log) - A Vue 2 magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible. [Vue 3 version](https://github.com/webdevnerdstuff/vue3-unicorn-log) version also available..
 
 #### Inspect
 
