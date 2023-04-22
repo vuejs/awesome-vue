@@ -929,6 +929,7 @@
 - [ZuiOJ](https://github.com/DaZuiZui/ZuiOJ) - ZuiOJ system developed using Vue2's UI and Java.
 - [Insurance-system](https://github.com/DaZuiZui/Insurance-system) - Insurance system made by springboot and vue.
 - [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
+- [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 
 ### Commercial Products
 
