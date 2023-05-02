@@ -1199,6 +1199,7 @@
 - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
+- [Vue Playground](https://vueplayground.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 
 ### Enterprise Usage
 
