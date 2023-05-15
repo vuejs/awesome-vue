@@ -2814,6 +2814,7 @@ _Seamless scrolling_
 - [v-pagy](https://github.com/trandaison/v-pagy) - A lightweight and customizable Bootstrap Pagination for Vue.
 - [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your html templates with ssr support.
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
+- [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 
 #### Animation
 
