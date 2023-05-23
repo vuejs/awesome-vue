@@ -2846,6 +2846,7 @@ _Seamless scrolling_
 - [@morev/vue-transitions](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [vue-contextual-transition](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
+- [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
 
 #### Meta Tags
 
