@@ -1747,12 +1747,6 @@
    General Plugins/Directives
   </h4>
   <ul>
-    <li>
-     <a href="https://github.com/ventralnet/v-hide">
-      v-hide
-     </a>
-     : v-hide directive to accompany v-if and v-show.
-   </li>
    <li>
     <a href="https://github.com/vuejs/vue-element">
      vue-element
@@ -2062,6 +2056,12 @@ application.  By @Haixing-Hu
     <sup>
      &#9733 5, pushed 1 days ago
     </sup>
+   </li>
+       <li>
+     <a href="https://github.com/ventralnet/v-hide">
+      v-hide
+     </a>
+     : v-hide directive to accompany v-if and v-show.
    </li>
   </ul>
  </li>
