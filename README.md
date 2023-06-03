@@ -2708,6 +2708,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vue-not-visible](https://github.com/PxyUp/vue-not-visible) - Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.
 - [vue-window-size](https://github.com/mya-ake/vue-window-size) - Provides reactivity window size properties.
 - [vue-responsive-text](https://github.com/shwilliam/vue-responsive-text) - ↔ Component that scales its child node in relation to its parent node's width
+- [v-hide](https://github.com/ventralnet/v-hide) - v-hide directive to accompany v-if and v-show. Keeps layout space in the DOM
 
 #### Scroll
 
