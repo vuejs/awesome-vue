@@ -3403,6 +3403,7 @@ _Integrate with services or other frameworks_
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 - [vue3-recaptcha2](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
+- [hugoVueSFC](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
 
 #### Vue CLI Plugins
 
