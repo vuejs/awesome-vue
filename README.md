@@ -3408,6 +3408,7 @@ _Integrate with services or other frameworks_
 - [vue-dapp](https://github.com/chnejohnson/vue-dapp) - Vue 3 library for building Dapps with ethers.js.
 - [vue3-recaptcha2](https://github.com/bbonch/vue3-recaptcha2) - Google reCAPTCHA 2 for Vue 3.
 - [hugoVueSFC](https://github.com/indus/hugoVueSFC) - Vue Single-File Components (SFC) in [Hugo](https://gohugo.io/).
+- [vue-client-recaptcha](https://github.com/parsajiravand/vue-client-recaptcha) - Build simple recaptcha for vuejs without need server
 
 #### Vue CLI Plugins
 
