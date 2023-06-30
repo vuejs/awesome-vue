@@ -258,7 +258,7 @@
 - [VueJS Singapore - Telegram Group](https://t.me/vuejssg)
 - [VueJS Bootcamp kablosuzkedi - Turkey - Telegram Group](https://t.me/joinchat/pqiJOgi8byQ5Y2E0)
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
-- [VueJS Kenya Twitter Account](https://twitter.com/KenyaVue)
+- [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
 
 ### Conferences
 
