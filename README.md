@@ -1477,6 +1477,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue3-promise-dialog](https://github.com/rlemaigre/vue3-promise-dialog) - Let's you create promise based dialogs in Vue 3 (Composition or Options API) with ease !
 - [vue3-side-panel](https://github.com/headmandev/vue3-side-panel) - 🔥 Easy to use and flexible modal sidebar component for Vue3.
 - [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
+- [@kolirt/vue-modal]([https://github.com/harmyderoman/vuejs-confirm-dialog](https://github.com/kolirt/vue-modal)) - ⚡️ Simple Vue3 modal package
 
 #### Parallax
 
