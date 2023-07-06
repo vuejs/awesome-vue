@@ -3053,7 +3053,8 @@ _Internationalization / L10n / localization / translation_
 - [tolgee/vue](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 - [excel-to-json](https://github.com/Aaronlamz/excel-to-json) -  A easy tool is created to convert Excel to JSON for i18n.
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) -  Vue I18n for Vue 3.
-
+- [voerkai18n](https://github.com/zhangfisher/voerka-i18n) - Internationalization for nodejs/javascript/typescript/vue/react/solidjs/reactnative/uniapp
+ 
 #### Custom Events
 
 - [vue-events](https://github.com/cklmercer/vue-events) - Simple event handling for Vue.js.
