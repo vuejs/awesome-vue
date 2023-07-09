@@ -1313,6 +1313,7 @@ _Tables / data grids_
 - [lv2-datatable](https://github.com/HELMAB/lv2-datatable) - Integrate the Laravel datatables with your Vue app without using JQuery.
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - Vuetify v2. The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 - [el-col-group](https://github.com/jiangfei5945/el-col-group) - Powerful and Flexable column for Element table.
+- [tanstack-table](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 
 #### Notification
 
