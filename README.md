@@ -2511,6 +2511,7 @@ _Set of components + responsive layout system_
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vuetensils](https://vuetensils.com) - A 'naked' component library for building accessible, lightweight, bespoke applications.
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
+- [Prefect Design](https://prefect-design.netlify.app/) - Prefect Design is UI Component library built on Vue 3 and Typescript. Components are designed on top of Tailwind CSS, so each component is beautiful and responsive.
 
 #### Mobile
 
