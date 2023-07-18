@@ -1810,6 +1810,7 @@ _Display non-editable events in a Calendar_
 - [object-visualizer](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 - [vue-virtual-tree](https://github.com/lycHub/vue-virtual-tree) - Tree component for large amount of data, base on Vue3.
 - [vue-json-viewer](https://github.com/chenfengjw163/vue-json-viewer) - A JSON Tree View Support for incremental update components, base on Vue2 and Vue3.
+- [vue-hierarchy](https://github.com/pratik227/vue-hierarchy) - Vue-Hierarchy is a npm package that allows you to display data in hierarchy structure on your page.
 
 #### Graph
 
