@@ -1551,7 +1551,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 - [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
 - [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
-- [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) Turn your boring fixed header into a smart one.
+- [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 
 #### Minus Plus Input
 
