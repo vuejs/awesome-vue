@@ -2004,6 +2004,7 @@ _Display non-editable events in a Calendar_
 - [vue3-tabs](https://github.com/HJ29/vue3-tabs) - A touch swipe tabs component for vue 3
 - [vue3-tabs-chrome](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 - [vue-nav-tab](https://github.com/kien5436/vue-nav-tab) Tab components for Vue.js 3 project
+- [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) Turn your boring fixed header into a smart one.
 
 #### Form
 
