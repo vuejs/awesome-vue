@@ -3206,6 +3206,7 @@ _LocalStorage etc._
 - [vuex-awesome-async](https://github.com/Schoolmouv-team/vuex-awesome-async) - It wraps Vuex stores to easily manage async requests (loading, error and cache state).
 - [vuex-factories](https://github.com/Goldziher/vuex-factories) - Factory functions to generate vuex actions and mutations.
 - [vuex-hooks](https://github.com/Goldziher/vuex-hooks) - Typescript enabled vuex composition-api hooks.
+- [vuex-composition](https://github.com/echo008/vuex-composition) - A util package to use Vuex with Composition API and Reactivity API easily.
 - [vuex-composition-helpers](https://github.com/greenpress/vuex-composition-helpers) - A util package to use Vuex with Composition API easily.
 - [vuex-ts-enhance](https://github.com/zWingz/vuex-ts-enhance) - A tool to enhance `mapXXX` and `dispatch` methods hint
 - [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
