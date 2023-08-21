@@ -941,6 +941,7 @@
 - [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+- [starfish-vue3-lowcode](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 
 ### Commercial Products
 
