@@ -2127,7 +2127,7 @@ _Date / datetime / time Picker_
 
 ##### Drag and Drop
 
-- [vuedraggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop Drag and drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
+- [vuedraggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 - [vue-dragula](https://github.com/Astray-git/vue-dragula) - Drag and drop so simple it hurts.
 - [vue2-dragula](https://github.com/kristianmandrup/vue2-dragula) - A `vue-dragula` fork for `Vue2`, with a lot of improvements.
 - [awe-dnd](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.
