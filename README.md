@@ -207,6 +207,7 @@
 - [Vue.js Articles](https://thewebdev.info/category/javascript/vue/) - Assorted Vue 2 and 3 tutorials and articles.
 - [Best vue.js Courses On YouTube](https://www.nbshare.io/blog/best-vue-js-courses-on-youtube/) - Handpicked list of best Vue.js tutorials on YouTube
 - [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
+- [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
 
 ### Job Portal
 
