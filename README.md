@@ -2114,6 +2114,7 @@ _Date / datetime / time Picker_
 - [vue-selectize](https://github.com/isneezy/vue-selectize) - A Vue.js component wrapper around Selectize.js, a vanilla js select component
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 - [vue-country-code](https://github.com/hantrongbinh/vue-country-code) - Vue 2 Country Code Select
+- [vue-cool-box-selector](https://github.com/hassan-jahan/vue-cool-box-selector) - Fancy versatile, box / button / image selector for Vue 2 and 3 🪄✨ ~1KB
 
 ##### Slider
 
