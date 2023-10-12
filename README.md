@@ -951,7 +951,7 @@
 - [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) - VueJS Admin template with multiple layouts and laravel version.
 - [Teleo](https://www.teleo.co/?utm_source=AwesomeVue) - Team collab-app moving effortlessly between talking, planning & doing
 - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
-- [Pragmatic v2.0](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js and Element.
+- [Pragmatic](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js 2 and Element UI.
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
 - [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
 - [OSHCExpress](https://oshcexpress.com/?utm_source=AwesomeVue) - A comparison and ecommerce for OSHC (Overseas Student Health Cover) insurance (Australia's insurance for international students).
@@ -971,6 +971,7 @@
 - [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+- [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible !
 
 ### Apps/Websites
 
