@@ -2401,6 +2401,7 @@ _Display images_
 
 - [vue-tour](https://github.com/pulsardev/vue-tour) - Lightweight and customizable tour plugin
 - [vue-page-guide](https://github.com/sschandi/vue-page-guide) - Page tour / guide plugin with directive
+- [vue-stage-play](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
 #### Data Masking
 
