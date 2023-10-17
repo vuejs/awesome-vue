@@ -3140,6 +3140,7 @@ _LocalStorage etc._
 - [pinia](https://github.com/posva/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support.
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [hami-vuex](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ##### Redux
 
