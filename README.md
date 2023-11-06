@@ -2315,6 +2315,7 @@ _Display images_
 - [vue-file-agent](https://github.com/safrazik/vue-file-agent) - Full-featured drag & drop enabled Vue file upload component with previews and upload progress
 - [vue-cloudinary-uploader](https://github.com/xinnks/vue-cloudinary-uploader) - A cloudinary image cropper and uploader component for VueJs
 - [vue-dropify](https://github.com/khofaai/vue-dropify) - A Simple image dropzone component for Vuejs
+- [vue-file-upload](https://github.com/canopas/vue-file-upload) - A file management system that allows for single and multiple file uploading with a preview feature
 
 ##### Context Menu
 
