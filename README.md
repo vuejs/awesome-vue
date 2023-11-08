@@ -261,6 +261,7 @@
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 - [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
 - [VueJS Magyar - Facebook Group [Hungarian]](https://www.facebook.com/groups/huvuejs/)
+- [VueJS Bangladesh - Facebook Group] (https://www.facebook.com/groups/764064325433370)
 
 ### Conferences
 
