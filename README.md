@@ -2464,6 +2464,7 @@ _Layout for the overall / main view_
 - [vue-console-feed](https://github.com/tachibana-shin/vue-console-feed) - A plugin that allows you to display `console like Chrome Devtools` for vue.
 - [vue-typed-virtual-list](https://github.com/bsssshhhhhhh/vue-typed-virtual-list) - [Vue 3.x] small, efficient, TypeScript-friendly virtual scroller for rendering massive data
 - [fit-screen](https://github.com/jp-liu/fit-screen) - A vue component based on the scale large screen adaptive solution.
+- [vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
 ### Frameworks
 
