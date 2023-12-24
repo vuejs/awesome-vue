@@ -1777,6 +1777,7 @@ _Display non-editable events in a Calendar_
 - [@grafikri/vue-infinite-scroll](https://github.com/grafikri/vue-infinite-scroll) - Basic infinite scroll for Vue
 - [vinscroll](https://github.com/logustra/vinscroll) - A minimalist infinite scroll component
 - [virtual-list](https://github.com/phphe/virtual-list) - Virtual list component. Features: Vue2, Vue3, TypeScript, SSR, horizontal list, virtual table.
+- [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
 
 #### Pull-to-refresh
 
