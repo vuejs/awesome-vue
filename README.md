@@ -1209,7 +1209,7 @@
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 - [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
-- [Yahya J. Aifit](https://yja.me) - Portfolio page that inspired by the appearance of desktop operating system.
+- [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
 
 ### Enterprise Usage
 
