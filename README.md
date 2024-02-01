@@ -939,6 +939,7 @@
 - [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+- [Materio Free Vuetify NuxtJS Admin Template](https://themeselection.com/item/materio-free-vuetify-nuxtjs-admin-template/) - Most powerful & comprehensive Vuetify VueJS 3 NuxtJS 3 Admin Template with elegant material design & unique Layouts. 
 
 ### Commercial Products
 
