@@ -3530,6 +3530,7 @@ _Create documentation_
 - [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [vue-dotmd-loader](https://github.com/mengdu/vue-dotmd-loader) - A webpack loader for loader markdown file transform to vue file.
 - [vue-tut](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
+- [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
 
 #### Test
 
