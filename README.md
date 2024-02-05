@@ -1714,6 +1714,7 @@ _Display non-editable events in a Calendar_
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 - [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+- [schedule-x](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 #### Map
 
