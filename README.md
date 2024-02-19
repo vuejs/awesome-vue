@@ -2716,6 +2716,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Reforms.js](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 - [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+- [tracked-instance](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 
 ##### Validation
 
