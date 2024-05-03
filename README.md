@@ -2540,6 +2540,7 @@ _Set of components + responsive layout system_
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+- [Shadcn UI](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](<https://github.com/shadcn-ui/ui>) (re-usable components built with [Radix Vue](<https://github.com/radix-vue/radix-vue>) and [Tailwind CSS](<https://github.com/tailwindlabs/tailwindcss>)).
 
 #### Mobile
 
