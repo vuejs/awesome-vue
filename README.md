@@ -2554,6 +2554,7 @@ _UI frameworks for mobile_
 - [Ionic](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 - [Native script](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 - [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+- [uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 _Set of components for mobile_
 
