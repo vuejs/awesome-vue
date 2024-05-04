@@ -3521,6 +3521,7 @@ _Inspecting & debugging_
 - [VueSource](https://github.com/davestewart/vue-source) - Global Vue mixin which identifies components in source code by adding HTML comments
 - [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
 - [bruit-io](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
+- [devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
 
 #### Docs
 
