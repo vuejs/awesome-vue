@@ -2827,6 +2827,7 @@ _Seamless scrolling_
 - [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 - [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+- [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
 
 #### Lazy Load
 
