@@ -3532,6 +3532,7 @@ _Inspecting & debugging_
 - [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
 - [bruit-io](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
 - [devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
+- [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 
 #### Docs
 
