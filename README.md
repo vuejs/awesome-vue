@@ -2984,8 +2984,9 @@ _Move a DOM node to a target DOM node_
 - [vue-displacement-slideshow](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 - [vue-fake3d-image-effect](https://github.com/LuXDAmore/vue-fake3d-image-effect) - An interactive 3D fake-effect for images with depth maps in WebGL.
 - [drie](https://github.com/janvorisek/drie) - A Vue 3 component library for three.js inspired by react-three-fiber.
-- [TresJs](https://github.com/tresjs/tres): Declarative ThreeJS using Vue Components
-- [Cientos](https://github.com/Tresjs/cientos): Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+- [TresJs](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+- [Cientos](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+- [trois](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
 #### Fullscreen
 
