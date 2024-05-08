@@ -1837,6 +1837,7 @@ _Display non-editable events in a Calendar_
 - [v-network-graph](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 - [coya](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 - [vue-skia](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Interactive, customizeabe, graph & flowchart editor for Vue3
 
 #### Social Sharing
 
