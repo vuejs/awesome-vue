@@ -3023,6 +3023,7 @@ _Utilities not directly related to the UI_
 - [vue-props-validation](https://github.com/rubnvp/vue-props-validation) - Vue props validation logic extracted for nested validations in objects and arrays using the Vue native syntax.
 - [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 - [fontawesome-autogen](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
+- [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
 
 #### Typescript
 
