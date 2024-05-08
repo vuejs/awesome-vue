@@ -3630,6 +3630,7 @@ _Text editor plugins_
 
 _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
 
+- [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects.
 - [Vue-Django](https://github.com/NdagiStanley/vue-django) - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
 - [python-vuejs](https://github.com/cstrap/python-vuejs) - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a `vue-cli` wrapper.
