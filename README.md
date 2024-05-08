@@ -2912,6 +2912,7 @@ _Seamless scrolling_
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [vue-contextual-transition](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
 - [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
+- [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 
 #### Meta Tags
 
