@@ -948,6 +948,7 @@
 - [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 - [vue3-realworld-app](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 
 ### Commercial Products
 
