@@ -2835,6 +2835,7 @@ _Seamless scrolling_
 - [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
+- [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 
 #### Lazy Load
 
