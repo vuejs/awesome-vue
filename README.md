@@ -188,6 +188,7 @@
 - [Release Notes](https://github.com/vuejs/core/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
+- [IDE Language Support](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 - [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
 ### External Resources
