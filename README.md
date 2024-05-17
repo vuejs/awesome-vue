@@ -9,7 +9,6 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Awesome Vue.js  ](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -32,7 +31,7 @@
   - [Interactive Experiences](#interactive-experiences)
   - [Enterprise Usage](#enterprise-usage)
   - [A11y](#a11y)
-- [Components \& Libraries](#components--libraries)
+- [Components & Libraries](#components--libraries)
   - [UI Components](#ui-components)
     - [Table](#table)
     - [Notification](#notification)
