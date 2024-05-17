@@ -3611,7 +3611,7 @@ _Text editor plugins_
 - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 - [Ionic Snippets](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components
-- [Volar](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+- [Vue - Official (Volar)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
 
 ##### Visual Studio
 
