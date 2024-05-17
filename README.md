@@ -182,12 +182,13 @@
 
 ### Official Resources
 
-- [Official Guide](http://vuejs.org/guide/)
+- [Documentation](https://vuejs.org/)
 - [API Reference](http://vuejs.org/api/)
-- [GitHub Repo](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
+- [GitHub Repo](https://github.com/vuejs/)
+- [Release Notes](https://github.com/vuejs/core/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
+- [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
 ### External Resources
 
