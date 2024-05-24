@@ -3040,6 +3040,7 @@ _Utilities not directly related to the UI_
 - [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
+- [vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 
 #### Typescript
 
