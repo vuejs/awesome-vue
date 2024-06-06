@@ -2533,6 +2533,7 @@ _Edit images_
 - [vue-picture-cut](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 - [vue-img-cutter](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 - [vue-picture-cropper](https://github.com/chengpeiquan/vue-picture-cropper) - A simple and easy-to-use picture cropping component for Vue 3.
+- [vue-polygon-cropper](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue) 
 
 _Display images_
 
