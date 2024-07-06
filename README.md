@@ -1328,7 +1328,7 @@ _Set of components + responsive layout system_
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
-- [Shadcn UI](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](<https://github.com/shadcn-ui/ui>) (re-usable components built with [Radix Vue](<https://github.com/radix-vue/radix-vue>) and [Tailwind CSS](<https://github.com/tailwindlabs/tailwindcss>)).
+- [Shadcn UI](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue](https://github.com/radix-vue/radix-vue) and [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)).
 
 #### Mobile
 
@@ -1891,6 +1891,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
+- [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 50+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 
 #### Time
 
@@ -2408,7 +2409,7 @@ _Date / datetime / time Picker_
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 - [sortablejs-vue3](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 - [vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
-  
+
 ##### Autocomplete
 
 _Autosuggest / autocomplete / typeahead_
@@ -2534,7 +2535,7 @@ _Edit images_
 - [vue-picture-cut](https://github.com/987153776/vue-picture-cut) - image cropper：scale, flip, rotate, edge check, rectangle clip, ellipse clip
 - [vue-img-cutter](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 - [vue-picture-cropper](https://github.com/chengpeiquan/vue-picture-cropper) - A simple and easy-to-use picture cropping component for Vue 3.
-- [vue-polygon-cropper](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue) 
+- [vue-polygon-cropper](https://github.com/TaTo30/vue-polygon-cropper) - A simple component to crop images in polygon shapes. [Demo](https://stackblitz.com/edit/vitejs-vite-urtqie?file=src%2FApp.vue)
 
 _Display images_
 
@@ -2671,7 +2672,6 @@ _Display images_
 #### Authentication
 
 - [vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
-
 
 ### UI Utilities
 
