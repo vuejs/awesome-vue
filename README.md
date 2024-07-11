@@ -660,6 +660,8 @@
 - [Vitesse Starter](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 - [Vitesse-lite Starter](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 - [vue-plugin-boilerplate](https://github.com/selimdoyranli/vue-plugin-boilerplate) - Boilerplate for vue 2&3 plugin development 🟩📦
+- [Sneat Free Vuetify NuxtJS Admin Template](https://github.com/themeselection/sneat-vuetify-nuxtjs-admin-template-free) - Open Source NuxtJS admin template based on latest Vuetify, NuxtJS 3, Vue 3 & Typescript for developing responsive web apps with ease.
+
 
 ### Books
 
@@ -946,6 +948,7 @@
 - [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
+- [Materio Free Vuetify NuxtJS Admin Template](https://themeselection.com/item/materio-free-vuetify-nuxtjs-admin-template/) - Most powerful & comprehensive Vuetify VueJS 3 NuxtJS 3 Admin Template with elegant material design & unique Layouts. 
 - [starfish-vue3-lowcode](https://github.com/haixin-fang/starfish-vue3-lowcode) - Vue3 visual lowcode form designer, convenient and quick to complete all kinds of form design!
 - [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 - [vue3-realworld-app](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
