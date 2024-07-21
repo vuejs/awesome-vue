@@ -296,6 +296,7 @@
 - [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
 - [React vs Vue - their communities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
 - [Views on Vue (weekly podcast on Vue)](https://topenddevs.com/podcasts/views-on-vue)
+- [DejaVue - The Vue podcast to remember](https://dejavue.fm/)
 
 ### Youtube Channels
 
