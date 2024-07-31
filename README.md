@@ -953,6 +953,7 @@
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 - [douyin](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
+- [Go-Vue-Chat-Starter](https://github.com/CoffeeeAtNight/Go-Vue-Chat-Starter) - A simple chat application starter project built with Vue.js and Go, featuring WebSocket communication, PrimeVue/PrimeFlex for the UI.
 
 ### Commercial Products
 
