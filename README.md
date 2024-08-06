@@ -1986,7 +1986,6 @@ _Display non-editable events in a Calendar_
 
 #### Audio / Video
 
-- [Vue-Player](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 - [Vue-APlayer](https://github.com/SevenOutman/vue-aplayer) - :cake: Easy-to-config music player for Vue 2.x.
 - [vue-audio](https://github.com/shershen08/vuejs-sound-player) - audio-tag wrapper; sound player component for Vue 2.x
 - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
@@ -2012,6 +2011,7 @@ _Display non-editable events in a Calendar_
 - [simple-vue-camera](https://github.com/BastiaanJansen/simple-vue-camera) - A simple to use, but extensive, camera component for Vue 3 with Typescript support to create great camera experiences.
 - [vue-vision-camera](https://github.com/xulihang/vue-vision-camera) - Camera component for Vue 3. We can use this component for computer vision tasks like barcode/QR code scanning, text recognition, etc.
 - [1llest-waveform-vue](https://github.com/codeacme17/1llest-waveform-vue) - A lightweight and controllable audio visualization vue3 plugin.
+- [Vue-Player](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
 #### Infinite Scroll
 
