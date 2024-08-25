@@ -1417,7 +1417,8 @@ _Set of admin template_
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
-
+- [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
+   
 #### Server-side rendering
 
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
