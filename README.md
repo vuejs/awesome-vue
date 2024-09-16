@@ -3541,6 +3541,7 @@ _Integrate with services or other frameworks_
 - [vue-dom-hints](https://github.com/privatenumber/vue-dom-hints) - 💡 Get hints in the DOM. Minimal Vue devtool alternative.
 - [components-helper](https://github.com/tolking/components-helper) - Based on the documents to provide code prompt files for vue component library.
 - [vue-unicorn-log](https://github.com/webdevnerdstuff/vue-unicorn-log) - A Vue 2 magical 🦄 plugin to make coloring the (devtools) console output easier and more flexible. [Vue 3 version](https://github.com/webdevnerdstuff/vue3-unicorn-log) version also available..
+- [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
 #### Inspect
 
