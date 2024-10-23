@@ -1419,6 +1419,7 @@ _Set of admin template_
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [vue-start-admin](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
+- [soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
    
 #### Server-side rendering
 
