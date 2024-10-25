@@ -99,6 +99,7 @@
     - [Tour](#tour)
     - [Data Masking](#data-masking)
     - [Authentication](#authentication)
+    - [Avatar](#avatar-vue3)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
     - [Responsive Design](#responsive-design)
@@ -2683,6 +2684,10 @@ _Display images_
 #### Authentication
 
 - [vue-auth-ui](https://github.com/ndrbrt/vue-auth-ui) - Pre-built set of components for user authentication
+
+#### Avatar
+
+- [avatar-vue3](https://github.com/MaBbKhawaja/avatar-vue3) -  This component creates a picture with the name initials
 
 ### UI Utilities
 
