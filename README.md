@@ -1086,7 +1086,6 @@
 - [Vue 资源精选](http://vue.awesometiny.com) - great Vue components list, category, inline demo show and brief
 - [Cronhub](https://cronhub.io) - Painless Cron Monitoring Tool
 - [wrkprty](https://wrkprty.com) - Pop-up coworking events for freelancers, remote workers, and professionals looking to get out of the office.
-- [V·oogle](http://v-oogle.com/) - Google.com, reVued. A joke-project. :)
 - [Broker Notes](https://broker-notes.com) - 'Study to become a Real Estate Agent' :house:
 - [SyncLounge](https://synclounge.tv) - SyncLounge is a tool to sync Plex content across multiple players in multiple locations.
 - [HCE.it](https://www.hce.it/) - The website of an Italian agency, entirely made with Vue using a Laravel-based headless CMS.
