@@ -3214,9 +3214,8 @@ _LocalStorage etc._
 
 ##### Mobx
 
-- [movue](https://github.com/nighca/movue) - Mobx integration for Vue.js.
-- [vue-mobx](https://github.com/dwqs/vue-mobx) - Mobx binding for Vuejs 2.x.
-- [mobx-vue-lite](https://github.com/wobsoriano/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
+- [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
+- [mobx-vue](https://github.com/mobxjs/mobx-vue) - Vue 2 bindings for MobX.
 
 ##### Pinia
 
