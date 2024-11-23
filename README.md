@@ -833,19 +833,14 @@
 ### Interactive Experiences
 
 - [YouTube AdBlitz 2016](https://adblitz.withyoutube.com/#!/advertisers)
-- [Omnisense Experience](http://omnisense.net)
 - [Louis Ansa Website (portfolio)](http://louisansa.com)
 - [Djeco.com](http://www.djeco.com/en)
 - [Tolks.io](https://tolks.io)
 - [NOIZE original](http://noizeoriginal.com)
 - [TR-101 Synth Drum Machine](https://inverted3.gitlab.io/drum-machine)
-- [Bootstrap 4 Editor](http://www.itwonders-web.com/bootstrap4-editor/)
-- [Subtletab - Browser Extension](https://subtletab.com)
-- [web-riimote](https://web-riimote.herokuapp.com) - Turn your smartphone into a 3D controller ([source code](https://github.com/konaraddio/web-riimote))
 - [CSS ColorVars](https://csscolorvars.github.io/) - Interactive tool code generation ([source code](https://github.com/CSSColorVars/csscolorvars))
 - [Nightlight During Conflict](https://pngk.org/nightlight/) - Explore GIS data on nightlight output for countries in conflict.
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
-- [Thing](https://github.com/snturk/thing) - Breath exercise & meditation web app made with Vue.
 - [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 - [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
 
@@ -887,12 +882,9 @@
 ### A11y
 
 - [Vue A11y project](https://github.com/vue-a11y) - Vue.js community project to improve web accessibility.
-- [vue-skip-to](https://github.com/vue-a11y/vue-skip-to) - It helps people who only use the keyboard to jump to what matters most.
 - [vue-axe](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 - [vue-announcer](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
-- [eslint-plugin-vue-a11y](https://github.com/maranran/eslint-plugin-vue-a11y) - Static AST checker for accessibility rules on elements in .vue
 - [vue-focus-lock](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-- [vue-a11y-calendar](https://github.com/IBM/vue-a11y-calendar) - Accessible, internationalized Vue calendar.
 - [eslint-plugin-vuejs-accessibility](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ## Components & Libraries
@@ -906,51 +898,32 @@ _Set of components + responsive layout system_
 - [quasar-framework](https://github.com/quasarframework/quasar) - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.
 - [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js.
 - [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
-- [muse-ui](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
 - [buefy](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
 - [element-ui](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
-- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
 - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
 - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
-- [v-semantic](https://www.npmjs.com/package/v-semantic) - Implementation of [semantic-ui](https://semantic-ui.com/) for Vue
 - [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) - Bootstrap v4 components and grid system for Vue.js.
 - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
 - [zircle-ui](https://github.com/zircleUI/zircleUI) - A frontend library to develop zoomable user interfaces.
-- [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web](https://github.com/material-components/material-components-web) for Vue.js
-- [VueFace](https://github.com/sudheerj/vueface) - A Vue.js 2.0 UI Component library for Web
-- [vuecidity](https://bitbucket.org/acidmartin/vuecidity) - UI component framework for Vue.js 2.0
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue 3.2.0
 - [heyui](https://github.com/heyui/heyui) - (https://www.heyui.top/en) - A Vue.js 2.0 UI Toolkit for Web.
 - [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 - [BalmUI](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 - [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
-- [N3-components](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
-- [Shards Vue](https://github.com/designrevision/shards-vue) - ✨ Sleek & UI Components Library based on the Bootstrap 4 Framework.
-- [Fundamental Vue](https://github.com/SAP/fundamental-vue) - Components based on SAP Fiori Fundamentals.
-- [Framevuerk](https://github.com/framevuerk/framevuerk) - 🚀 Fast, Responsive, Without Dependencies, Both Direction Support and Configurable UI Framework based on Vue.js.
 - [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
 - [Inkline](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-- [vue-awesome-mui](https://github.com/Wscats/vue-awesome-mui) - A Vue.js 2.0 MUI Component for Web
 - [MDBootstrap](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 - [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
 - [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
 - [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
-- [DaoStyle](https://github.com/DaoCloud/dao-style) - A high quality component library built on Vue.js.
-- [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - ⚡ A lightweight & customizable component library to help you build accessible Vue applications and sites with speed.
-- [vue-canvas](https://github.com/loo41/vuc) - Vue canvas component for [vuc-identify](http://vuc.tianchenyong.top)
 - [oruga](https://github.com/oruga-ui/oruga) - UI components for Vue.js without CSS framework dependency.
 - [Wave UI](https://github.com/antoniandre/wave-ui) - An emerging UI framework for Vue.js with only the bright side. ☀️
-- [vectre](https://github.com/vectrejs/vectre) - A lightweight, simple and responsive component framework based on [Spectre CSS](https://picturepan2.github.io/spectre/)
 - [element3](https://github.com/kkbjs/element3) - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
-- [superBVue](https://github.com/superbvue/SuperBVue) - A Vue 3 UI Components for Web is based on bootstrap v5
-- [Qui](https://github.com/Qvant-lab/qui) - A Vue 2.x Design System for Web
-- [Mijin](https://github.com/lecoueyl/mijin) - Responsive Tailwind CSS UI components, without dependencies
 - [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - A Vue.js 3.0 UI customizable UI Framework.
 - [Qui-max](https://github.com/Qvant-lab/qui-max) - A Vue 3.x Design System for Web
 - [Naive UI](https://github.com/TuSimple/naive-ui) - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 - [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
-- [Unge UI](https://github.com/UngeUI/ungeui) - A Vue 3.x Component Library. Complete documentation support and both Chinese and English.
 - [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
 - [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
