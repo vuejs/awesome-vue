@@ -49,11 +49,9 @@
       - [Progress Bar](#progress-bar)
     - [Tooltip](#tooltip)
     - [Overlay](#overlay)
-    - [Parallax](#parallax)
     - [Icons](#icons)
     - [Marquee](#marquee)
     - [Menu](#menu)
-    - [Minus Plus Input](#minus-plus-input)
     - [Carousel](#carousel)
     - [Charts](#charts)
     - [Time](#time)
@@ -61,7 +59,6 @@
     - [Map](#map)
     - [Audio / Video](#audio--video)
     - [Infinite Scroll](#infinite-scroll)
-    - [Pull-to-refresh](#pull-to-refresh)
     - [Markdown](#markdown)
     - [PDF](#pdf)
     - [Tree](#tree)
@@ -73,12 +70,10 @@
     - [Tabs](#tabs)
     - [Form](#form)
       - [Phone Number Input Formatter](#phone-number-input-formatter)
-      - [Pincode Input](#pincode-input)
       - [Picker](#picker)
       - [Generator](#generator)
         - [Date Picker](#date-picker)
       - [Select](#select)
-      - [Slider](#slider)
       - [Drag and Drop](#drag-and-drop)
       - [Autocomplete](#autocomplete)
       - [Type Select](#type-select)
@@ -87,18 +82,13 @@
       - [Masked Input](#masked-input)
       - [Rich Text Editing](#rich-text-editing)
       - [Image Manipulation](#image-manipulation)
-      - [Video Manipulation](#video-manipulation)
       - [File Upload](#file-upload)
       - [Context Menu](#context-menu)
       - [Miscellaneous](#miscellaneous-1)
       - [Wizard](#wizard)
-      - [CSV](#csv)
-      - [Comment System](#comment-system)
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
-    - [Data Masking](#data-masking)
-    - [Authentication](#authentication)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
     - [Responsive Design](#responsive-design)
@@ -112,12 +102,10 @@
     - [Animation](#animation)
     - [Meta Tags](#meta-tags)
     - [Portal](#portal)
-    - [Filters](#filters)
     - [SVG](#svg)
     - [Miscellaneous](#miscellaneous-2)
     - [WebGL](#webgl)
     - [Fullscreen](#fullscreen)
-    - [Page visibility](#page-visibility)
     - [Printing](#printing)
   - [Utilities](#utilities)
     - [Typescript](#typescript)
@@ -126,55 +114,34 @@
     - [Custom Events](#custom-events)
     - [Persistence](#persistence)
     - [State Management](#state-management)
-      - [Redux](#redux)
       - [Mobx](#mobx)
       - [Pinia](#pinia)
       - [Authentication/Authorization](#authenticationauthorization)
       - [Vuex Utilities](#vuex-utilities)
-        - [Sync Between Tabs](#sync-between-tabs)
     - [GraphQL](#graphql)
-    - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
     - [CSS](#css)
     - [Asset Management](#asset-management)
     - [Page Navigation](#page-navigation)
     - [Miscellaneous](#miscellaneous-3)
-    - [Web Workers](#web-workers)
-    - [JSX](#jsx)
-    - [Migration](#migration)
     - [Web Sockets](#web-sockets)
-    - [Server-Sent Events](#server-sent-events)
     - [Payment](#payment)
       - [Stripe](#stripe)
-      - [Paypal](#paypal)
-      - [Plaid](#plaid)
   - [Integrations](#integrations)
     - [Vue CLI Plugins](#vue-cli-plugins)
       - [Google Analytics](#google-analytics)
-      - [Yandex Metrika](#yandex-metrika)
   - [Dev Tools](#dev-tools)
     - [Inspect](#inspect)
     - [Docs](#docs)
     - [Test](#test)
-      - [Browser-less require](#browser-less-require)
     - [Source Code Editing](#source-code-editing)
-      - [Atom](#atom)
-      - [Sublime Text](#sublime-text)
       - [Vim](#vim)
       - [Visual Studio Code](#visual-studio-code)
-      - [Visual Studio](#visual-studio)
-      - [Brackets](#brackets)
       - [Intellij](#intellij)
       - [Emacs](#emacs)
-      - [Kate](#kate)
   - [Scaffold](#scaffold)
-    - [Client](#client)
     - [Universal](#universal)
-    - [Server](#server)
     - [Electron](#electron)
-    - [Parts](#parts)
-  - [Runtime](#runtime)
-    - [Command Line / Terminal](#command-line--terminal)
   - [Prerendering](#prerendering)
 
 <!-- md-parser-start -->
@@ -1105,10 +1072,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
 
-#### Parallax
-
-*TODO*
-
 #### Icons
 
 - [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
@@ -1133,10 +1096,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
 - [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 - [navpress](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
-
-#### Minus Plus Input
-
-*TODO*
 
 #### Carousel
 
@@ -1198,10 +1157,6 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
-
-#### Pull-to-refresh
-
-*TODO*
 
 #### Markdown
 
@@ -1279,10 +1234,6 @@ _Let the user create & edit data_
 
 - [vue-tel-input](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
 
-##### Pincode Input
-
-*TODO*
-
 ##### Picker
 
 - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.
@@ -1313,10 +1264,6 @@ _Date / datetime / time Picker_
 - [@vueform/multiselect](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
 - [vue3-select-component](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more ~4.4KB
 
-##### Slider
-
-*TODO*
-
 ##### Drag and Drop
 
 - [vuedraggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
@@ -1325,12 +1272,6 @@ _Date / datetime / time Picker_
 - [vue3-dnd](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 - [sortablejs-vue3](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 - [vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
-
-##### Autocomplete
-
-_Autosuggest / autocomplete / typeahead_
-
-*TODO*
 
 ##### Type Select
 
@@ -1382,10 +1323,6 @@ _Display images_
 
 - [TwicPics](https://github.com/TwicPics/components) - Components replacing img and video tags with lazy loading, CLS optimization, and progressive loading out-of-the-box and enabling media optimization and manipulation.
 
-##### Video Manipulation
-
-*TODO*
-
 ##### File Upload
 
 - [vue-upload-component](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports Vue >= 2.0
@@ -1407,14 +1344,6 @@ _Display images_
 - [vue-stepper-component](https://github.com/adi518/vue-stepper-component) - A fully customizable Stepper component with Vuex support and Zero dependencies.
 - [vue3-form-wizard](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
 
-##### CSV
-
-*TODO*
-
-##### Comment System
-
-*TODO*
-
 #### Canvas
 
 - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
@@ -1428,14 +1357,6 @@ _Display images_
 #### Tour
 
 - [vue-stage-play](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
-
-#### Data Masking
-
-*TODO*
-
-#### Authentication
-
-*TODO*
 
 ### UI Utilities
 
@@ -1476,10 +1397,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 
 #### Scroll
 
-_Set window scroll position_
-
-*TODO*
-
 _Virtual scrollbar_
 
 - [vuescroll](https://github.com/YvesCoding/vuescroll) - A scrolling plugin based on Vue.js for uniforming the scrolling in PC and mobile.
@@ -1487,14 +1404,6 @@ _Virtual scrollbar_
 _Detect when components enter viewport_
 
 - [vue-use-active-scroll](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
-
-_Customize the scroll behavior_
-
-*TODO*
-
-_Seamless scrolling_
-
-*TODO*
 
 #### Routing
 
@@ -1545,10 +1454,6 @@ _Move a DOM node to a target DOM node_
 - [Official: Vue Teleport](https://vuejs.org/guide/built-ins/teleport)
 - [portal-vue](https://portal-vue.linusb.org/) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
 
-#### Filters
-
-*TODO*
-
 #### SVG
 
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
@@ -1569,10 +1474,6 @@ _Move a DOM node to a target DOM node_
 #### Fullscreen
 
 - [vue-fullscreen](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen, support Vue2 and Vue3.
-
-#### Page visibility
-
-*TODO*
 
 #### Printing
 
@@ -1635,10 +1536,6 @@ _LocalStorage etc._
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
-##### Redux
-
-*TODO*
-
 ##### Mobx
 
 - [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
@@ -1658,18 +1555,10 @@ _LocalStorage etc._
 - [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
 - [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
 
-###### Sync Between Tabs
-
-*TODO*
-
 #### GraphQL
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo) - Apollo/GraphQL integration for VueJS.
 - [apollo-vue-devtools](https://github.com/storipress/apollo-vue-devtools) - Apollo integration for Vue-Devtools to inspect GraphQL queries in the vue-devtools timeline
-
-#### Concurrency Management
-
-*TODO*
 
 #### Code Style
 
@@ -1702,25 +1591,9 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-safe-html](https://github.com/ecosia/vue-safe-html) - Vue.js directive which renders sanitised HTML dynamically.
 - [@skirtle/vue-vnode-utils](https://github.com/skirtles-code/vue-vnode-utils) - Helper functions for working with slot VNodes inside render functions in Vue 3
 
-#### Web Workers
-
-*TODO*
-
-#### JSX
-
-*TODO*
-
-#### Migration
-
-*TODO*
-
 #### Web Sockets
 
 - [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended) - Socket.io bindings for Vue.js and Vuex
-
-#### Server-Sent Events
-
-*TODO*
 
 #### Payment
 
@@ -1730,14 +1603,6 @@ Payment utilities.
 
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 - [vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
-
-##### Paypal
-
-*TODO*
-
-##### Plaid
-
-*TODO*
 
 ### Integrations
 
@@ -1756,10 +1621,6 @@ _Integrate with services or other frameworks_
 ##### Google Analytics
 
 - [vue-gtag](https://github.com/MatteoGabriele/vue-gtag) - Global Site Tag plugin for Vue
-
-##### Yandex Metrika
-
-*TODO*
 
 ### Dev Tools
 
@@ -1791,23 +1652,9 @@ _Create documentation_
 - [jest-serializer-vue-tjw](https://github.com/tjw-lint/vue3-snapshot-serializer) - Improved formatting of Jest Snapshots
 - [vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
-##### Browser-less require
-
-_Load Vue components without browser_
-
-*TODO*
-
 #### Source Code Editing
 
 _Text editor plugins_
-
-##### Atom
-
-*TODO*
-
-##### Sublime Text
-
-*TODO*
 
 ##### Vim
 
@@ -1818,14 +1665,6 @@ _Text editor plugins_
 - [Vue Language Tools (Volar)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
 - [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 
-##### Visual Studio
-
-*TODO*
-
-##### Brackets
-
-*TODO*
-
 ##### Intellij
 
 - [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs), IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
@@ -1833,10 +1672,6 @@ _Text editor plugins_
 ##### Emacs
 
 - [Vue Mode](https://github.com/CodeFalling/vue-mode) - Emacs major mode for vue.js.
-
-##### Kate
-
-*TODO*
 
 ### Scaffold
 
@@ -1854,41 +1689,17 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-x-platforms](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 - [mevn-boilerplate](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
-#### Client
-
-_Render Vue application in the browser only_
-
-*TODO*
-
 #### Universal
 
 _Render Vue application to HTML on the server and to the DOM in the browser_
 
 - [Vue.js/Nuxt.js full-featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
-#### Server
-
-_Includes a backend boilerplate_
-
-*TODO*
-
 #### Electron
 
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vutron](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
-
-#### Parts
-
-_Scaffold parts of the app_
-
-*TODO*
-
-### Runtime
-
-#### Command Line / Terminal
-
-*TODO*
 
 ### Prerendering
 
