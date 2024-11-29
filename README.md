@@ -2304,6 +2304,7 @@ _Let the user create & edit data_
 
 ##### Generator
 
+- [vuetify-jsonschema-form](https://github.com/koumoul-dev/vuetify-jsonschema-form) - Create beautiful and low-effort forms that output valid data (JSON Schema, Vuetify).
 - [FormSchema Native](https://github.com/formschema/native) - Generate a form using JSON Schema and Vue.js
 - [vue-generator](https://github.com/michaellyu/vue-generator) - Initial router and components for the Vue project.
 - [vue-form-json](https://github.com/14nrv/vue-form-json) - Generate a vue form with validation and bulma style, from json
