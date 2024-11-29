@@ -3312,6 +3312,7 @@ _Improve readability of code_
 - [vue-types](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions.
 - [vue-factory](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for Vue.js projects.
+- [eslint-plugin-vue-test-utils](https://github.com/BeProductiv/eslint-plugin-vue-test-utils) - Eslint plugin for `@vue/test-utils`
 - [vue-decorators](https://github.com/partyka95/vue-decorators) - Decorators for Vue.js (beta).
 - [vue-computed-helpers](https://github.com/michalsnik/vue-computed-helpers) - Computed helpers for Vue.js apps
 - [vert](https://github.com/LancerComet/Vert-Core) - Library to build Vue applications in OOP.
