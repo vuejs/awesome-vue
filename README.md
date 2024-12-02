@@ -3209,6 +3209,8 @@ _LocalStorage etc._
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [hami-vuex](https://github.com/guyskk/hami-vuex) - 🍈 Hami melon flavored Vuex, modular by design, completely TypeScript intelligence, state management for Vue.js.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+- [vue-form-watchers](https://github.com/HelixForge/vue-form-watchers) - Automatic debounced watchers for reactive form fields with external update handling.
+
 
 ##### Redux
 
