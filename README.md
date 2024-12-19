@@ -1107,6 +1107,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/vue3-flicking/README.md) - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
 - [swiper](https://github.com/nolimits4web/swiper) - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 - [vue-concise-carousel](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
+- [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 
 #### Charts
 
