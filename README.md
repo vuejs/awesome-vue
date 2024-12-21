@@ -959,6 +959,7 @@ _Set of admin template_
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [vue-start-admin](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
+- [Spike Vue Admin Template Free](https://github.com/wrappixel/spike-vue-free/) Forever for Vue Developers
 
 #### Server-side rendering
 
