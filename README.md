@@ -959,7 +959,13 @@ _Set of admin template_
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [vue-start-admin](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
-
+- [Matdash Vuejs Admin Dashboard](https://github.com/adminmart/Matdash-vuetify-free) - A highly customizable dashboard build with vuetify and vue3 [Live Demo](https://matdash-vue3-free.netlify.app/)
+- [Modernize Vuejs Admin Dashboard](https://github.com/adminmart/Modernize-vuejs-free) - Developer friendly modern vue3 admin dashboard. [Live Demo](https://modernize-vue3-free.netlify.app/)
+- [MaterialM Vuetify Vuejs Admin Template](https://github.com/wrappixel/Materialm-vuejs-free) - A modern open source vue admin. It is based on Vuejs, vite and TypeScript.  [Live Demo](https://materialm-vuejs-free.netlify.app/)
+- [Spike Vuejs Admin Template](https://github.com/wrappixel/spike-vue-free) - An Admin template built with vuetify and vuejs  [Live Demo](https://spike-vue-free.netlify.app/)
+- [Flexy Vuejs Admin Template](https://github.com/wrappixel/Flexy-vuejs-free) - A highly adaptable template built vue-router, vuex and vuetify.  [Live Demo](https://flexy-vuejs-free.netlify.app/dashboard)
+- [AdminPro Vuejs Lite](https://github.com/wrappixel/adminpro-vuetify-lite) - This admin dashboard is based on vuejs and vuetify.  [Live Demo](https://adminpro-vue-free.netlify.app/)
+- [MaterialPro Vuetify Admin Lite](https://github.com/wrappixel/materialpro-vuetify-lite) - A highly powerful and customizable admin dashbord built with vuejs and vuetify.  [Live Demo](https://materialpro-vue-free.netlify.app/)
 #### Server-side rendering
 
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
