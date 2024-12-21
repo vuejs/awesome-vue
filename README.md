@@ -529,7 +529,7 @@
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
 - [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
-
+- [Vuejs Templates Download  136 +  Free  &  Premium Themes](https://vuejs-templates.com/) for Modern Vue Developers
 ### Courses
 
 - [Learn Vue by Building and Deploying a CRUD App](https://testdriven.io/courses/learn-vue/) - This course is focused on teaching the fundamentals of Vue by building and testing a web application using Test-Driven Development (TDD).
