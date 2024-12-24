@@ -797,6 +797,7 @@
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
+- [JavaScript Quiz](https://javascriptquiz.com) - Test your JavaScript knowledge with fun, interactive quizzes and practice challenges. Improve your coding skills online with free JavaScript quizzes.
 
 ### Interactive Experiences
 
