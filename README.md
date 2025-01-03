@@ -1022,6 +1022,7 @@ _Tables / data grids_
 - [tanstack-table](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vxe-table](https://github.com/x-extends/vxe-table) - Vue form/table solution.
+- [hy-vue-gantt](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
 
 #### Notification
 
