@@ -1444,6 +1444,7 @@ _Detect when components enter viewport_
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
+- [vue-to-counter](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
 
 #### Meta Tags
 
