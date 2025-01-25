@@ -548,7 +548,6 @@
 
 ### Open Source
 
-- [fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
@@ -614,6 +613,8 @@
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 - [douyin](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
+- [fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+
 
 ### Commercial Products
 
