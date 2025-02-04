@@ -1248,6 +1248,7 @@ _Let the user create & edit data_
 
 - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.
 - [vue-roller-picker](https://github.com/keiwen/vue-roller-picker) - Roll-designed selector component for vue3
+- [vue-smooth-picker](https://github.com/hiyali/vue-smooth-picker) - A SmoothPicker for Vue 3 (like native datetime picker of iOS)
 
 ##### Generator
 
