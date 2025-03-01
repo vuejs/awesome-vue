@@ -529,6 +529,7 @@
 - [Vue.js from scratch series](https://www.youtube.com/playlist?list=PLLhEJK7fQIxDWDJEyeT68wT8ZroODeRuw) on YouTube by Paris Nakita Kejser
 - [10 Quick-Fire Vue Interview Questions](https://medium.com/javascript-in-plain-english/10-quick-fire-vue-interview-questions-3c16d14a3b51)
 - [VueJS Admin Template](https://themeselection.com/vuejs-admin-template/) - Collection of awesome opens source and premium VueJS Admin Templates.
+- [Vue Cheatsheet](https://medium.com/@codedthemes/vue-js-cheatsheet-1792add7edf5)
 
 ### Courses
 
@@ -615,6 +616,8 @@
 - [douyin](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 - [MyIP](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 - [fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+- [Berry Free Vue Dashboard](https://github.com/codedthemes/berry-free-vuetify-vuejs-admin-template) - Free Material admin dashboard template built with Vue.
+- [Mantis Free Vue Dashboard](https://github.com/codedthemes/mantis-free-vuetify-vuejs-admin-template) - A simple modern admin dashboard template built with Vue.
 
 ### Commercial Products
 
@@ -962,6 +965,8 @@ _Set of admin template_
 - [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 - [vue-start-admin](https://github.com/loicduong/vue-start-admin) - A modern adaptation of the Start Vue Free - Admin Dashboard Template by KeenThemes.
 - [soybean-admin](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
+- [Berry Vue Admin Template](https://codedthemes.com/item/berry-vue-admin-dashboard/) - A modern & customizable Vue dashboard for sleek and efficient web apps.
+- [Mantis Vue Admin Template](https://codedthemes.com/item/mantis-vue-admin-template/) - A feature-rich Vue dashboard with a clean and modern UI.
 
 #### Server-side rendering
 
