@@ -799,6 +799,7 @@
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
+- [Inventory Management System](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System) - 🔥 A powerful and ready-to-use inventory management system, based on ASP.NET Core built with Monolithic Clean Architecture, CQRS, and MediatR. It features a completely RESTful API for seamless integration and a modern front-end powered by Vue.js.
 
 ### Interactive Experiences
 
