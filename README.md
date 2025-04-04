@@ -800,6 +800,7 @@
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
+- [Nano Portfolio](https://nano-portfolio-ruby.vercel.app) - A modern and SEO friendly full-stack developer portfolio template that can automatically import Github profile and repository information. Built with Nuxt3, Nuxt UI, TailwindCSS, MongoDB and Resend. Support I18n for English, Japanese and Chinese.
 
 ### Interactive Experiences
 
