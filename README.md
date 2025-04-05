@@ -470,6 +470,7 @@
 - [Vitesse Starter](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 - [Vitesse-lite Starter](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 - [Vue Tic Tac Toe | Cerito Cruz](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
+- [Vue Quotes](https://github.com/EduardoProfe666/vue-quotes) by [@EduardoProfe666](https://github.com/EduardoProfe666): Fully customizable and documented quotes application template developed using Vue 3, Vite, TypeScript, and Tailwind, featuring internationalization, export capabilities, badges, search functionality, and theme options. 
 
 ### Books
 
