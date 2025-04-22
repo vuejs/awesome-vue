@@ -638,6 +638,7 @@
 - [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+- [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) - A powerful PDF viewer for Vue.js, offering interactive viewing experience, mobile responsive and customization options for seamless integration. Save you weeks of development time.
 
 ### Apps/Websites
 
