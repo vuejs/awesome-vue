@@ -1156,6 +1156,7 @@ _Display non-editable events in a Calendar_
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 - [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+- [@vuemap/vue-amap](https://github.com/yangyanggu/vue-amap) - Vue 2.x and Vue 3.x component for AMap Maps.
 
 #### Audio / Video
 
