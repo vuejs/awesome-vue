@@ -587,8 +587,6 @@
 - [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 - [Pychat](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 - [CodeceptJS UI](https://github.com/codecept-js/ui) - Cypress-liked UI for ✔️ CodeceptJS end 2 end tests ✔️.
-- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) - Vue port of the jQuery-based PivotTable.js
-- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue port of the javascript-based DataMaps
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 - [Savycart](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 - [Afterman](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
@@ -1030,7 +1028,8 @@ _Tables / data grids_
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vxe-table](https://github.com/x-extends/vxe-table) - Vue form/table solution.
 - [hy-vue-gantt](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
-- [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) - A Vue 3 port of the jQuery-based PivotTable.js library.
+- [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) – A Vue 2 port of the jQuery-based PivotTable.js.
+- [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 
 #### Notification
 
@@ -1158,6 +1157,7 @@ _Display non-editable events in a Calendar_
 - [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) - Vue 3 components to work with OpenLayers.
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 - [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+- [Vue Datamaps](https://github.com/Seungwoo321/vue-datamaps) - Vue 2 port of the javascript-based DataMaps
 
 #### Audio / Video
 
