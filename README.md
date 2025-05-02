@@ -1029,6 +1029,7 @@ _Tables / data grids_
 - [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 - [vxe-table](https://github.com/x-extends/vxe-table) - Vue form/table solution.
 - [hy-vue-gantt](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
+- [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) - A Vue 3 port of the jQuery-based PivotTable.js library.
 
 #### Notification
 
