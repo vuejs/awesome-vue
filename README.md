@@ -1085,7 +1085,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
@@ -1285,6 +1285,7 @@ _Date / datetime / time Picker_
 
 ##### Drag and Drop
 
+- [Vue DnD Kit](https://github.com/zizigy/vue-dnd-kit) - A lightweight, performant drag and drop toolkit for Vue 3 with composable API, keyboard navigation, accessibility support, and advanced customization options. Supports any cases, and touch devices. Inspired by React DnD Kit
 - [vuedraggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 - [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
 - [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.
@@ -1728,7 +1729,9 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 ### Prerendering
 
 - [vue-genesis](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+
   <!-- md-parser-end -->
+
   <br/>
   <br/>
   <br/>
