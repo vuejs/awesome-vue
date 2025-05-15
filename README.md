@@ -473,6 +473,7 @@
 - [Vitesse-lite Starter](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 - [Vue Tic Tac Toe | Cerito Cruz](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 - [i18n boilerplate Intlayer + Vue 3 + Vite](https://github.com/aymericzip/intlayer-vite-vue-template)
+- [tab-toolkit](https://github.com/mioe/tab-toolkit) - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
 
 ### Books
 
