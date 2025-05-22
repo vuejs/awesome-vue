@@ -1173,6 +1173,8 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
+- [vue-infinity](https://github.com/isaact/vue-infinity) - An  easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
+
 
 #### Markdown
 
