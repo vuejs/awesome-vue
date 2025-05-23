@@ -977,6 +977,7 @@ _Set of admin template_
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 - [îles](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
 - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [VueBro](https://vuebro.github.io) - 👊 Interactive Vue powered CSC (Client-Side Compilation) static site generator.
 
 #### Other
 
