@@ -1173,6 +1173,8 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
+- [vue-infinity](https://github.com/isaact/vue-infinity) - An  easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
+
 
 #### Markdown
 
@@ -1546,6 +1548,7 @@ _Internationalization / L10n / localization / translation_
 - [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 - [vue-intlayer](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 - [vue-tiny-translation](https://github.com/makio64/vue-tiny-translation) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
+- [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
 
 #### Custom Events
 
