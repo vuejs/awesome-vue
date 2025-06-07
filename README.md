@@ -252,9 +252,9 @@
 - [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e10-evolucion-de-vue-parte-ii)
 - [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e11-evolucion-de-vue-parte-iii)
 - [React vs Vue - their communities (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e8-react-vs-vue-las-comunidades)
-- [Pinia and friends in 2025 with @posva (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s3-e7-pinia-y-sus-amigos-en-2025-con-posva)
 - [Views on Vue (weekly podcast on Vue)](https://topenddevs.com/podcasts/views-on-vue)
 - [DejaVue - The Vue podcast to remember](https://dejavue.fm/)
+- [Pinia and friends in 2025 with @posva (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s3-e7-pinia-y-sus-amigos-en-2025-con-posva)
 
 ### Official Examples
 
