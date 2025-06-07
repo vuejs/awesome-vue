@@ -804,6 +804,7 @@
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 - [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
 - [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
+- [Phare](https://phare.io) - Uptime monitoring, alerts, incidents, analytics, and status pages, all jammed into one shockingly good platform.
 
 ### Interactive Experiences
 
