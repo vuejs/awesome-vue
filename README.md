@@ -1054,6 +1054,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-loading-overlay](https://github.com/ankurk91/vue-loading-overlay) - Tiny full screen loading indicator
 - [vue-ellipse-progress](https://github.com/setaman/vue-ellipse-progress) - A flexible Vue.js component to create beautiful animated circular progress bars and loaders
 - [vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+- [vue-skeleton-content-loader](https://github.com/willmendesneto/vue-skeleton-content-loader) - Lightweight and accessible library to make beautiful, animated loading skeletons that automatically adapt to your Vue app
 
 ##### Progress Bar
 
