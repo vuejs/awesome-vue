@@ -1407,6 +1407,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 - [Vorm](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
+- [VueFormify](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
 
 ##### Validation
 
