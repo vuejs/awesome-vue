@@ -1411,6 +1411,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [tracked-instance](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 - [Vorm](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
 - [VueFormify](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
+- [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
 
 ##### Validation
 
