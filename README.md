@@ -9,7 +9,7 @@
 
 > A curated list of awesome things related to Vue.js
 
-- [Awesome Vue.js ](#awesome-vuejs--)
+- [Awesome Vue.js  ](#awesome-vuejs--)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
@@ -75,7 +75,6 @@
         - [Date Picker](#date-picker)
       - [Select](#select)
       - [Drag and Drop](#drag-and-drop)
-      - [Autocomplete](#autocomplete)
       - [Type Select](#type-select)
       - [Color Picker](#color-picker)
       - [Switch](#switch)
@@ -643,6 +642,8 @@
 - [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
+- [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
+
 
 ### Apps/Websites
 
