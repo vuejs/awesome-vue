@@ -1037,6 +1037,7 @@ _Tables / data grids_
 - [hy-vue-gantt](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
 - [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) – A Vue 2 port of the jQuery-based PivotTable.js.
 - [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
+- [GridSheet](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
 
 #### Notification
 
