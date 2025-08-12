@@ -1427,6 +1427,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
+- [vue-uform](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
 
 #### Resize
 
