@@ -1678,6 +1678,7 @@ _Inspecting & debugging_
 
 - [devtools](https://github.com/vuejs/devtools) - Chrome devtools extension for debugging Vue.js applications.
 - [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
+- [vue-flow-vis](https://github.com/MiloradFilipovic/vue-flow-vis) - real-time monitoring of component renders and reactive dependency tracking
 
 #### Docs
 
