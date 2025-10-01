@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vuejs-awesome-vue-badge.png)](https://mseep.ai/app/vuejs-awesome-vue)
+
 <p align="center">
   <br>
   <img width="400" src="./assets/logo.svg" alt="logo of vue-awesome repository">
