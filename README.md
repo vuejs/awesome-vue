@@ -1678,6 +1678,7 @@ _Integrate with services or other frameworks_
 
 - [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
 - [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
+- [Roundtable](https://github.com/askbudi/roundtable) - Zero-configuration MCP server that unifies multiple AI assistants (Claude Code, Cursor, GPT-4, etc.) into a single development workflow for Vue.js projects.
 - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
