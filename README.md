@@ -1428,6 +1428,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [VueFormify](https://github.com/mateenagy/vue-formify) - Build powerful, type-safe forms in Vue 3.
 - [Enforma](https://encolajs.com/enforma/) - UI agnostic, schema-ready form library for Vue 3. 30+ built-in validation rules. UI presets for Vuetify, PrimeVue and Quasar
 - [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Vue 3
+- [Formisch](https://formisch.dev/vue/guides/introduction/) - A form library with focus on performance, type safety and bundle size
 
 ##### Validation
 
