@@ -1475,6 +1475,9 @@ _Detect when components enter viewport_
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 - [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 - [vue-pagination](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
+- [@nabaraj/vue-pagination](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
+
+
 
 #### Animation
 
