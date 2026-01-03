@@ -178,6 +178,7 @@
 - [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 - [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints.
 
 ### Job Portal
 
