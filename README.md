@@ -643,6 +643,7 @@
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
+- [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
 
 
 ### Apps/Websites
