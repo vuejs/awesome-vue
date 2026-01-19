@@ -1711,6 +1711,7 @@ _Create documentation_
 - [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - A style guide generator for Vue components with a living style guide.
 - [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
+- [Heroshot](https://github.com/omachala/heroshot) - Automate documentation screenshots with Vue component integration and theme-aware output.
 
 #### Test
 
