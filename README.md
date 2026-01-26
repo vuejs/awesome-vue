@@ -88,6 +88,13 @@
     - [Canvas](#canvas)
     - [Link Preview](#link-preview)
     - [Tour](#tour)
+    - [Breadcrumbs](#breadcrumbs)
+    - [Button](#button)
+    - [Card](#card)
+    - [Footer](#footer)
+    - [Hero](#hero)
+    - [Label](#label)
+    - [Settings](#settings)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
     - [Responsive Design](#responsive-design)
@@ -178,6 +185,7 @@
 - [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 - [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
+- [TODOvue Blog](https://github.com/TODOvue/todo-vue) - Guides and tutorials on creating modern components with Vue.js. [Website](https://todovue.blog/)
 
 ### Job Portal
 
@@ -1054,6 +1062,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
 - [notivue](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
 - [Toastflow](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
+- [@todovue/tv-alert](https://github.com/TODOvue/tv-alert) - A simple and customizable alert component for Vue.js applications [demo](https://ui.todovue.blog/alert)
 
 #### Loader
 
@@ -1073,6 +1082,7 @@ _A slim progress bar at the top of the page_
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
 - [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
+- [@todovue/tv-progress-bar](https://github.com/TODOvue/tv-progress-bar) - A simple and customizable progress bar component for Vue.js applications. [demo](https://ui.todovue.blog/progressbar)
 
 #### Tooltip
 
@@ -1096,6 +1106,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 - [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+- [@todovue/tv-modal](https://github.com/TODOvue/tv-modal) - A customizable modal component for TODOvue, supporting various sizes, animations, and overlay options. [demo](https://ui.todovue.blog/modal)
 
 #### Icons
 
@@ -1122,6 +1133,8 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-use-fixed-header](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 - [navpress](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
 - [vue-my-dropdown](https://github.com/david-cm-dev/vue-my-dropdown) - A customizable dropdown component for Vue 3 with TypeScript support.
+- [@todovue/tv-menu](https://github.com/TODOvue/tv-menu) - A Vue menu component with modern design and easy customization. [demo](https://ui.todovue.blog/menu)
+- [@todovue/tv-sidebar](https://github.com/TODOvue/tv-sidebar) - A versatile sidebar component for TODOvue, offering customizable layouts, themes, and responsive design options. [demo](https://ui.todovue.blog/sidebar)
 
 
 #### Carousel
@@ -1154,6 +1167,7 @@ _Display time / date / age_
 - [bs-vue-timeline](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+- [@todovue/tv-relative-time](https://github.com/TODOvue/tv-relative-time) - TvRelativeTime is a minimal and customizable component to display human-readable relative dates. [demo](https://ui.todovue.blog/relativetime)
 
 #### Calendar
 
@@ -1196,6 +1210,8 @@ _Display non-editable events in a Calendar_
 
 - [@f3ve/vue-markdown-it](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
 - [Vue Markdown](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
+- [@todovue/tv-article](https://github.com/TODOvue/tv-article) - Reading container (typography/prose) for Markdown: <h1–h6> styles, paragraphs, lists, quotes, tables, in-article images, column widths, spacing, and dark mode. [demo](https://ui.todovue.blog/article)
+- [@todovue/tv-toc](https://github.com/TODOvue/tv-toc) - TvToc is a simple table of contents component for Vue 3 that automatically generates a TOC based on the headings in your content. [demo](https://ui.todovue.blog/toc)
 
 #### PDF
 
@@ -1232,6 +1248,7 @@ _Display non-editable events in a Calendar_
 
 - [reactivesearch-vue](https://github.com/appbaseio/reactivesearch) - UI components for building data-driven apps with Elasticsearch
 - [vue-search-input](https://github.com/kouts/vue-search-input) - A Vue 3 search input component, inspired by the global search input of Storybook and GitHub.
+- [@todovue/tv-search](https://github.com/TODOvue/tv-search) - TvSearch provides a fast, accessible, and fully customizable search interface for Vue 3 apps. [demo](https://ui.todovue.blog/search)
 
 #### Miscellaneous
 
@@ -1258,6 +1275,7 @@ _Display non-editable events in a Calendar_
 - [vue-wheel-spinner](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
 - [vue-progress-circle](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
 - [vuehex](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
+- [@todovue/tv-demo](https://github.com/TODOvue/tv-demo) - TvDemo component is a useful tool for viewing and testing different variations of components on different themes. [demo](https://ui.todovue.blog/demo)
 
 #### Tabs
 
@@ -1403,6 +1421,36 @@ _Display images_
 
 - [vue-stage-play](https://github.com/f820602h/vue-stage-play) - Step-by-step guided tour components for Vue3.
 
+#### Breadcrumbs
+
+- [@todovue/tv-breadcrumbs](https://github.com/TODOvue/tv-breadcrumbs) - A simple and customizable Vue 3 breadcrumbs component for TODOvue app [demo](https://ui.todovue.blog/breadcrumbs)
+
+#### Button
+
+- [@todovue/tv-button](https://github.com/TODOvue/tv-button) - TvButton is a custom button component for web applications. [demo](https://ui.todovue.blog/button)
+- [@todovue/tv-theme-button](https://github.com/TODOvue/tv-theme-button) - TvThemeButton is a lightweight and customizable Vue component that allows users to switch between light and dark themes in your application. [demo](https://ui.todovue.blog/themebutton)
+- [@todovue/tv-scroll-top](https://github.com/TODOvue/tv-scroll-top) - A Vue 3 component to show a button that scrolls the page to the top when clicked. [demo](https://ui.todovue.blog/scrolltop)
+
+#### Card
+
+- [@todovue/tv-card](https://github.com/TODOvue/tv-card) - TvCard is a customizable and flexible card component for Vue 3 applications. [demo](https://ui.todovue.blog/card)
+
+#### Footer
+
+- [@todovue/tv-footer](https://github.com/TODOvue/tv-footer) - A simple and customizable footer component for Vue.js applications, perfect for enhancing your web projects with ease. [demo](https://ui.todovue.blog/footer)
+
+#### Hero
+
+- [@todovue/tv-hero](https://github.com/TODOvue/tv-hero) - A customizable hero component for TODOvue, featuring responsive design, multiple layout options, and call-to-action support. [demo](https://ui.todovue.blog/hero)
+
+#### Label
+
+- [@todovue/tv-label](https://github.com/TODOvue/tv-label) - TvLabel is a lightweight and customizable label (chip) component designed to highlight statuses, categories, or tags within your UI. [demo](https://ui.todovue.blog/label)
+
+#### Settings
+
+- [@todovue/tv-settings](https://github.com/TODOvue/tv-settings) - Component to show settings panel in your Vue 3 applications. Easy to integrate and customize. [demo](https://ui.todovue.blog/settings)
+
 ### UI Utilities
 
 #### Event Handling
@@ -1482,8 +1530,7 @@ _Detect when components enter viewport_
 - [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 - [vue-pagination](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
 - [@nabaraj/vue-pagination](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
-
-
+- [@todovue/tv-pagination](https://github.com/TODOvue/tv-pagination) - A simple and customizable pagination component for Vue.js applications. [demo](https://ui.todovue.blog/pagination)
 
 #### Animation
 
