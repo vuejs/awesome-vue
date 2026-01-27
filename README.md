@@ -176,6 +176,10 @@
 - [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
 
+###
+
+- [Weekly Vue news](https://weekly-vue.news/) - A weekly newsletter with the most interesting Vue & Nuxt News, Tutorials, Projects, and Tools.
+
 ### Job Portal
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
