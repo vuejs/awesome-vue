@@ -1039,6 +1039,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
 - [vue-icomoon](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 - [vue-icons](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+- [hugeicons](https://github.com/hugeicons/vue) - Vue component library with 4,600+ free stroke-rounded style icons
 
 #### Marquee
 
