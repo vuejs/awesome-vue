@@ -5,4 +5,4 @@ jobs:
     name: TOC Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: technote-space/toc-generator@v4
+      - uses: technote-space/toc-generator@9e238e7974de5fcf7b17b7acc54c896160dda0a3 # v4.3.1
