@@ -4,6 +4,9 @@ on:
     types: [opened, synchronize]
     branches:
       - master
+permissions:
+  contents: read
+  pull-requests: read
 jobs:
   build:
     name: awesome readme lint double link
