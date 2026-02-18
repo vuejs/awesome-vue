@@ -16,7 +16,7 @@
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [External Resources](#external-resources)
-  - [](#)
+  - [Newsletters](#newsletters)
   - [Job Portal](#job-portal)
   - [Community](#community)
   - [Conferences](#conferences)
@@ -181,7 +181,7 @@
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
 - [TODOvue Blog](https://github.com/TODOvue/todo-vue) - Guides and tutorials on creating modern components with Vue.js. [Website](https://todovue.blog/)
 
-###
+### Newsletters
 
 - [Weekly Vue news](https://weekly-vue.news/) - A weekly newsletter with the most interesting Vue & Nuxt News, Tutorials, Projects, and Tools.
 
