@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: Scrum/awesome-readme-lint-double-link-action@v0.1.13
+      - uses: Scrum/awesome-readme-lint-double-link-action@cea741ae76b31fdde3e5105e964e98a2adbf60ed # v0.1.13
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
