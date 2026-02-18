@@ -1,4 +1,9 @@
-on: push
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'README.md'
 name: TOC Generator
 permissions:
   contents: write
