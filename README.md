@@ -1014,6 +1014,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
 - [vue-icons](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+- [hugeicons](https://github.com/hugeicons/vue) - Beautiful, production-ready icons for Vue projects
 
 #### Marquee
 
