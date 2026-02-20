@@ -3,6 +3,8 @@
 1. Make sure you put things in the right category!
 2. Always add your items to the end of a list. To be fair, the order is first-come-first-serve.
 3. If you think something belongs in the wrong category, or think there needs to be a new category, feel free to edit things too.
+4. The list should contain awesome things. Just useful is not enough, especially if its for niche use cases. 
+5. If your library has a lot of overlap, or just supports a subset of one of the 'Truly awesome' project then the bar for inclusion is even higher.
 
 ## Projects using Vuejs
 
