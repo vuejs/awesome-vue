@@ -162,6 +162,14 @@
 - [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
 - [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
+### Truly awesome projects
+
+These projects are exceptionally high quality, have a proven trackrecord, and are virtually indispensable.
+
+ - [Vue DevTools](https://github.com/vuejs/devtools) - Browser devtools extension for debugging Vue.js applications.
+ - [unplugin-icons](https://github.com/unplugin/unplugin-icons) - On-demand icon loader supporting all known popular icon sets
+ - [vue-i18n](https://github.com/intlify/vue-i18n) - Internationalization plugin for Vue.js
+
 ### External Resources
 
 - [Vue.js 資料まとめ(for japanese)](https://gist.github.com/hashrock/f575928d0e109ace9ad0) by @hashrock
