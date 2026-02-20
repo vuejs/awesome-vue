@@ -15,6 +15,7 @@
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
+  - [Truly awesome projects](#truly-awesome-projects)
   - [External Resources](#external-resources)
   - [Newsletters](#newsletters)
   - [Job Portal](#job-portal)
@@ -53,7 +54,6 @@
       - [Progress Bar](#progress-bar)
     - [Tooltip](#tooltip)
     - [Overlay](#overlay)
-    - [Icons](#icons)
     - [Marquee](#marquee)
     - [Menu](#menu)
     - [Carousel](#carousel)
