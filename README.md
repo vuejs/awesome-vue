@@ -841,6 +841,7 @@ _Set of components + responsive layout system_
 - [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
 - [flowbite-vue](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 - [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
+- [JSuites](https://github.com/jsuites/jsuites) – Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
 
 #### Mobile
 
@@ -964,6 +965,9 @@ _Tables / data grids_
 - [Vue Pivottable](https://github.com/Seungwoo321/vue-pivottable) – A Vue 2 port of the jQuery-based PivotTable.js.
 - [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) – A Vue 3 port of the jQuery-based PivotTable.js.
 - [GridSheet](https://github.com/walkframe/gridsheet) - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
+- [Jspreadsheet CE](https://github.com/jspreadsheet/ce) – Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
+- [TabularJS](https://github.com/jspreadsheet/tabularjs) – Lightweight JavaScript table and data grid library for advanced table features in Angular.
+
 
 #### Notification
 
@@ -1074,6 +1078,7 @@ _Display non-editable events in a Calendar_
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
 - [schedule-x](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 - [vue-calendar](https://github.com/Kodeglot/vue-calendar) - A fully-featured, customizable calendar date picker component for Vue 3 with built-in Tailwind CSS support. Perfect for building scheduling applications, event calendars, and date pickers.
+- [CalendarJS](https://github.com/jspreadsheet/calendarjs) – Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 
 #### Map
 
