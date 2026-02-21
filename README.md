@@ -1060,6 +1060,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 _Display time / date / age_
 
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
+- [vue-dynamic-clock-component](https://github.com/Brian-Zavala/dynamic-clock-vue-typescript) - Beautiful animated clock component with 20+ gradient themes for Vue 3
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
 
 #### Calendar
