@@ -1360,6 +1360,7 @@ _Detect when components enter viewport_
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
 - [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
+- [vue-router-newtab](https://www.npmjs.com/package/vue-router-newtab) - Auto detect Cmd/Ctrl + click to open router.push() calls in a new tab.
 
 #### Lazy Load
 
