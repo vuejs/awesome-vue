@@ -717,6 +717,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
 - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
+- [tempmail.so](https://tempmail.so) - Disposable temporary email service.
 - [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
