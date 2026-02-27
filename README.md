@@ -735,6 +735,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy.
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
+- [FontTGenerator](https://fonttgenerator.com/) - Free Font generator with so many choices you can choose from.
 - [FontBolt](https://www.fontbolt.com/) - Discover and generate your favorite fonts from pop culture
 - [Portfolio Site](https://monayemislam.me) - Monayem Islam, A full-stack web application developer's portfolio site. Made with Love and Vue 3.
 - [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
