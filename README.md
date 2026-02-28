@@ -561,6 +561,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [VueFinder File Library](https://github.com/n1crack/vuefinder) - Web File Manager Library.
 - [Overlay](https://github.com/os-scar/overlay) - A browser extension helping developers evaluate open source packages before picking them.
 - [activist.org/](https://activist.org/) - Open-source, nonprofit activism platform.
+- [MYDY Dashboard](https://github.com/pyramide-agency/mydy-dashboard) - Self-hosted personal productivity and finance management dashboard with AI assistant, Kanban board, time tracking, and Telegram Mini App integration. Built with Nuxt 4 and Laravel 11.
 - [Sneat Free Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-free-vuetify-vuejs-admin-template/) - The Ultimate Free VueJS Admin Template for building responsive web apps
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
