@@ -1638,6 +1638,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vue-x-platforms](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 - [mevn-boilerplate](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 - [monorepo-template](https://github.com/Nagell/monorepo_template) - 🗂️ Vue 3 monorepo template with pnpm, Nx, Vite, Tailwind CSS, Storybook, TypeScript, and ready-to-use shared libraries.
+- [oaysus](https://github.com/oaysus/cli) - Visual page builder for developer-built Vue components. Push components with one CLI command, let marketing create pages visually.
 
 #### Universal
 
