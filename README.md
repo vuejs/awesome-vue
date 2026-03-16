@@ -1654,6 +1654,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 ### Prerendering
 
 - [vue-genesis](https://github.com/fmfe/genesis) - 🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥
+- [PreRender24](https://prerender24.com) - Prerendering-as-a-service for Vue SPAs. Makes your app visible to Google and AI crawlers via edge rendering. No code changes, DNS-only setup
 
   <!-- md-parser-end -->
 
