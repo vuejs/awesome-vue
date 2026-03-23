@@ -1080,6 +1080,7 @@ _Display non-editable events in a Calendar_
 - [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
 - [@vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
+- [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
 
 #### Audio / Video
 
