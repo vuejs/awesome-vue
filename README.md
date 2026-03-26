@@ -1404,6 +1404,7 @@ _Move a DOM node to a target DOM node_
 
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+- [@thesvg/vue](https://github.com/glincker/thesvg) - 5,600+ SVG icon components for Vue 3. Brand logos, AWS, Azure, and GCP icons. Tree-shakeable.
 
 #### Miscellaneous
 
