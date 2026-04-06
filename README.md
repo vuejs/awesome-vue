@@ -146,6 +146,7 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
     - [Universal](#universal)
     - [Electron](#electron)
   - [Prerendering](#prerendering)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Vue.js development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
