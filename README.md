@@ -597,6 +597,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Apps/Websites
 
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 - [Laravel Spark](https://spark.laravel.com/)
 - [Vice Video](https://video.vice.com/)
 - [Formlets](https://www.formlets.com)
