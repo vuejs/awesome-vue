@@ -144,7 +144,7 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
       - [Emacs](#emacs)
   - [Scaffold](#scaffold)
     - [Universal](#universal)
-    - [Electron](#electron)
+    - [Desktop](#desktop)
   - [Prerendering](#prerendering)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -1648,11 +1648,12 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 
 - [Vue.js/Nuxt.js full-featured boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
-#### Electron
+#### Desktop
 
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vutron](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
+- [MoBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 
 ### Prerendering
 
