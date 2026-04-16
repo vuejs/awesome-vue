@@ -1082,6 +1082,7 @@ _Display non-editable events in a Calendar_
 - [@vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) - Vue 3 components for Leaflet (1.x) maps.
 - [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) - Vue 3 components for Leaflet (2.x) maps.
 - [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
+- [vue3-map-chart](https://github.com/noeGnh/vue3-map-chart) - Vue 3 components for displaying dynamic data on a world, continents and countries maps.
 
 #### Audio / Video
 
