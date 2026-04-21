@@ -494,6 +494,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 ### Documentaries
 
 - [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Companies Using Vue.js
 
