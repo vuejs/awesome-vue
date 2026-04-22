@@ -1406,6 +1406,7 @@ _Move a DOM node to a target DOM node_
 
 - [vue-svgicon](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+- [lucide-motion-vue](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 
 #### Miscellaneous
 
