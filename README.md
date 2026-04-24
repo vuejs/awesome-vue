@@ -1360,6 +1360,7 @@ _Detect when components enter viewport_
 - [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
 - [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 - [vite-plugin-vue-middleware](https://github.com/awdr74100/vite-plugin-vue-middleware) - File-based navigation guards for Vue Router
+- [vue-router-citadel](https://github.com/Kassaila/vue-router-citadel) - A middleware-driven navigation control system for Vue Router.
 
 #### Lazy Load
 
