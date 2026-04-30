@@ -833,7 +833,6 @@ _Set of components + responsive layout system_
 - [Element Plus](https://github.com/element-plus/element-plus) - A Vue 3 UI Framework.
 - [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
 - [Vexip UI](https://github.com/qmhc/vexip-ui) - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
-- [Anu](https://github.com/jd-solanki/anu) - Build better interfaces faster. DX focused utility based vue component library ⚛️
 - [Vue USWDS](https://github.com/patrickcate/vue-uswds) - A Vue.js implementation of the USWDS (U.S. Web Design System)
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
