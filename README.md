@@ -1089,6 +1089,7 @@ _Display non-editable events in a Calendar_
 - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
 - [vue-use-sound](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
+- [VueUse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities.
 - [Vue-Player](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
 #### Infinite Scroll
