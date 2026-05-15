@@ -1312,6 +1312,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 
 #### Responsive Design
 
+- [fluidity-ts](https://github.com/Fluidiety/fluidity-ts) - SSR-safe responsive toolkit with Vue 3 composables — typed breakpoints, fluid clamp, container queries, dark mode. Zero deps.
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
 
 #### Form
