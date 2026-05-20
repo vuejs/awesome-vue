@@ -864,7 +864,7 @@ _Set of components for mobile_
 #### Component Collections
 
 _Set of components without layout system_
-
+- [Naive UI](https://www.naiveui.com/) - A Vue 3 Component Library. Fairly Complete, Theme Customizable, Uses TypeScript, Fast.
 - [keen-ui](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
 - [uiv](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 - [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
