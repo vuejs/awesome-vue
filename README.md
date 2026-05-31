@@ -1390,6 +1390,7 @@ _Detect when components enter viewport_
 - [@morev/vue-transitions](https://github.com/morevm/vue-transitions) Transitions library for Vue 2 and 3 with no CSS needed
 - [@formkit/auto-animate](https://github.com/formkit/auto-animate) Add motion to your apps with a single line of code
 - [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
+- [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) Official LottieFiles Vue component supporting the .lottie format (75% smaller files); convert and preview with [IconKing](https://iconking.net)
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
 - [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
