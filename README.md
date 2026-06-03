@@ -843,6 +843,7 @@ _Set of components + responsive layout system_
 - [flowbite-vue](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 - [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
 - [@oneflowui/ui](https://github.com/qixi54/oneui) - Vue 3 + TypeScript component library for task management views, featuring Table, Kanban, Gantt timeline, Gallery, AI Chat, Dashboard charts, Rich Text Editor, MermaidChart and more. 75+ components out of the box.
+- [Onyx](https://github.com/SchwarzIT/onyx) - A design system and Vue.js component library for enterprise grade applications.
 
 #### Mobile
 
