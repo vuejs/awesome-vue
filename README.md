@@ -1339,6 +1339,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [regle](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
 - [validation-composable](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
 - [vue-uform](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
+- [validup](https://github.com/tada5hi/validup) - Composable, path-based validation with a Vue 3 composable (`@validup/vue`) for reactive forms, groups, and structured issues.
 
 #### Resize
 
