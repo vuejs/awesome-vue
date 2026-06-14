@@ -963,6 +963,7 @@ _Tables / data grids_
 - [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
 - [Jordium Gantt Vue3](https://github.com/nelson820125/jordium-gantt-vue3) - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
+- [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 
 #### Notification
 
