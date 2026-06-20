@@ -569,6 +569,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [MyIP](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 - [fylepad](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 - [fresfolio](https://github.com/dkioroglou/fresfolio) - a browser-based note-taking app for managing personal and research projects. The app uses Flask as backend and Vue.js as frontend leveraging the Quasar framework for UI components and responsive design.
+- [FavBox](https://github.com/dd3v/favbox) - Local-first browser extension for smarter bookmark management with tags, search, duplicate and broken link detection. Built with Vue 3, Vite and IndexedDB.
 
 - [JARVIS](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 ### Commercial Products
