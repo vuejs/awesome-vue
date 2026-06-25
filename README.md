@@ -573,6 +573,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 - [JARVIS](https://github.com/hyhmrright/JARVIS) - Self-hosted AI assistant platform with Vue 3 frontend, Pinia state management, TypeScript, and real-time SSE streaming chat. FastAPI backend with LangGraph ReAct agents, RAG knowledge base, multi-LLM support (DeepSeek/OpenAI/Anthropic), and plugin SDK.
 - [Simple IoT](https://github.com/dingdaoyi/simple-iot) - Single-binary self-hosted IoT platform with a Vue 3 + Element Plus admin SPA. Visual drag-and-drop rule engine, real-time device dashboard with ECharts, hot-loaded protocol scripts, MQTT broker built-in. Spring Boot 4 backend; lightweight alternative to ThingsBoard CE.
+- [MarkerOn](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
+
 ### Commercial Products
 
 - [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
