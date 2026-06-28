@@ -1465,6 +1465,7 @@ _Retrieve data over HTTP_
 - [swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 - [vue-vroom](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 - [tanstack-query](https://github.com/tanstack/query) - Powerful asynchronous state management.
+- [@stitchapi/vue](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 
 #### i18n
 
