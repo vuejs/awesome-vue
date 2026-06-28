@@ -2485,6 +2485,7 @@ the amazing Vue.js.
 - [vue-async-operations](https://github.com/devstark-com/vue-async-operations) - Managing async operations statuses in your Vue components
 - [vue-direction](https://github.com/shwilliam/vue-direction) - 👋 Direction aware hover in Vuejs
 - [vue-unique-id](https://github.com/berniegp/vue-unique-id) - Generates unique component ids and component-scoped HTML ids.
+- [vue-browser-geolocation](https://github.com/scaccogatto/vue-browser-geolocation) - Promise-based Vue.js geolocation wrapper for the browser's Geolocation API.
 
 ### Web Workers
 - [vue-worker](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.
