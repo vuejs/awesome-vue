@@ -503,6 +503,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Open Source
 
+- [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
