@@ -503,7 +503,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Open Source
 
-- [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
 - [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
@@ -1651,6 +1650,7 @@ _Text editor plugins_
 
 _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator_
 
+- [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 - [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Create Vue](https://github.com/vuejs/create-vue)
 - [vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
