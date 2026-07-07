@@ -1582,6 +1582,7 @@ _Integrate with services or other frameworks_
 - [vue-tg](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 - [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 - [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+- [@unirate/vue](https://github.com/UniRate-API/vue-unirate) - Vue 3 composables (`useExchangeRate`, `useConvert`, `useCurrencies`) and `<Currency>`/`<Rate>` display components for the [UniRate](https://unirateapi.com) currency exchange API.
 
 #### Vue CLI Plugins
 
