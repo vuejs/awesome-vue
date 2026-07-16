@@ -1502,6 +1502,7 @@ _LocalStorage etc._
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
+- [vue-smart-state](https://github.com/LuigiDavideMicca/vue-smart-state) - Type-safe React-style useState for Vue 3: persistence, cross-tab sync, TTL expiry, debounced writes and SSR safety in one dependency-free composable.
 
 ##### Mobx
 
