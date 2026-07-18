@@ -1295,6 +1295,7 @@ _Display images_
 - [v-use-places-autocomplete](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vue-integer-plusminus](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
+- [kokey](https://github.com/devslab-kr/kokey) - Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. [Demo](https://devslab-kr.github.io/kokey/)
 
 ##### Wizard
 
