@@ -1254,6 +1254,7 @@ _Switch / on/off toggle / checkbox_
 - [vue-r-mask](https://github.com/raidan00/vue-r-mask) - Directive with template similar to javascript regular expression.
 - [vue-currency-input](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 - [vue-input-facade](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous _vue-text-mask_ but actively maintained and with lots of improvements after there.
+- [numkey](https://github.com/devslab-kr/numkey) - Numeric input formatting for Vue 3 — live thousands grouping with a stable caret, string-first canonical v-model (money-safe), leading-zero cleanup, opt-in locale separators and Korean amount reading. [Demo](https://devslab-kr.github.io/numkey/)
 
 ##### Rich Text Editing
 
