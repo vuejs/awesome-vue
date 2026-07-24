@@ -1208,6 +1208,7 @@ _Date / datetime / time Picker_
 - [vue-datepicker](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 - [vue-timepicker](https://github.com/manos02/vue3-time-picker) - A lightweight, customizable timepicker component for Vue 3 with TypeScript support. Supports single/range selection, multiple formats, easy styling, validation and more.
 - [vue-month-spinner-picker](https://github.com/jlc488/vue-month-spinner-picker) - iOS-style drum-roll month picker for Vue 3. Inertia scrolling, bottom sheet modal, min/max constraints, i18n and theming via CSS variables. Zero dependencies.
+- [vue-date-rail](https://github.com/devslab-kr/vue-date-rail) - Horizontal infinite-scroll date rail (day/month strip) picker for Vue 3. Headless composable core, Intl-based i18n, min/max & disabled dates, event marker slot, desktop wheel/drag scrolling, Tailwind-ready unstyled mode. Zero dependencies.
 
 ##### Select
 
