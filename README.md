@@ -1575,6 +1575,10 @@ Payment utilities.
 - [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) - A simple vue plugin for Stripe checkout.
 - [vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
+##### Sanwo
+
+- [vue-sanwo](https://github.com/Sanwohq/core) - Universal payment SDK for Vue. One plugin for Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers. SanwoPlugin + useSanwoCheckout composable. Works with Nuxt.
+
 ### Integrations
 
 _Integrate with services or other frameworks_
