@@ -1577,7 +1577,7 @@ Payment utilities.
 
 ##### Sanwo
 
-- [vue-sanwo](https://github.com/Sanwohq/core) - Universal payment SDK for Vue. One plugin for Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers. SanwoPlugin + useSanwoCheckout composable. Works with Nuxt.
+- [vue-sanwo](https://github.com/Sanwohq) - Universal payment SDK for Vue. One plugin for Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers. SanwoPlugin + useSanwoCheckout composable. Works with Nuxt.
 
 ### Integrations
 
