@@ -1494,7 +1494,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-intlayer](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 - [vue-tiny-translation](https://github.com/makio64/vue-tiny-translation) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
 - [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
-- [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) - Lightweight, high-performance i18n module for Nuxt with strategy-based routing and minimal overhead.
+- [@i18n-micro/vue](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
 
 #### Custom Events
 
