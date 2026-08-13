@@ -1353,6 +1353,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [validation-composable](https://github.com/nexxtmove/validation-composable) - ✅ Lightweight validation for Vue — just 40 lines of code.
 - [vue-uform](https://github.com/tu6ge/vue-uform) - an component-first, unstyled, flexible form validation library for Vue 3
 - [validup](https://github.com/tada5hi/validup) - Composable, path-based validation with a Vue 3 composable (`@validup/vue`) for reactive forms, groups, and structured issues.
+- [NotForm](https://github.com/favorodera/notform) - Headless, composable form validation for Vue.js. Bring your own UI and schema (Zod, Valibot, ArkType, or any Standard-Schema compliant validator).
 
 #### Resize
 
@@ -1428,6 +1429,7 @@ _Move a DOM node to a target DOM node_
 - [vue-inline-svg](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 - [lucide-motion-vue](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 - [tronche](https://github.com/rootasjey/tronche) - Generate unique SVG avatars from any username and color palette. 6 visual styles, Vue/Nuxt/React components and REST API.
+- [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region, as tree-shakable Vue 3 components.
 
 #### Miscellaneous
 
