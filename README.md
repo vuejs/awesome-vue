@@ -1694,6 +1694,7 @@ _Render Vue application to HTML on the server and to the DOM in the browser_
 - [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 - [MōBrowser](https://teamdev.com/mobrowser) - A framework for building desktop apps with web technologies. Templates and plumbing for Vite + Vue + Quasar are included.
 - [sketch-to-vue](https://github.com/chenboxun87/sketch-to-vue) - AI Skill for Claude Code & Cursor that converts Sketch MeaXure / MasterGo design exports into pixel-perfect Vue 2/3 components. Specialized for dashboard/cockpit/big-screen pages: deterministic asset resolution, ECharts auto-detection, Scene Graph analysis, and full consumption audit.
+- [OxideDock](https://github.com/fridzema/oxide-dock) - Vue 3 desktop app starter built on Tauri v2, with Tailwind CSS, Pinia, Vitest, Playwright, and automated cross-platform releases.
 
 ### Prerendering
 
