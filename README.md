@@ -881,6 +881,7 @@ _Set of components without layout system_
 - [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 - [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 - [@todovue/tv-ui](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
+- [Moongate Vue](https://github.com/yuelinghuashu/moongate-vue) - A moon-inspired, minimal Vue 3 component library. Design-token driven, CSS-first, 28 components under 25KB gzipped, with SSR, a11y, and TypeScript support. [Docs](https://vue.moongate.top)
 
 #### Admin Template
 
