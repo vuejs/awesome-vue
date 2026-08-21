@@ -1262,6 +1262,7 @@ _Switch / on/off toggle / checkbox_
 - [tiptap](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
+- [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
 ##### Image Manipulation
 
