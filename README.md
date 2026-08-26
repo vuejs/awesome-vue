@@ -867,6 +867,7 @@ _Set of components for mobile_
 - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 - [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 - [NutUI](https://github.com/jdf2e/nutui/) - A Vue.js 2.0 UI Toolkit for Mobile Web
+- [Capgo](https://capgo.app) - Live updates / OTA for Capacitor apps.
 
 #### Component Collections
 
