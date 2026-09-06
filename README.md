@@ -1621,6 +1621,7 @@ _Integrate with services or other frameworks_
 - [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
 - [PocketMocker](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
+- [Poveste](https://github.com/poveste-dev/poveste) - Interactive component playgrounds powered by Vite. A drop-in fork of histoire, with Vue 3 and Nuxt support.
 
 #### Inspect
 
