@@ -748,6 +748,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
+- [BioAI Nav](https://bioainav.aiworkagent.org) - A directory of directories for the biology AI ecosystem: agents, agent skills, tools, models, and datasets, one page per resource.
 
 ### Interactive Experiences
 
