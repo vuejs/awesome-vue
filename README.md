@@ -406,6 +406,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [宁皓网独立开发者训练营：Vue 前端应用开发](https://www.bilibili.com/video/BV11z42167J2/) on bilibili
 - [Getting Started Internationalizing (i18n) with Intlayer and Vite and Vue](https://intlayer.org/doc/environment/vite-and-vue)
 - [Creating a scalable Monorepo for Vue](https://dev.to/nagell/creating-a-scalable-monorepo-for-vue-intro-4nnm) by [@nagell](https://github.com/nagell)
+- [Use SVG Icons in Vue 3 with Vite](https://iconvectors.io/tutorials/use-svg-icons-in-vue-3-with-vite.html) - Practical guide to integrating, theming and using SVG icons in Vue 3 applications with Vite.
 
 ### Examples
 
