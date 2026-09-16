@@ -748,6 +748,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
+- [Pixanima](https://pixanima.app) - In-browser pixel-art and animation editor with layers, a frame timeline, and GIF/sprite-sheet export.
 
 ### Interactive Experiences
 
