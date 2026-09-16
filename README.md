@@ -1464,6 +1464,7 @@ _Utilities not directly related to the UI_
 - [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
 - [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 - [vue3-websocket](https://github.com/muzychenka/vue3-websocket) - Validate incoming WebSocket data with Zod.
+- [ycon.cc](https://ycon.cc) - Search 300,000+ Iconify icons and copy ready-to-use code for React, Vue, Symfony, Next.js, Astro, Svelte, Angular, Laravel and more.
 
 #### Typescript
 
