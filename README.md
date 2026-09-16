@@ -1416,6 +1416,7 @@ _Detect when components enter viewport_
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
 - [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+- [@brustack/vue-theme-transitions](https://github.com/brustack/theme-transitions/tree/main/packages/vue) - Vue 3 composable for animated dark/light theme transitions using the View Transitions API.
 
 #### Meta Tags
 
