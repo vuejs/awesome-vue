@@ -1075,6 +1075,7 @@ _Display time / date / age_
 
 - [v-idle](https://github.com/malekim/v-idle) - A Vue.js plugin to detect idle/non-active users.
 - [vue-timer-hook](https://github.com/riderx/vue-timer-hook) - Vue 3 Timer module inspired by react-timer-hook
+- [Clock UI](https://github.com/clock-ui/clock-ui) - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 
 #### Calendar
 
