@@ -1593,13 +1593,13 @@ Payment utilities.
 _Integrate with services or other frameworks_
 
 - [vue-recaptcha](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js
-- [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 - [vuefire](https://github.com/vuejs/vuefire) - Official Firebase bindings for Vue.js
 - [vue-postgrest](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 - [vue-tweet](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
 - [vue-tg](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 - [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 - [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+- [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 
 #### Vue CLI Plugins
 
