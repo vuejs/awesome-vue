@@ -1100,8 +1100,10 @@ _Display non-editable events in a Calendar_
 
 #### Audio / Video
 
+- [vue-aliplay-player](https://github.com/Jabo2017/vue-aliplay-player) - Vue 3 wrapper for Aliplayer (Alibaba Cloud video player) with TypeScript support.
 - [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 - [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
+- [vue-super-player](https://github.com/Jabo2017/vue-super-player) - Multi-kernel video player component for Vue 3 (native / HLS / FLV / Aliplayer).
 - [vue-use-sound](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
 - [Vue-Player](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
