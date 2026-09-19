@@ -763,6 +763,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [User Friendly Justice Data](https://justicemoroccoprototype.hiil.org/) - Explore justice data from Morocco.
 - [Vue Play](https://www.vueplay.com) - Create Vue components and applications in an interactive / visual drag & drop designer.
 - [Yahya J. Aifit's Portfolio Site](https://yja.me) - Portfolio site that inspired by the appearance of desktop operating system.
+- [PlaneCrashData](https://www.planecrashdata.com/) - Interactive 3D globe and historical aviation safety database mapping global flight incidents since 1919 ([source code](https://github.com/MauroPello/flight-crashes)).
 
 ### Enterprise Usage
 
