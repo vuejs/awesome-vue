@@ -1275,6 +1275,7 @@ _Switch / on/off toggle / checkbox_
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 - [blok](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+- [RichTextEditor](https://richtexteditor.com/vue-rich-text-editor) - WYSIWYG HTML editor with a Vue 3 `v-model` component and composable, image upload, track changes and comments. Commercial, perpetual license.
 
 ##### Image Manipulation
 
