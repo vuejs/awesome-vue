@@ -577,6 +577,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [MarkerOn](https://github.com/ifer47/markeron) - Lightweight screen annotation tool built with Tauri v2, Vue 3, and Canvas API for drawing, highlighting, and annotating anywhere on desktop.
 - [AI Gist](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
 - [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
+- [DBX](https://github.com/t8y2/dbx) - Lightweight cross-platform database client for 90+ databases (MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server and more), with a built-in AI assistant, MCP server, CLI and plugin ecosystem. Built with Vue 3, TypeScript and Tauri.
 
 ### Commercial Products
 
