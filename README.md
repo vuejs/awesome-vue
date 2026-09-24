@@ -1653,6 +1653,7 @@ _Browse documentation_
 - [Vue Testing Library](https://github.com/testing-library/vue-testing-library) - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
 - [jest-serializer-vue-tjw](https://github.com/tjw-lint/vue3-snapshot-serializer) - Improved formatting of Jest Snapshots
 - [vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
+- [TestDriver](https://testdriver.ai) - AI code reviewer that automatically runs every pull request in a real browser sandbox, finds bugs, and builds regression tests.
 
 #### Source Code Editing
 
