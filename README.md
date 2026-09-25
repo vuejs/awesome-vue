@@ -1057,7 +1057,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-concise-carousel](https://github.com/jambonn/vue-concise-carousel) - Vue Concise Carousel with True SSR. Works for Vue 2 & 3.
 - [vue3-carousel](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 - [vue-snap](https://github.com/bartdominiak/vue-snap) - 🌿 Modern and lightweight Vue 3 Carousel powered by CSS Scroll Snap.
-- [@reelkit/vue](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-vue) - Virtualized Vue 3 slider for full-screen vertical feeds. Keeps 3 slides in the DOM for 10,000+ items, has no third-party dependencies, and comes with ready-made reel player, stories player and lightbox packages.
+- [@reelkit/vue](https://github.com/KonstantinKai/reelkit/tree/main/packages/reelkit-vue) - Virtualized full-screen Vue 3 slider: 3 slides in the DOM for 10,000+ items, with ready-made reel, stories and lightbox players.
 
 #### Charts
 
