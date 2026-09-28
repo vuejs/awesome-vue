@@ -752,6 +752,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
+- * [XCODX](https://xcodx.io/) - A free browser-based IDE for building, running, and previewing modern web applications with Vue, React, TypeScript, and other web technologies.
+
 
 ### Interactive Experiences
 
