@@ -1252,6 +1252,7 @@ _Let the user select a tag / something while typing_
 
 ##### Color Picker
 
+- [colorshot](https://github.com/rishimohan/colorshot) - Color and gradient picker for Vue 3 and React with linear, radial and conic gradients, OKLCH and swatch groups.
 - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
 - [vue-color-input](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 - [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
