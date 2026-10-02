@@ -1322,6 +1322,7 @@ _Display images_
 
 - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+- [kritzel](https://github.com/kasual1/kritzel) - Infinite canvas component library for Vue.
 
 #### Link Preview
 
