@@ -601,6 +601,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
 - [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
+- [Beekeeper Studio](https://www.beekeeperstudio.io) - Cross-platform SQL editor and database client built with Vue.js and Electron, with a free open-source Community Edition.
 
 
 ### Apps/Websites
