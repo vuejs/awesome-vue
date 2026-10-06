@@ -754,6 +754,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 - [Obolus](https://obolus.at) - Austrian salary and payroll calculators with a sourced tax glossary. Built with Nuxt and Vue 3.
+- [CoordMap](https://www.coordmap.com/) - An online map and coordinate toolkit built with Vue, offering latitude/longitude lookup, distance measurement, elevation, coordinate conversion, sun/moon data, time zones, and location tools.
 
 ### Interactive Experiences
 
