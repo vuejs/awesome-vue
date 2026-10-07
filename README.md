@@ -754,6 +754,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 - [Obolus](https://obolus.at) - Austrian salary and payroll calculators with a sourced tax glossary. Built with Nuxt and Vue 3.
+- [Rawnd](https://rawnd.app/app) - Camera RAW editor and culling tool that runs entirely in the browser (Vue, WebAssembly, WebGL2).
 
 ### Interactive Experiences
 
