@@ -188,6 +188,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Vue-FAQ](https://vue-faq.org/) - FAQ about frontend in general and Vue.js in particular.
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
 - [TODOvue Blog](https://github.com/TODOvue/todo-vue) - Guides and tutorials on creating modern components with Vue.js. [Website](https://todovue.blog/)
+- [FrontendAtlas Vue Interview Questions](https://frontendatlas.com/vue/interview-questions) - Vue interview questions with explained answers and runnable examples; free to read, some coding exercises are paid.
 
 ### Newsletters
 
