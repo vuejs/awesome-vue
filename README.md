@@ -1000,7 +1000,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 - [vue-skeleton-content-loader](https://github.com/willmendesneto/vue-skeleton-content-loader) - Lightweight and accessible library to make beautiful, animated loading skeletons that automatically adapt to your Vue app
 - [phantom-ui](https://github.com/Aejkatappaja/phantom-ui) - Structure-aware skeleton loader web component that measures your real DOM, supports Vue, React, Svelte and plain HTML.
-
+- [vue-smart-loading-kit](https://github.com/navidjaberi/vue-smart-loading-kit) - Turns your real components into their own skeleton with a `v-skeleton` directive (CSS only, no measuring), plus spinners, progress bars and a loader that never flashes.
 ##### Progress Bar
 
 _A slim progress bar at the top of the page_
