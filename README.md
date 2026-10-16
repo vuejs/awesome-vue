@@ -578,6 +578,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [AI Gist](https://github.com/yarin-zhang/AI-Gist) - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
 - [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 - [vixl](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
+- [LightRead](https://github.com/yzfly/LightRead) - Local-first ebook and research paper reader built with Vue 3, TypeScript, and Tauri 2, with annotations and text-to-speech.
 
 ### Commercial Products
 
