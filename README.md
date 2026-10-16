@@ -1637,6 +1637,7 @@ _Inspecting & debugging_
 
 - [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 - [vue-flow-vis](https://github.com/MiloradFilipovic/vue-flow-vis) - real-time monitoring of component renders and reactive dependency tracking
+- [ide-byebye](https://github.com/bo-516/ide-byebye) - click an element in the browser, describe the change, and send its exact `.vue` source span to AI coding agents such as Claude Code, Codex and Cursor
 
 #### Docs
 
