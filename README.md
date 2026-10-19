@@ -1313,6 +1313,7 @@ _Display images_
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
 - [vue-integer-plusminus](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
 - [kokey](https://github.com/devslab-kr/kokey) - Wrong-keyboard-layout input fixer — v-kokey directive and KokeyInput component restore text typed with the wrong layout (Korean Dubeolsik IME built in; Russian, Hebrew, Thai and more as subpath imports), composition-safe with caret preserved. [Demo](https://devslab-kr.github.io/kokey/)
+- [File Viewer](https://github.com/flyfish-dev/file-viewer) - Vue 3 file-preview component with lazy renderer presets covering 275 registered extensions, including experimental formats, across Office, PDF, CAD, 3D models, and archives.
 
 ##### Wizard
 
