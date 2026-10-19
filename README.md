@@ -856,6 +856,7 @@ _Set of components + responsive layout system_
 - [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
 - [@oneflowui/ui](https://github.com/qixi54/oneui) - Vue 3 + TypeScript component library for task management views, featuring Table, Kanban, Gantt timeline, Gallery, AI Chat, Dashboard charts, Rich Text Editor, MermaidChart and more. 75+ components out of the box.
 - [Nuxt UI](https://github.com/nuxt/ui) - 125+ accessible and customizable components for Vue and Nuxt, built with Tailwind CSS and Reka UI.
+- [nxui](https://github.com/vinayakkulkarni/nxui) - 360+ animated, copy-paste components for Vue 3 and Nuxt: text animations, WebGL backgrounds, dashboard charts and Paper shaders. Installs with the shadcn-vue CLI.
 
 #### Mobile
 
