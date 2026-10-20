@@ -1510,6 +1510,7 @@ _Internationalization / L10n / localization / translation_
 - [vue-tiny-translation](https://github.com/makio64/vue-tiny-translation) - Super lightweight (0.32KB) reactive translation plugin for Vue 3. [Demo](https://vue-tiny-translation.netlify.app/)
 - [Loccy](https://loccy.dev) - Effortless Vue-i18n management in VS Code-based editors, featuring smart AI translations and key suggestions.
 - [@i18n-micro/vue](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
+- [@comvi/vue](https://github.com/comvi-io/comvi-js/tree/main/packages/vue) - Vue 3 i18n with type-checked keys, ICU plurals and a `<T>` component for markup inside translations. [Demo](https://stackblitz.com/github/comvi-io/comvi-js/tree/main/examples/vue)
 
 #### Custom Events
 
