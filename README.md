@@ -1638,6 +1638,7 @@ _Inspecting & debugging_
 
 - [vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - jump to editor source code while click the element of browser automatically.
 - [vue-flow-vis](https://github.com/MiloradFilipovic/vue-flow-vis) - real-time monitoring of component renders and reactive dependency tracking
+- [vue-why-render](https://github.com/dadashi44/vue-why-render) - shows why Vue 3 components re-render: highlights renders on the page and names the cause (props, state, Pinia stores, route changes, computeds), with a panel and a Nuxt module.
 
 #### Docs
 
