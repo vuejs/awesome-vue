@@ -601,6 +601,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
 - [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
+- [Klusek](https://klusek.app/demo) - Household organizer for shared expenses, shopping lists, to-dos, notes and plant care, built with Vue Vapor mode. Live demo without sign-up.
 
 
 ### Apps/Websites
