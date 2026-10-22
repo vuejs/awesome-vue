@@ -1072,6 +1072,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 60+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 - [vue-speedometer](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
+- [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
 
 #### Time
 
