@@ -1528,6 +1528,7 @@ _LocalStorage etc._
 - [harlem](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Stan](https://stan.party) - a minimal, atomic state manager (framework-agnostic, with Vue bindings).
+- [vue-qs](https://github.com/iamsomraj/vue-qs) - Type-safe URL query state for Vue 3 and Nuxt, a port of nuqs. Writable refs synced with the search params, with typed parsers, batching and throttling.
 
 ##### Mobx
 
