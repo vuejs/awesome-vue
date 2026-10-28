@@ -590,7 +590,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [EducationLink](https://geteducation.link/?utm_source=AwesomeVue) - CRM and sales automation for education agents and colleges.
 - [Pragmatic v2.0](https://1.envato.market/LYWqL) - Responsive and configurable admin template built with Vue.js and Element.
 - [Moonitor](https://moonitor.io/) - Cryptocurrency tracker for Desktop.
-- [Deskree](https://deskree.com/) - Online collaboration platform that combines Ideas, Tasks, and Issues in one place.
 - [ScaffoldHub](https://www.scaffoldhub.io) - Online Web App Generator for VueJS with NodeJS, and MongoDB or SQL.
 - [Commandeer](https://getcommandeer.com) - Cloud Management Reimagined. A Desktop cloud management app built with Vue.js and Electron.
 - [Leave Dates](https://leavedates.com) - A powerful new way to track your staff leave.
@@ -599,7 +598,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [NxShell](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 - [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 - [NocoDB](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
-- [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 - [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
@@ -670,7 +668,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
 - [Chess Guardian](https://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
 - [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
-- [GameVix](https://www.gamevix.com/) - Swap your used video game discs with others, hassle free. PWA with Material Design.
 - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [9GAG](https://9gag.com) - Popular online platform and social media website
 - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
@@ -731,7 +728,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Todo DEV](https://github.com/IanLuan/TodoDev) - A simple Todo App made for developers with Vuejs, Vuetify and the powerful Firebase.
 - [36 Pixels](https://www.36pixels.fr/) - French agency website made with vue.js
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
-- [Narrandum](https://narrandum.com) - Customer journey mapping tool built using Vue.js, Vuetify, and Feathersjs
 - [goonlinetools.com](https://goonlinetools.com/) - 100% Free Online Tools site.
 - [Portfolio Site](https://olaolu.dev/) - Olaolu Olawuyi, A Frontend developer and UX Engineer's portfolio site.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
@@ -745,7 +741,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [DevSnap.me](https://devsnap.me) - A website that helps web developers find tons of free and open source HTML, CSS, and JavaScript assets.
 - [Back Home/回家](https://flights.vincentc.us/) - A flight searching engine for the flights from oversea to China Mainland (and China to oversea) that still fly during COVID-19.
 - [Deadlines](https://deadlines.vercel.app) - An offline, simple deadline tracker made with Vue.js and localForage.
-- [Darwin Analytics](https://www.darwin.so) - Tool for measuring and optimizing your site. Built with Vue3 and Vite.
 - [Scrumfast](https://www.scrumfast.com) - Extremely intuitive project management scrum tool.
 - [Gradientos](https://www.gradientos.app) - Gradientos makes finding gradients easy.
 - [httptools.dev](https://httptools.dev/) - Collection of many online checks and tools for web developers, like a JSON formatter, redirect check or URL encoder. Built with Vue3 and vue-router, backend API uses Laravel.
@@ -792,7 +787,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [GitLab](https://about.gitlab.com/2016/10/20/why-we-chose-vue/)
 - [Clemenger BBDO Melbourne](https://clemengerbbdo.com.au)
 - [ZenMate](https://zenmate.com)
-- [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
 - [Storyblok](https://app.storyblok.com)
 - [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
 - [Hypefactors](https://hypefactors.com) - Software for data-driven PR professionals
