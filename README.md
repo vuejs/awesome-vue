@@ -579,6 +579,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [DentalPin](https://github.com/martinezsalmeron/dentalpin) - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 - [vixl](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
 - [Oxynote](https://github.com/oxynote/oxynote) - Self-hosted collaborative documentation built with Nuxt 4, Tiptap and Yjs: live Prometheus charts as editor blocks, draft reviews with visual diffs, and an Electron desktop build.
+- [EdgeChat](https://github.com/aozorae/Edgechat) - Open-source team chat built with Vue 3, Vite, and Cloudflare Workers, with group and direct messages, Telegram bridging, file sharing, and WebRTC voice calls.
 
 ### Commercial Products
 
@@ -602,6 +603,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
 - [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
+- [Beekeeper Studio](https://www.beekeeperstudio.io) - Cross-platform SQL editor and database client built with Vue.js and Electron, with a free open-source Community Edition.
 
 
 ### Apps/Websites
@@ -751,10 +753,12 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
 - [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
 - [BulkPicTools](https://bulkpictools.com) - Privacy-first bulk image processor built with Vue 3 and WebAssembly.
+- [A11yKit](https://a11ykit.site) - 15 free, client-side web accessibility and WCAG 2.2 testing tools with zero code uploads.
 - [Shiko](https://shiko.vet) - Veterinary clinic management platform with appointment scheduling, interactive clinic directory with maps, and multi-platform support.
 - [Text to Handwriting](https://www.primenotepad.com/tools/text-to-handwriting) - Convert typed text into realistic handwritten notes online.
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 - [Obolus](https://obolus.at) - Austrian salary and payroll calculators with a sourced tax glossary. Built with Nuxt and Vue 3.
+- [Remove Audio Tools](https://remove-audio.com/tools) - Over 30 free browser tools for video and audio (convert, compress, extract MP3, make GIFs, separate voice and music with AI) that process files on the device with FFmpeg.wasm and WebGPU. Built with Nuxt and Vue.
 
 ### Interactive Experiences
 
@@ -857,6 +861,7 @@ _Set of components + responsive layout system_
 - [Maz-UI](https://github.com/LouisMazel/maz-ui) - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
 - [@oneflowui/ui](https://github.com/qixi54/oneui) - Vue 3 + TypeScript component library for task management views, featuring Table, Kanban, Gantt timeline, Gallery, AI Chat, Dashboard charts, Rich Text Editor, MermaidChart and more. 75+ components out of the box.
 - [Nuxt UI](https://github.com/nuxt/ui) - 125+ accessible and customizable components for Vue and Nuxt, built with Tailwind CSS and Reka UI.
+- [OpenVue](https://github.com/openvi-foundation/openvue) - MIT-licensed Vue 3 UI component library with a complete set of themable components, forked from PrimeVue 4.5.5.
 
 #### Mobile
 
@@ -1073,6 +1078,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 60+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 - [vue-speedometer](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
+- [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
 
 #### Time
 
@@ -1280,6 +1286,7 @@ _Switch / on/off toggle / checkbox_
 - [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 - [vue-quilly](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 - [blok](https://github.com/JackUait/blok) - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+- [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
 ##### Image Manipulation
 
@@ -1323,6 +1330,7 @@ _Display images_
 
 - [vue-konva](https://github.com/rafaesc/vue-konva) - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
 - [vue3-signature](https://github.com/WangShayne/vue3-signature) - A electronic signature component for Vue 3
+- [kritzel](https://github.com/kasual1/kritzel) - Infinite canvas component library for Vue.
 
 #### Link Preview
 
