@@ -896,6 +896,7 @@ _Set of components without layout system_
 - [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 - [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 - [@todovue/tv-ui](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
+- [moduix](https://github.com/Blinks44/moduix) - Accessible Vue 3 components built on Ark UI, with CSS Modules or Tailwind CSS and installation through npm or the shadcn CLI.
 
 #### Admin Template
 
