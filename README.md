@@ -1618,6 +1618,7 @@ _Integrate with services or other frameworks_
 - [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 - [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
 - [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
+- [vue-llm](https://github.com/dadashi44/vue-llm) - AI SDK for Vue and Nuxt: streaming useChat, tool calling, Generative UI, in-browser WebGPU models and chat UI components for OpenAI, Anthropic, Gemini and Ollama.
 
 #### Vue CLI Plugins
 
