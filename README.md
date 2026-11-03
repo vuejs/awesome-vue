@@ -1188,6 +1188,7 @@ _Display non-editable events in a Calendar_
 - [vuehex](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 - [icon-picker](https://github.com/noeGnh/icon-picker) component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).
 - [custom-highlight](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
+- [allratestoday-widget](https://github.com/AllRates-Today/allratestoday-widget) - Currency converter and official central-bank exchange rate components for Vue 3. No API key needed.
 
 #### Tabs
 
