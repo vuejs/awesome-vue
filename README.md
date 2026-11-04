@@ -581,6 +581,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [vixl](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
 - [Oxynote](https://github.com/oxynote/oxynote) - Self-hosted collaborative documentation built with Nuxt 4, Tiptap and Yjs: live Prometheus charts as editor blocks, draft reviews with visual diffs, and an Electron desktop build.
 - [EdgeChat](https://github.com/aozorae/Edgechat) - Open-source team chat built with Vue 3, Vite, and Cloudflare Workers, with group and direct messages, Telegram bridging, file sharing, and WebRTC voice calls.
+- [Synaplan](https://github.com/metadist/synaplan) - Self-hosted AI workspace with multi-provider chat, RAG document search, long-term memory, MCP server, and embeddable chat widgets. Built with Vue 3, TypeScript, Pinia, Vite, and Tailwind CSS.
 
 ### Commercial Products
 
