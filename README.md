@@ -1548,6 +1548,7 @@ _LocalStorage etc._
 - [@tauri-store/pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 - [pinia-plugin-unstorage](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 - [@erlihs/pinia-plugin-storage](https://github.com/erlihs/pinia-plugin-storage) - A comprehensive state persistence and synchronization, yet as simple as it can be.
+- [pinia-logger](https://github.com/cwdx/pinia-logger) - Logs Pinia actions and Pinia Colada queries and mutations to the browser console.
 
 ##### Authentication/Authorization
 
