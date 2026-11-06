@@ -1582,6 +1582,7 @@ _Utilities for building / compiling / bundling / loading assets_
 - [vue-jsx-hot-loader](https://github.com/skyrpex/vue-jsx-hot-loader) - Enable HMR for Vue.js components with JSX render functions.
 - [vite-svg-loader](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 - [vite-plugin-svg-sfc](https://github.com/Kaciras/vite-plugin-svg-sfc) Vite plugin to load SVG file as vue SFC, supports HMR & <style> block.
+- [easy-vue](https://github.com/easy30/easy-vue) - Node-free Vue 3 SFC compiler in a single native binary: compiles `.vue`/`.ts` to browser-ready ESM and can be driven over HTTP from any backend (no node_modules, no bundler).
 
 #### Page Navigation
 
