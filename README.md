@@ -603,6 +603,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
 - [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
 - [Beekeeper Studio](https://www.beekeeperstudio.io) - Cross-platform SQL editor and database client built with Vue.js and Electron, with a free open-source Community Edition.
+- [RevoGrid Kanban](https://pro.rv-grid.com/guides/kanban/) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+- [RevoGrid Scheduler](https://pro.rv-grid.com/guides/event-scheduler/introduction/) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 
 ### Apps/Websites
@@ -983,6 +985,8 @@ _Tables / data grids_
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 - [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 - [vtable-guild](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
+- [RevoGrid Pivot](https://pro.rv-grid.com/guides/pivot/) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+- [RevoGrid Gantt](https://pro.rv-grid.com/guides/gantt/) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 #### Notification
 
@@ -1075,6 +1079,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 60+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 - [vue-speedometer](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
 - [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
+- [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial).
 
 #### Time
 
