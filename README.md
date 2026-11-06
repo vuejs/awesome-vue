@@ -603,8 +603,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Litlyx](https://litlyx.com) - AI-powered web analytics platform. Open-source alternative to Google Analytics 4 and Mixpanel.
 - [Fynk](https://fynk.com) - Contract creation, signing, and management platform.
 - [Beekeeper Studio](https://www.beekeeperstudio.io) - Cross-platform SQL editor and database client built with Vue.js and Electron, with a free open-source Community Edition.
-- [RevoGrid Kanban](https://pro.rv-grid.com/guides/kanban/) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial).
-- [RevoGrid Scheduler](https://pro.rv-grid.com/guides/event-scheduler/introduction/) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+- [RevoGrid Kanban](https://github.com/revolist/kanban) - Kanban boards for organizing work into columns and moving cards between them. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/kanban/).
+- [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Event and resource scheduling with calendar and timeline views. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/event-scheduler/introduction/).
 
 
 ### Apps/Websites
@@ -892,7 +892,7 @@ _Set of components without layout system_
 - [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 - [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 - [@todovue/tv-ui](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
-- [Revo UI](https://ui.rv-grid.com/frameworks/vue/) - MIT-licensed UI components for building reports and dashboards in Vue, including form controls, pickers, and dialogs.
+- [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed UI components for building reports and dashboards in Vue, including form controls, pickers, and dialogs. [Docs](https://ui.rv-grid.com/frameworks/vue/).
 
 #### Admin Template
 
@@ -985,8 +985,8 @@ _Tables / data grids_
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 - [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 - [vtable-guild](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
-- [RevoGrid Pivot](https://pro.rv-grid.com/guides/pivot/) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial).
-- [RevoGrid Gantt](https://pro.rv-grid.com/guides/gantt/) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables with grouping, aggregation, subtotals, and grand totals. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/pivot/).
+- [RevoGrid Gantt](https://github.com/revolist/gantt) - Gantt charts for project tasks, dependencies, and timelines. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/gantt/).
 
 #### Notification
 
