@@ -890,6 +890,7 @@ _Set of components without layout system_
 - [TW Elemetns for Vue](https://tw-elements.com/docs/standard/integrations/vue-integration/) - Vue integration with Tailwind CSS - a free, open-source UI Kit
 - [Origin UI Vue](https://originui-vue.pages.dev/) - Beautiful UI components built with Tailwind CSS and Vue
 - [@todovue/tv-ui](https://github.com/TODOvue/tv-ui) - A customizable, accessibility-first UI component library for Vue 3. [Docs](https://ui.todovue.blog/)
+- [Revo UI](https://ui.rv-grid.com/frameworks/vue/) - MIT-licensed UI components for building reports and dashboards in Vue, including form controls, pickers, and dialogs.
 
 #### Admin Template
 
