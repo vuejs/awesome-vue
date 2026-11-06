@@ -1079,7 +1079,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-data-ui](https://github.com/graphieros/vue-data-ui) - Vue 3 chart library with 60+ components. Official site: [https://vue-data-ui.graphieros.com/](https://vue-data-ui.graphieros.com/)
 - [vue-speedometer](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
 - [TradeCanvas](https://github.com/bonguynvan/tradecanvas) - Vue 3 component for trading charts: candlesticks to Renko, 111 indicators, drawing tools and live exchange feeds.
-- [RevoGrid Charts](https://pro.rv-grid.com/guides/charts/) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial).
+- [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with zoom, annotations, and export. Commercial, with a [30-day trial](https://rv-grid.com/trial). [Docs](https://pro.rv-grid.com/guides/charts/).
 
 #### Time
 
