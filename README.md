@@ -755,6 +755,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [JsonToolBox](https://jsontoolbox.cc) - Open-source, browser-based JSON toolkit for formatting, validating, minifying, viewing, comparing, and converting JSON. Built with Nuxt and Vue.
 - [Obolus](https://obolus.at) - Austrian salary and payroll calculators with a sourced tax glossary. Built with Nuxt and Vue 3.
 - [Remove Audio Tools](https://remove-audio.com/tools) - Over 30 free browser tools for video and audio (convert, compress, extract MP3, make GIFs, separate voice and music with AI) that process files on the device with FFmpeg.wasm and WebGPU. Built with Nuxt and Vue.
+- [Snippet Editor](https://snippeteditor.com/) - Free code screenshot maker. Paste code, pick a theme, font, background and window style, and export a PNG. Built with Vue 3, Vite and CodeMirror 6.
 
 ### Interactive Experiences
 
