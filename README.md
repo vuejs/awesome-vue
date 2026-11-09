@@ -1188,6 +1188,7 @@ _Display non-editable events in a Calendar_
 - [vuehex](https://github.com/vvollers/vuehex) - Fast, virtualized hex viewer and editor for Vue 3. View and edit binary data. [Demo](https://vvollers.github.io/vuehex/demo/)
 - [icon-picker](https://github.com/noeGnh/icon-picker) component libraries for Vue 3 and React, both searching icons live from Iconify (150+ icon sets, 200,000+ icons).
 - [custom-highlight](https://github.com/roydukkey/custom-highlight) - A Vue directive for styling arbitrary text within elements using the CSS Custom Highlight API. [Docs](https://custom-highlight.pages.dev/)
+- [@brftech/filex-core](https://github.com/BRF-Tech/filex) - File manager component: browse, upload, preview and share files on local, S3, SFTP, WebDAV, FTP and SMB storage; also available as a web component and a React wrapper.
 
 #### Tabs
 
