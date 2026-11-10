@@ -1349,6 +1349,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 #### Responsive Design
 
 - [vue-responsive](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
+- [fold.js](https://github.com/christophe77/fold.js) - Foldable phone support for Vue 3 (`@foldjs/vue`): detect the hinge and posture, build two-pane layouts, test with a built-in simulator.
 
 #### Form
 
