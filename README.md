@@ -1524,6 +1524,8 @@ _Internationalization / L10n / localization / translation_
 
 _LocalStorage etc._
 
+- [vue-smart-state](https://github.com/LuigiDavideMicca/vue-smart-state) - Type-safe useState for Vue 3 persisted to localStorage, sessionStorage or cookies, with cross-tab sync, TTL, versioned migrations, schema validation and SSR-safe hydration.
+
 
 #### State Management
 
