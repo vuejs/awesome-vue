@@ -982,6 +982,7 @@ _Tables / data grids_
 - [gp-grid](https://www.gp-grid.io) - TypeScript Vue3 data grid featuring slot-based virtual scrolling, no features paywalls, and zero runtime dependencies. 
 - [TinyPivot](https://tiny-pivot.com) - Lightweight Vue 3 data grid with pivot tables, charts, CSV/Excel export, and an optional AI data analyst.
 - [vtable-guild](https://github.com/parade0393/vtable-guild) - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
+- [Simple Table](https://github.com/petera2c/simple-table) - MIT licensed Vue 3 data grid with sorting, filtering, pinning and virtualization.
 
 #### Notification
 
