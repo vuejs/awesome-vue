@@ -1435,6 +1435,7 @@ _Detect when components enter viewport_
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
 - [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+- [svg-scroll-draw](https://svg-scroll-draw.vercel.app/vue-scroll-animation) Vue components and composables that draw SVG paths, reveal content and split text on scroll, using native CSS scroll timelines where supported
 
 #### Meta Tags
 
