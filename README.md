@@ -1456,6 +1456,7 @@ _Move a DOM node to a target DOM node_
 - [lucide-motion-vue](https://github.com/respeak-io/lucide-motion-vue) - 516 animated Lucide icons for Vue 3 with ergonomic hover/tap/viewport triggers and a composable `<AnimateIcon>` wrapper. Tree-shakable, one chunk per icon, TypeScript-first. (vue 3.x)
 - [GeoIcons](https://geoicons.io) - Geographic map icons for every country, territory, and world region, as tree-shakable Vue 3 components.
 - [tronche](https://github.com/rootasjey/tronche) - Generate unique SVG avatars from any username and color palette. 6 visual styles, Vue/Nuxt/React components and REST API.
+- [Kineticons](https://github.com/fabwaseem/kineticons/tree/main/packages/vue) - 2,000+ icons in outline, duotone and filled, each with its own CSS motion on hover or focus. (vue 3.x)
 
 #### Miscellaneous
 
