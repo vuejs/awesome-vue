@@ -1033,6 +1033,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vuejs-confirm-dialog](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 - [@kolirt/vue-modal](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
 - [vuetify-resize-drawer](https://github.com/webdevnerdstuff/vuetify-resize-drawer) - The vuetify-resize-drawer component extends the functionality of the v-navigation-drawer so that it is resizable by the user.
+- [vue-layerx](https://github.com/xuyimingwork/vue-layerx) - Open existing dialog / drawer components (Element Plus, Ant Design Vue, Vuetify, etc.) imperatively with Promise results, and reuse their content as ordinary components. Vue 2.7 & 3.
 
 #### Marquee
 
