@@ -1595,6 +1595,7 @@ _Utilities for building / compiling / bundling / loading assets_
 
 #### Web Sockets
 
+- [chanx-js](https://github.com/chanx-dev/chanx-js) - Typed WebSocket composables (`useChannel`, `useTopic`) generated from a chanx server's AsyncAPI document, with reconnects and topic subscriptions.
 
 #### Payment
 
