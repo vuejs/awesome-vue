@@ -1,0 +1,96 @@
+import Vue from 'vue';
+import Router from 'vue-router';
+import Login from '../components/Login.vue';
+import Dashboard from '../components/Dashboard.vue';
+
+Vue.use(Router);
+
+const routes = [
+  { path: '/', component: Login },
+  { path: '/dashboard', component: Dashboard },
+];
+
+const router = new Router({
+  mode: 'history',
+  routes,
+});
+
+export default router;
+
+<template>
+  <div class="login">
+    <h2>Login</h2>
+    <form @submit.prevent="login">
+      <input type="text" v-model="username" placeholder="Username" required />
+      <input type="password" v-model="password" placeholder="Password" required />
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      username: '',
+      password: '',
+    };
+  },
+  methods: {
+    login() {
+      // Add login logic here (e.g., API call)
+      this.$router.push('/dashboard');
+    },
+  },
+};
+</script>
+
+<style scoped>
+/* Add your styles here */
+</style>
+
+<template>
+  <div class="dashboard">
+    <h2>Cyber Security Dashboard</h2>
+    <DataChart :data="securityData" />
+    <AlertList :alerts="alerts" />
+  </div>
+</template>
+
+<script>
+import DataChart from './DataChart.vue';
+import AlertList from './AlertList.vue';
+
+export default {
+  components: { DataChart, AlertList },
+  data() {
+    return {
+      securityData: [], // Fetch this data from API
+      alerts: [], // Fetch alerts from API
+    };
+  },
+  mounted() {
+    this.fetchData();
+  },
+  methods: {
+    fetchData() {
+      // Fetch security data and alerts from the backend
+    },
+  },
+};
+</script>
+
+<style scoped>
+/* Add your styles here */
+</style>
+
+<template>
+  <div>
+    <canvas id="securityChart"></canvas>
+  </div>
+</template>
+
+<script>
+import { Chart } from 'chart.js';
+
+export
