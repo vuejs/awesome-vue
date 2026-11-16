@@ -414,7 +414,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
 - [**easy-vue**](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
-- [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
 - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
 - [vue-xplan](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
 - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
@@ -1067,7 +1066,6 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs) - Vue.js wrapper for Chart.js.
 - [vue-chartkick](https://github.com/ankane/vue-chartkick) - Create beautiful JavaScript charts with one line of Vue
 - [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js).
-- [vue-css-donut-chart](https://github.com/dumptyd/vue-css-donut-chart) - Lightweight Vue component for drawing pure CSS donut charts.
 - [ZingChart-Vue](https://github.com/zingchart/zingchart-vue) - Vue component made by ZingChart with 35+ chart types.
 - [flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & Flowchart designer component for Vue.js.
 - [vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
@@ -1168,8 +1166,6 @@ _Display non-editable events in a Calendar_
 
 - [vue-kanban](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
 - [v-offline](https://github.com/vinayakkulkarni/v-offline) - Simple, tiny and easy to use detection of offline & online events for your Vue app (less than 390b minified)
-- [vue-connection-listener](https://github.com/Botre/vue-connection-listener) - Vue event bus plugin listening for online/offline changes.
-- [vue-prom](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
 - [vue-identify-network](https://github.com/vinayakkulkarni/vue-identify-network) - ⚡️Identify what kinda internet your users are using!
 - [vue-command](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 - [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
@@ -1353,7 +1349,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 #### Form
 
 - [Form Builder](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
-- [vue-autofocus-directive](https://github.com/Botre/vue-autofocus-directive) - Vue autofocus directive.
 - [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [jsonschema-editor](https://github.com/eumicro/jsonschema-editor) - JSON Schema and UI Schema form editor for Vue 3, with fillable forms, nested structures, and oneOf type selection.
 - [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
@@ -1414,7 +1409,6 @@ _Detect when components enter viewport_
 - [vue-paginate-al](https://github.com/alziqziq/vue-paginate-al) - Vue paginate with return your data.
 - [vue-tiny-pagination](https://github.com/coderdiaz/vue-tiny-pagination) - A Vue component for create a tiny pagination.
 - [laravel-vue-pagination](https://github.com/gilbitron/laravel-vue-pagination) - A Vue.js pagination component for Laravel paginators that works with Bootstrap.
-- [vue-lpage](https://github.com/Botre/vue-lpage) - Low-level Vue pagination component.
 - [v-page](https://github.com/TerryZ/v-page) - A simple pagination bar, including length Menu, i18n support, based on Vue2.x.
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 - [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
