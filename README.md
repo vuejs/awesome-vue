@@ -581,6 +581,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [vixl](https://github.com/vixl-ai/vixl) - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
 - [Oxynote](https://github.com/oxynote/oxynote) - Self-hosted collaborative documentation built with Nuxt 4, Tiptap and Yjs: live Prometheus charts as editor blocks, draft reviews with visual diffs, and an Electron desktop build.
 - [EdgeChat](https://github.com/aozorae/Edgechat) - Open-source team chat built with Vue 3, Vite, and Cloudflare Workers, with group and direct messages, Telegram bridging, file sharing, and WebRTC voice calls.
+- [OpenPencil](https://github.com/open-pencil/open-pencil) - Open-source design editor built with Vue 3, CanvasKit, and Tauri v2 for desktop and the browser. Opens and saves .fig files, opens .pen files, and includes an AI assistant, MCP server, CLI, real-time collaboration, auto layout, variables, and code export to Vue, React, HTML, and Tailwind.
 
 ### Commercial Products
 
