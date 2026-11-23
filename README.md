@@ -1254,7 +1254,7 @@ _Let the user select a tag / something while typing_
 
 ##### Color Picker
 
-- [ew-color-picker](https://github.com/eveningwater/ew-color-picker) - Event-driven, plugin-based color picker with full color conversion (RGB / HSV / HSL / HEX / CMYK / LAB / XYZ), gradient editor, eyedropper, copy-to-clipboard and Vue / React / Web Components adapters.
+- [ew-color-picker](https://github.com/eveningwater/ew-color-picker/tree/master/packages/vue) - Vue 3 wrapper for a plugin-based TypeScript color picker: `v-model`, typed props, gradient editing, eyedropper and mobile panel size presets.
 - [radial-color-picker](https://github.com/radial-color-picker/vue-color-picker) - Minimalistic color picker with a focus on size, accessibility and performance.
 - [vue-color-input](https://github.com/gVguy/vue-color-input) – Vue 3 color picker component whose goal is to replace `<input type="color">`
 - [vuetify-color-field](https://github.com/webdevnerdstuff/vuetify-color-field) - Vuetify Color Field is a Vuetify VTextField Color Picker Component
