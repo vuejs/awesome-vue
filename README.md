@@ -189,6 +189,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [State of Vue Report](https://www.monterail.com/stateofvue?utm_source=Github&utm_medium=awesomevue) - The 5th edition of the most comprehensive Vue publication. Co-created with Evan You, the Vue & Nuxt Core Teams
 - [TODOvue Blog](https://github.com/TODOvue/todo-vue) - Guides and tutorials on creating modern components with Vue.js. [Website](https://todovue.blog/)
 - [FrontendAtlas Vue Interview Questions](https://frontendatlas.com/vue/interview-questions) - Vue interview questions with explained answers and runnable examples; free to read, some coding exercises are paid.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ### Newsletters
 
@@ -642,7 +643,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 - [Power Thesaurus](https://www.powerthesaurus.org) - A crowdsourced online thesaurus
 - [PAIXIN](https://www.paixin.com/) - A genuine picture sale website
-- [1XBET](https://1xbet.com) - A betting company operating since 2007
+
 - [CrowdCircus](https://crowdcircus.com) - Europe’s biggest crowdfunding- and crowdinvesting-aggregator
 - [PingBreak](https://pingbreak.com) - A free and simple website monitoring service using vuejs for real-time dashboard
 - [Todoist Tribute](https://github.com/rohitpaulk/todoist-tribute/) - Todoist clone, written in Rails + Vue
@@ -667,7 +668,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 - [sunpos](https://sunpos.ru) - Sun position, elevation, azimuth, ecliptic/equatorial coordinates and sunrise/sunset time (Julian day) calculation and conversion utilities. Web site is programmed using pure JS, Vuejs and i18n Vuejs localization plugin. Visualization is created using D3.js.
 - [27.ua](https://27.ua) - Ukraine-based internet hypermarket
 - [Chess Guardian](https://vitomd.com/vue-chess-guardian/) - Answer chess positional questions from your own games.
-- [Blackjack Break](https://blackjackbreak.com) - A quick game of blackjack
+
 - [VivifyScrum](https://app.vivifyscrum.com) - Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 - [9GAG](https://9gag.com) - Popular online platform and social media website
 - [Kitchen Stories](https://kitchenstories.io) - Cooking platform
